@@ -3,8 +3,10 @@ github_username: UMDOER
 minimal_mistakes_skin: default
 search: true
 
+---
 sidebar:
   nav: "docs"
+---
   
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
