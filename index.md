@@ -8,7 +8,7 @@ After taking this course you should understand current theories and debates that
 
 ### Contents:
 
-1. [Introduction, Methods, and History](pages/intromethods.md)
+1. [Introduction, Methods, and History](/_pages/intromethods.md)
 2. [Sensation and Perception](sensation-perception.md)
 3. [Mental Imagery](mentalimagery.md)
 4. [Attention and Conciousness](attention-consciousness.md)
