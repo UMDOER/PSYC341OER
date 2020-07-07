@@ -2,4 +2,4 @@ docs:
   - title: Contents
     children:
       - title: Introduction, Methods, and History
-        url: intromethods.md
+        url: /_pages/intromethods/
