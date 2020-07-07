@@ -1,3 +1,5 @@
 docs:
-  - title: Introduction and Methods
-    url: https://umdoer.github.io/PSYC341/intromethods.html
+  - title: Contents
+    children:
+      - title: Introduction, Methods, and History
+        url: intromethods.md
