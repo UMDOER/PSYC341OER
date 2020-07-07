@@ -1,5 +1,7 @@
 docs:
   - title: Contents
     children:
-      - title: Introduction, Methods, and History
+      - title: "Introduction, Methods, and History"
         url: /_pages/intromethods/
+      - title: "Quick-Start Guide"
+        url: /pages/sensation-perception/
