@@ -22,6 +22,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-titles-from-headings
+  
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
   
 defaults:  
   # _pages
@@ -31,4 +37,5 @@ defaults:
     values:
       layout: single
       author_profile: false
+      strip_title: true
 
