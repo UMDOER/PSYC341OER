@@ -9,16 +9,16 @@ After taking this course you should understand current theories and debates that
 ### Contents:
 
 1. [Introduction, Methods, and History](/_pages/intromethods.md)
-2. [Sensation and Perception](sensation-perception.md)
-3. [Mental Imagery](mentalimagery.md)
-4. [Attention and Conciousness](attention-consciousness.md)
-5. [Memory](memory.md)
-6. [Learning and Expertise](learning-expertise.md)
-7. [Metacognition](metacognition.md)
-8. [Language](language.md)
-9. [Decision Making](decisionmaking.md)
-10. [Problem Solving and Creativity](problemsolving-creativity.md)
-11. [Cognitive Development and Aging](cogdev-aging.md)
-12. [Emotion](emotion.md)
+2. [Sensation and Perception](/_pages/sensation-perception.md)
+3. [Mental Imagery](/_pages/mentalimagery.md)
+4. [Attention and Conciousness](/_pages/attention-consciousness.md)
+5. [Memory](/_pages/memory.md)
+6. [Learning and Expertise](/_pages/learning-expertise.md)
+7. [Metacognition](/_pages/metacognition.md)
+8. [Language](/_pages/language.md)
+9. [Decision Making](/_pages/decisionmaking.md)
+10. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
+11. [Cognitive Development and Aging](/_pages/cogdev-aging.md)
+12. [Emotion](/_pages/emotion.md)
 
 
