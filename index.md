@@ -9,7 +9,7 @@ How are we so good at recognizing faces and objects? How do we selectively atten
 
 After taking this course you should understand current theories and debates that motivate research in cognitive psychology, understand which research methods are appropriate to address different questions in the field, and have an improved ability to understand and discuss this knowledge through class participation and assignments. We hope to do this in a way that allows you to see the relevance of cognitive psychological research and theories to your own lives. 
 
-## Contents:
+# Contents:
 
 1. [Introduction, Methods, and History](/_pages/intromethods.md)
 2. [Sensation and Perception](/_pages/sensation-perception.md)
