@@ -1,5 +1,4 @@
 ---
-title: PSYC341: Introduction to Memory and Cognition
 layout: single
 sidebar:
   nav: "docs"
