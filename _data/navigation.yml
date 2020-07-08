@@ -1,5 +1,5 @@
 docs:
-    title: Contents
+    - title: Contents
     children:
         - title: Introduction and Methods
         url: https://umdoer.github.io/PSYC341/intromethods.html
