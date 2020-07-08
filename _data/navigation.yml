@@ -1,1 +1,27 @@
-
+docs:
+  - title: Contents
+    children:
+    - title: Introduction and Methods
+      url: https://umdoer.github.io/PSYC341/intromethods.html
+    - title: Sensation and Perception
+      url: https://umdoer.github.io/PSYC341/sensation-perception.html
+    - title: Mental Imagery
+      url: https://umdoer.github.io/PSYC341/mentalimagery.html
+    - title: Attention and Consciousness
+      url: https://umdoer.github.io/PSYC341/attention-consciousness.html
+    - title: Memory
+      url: https://umdoer.github.io/PSYC341/memory.html
+    - title: Learning and Expertise
+      url: https://umdoer.github.io/PSYC341/learning-expertise.html
+    - title: Metacognition
+      url: https://umdoer.github.io/PSYC341/metacognition.html
+    - title: Language
+      url: https://umdoer.github.io/PSYC341/language.html
+    - title: Decision Making
+      url: https://umdoer.github.io/PSYC341/decisionmaking.html
+    - title: Problem Solving and Creativity
+      url: https://umdoer.github.io/PSYC341/problemsolving-creativity.html
+    - title: Cognitive Development and Aging
+      url: https://umdoer.github.io/PSYC341/cogdev-aging.html
+    - title: Emotion
+      url: https://umdoer.github.io/PSYC341/emotion.html
