@@ -1,27 +1,27 @@
 docs:
-    - title: Contents
+  - title: Contents
     children:
-        - title: Introduction and Methods
-        url: https://umdoer.github.io/PSYC341OER/intromethods.html
-        - title: Sensation and Perception
-        url: https://umdoer.github.io/PSYC341OER/sensation-perception.html
-        - title: Mental Imagery
-        url: https://umdoer.github.io/PSYC341OER/mentalimagery.html
-        - title: Attention and Consciousness
-        url: https://umdoer.github.io/PSYC341OER/attention-consciousness.html
-        - title: Memory
-        url: https://umdoer.github.io/PSYC341OER/memory.html
-        - title: Learning and Expertise
-        url: https://umdoer.github.io/PSYC341OER/learning-expertise.html
-        - title: Metacognition
-        url: https://umdoer.github.io/PSYC341OER/metacognition.html
-        - title: Language
-        url: https://umdoer.github.io/PSYC341OER/language.html
-        - title: Decision Making
-        url: https://umdoer.github.io/PSYC341OER/decisionmaking.html
-        - title: Problem Solving and Creativity
-        url: https://umdoer.github.io/PSYC341OER/problemsolving-creativity.html
-        - title: Cognitive Development and Aging
-        url: https://umdoer.github.io/PSYC341OER/cogdev-aging.html
-        - title: Emotion
-        url: https://umdoer.github.io/PSYC341OER/emotion.html
+      - title: Introduction and Methods
+      url: https://umdoer.github.io/PSYC341OER/intromethods.html
+      - title: Sensation and Perception
+      url: https://umdoer.github.io/PSYC341OER/sensation-perception.html
+      - title: Mental Imagery
+      url: https://umdoer.github.io/PSYC341OER/mentalimagery.html
+      - title: Attention and Consciousness
+      url: https://umdoer.github.io/PSYC341OER/attention-consciousness.html
+      - title: Memory
+      url: https://umdoer.github.io/PSYC341OER/memory.html
+      - title: Learning and Expertise
+      url: https://umdoer.github.io/PSYC341OER/learning-expertise.html
+      - title: Metacognition
+      url: https://umdoer.github.io/PSYC341OER/metacognition.html
+      - title: Language
+      url: https://umdoer.github.io/PSYC341OER/language.html
+      - title: Decision Making
+      url: https://umdoer.github.io/PSYC341OER/decisionmaking.html
+      - title: Problem Solving and Creativity
+      url: https://umdoer.github.io/PSYC341OER/problemsolving-creativity.html
+      - title: Cognitive Development and Aging
+      url: https://umdoer.github.io/PSYC341OER/cogdev-aging.html
+      - title: Emotion
+      url: https://umdoer.github.io/PSYC341OER/emotion.html
