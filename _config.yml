@@ -6,7 +6,8 @@ search: true
 toc: true
 toc_label: "Contents"
 
-sidebar:
+defaults:
+  sidebar: true
   nav: "docs"
   
 markdown: kramdown
