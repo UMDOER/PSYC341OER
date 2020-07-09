@@ -13,16 +13,56 @@ After taking this course you should understand current theories and debates that
 ### Contents:
 
 1. [Introduction, Methods, and History](/_pages/intromethods.md)
+    * What is Cognitive Psychology?
+    * Methods
+    * History
 2. [Sensation and Perception](/_pages/sensation-perception.md)
+    * Vision
+    * Hearing
+    * Mechanosensory Systems
+    * Chemosensory Modalities
+    * Motor Systems
 3. [Mental Imagery](/_pages/mentalimagery.md)
-4. [Attention and Conciousness](/_pages/attention-consciousness.md)
+    * Visual Imagery
+    * Auditory Imagery
+    * Cognitive Maps
+4. [Attention and Consciousness](/_pages/attention-consciousness.md)
+    * Attention Processes
+    * Visual Attention
+    * Auditory Attention
+    * States of Consciousness
 5. [Memory](/_pages/memory.md)
+    * Working Memory
+    * Long-term Memory
 6. [Learning and Expertise](/_pages/learning-expertise.md)
+    * Priming and Conditioning
+    * State-dependent Learning
+    * How to Study
+    * Expertise
 7. [Metacognition](/_pages/metacognition.md)
+    * Metamemory
+    * Metacomprehension
 8. [Language](/_pages/language.md)
+    * Theories of Language
+    * Language Acquisition
+    * Production
+    * Comprehension
+    * Bilingualism
 9. [Decision Making](/_pages/decisionmaking.md)
+    * Deductive Reasoning
+    * Heuristics in Decision Making
+    * Motivation: The Reward System
 10. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
+    * Problem Solving Strategies
+    * Factors that Influence Problem Solving
+    * Creativity and Plasticity
 11. [Cognitive Development and Aging](/_pages/cogdev-aging.md)
+    * Early Development
+    * Development of Memory
+    * Development of Language
+    * Aging
 12. [Emotion](/_pages/emotion.md)
-
+    * Classifications of Emotions
+    * Mood
+    * Interactions with Other Cognitive Functions
 
