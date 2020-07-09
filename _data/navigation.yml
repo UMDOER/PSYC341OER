@@ -51,3 +51,25 @@ intronav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#introduction-methods-and-history
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+ senpernav:
+  - title: Sensation and Perception
+    children:
+      - title: Vision
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vision.html
+      - title: Hearing
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/hearing.html
+      - title: Mechanosensory Systems
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/mechanosensory.html
+      - title: Chemosensory Modalities
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/chemosensory.html
+      - title: Motor Systems
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/motor.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#sensation-and-perception
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
