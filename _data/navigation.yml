@@ -52,7 +52,7 @@ intronav:
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
- senpernav:
+senpernav:
   - title: Sensation and Perception
     children:
       - title: Vision
