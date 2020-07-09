@@ -43,3 +43,11 @@ intronav:
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/methods.html
       - title: History
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/history.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
