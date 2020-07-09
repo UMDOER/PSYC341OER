@@ -25,6 +25,14 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
       - title: Emotion
         url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 intronav:
   - title: Introduction, Methods, and History
