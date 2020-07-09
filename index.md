@@ -13,19 +13,19 @@ After taking this course you should understand current theories and debates that
 ### Contents:
 
 1. [Introduction, Methods, and History](/_pages/intromethods.md)
-    * What is Cognitive Psychology?
-    * Methods
-    * History
+    * [What is Cognitive Psychology?](/_pages/intro-methods/introduction.md)
+    * [Methods](/_pages/intro-methods/methods.md)
+    * [History](/_pages/intro-methods/history.md)
 2. [Sensation and Perception](/_pages/sensation-perception.md)
-    * Vision
-    * Hearing
-    * Mechanosensory Systems
-    * Chemosensory Modalities
-    * Motor Systems
+    * [Vision](/_pages/sensation-perception/vision.md)
+    * [Hearing](/_pages/sensation-perception/hearing.md)
+    * [Mechanosensory Systems](/_pages/sensation-perception/mechanosensory.md)
+    * [Chemosensory Modalities](/_pages/sensation-perception/chemosensory.md)
+    * [Motor Systems](/_pages/sensation-perception/motor.md)
 3. [Mental Imagery](/_pages/mentalimagery.md)
-    * Visual Imagery
-    * Auditory Imagery
-    * Cognitive Maps
+    * [Visual Imagery](/_pages/mental-imagery/visualimg.md)
+    * [Auditory Imagery](/_pages/mental-imagery/auditoryimg.md)
+    * [Cognitive Maps](/_pages/mental-imagery/cogmaps.md)
 4. [Attention and Consciousness](/_pages/attention-consciousness.md)
     * Attention Processes
     * Visual Attention
