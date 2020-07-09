@@ -2,7 +2,7 @@ docs:
   - title: Contents
     children:
       - title: Introduction, Methods, and History
-        url: https://umdoer.github.io/PSYC341OER/_pages/intromethods.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Mental Imagery
