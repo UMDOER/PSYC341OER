@@ -1,4 +1,6 @@
 docs:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
   - title: Contents
     children:
       - title: Introduction, Methods, and History
