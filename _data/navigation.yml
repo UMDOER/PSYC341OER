@@ -1,7 +1,7 @@
 docs:
   - title: Contents
     children:
-      - title: Introduction and Methods
+      - title: Introduction, Methods, and History
         url: https://umdoer.github.io/PSYC341OER/_pages/intromethods.html
       - title: Sensation and Perception
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
@@ -25,3 +25,13 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
       - title: Emotion
         url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
+        
+intronav:
+  - title: Introduction, Methods, and History
+    children:
+      - title: Introduction to Cognitive Psychology
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
+      - title: Research Methods
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/methods.html
+      - title: History
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/history.html
