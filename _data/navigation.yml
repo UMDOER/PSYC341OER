@@ -73,3 +73,21 @@ senpernav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+mentalimgnav:
+  - title: Mental Imagery
+    children:
+      - title: Visual Imagery
+        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/visualimg.html
+      - title: Auditory Imagery
+        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/auditoryimg.html
+      - title: Cognitive Maps
+        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/cogmaps.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#mental-imagery
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#mental-imagery
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
