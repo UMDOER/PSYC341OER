@@ -1,3 +1,8 @@
+---
+layout: single
+sidebar:
+  nav: "docs"
+---
 # List of Relevant Studies
 
 ## Introduction, Methods, and History
