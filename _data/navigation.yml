@@ -1,6 +1,4 @@
 docs:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
   - title: Contents
     url: https://umdoer.github.io/PSYC341OER/#contents
     children:
@@ -38,6 +36,8 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 intronav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
   - title: Introduction, Methods, and History
     children:
       - title: Introduction to Cognitive Psychology
@@ -56,6 +56,8 @@ intronav:
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 senpernav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
   - title: Sensation and Perception
     children:
       - title: Vision
@@ -78,6 +80,8 @@ senpernav:
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 mentalimgnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
   - title: Mental Imagery
     children:
       - title: Visual Imagery
