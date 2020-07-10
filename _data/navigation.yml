@@ -101,3 +101,27 @@ mentalimgnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#mental-imagery
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+attconnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Attention and Consciousness
+    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
+    children:
+      - title: Attention Processes
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
+      - title: Visual Attention
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/visualattention.html
+      - title: Auditory Attention
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/auditoryattention.html
+      - title: States of Consciousness
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/statesofconsciousness.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#attention-and-consciousness
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#attention-and-consciousness
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
