@@ -32,8 +32,8 @@ After taking this course you should understand current theories and debates that
     * [Auditory Attention](/_pages/attention-consciousness/auditoryattention.md)
     * [States of Consciousness](/_pages/attention-consciousness/statesofconsciousness.md)
 5. [Memory](/_pages/memory.md)
-    * Working Memory
-    * Long-term Memory
+    * [Working Memory](/_pages/memory/workingmem.html)
+    * [Long-term Memory](/_pages/memory/longtermmem.html)
 6. [Learning and Expertise](/_pages/learning-expertise.md)
     * Priming and Conditioning
     * State-dependent Learning
