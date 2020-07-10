@@ -185,3 +185,28 @@ metacognav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#metacognition
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+langnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Language
+    url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+    children:
+      - title: Theories of Language
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/theoriesoflang.html
+      - title: Language Acquisition
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/langacq.html
+      - title: Production
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/production.html
+      - title: Comprehension
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/comprehension.html
+      - title: Bilingualism
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/bilingualism.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#language
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#language
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
