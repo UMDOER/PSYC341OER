@@ -1,6 +1,6 @@
 ---
 layout: single
 sidebar:
-  nav: "docs"
+  nav: "probnav"
 ---
 # Creativity and Plasticity
