@@ -1,6 +1,6 @@
 ---
 layout: single
 sidebar:
-  nav: "docs"
+  nav: "probnav"
 ---
 # Factors That Influence Problem Solving
