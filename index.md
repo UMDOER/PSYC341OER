@@ -51,7 +51,7 @@ After taking this course you should understand current theories and debates that
 9. [Decision Making](/_pages/decisionmaking.md)
     * [Deductive Reasoning](/_pages/decisionmaking/deductivereasoning.md)
     * [Heuristics in Decision Making](/_pages/decisionmaking/heuristics.md)
-    * [Motivation: The Reward System](/_pages/decisionmaking/motivation.md)
+    * [Motivation and the Reward System](/_pages/decisionmaking/motivation.md)
 10. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
     * [Problem Solving Strategies](/_pages/problemsolving-creativity/strategies.md)
     * [Factors that Influence Problem Solving](/_pages/problemsolving-creativity/factors.md)
