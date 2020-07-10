@@ -3,4 +3,4 @@ layout: single
 sidebar:
   nav: "cogdevnav"
 ---
-# Language Development
+# Development of Language
