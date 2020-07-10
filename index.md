@@ -27,10 +27,10 @@ After taking this course you should understand current theories and debates that
     * [Auditory Imagery](/_pages/mental-imagery/auditoryimg.md)
     * [Cognitive Maps](/_pages/mental-imagery/cogmaps.md)
 4. [Attention and Consciousness](/_pages/attention-consciousness.md)
-    * Attention Processes
-    * Visual Attention
-    * Auditory Attention
-    * States of Consciousness
+    * [Attention Processes](/_pages/attention-consciousness/attentionprocesses.md)
+    * [Visual Attention](/_pages/attention-consciousness/visualattention.md)
+    * [Auditory Attention](/_pages/attention-consciousness/auditoryattention.md)
+    * [States of Consciousness](/_pages/attention-consciousness/statesofconsciousness.md)
 5. [Memory](/_pages/memory.md)
     * Working Memory
     * Long-term Memory
