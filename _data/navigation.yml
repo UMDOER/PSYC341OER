@@ -144,3 +144,25 @@ memorynav:
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
+learningnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Memory
+    url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise.html
+    children:
+      - title: Priming and Conditioning
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/priming.html
+      - title: State-dependent Learning
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/statedep.html
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: Expertise
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/learning-expertise/expertise.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#learning-and-expertise
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#learning-and-expertise
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
