@@ -252,3 +252,26 @@ probnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#problem-solving-and-creativity
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+cogdevnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Cognitive Development and Aging
+    url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
+    children:
+      - title: Early Development
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/earlydev.html
+      - title: Development of Memory
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/memorydev.html
+      - title: Development of Language
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/languagedev.html
+      - title: Aging
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#cognitive-development-and-aging
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#cognitive-development-and-aging
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
