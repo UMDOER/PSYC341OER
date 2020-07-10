@@ -221,7 +221,7 @@ decnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/deductivereasoning.html
       - title: Heuristics in Decision Making
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/heuristics.html
-      - title: Motivation: The Reward System
+      - title: Motivation and the Reward System
         url: https://umdoer.github.io/PSYC341OER/_pages/language/motivation.html
   - title: Resources
     children:
@@ -229,5 +229,26 @@ decnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#decision-making
       - title: Relevant Studies
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#decision-making
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+probnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Problem Solving and Creativity
+    url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+    children:
+      - title: Problem Solving Strategies
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/strategies.html
+      - title: Factors that Influence Problem Solving
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/factors.html
+      - title: Creativity and Plasticity
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#problem-solving-and-creativity
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#problem-solving-and-creativity
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
