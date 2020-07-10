@@ -210,3 +210,24 @@ langnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#language
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+
+decnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Decision Making
+    url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+    children:
+      - title: Deductive Reasoning
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/deductivereasoning.html
+      - title: Heuristics in Decision Making
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/heuristics.html
+      - title: Motivation: The Reward System
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/motivation.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#decision-making
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#decision-making
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
