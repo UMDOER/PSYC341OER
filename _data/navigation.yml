@@ -166,3 +166,22 @@ learningnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#learning-and-expertise
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+metacognav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Metacognition
+    url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
+    children:
+      - title: Metamemory
+        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition/metamemory.html
+      - title: Metacomprehension
+        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition/metacomprehension.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#metacognition
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#metacognition
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
