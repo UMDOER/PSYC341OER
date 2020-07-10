@@ -40,8 +40,8 @@ After taking this course you should understand current theories and debates that
     * [How to Study](/_pages/learning-expertise/howtostudy.md)
     * [Expertise](/_pages/learning-expertise/expertise.md)
 7. [Metacognition](/_pages/metacognition.md)
-    * Metamemory
-    * Metacomprehension
+    * [Metamemory](/_pages/metacognition/metamemory.md)
+    * [Metacomprehension](/_pages/metacognition/metacomprehension.md)
 8. [Language](/_pages/language.md)
     * Theories of Language
     * Language Acquisition
