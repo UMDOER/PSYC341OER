@@ -125,3 +125,22 @@ attconnav:
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
+memorynav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Memory
+    url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
+    children:
+      - title: Working Memory
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/workingmem.html
+      - title: Long-term Memory
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/longtermmem.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#memory
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#memory
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
