@@ -62,7 +62,7 @@ After taking this course you should understand current theories and debates that
     * [Development of Language](/_pages/cogdev-aging/languagedev.md)
     * [Aging](/_pages/cogdev-aging/aging.md)
 12. [Emotion](/_pages/emotion.md)
-    * Classifications of Emotions
-    * Mood
-    * Interactions with Other Cognitive Functions
+    * [Classifications of Emotions](/_pages/emotion/classifications.md)
+    * [Mood](/_pages/emotion/mood.md)
+    * [Interactions with Other Cognitive Functions](/_pages/emotion/interactions.md)
 
