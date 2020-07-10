@@ -35,10 +35,10 @@ After taking this course you should understand current theories and debates that
     * [Working Memory](/_pages/memory/workingmem.html)
     * [Long-term Memory](/_pages/memory/longtermmem.html)
 6. [Learning and Expertise](/_pages/learning-expertise.md)
-    * Priming and Conditioning
-    * State-dependent Learning
-    * How to Study
-    * Expertise
+    * [Priming and Conditioning](/_pages/learning-expertise/priming.md)
+    * [State-dependent Learning](/_pages/learning-expertise/statedep.md)
+    * [How to Study](/_pages/learning-expertise/howtostudy.md)
+    * [Expertise](/_pages/learning-expertise/expertise.md)
 7. [Metacognition](/_pages/metacognition.md)
     * Metamemory
     * Metacomprehension
