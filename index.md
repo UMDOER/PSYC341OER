@@ -57,10 +57,10 @@ After taking this course you should understand current theories and debates that
     * [Factors that Influence Problem Solving](/_pages/problemsolving-creativity/factors.md)
     * [Creativity and Plasticity](/_pages/problemsolving-creativity/creativity.md)
 11. [Cognitive Development and Aging](/_pages/cogdev-aging.md)
-    * Early Development
-    * Development of Memory
-    * Development of Language
-    * Aging
+    * [Early Development](/_pages/cogdev-aging/earlydev.md)
+    * [Development of Memory](/_pages/cogdev-aging/memorydev.md)
+    * [Development of Language](/_pages/cogdev-aging/languagedev.md)
+    * [Aging](/_pages/cogdev-aging/aging.md)
 12. [Emotion](/_pages/emotion.md)
     * Classifications of Emotions
     * Mood
