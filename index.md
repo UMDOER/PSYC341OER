@@ -43,11 +43,11 @@ After taking this course you should understand current theories and debates that
     * [Metamemory](/_pages/metacognition/metamemory.md)
     * [Metacomprehension](/_pages/metacognition/metacomprehension.md)
 8. [Language](/_pages/language.md)
-    * Theories of Language
-    * Language Acquisition
-    * Production
-    * Comprehension
-    * Bilingualism
+    * [Theories of Language](/_pages/language/theoriesoflang.md)
+    * [Language Acquisition](/_pages/language/langacq.md)
+    * [Production](/_pages/language/production.md)
+    * [Comprehension](/_pages/language/comprehension.md)
+    * [Bilingualism](/_pages/language/bilingualism.md)
 9. [Decision Making](/_pages/decisionmaking.md)
     * Deductive Reasoning
     * Heuristics in Decision Making
