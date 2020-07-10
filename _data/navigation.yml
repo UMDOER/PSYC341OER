@@ -275,3 +275,24 @@ cogdevnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#cognitive-development-and-aging
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        
+emotionnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Emotion
+    url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
+    children:
+      - title: Classifications of Emotions
+        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/classifications.html
+      - title: Mood
+        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/mood.html
+      - title: Interactions with Other Cognitive Functions
+        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/interactions.html
+  - title: Resources
+    children:
+      - title: Interactive Media
+        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#emotion
+      - title: Relevant Studies
+        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#emotion
+      - title: How to Study
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
