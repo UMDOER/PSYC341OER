@@ -49,9 +49,9 @@ After taking this course you should understand current theories and debates that
     * [Comprehension](/_pages/language/comprehension.md)
     * [Bilingualism](/_pages/language/bilingualism.md)
 9. [Decision Making](/_pages/decisionmaking.md)
-    * Deductive Reasoning
-    * Heuristics in Decision Making
-    * Motivation: The Reward System
+    * [Deductive Reasoning](/_pages/decisionmaking/deductivereasoning.md)
+    * [Heuristics in Decision Making](/_pages/decisionmaking/heuristics.md)
+    * [Motivation: The Reward System](/_pages/decisionmaking/motivation.md)
 10. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
     * Problem Solving Strategies
     * Factors that Influence Problem Solving
