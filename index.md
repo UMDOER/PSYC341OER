@@ -53,9 +53,9 @@ After taking this course you should understand current theories and debates that
     * [Heuristics in Decision Making](/_pages/decisionmaking/heuristics.md)
     * [Motivation: The Reward System](/_pages/decisionmaking/motivation.md)
 10. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
-    * Problem Solving Strategies
-    * Factors that Influence Problem Solving
-    * Creativity and Plasticity
+    * [Problem Solving Strategies](/_pages/problemsolving-creativity/strategies.md)
+    * [Factors that Influence Problem Solving](/_pages/problemsolving-creativity/factors.md)
+    * [Creativity and Plasticity](/_pages/problemsolving-creativity/creativity.md)
 11. [Cognitive Development and Aging](/_pages/cogdev-aging.md)
     * Early Development
     * Development of Memory
