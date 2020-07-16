@@ -46,7 +46,7 @@ sidebar:
   
 ## Attention and Consciousness
 
-* [TED: What happens in your brain when you pay attention? | Mehdi Ordikhani-Seyedlar](https://www.youtube.com/watch?v=qKJv4S5peJQ)
+* [TED: What happens in your brain when you pay attention? Mehdi Ordikhani-Seyedlar](https://www.youtube.com/watch?v=qKJv4S5peJQ)
  
 * media2
  
