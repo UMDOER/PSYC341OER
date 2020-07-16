@@ -7,14 +7,12 @@ sidebar:
 
 ## General
 
-* media1
+* [3D Interactive Brain: BrainFacts.org](https://www.brainfacts.org/3d-brain#intro=false&focus=Brain)
 
  
-* media2
+* [Brain Atlas](http://helpthereisabraininmyhead.com/brain-atlas)
  
   
-* media3
-
 ## Introduction, Methods, and History
 
 * media1
@@ -28,13 +26,13 @@ sidebar:
   
 ## Sensation and Perception
 
-* media1
+* [Swarthmore Cognitive Psychology Demos: Vision Search, Sternberg, Stroop](http://cogscidemos.swarthmore.edu/)
 
  
-* media2
+* [Synesthesia Test](https://www.synesthete.org/)
  
   
-* media3
+* [Optical Illusions](https://michaelbach.de/ot/index.html)
   
 ## Mental Imagery
 
@@ -48,18 +46,17 @@ sidebar:
   
 ## Attention and Consciousness
 
-* source1
-  * blurb
+* [TED: What happens in your brain when you pay attention? | Mehdi Ordikhani-Seyedlar](https://www.youtube.com/watch?v=qKJv4S5peJQ)
  
-* source2
-  * blurb
+* media2
+ 
   
-* source3
-  * blurb
+* media3
+  
   
 ## Memory
 
-* media1
+* [NPR: Did That Really Happen? How Our Memories Betray Us](https://www.npr.org/2019/12/16/788422090/did-that-really-happen-how-our-memories-betray-us)
 
  
 * media2
@@ -69,8 +66,7 @@ sidebar:
   
 ## Learning and Expertise
 
-* media1
-
+* [Podcast: How to Use Cognitive Psychology to Enhance Learning](https://teachinginhighered.com/podcast/cognitive-psychology/)
  
 * media2
  
@@ -119,7 +115,7 @@ sidebar:
   
 ## Cognitive Development and Aging
 
-* media1
+* [The Whole Brain Atlas: Brain Imaging](http://www.med.harvard.edu/AANLIB/home.html)
 
  
 * media2
