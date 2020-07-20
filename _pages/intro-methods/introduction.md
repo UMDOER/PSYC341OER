@@ -5,5 +5,5 @@ sidebar:
 ---
 # What is Cognitive Psychology?
 
-https://docs.google.com/viewer?url=$https://www.simplypsychology.org/simplypsychology.org-Cognitive-Psychology.pdf
-
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.simplypsychology.org/simplypsychology.org-Cognitive-Psychology.pdf" width="500" height="375">
