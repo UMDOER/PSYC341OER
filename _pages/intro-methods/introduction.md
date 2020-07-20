@@ -5,6 +5,6 @@ sidebar:
 ---
 # What is Cognitive Psychology?
 
-<embed src="https://www.simplypsychology.org/simplypsychology.org-Cognitive-Psychology.pdf" width="500" height="375" 
+<embed src="https://www.simplypsychology.org/simplypsychology.org-Cognitive-Psychology.pdf" width="1000" height="750" 
  type="application/pdf">
 
