@@ -9,6 +9,5 @@ sidebar:
  type="application/pdf">
 
 
-Taken from McLeod, S. A. (2015). Cognitive psychology. Simply Psychology. https://www.simplypsychology.org/cognitive.html
 
 
