@@ -12,7 +12,7 @@ After taking this course you should understand current theories and debates that
 
 ### Contents:
 
-1. [Introduction, Methods, and History](/_pages/intromethods.md)
+1. [Introduction, Methods, and History]
     * [What is Cognitive Psychology?](/_pages/intro-methods/introduction.md)
     * [Methods](/_pages/intro-methods/methods.md)
     * [History](/_pages/intro-methods/history.md)
