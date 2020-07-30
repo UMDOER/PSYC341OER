@@ -107,8 +107,7 @@ sidebar:
 
 * [The amygdala, reward and emotion](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.7918&rep=rep1&type=pdf)
  
-* source2
-  * blurb
+* [Cognitive Approaches to Emotions](http://www.modeltheory.org/papers/2014tics-emotions.pdf)
   
 * source3
   * blurb
