@@ -3,4 +3,4 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
-# History
+# Statistical Thinking
