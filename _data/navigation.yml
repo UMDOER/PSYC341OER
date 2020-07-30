@@ -6,8 +6,6 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
-      - title: Mental Imagery
-        url: https://umdoer.github.io/PSYC341OER/_pages/mentalimagery.html
       - title: Attention and Consciousness
         url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
       - title: Memory
@@ -42,10 +40,14 @@ intronav:
     children:
       - title: What is Cognitive Psychology?
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
-      - title: Research Methods
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/methods.html
-      - title: History
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/history.html
+      - title: Statistical Thinking
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/statisticalthinking.html
+      - title: Replication Crisis
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/replicationcrisis.html
+      - title: Research Designs
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
+      - title: Thinking Like a Psychological Scientist
+        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
   - title: Resources
     children:
       - title: Interactive Media
@@ -65,39 +67,22 @@ senpernav:
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vision.html
       - title: Hearing
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/hearing.html
-      - title: Mechanosensory Systems
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/mechanosensory.html
-      - title: Chemosensory Modalities
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/chemosensory.html
-      - title: Motor Systems
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/motor.html
+      - title: Touch and Pain
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/touch-pain.html
+      - title: Taste and Smell
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/taste-smell.html
+      - title: The Vestibular System
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vestibular.html
+      - title: Multi-model Perception
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/multimodalperception.html
+      - title: Mental Imagery
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/mentalimagery.html
   - title: Resources
     children:
       - title: Interactive Media
         url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#sensation-and-perception
       - title: Relevant Studies
         url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
-        
-mentalimgnav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Mental Imagery
-    url: https://umdoer.github.io/PSYC341OER/_pages/mentalimagery.html
-    children:
-      - title: Visual Imagery
-        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/visualimg.html
-      - title: Auditory Imagery
-        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/auditoryimg.html
-      - title: Cognitive Maps
-        url: https://umdoer.github.io/PSYC341OER/_pages/mental-imagery/cogmaps.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#mental-imagery
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#mental-imagery
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
@@ -109,12 +94,14 @@ attconnav:
     children:
       - title: Attention Processes
         url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
-      - title: Visual Attention
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/visualattention.html
-      - title: Auditory Attention
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/auditoryattention.html
+      - title: Consciousness
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/consciousness.html
+      - title: Unconsciousness
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/unconsciousness.html
       - title: States of Consciousness
         url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/statesofconsciousness.html
+      - title: Inattentional Blindness
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/inattentionalblindness.html
   - title: Resources
     children:
       - title: Interactive Media
@@ -130,10 +117,12 @@ memorynav:
   - title: Memory
     url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
     children:
-      - title: Working Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/workingmem.html
-      - title: Long-term Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/longtermmem.html
+      - title: Memory Biases
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
+      - title: Forgetting
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
+      - title: Categories and Concepts
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
   - title: Resources
     children:
       - title: Interactive Media
@@ -151,12 +140,10 @@ learningnav:
     children:
       - title: Priming and Conditioning
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/priming.html
-      - title: State-dependent Learning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/statedep.html
+      - title: Learning
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
-      - title: Expertise
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/expertise.html
   - title: Resources
     children:
       - title: Interactive Media
@@ -171,11 +158,6 @@ metacognav:
     url: https://umdoer.github.io/PSYC341OER/
   - title: Metacognition
     url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
-    children:
-      - title: Metamemory
-        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition/metamemory.html
-      - title: Metacomprehension
-        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition/metacomprehension.html
   - title: Resources
     children:
       - title: Interactive Media
@@ -216,10 +198,6 @@ decnav:
   - title: Decision Making
     url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
     children:
-      - title: Deductive Reasoning
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/deductivereasoning.html
-      - title: Heuristics in Decision Making
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/heuristics.html
       - title: Motivation and the Reward System
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
   - title: Resources
@@ -237,11 +215,9 @@ probnav:
   - title: Problem Solving and Creativity
     url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
     children:
-      - title: Problem Solving Strategies
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/strategies.html
-      - title: Factors that Influence Problem Solving
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/factors.html
-      - title: Creativity and Plasticity
+      - title: Intelligence
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
+      - title: Creativity
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
   - title: Resources
     children:
@@ -258,12 +234,8 @@ cogdevnav:
   - title: Cognitive Development and Aging
     url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
     children:
-      - title: Early Development
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/earlydev.html
-      - title: Development of Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/memorydev.html
-      - title: Development of Language
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/languagedev.html
+      - title: Cognitive Development
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
       - title: Aging
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
   - title: Resources
@@ -280,13 +252,6 @@ emotionnav:
     url: https://umdoer.github.io/PSYC341OER/
   - title: Emotion
     url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
-    children:
-      - title: Classifications of Emotions
-        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/classifications.html
-      - title: Mood
-        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/mood.html
-      - title: Interactions with Other Cognitive Functions
-        url: https://umdoer.github.io/PSYC341OER/_pages/emotion/interactions.html
   - title: Resources
     children:
       - title: Interactive Media
