@@ -3,4 +3,4 @@ layout: single
 sidebar:
   nav: "cogdevnav"
 ---
-# Early Development
+# Cognitive Development
