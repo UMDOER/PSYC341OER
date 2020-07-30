@@ -4,4 +4,4 @@ sidebar:
   nav: "attconnav"
 ---
 
-# Visual Attention
+# Inattentional Blindness
