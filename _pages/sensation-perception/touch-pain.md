@@ -3,4 +3,4 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
-# Mechanosensory Systems
+# Touch and Pain
