@@ -3,4 +3,4 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
-# Chemosensory Systems
+# The Vestibular System
