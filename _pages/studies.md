@@ -20,23 +20,10 @@ sidebar:
 
 * [Uncertainty in visual processes predicts geometrical optical illusions](https://www.sciencedirect.com/science/article/pii/S0042698903006904)
  
-* source2
-  * blurb
-  
-* source3
-  * blurb
-  
-## Mental Imagery
-
-* [The human imagination: the cognitive neuroscience of visual mental imagery](https://www.nature.com/articles/s41583-019-0202-9)
-
-* [Mental Images and School Learning: A Longitudinal Study on Children](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02034/full)
+* [The Ventriliquist Effect: Mental Imagery Induces Cross-Modal Sensory Plasticity and Changes Future Auditory Perception](https://journals.sagepub.com/doi/pdf/10.1177/0956797617748959?casa_token=PUgBdLplIlcAAAAA:EJPWziB5Kg0BLcfcl-awNFGZOMbFylPA8U-D0J633y12qhNnseiyHTBr0fGkW-38D6WIhMR-wOlIIQ)
 
 * [When That Tune Runs Through Your Head: A PET Investigation of Auditory Imagery for Familiar Melodies](https://academic.oup.com/cercor/article/9/7/697/270766)
- 
-* [Human brain activity during mental imagery exhibits signatures of inference in a hierarchical generative model](https://www.biorxiv.org/content/10.1101/462226v2)
   
-* [The Ventriliquist Effect: Mental Imagery Induces Cross-Modal Sensory Plasticity and Changes Future Auditory Perception](https://journals.sagepub.com/doi/pdf/10.1177/0956797617748959?casa_token=PUgBdLplIlcAAAAA:EJPWziB5Kg0BLcfcl-awNFGZOMbFylPA8U-D0J633y12qhNnseiyHTBr0fGkW-38D6WIhMR-wOlIIQ)
   
 ## Attention and Consciousness
 
