@@ -34,15 +34,6 @@ sidebar:
   
 * [Optical Illusions](https://michaelbach.de/ot/index.html)
   
-## Mental Imagery
-
-* media1
-
- 
-* media2
- 
-  
-* media3
   
 ## Attention and Consciousness
 
