@@ -152,5 +152,5 @@ Hurley, J. B. (2002). Shedding light on adaptation. Journal of General Physiolog
 Nirenberg, S., & Pandarinath, C. (2012). Retinal prosthetic strategy with the capacity to restore normal vision. Proceedings of the National Academy of Sciences, 109 (37), 15012–15017.
 Stuart, J. A., & Brige, R. R. (1996). Characterization of the primary photochemical events in bacteriorhodopsin and rhodopsin. In A. G. Lee (Ed.), Rhodopsin and G-protein linked receptors (Part A, Vol. 2, pp. 33–140). Greenwich, CT: JAI.
 Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
-Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48.
+Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48. 
 
