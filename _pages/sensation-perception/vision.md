@@ -7,12 +7,15 @@ sidebar:
 
 
 ## Learning Objectives
+
+<font size="10">
 * Describe how the eye transforms light information into neural energy.
 * Understand what sorts of information the brain is interested in extracting from the environment and why it is useful.
 * Describe how the visual system has adapted to deal with different lighting conditions.
 * Understand the value of having two eyes.
 * Understand why we have color vision.
 * Understand the interdependence between vision and other brain functions.
+ </font>
 
 ## What Is Vision?
 Think about the spectacle of a starry night. You look up at the sky, and thousands of photons from distant stars come crashing into your retina, a light-sensitive structure at the back of your eyeball. These photons are millions of years old and have survived a trip across the universe, only to run into one of your photoreceptors. Tough luck: in one thousandth of a second, this little bit of light energy becomes the fuel to a photochemical reaction known as photoactivation. The light energy becomes neural energy and triggers a cascade of neural activity that, a few hundredths of a second later, will result in your becoming aware of that distant star. You and the universe united by photons. That is the amazing power of vision. Light brings the world to you. Without moving, you know what’s out there. You can recognize friends coming to meet you before you are able to hear them coming, ripe fruits from green ones on trees without having to taste them and before reaching out to grab them. You can also tell how quickly a ball is moving in your direction (Will it hit you? Can you hit it?).
@@ -36,7 +39,7 @@ Contrast is so important that your neurons go out of their way not only to encod
 
 Figure 1. Illustration of Lateral Inhibition at work. The top of the figure shows a black stripe on a white background. The first row of circles illustrates photoreceptors responding in a graded fashion: the more light hits them, the more they fire. The numbers inside the circles represent how much these cells are firing, and the thickness of lines is also meant to illustrate the strength of neural firing. These photoreceptors activate the next layer of neurons in the retina: bipolar cells. These cells produce lateral inhibition signals, depicted by the horizontal lines that end with a small circle. The inhibition signals are proportional (here, 10% for ease) to the excitatory input they receive. Cells receiving 100 units will inhibit their neighbors by 10 units. Cells receiving 20 units will inhibit their neighbors by 2 units. The output of a bipolar cell will be determined by the input it receives minus all the lateral inhibition signals from its neighbors. As a result of the inhibition, notice how on the bright side of the edges, the firing rates are the highest (88) compared to nearby neurons just coding bright light (80). These higher values near the edge occur because these cells receive a comparatively small amount of inhibition from their “dark-side” neighbor (-2). Similarly, on the dark side of the edge, the firing rates are the lowest (8) of all the dark region (16) because these cells receive a comparatively large amount of inhibition from their “bright-side” neighbor (-10). Overall, the image is coded as a black stripe surrounded by brighter light, but now, thanks to lateral inhibition, all the edges in the image have been emphasized (enhanced), as illustrated by the perceived luminance profile at the bottom of the image.
 
-##Sensitivity to Different Light Conditions
+## Sensitivity to Different Light Conditions
 A man walks out of a dark tunnel into bright daylight.
 Rods and cones work in tandem to help you adjust when moving between extremes of dark and light. [Image: Pexels, CC0 Public Domain, https://goo.gl/m25gce]
 Let’s think for a moment about the range of conditions in which your visual system must operate day in and day out. When you take a walk outdoors on a sunny day, as many as billions of photons enter your eyeballs every second. In contrast, when you wake up in the middle of the night in a dark room, there might be as little as a few hundred photons per second entering your eyes. To deal with these extremes, the visual system relies on the different properties of the two types of photoreceptors. Rods are mostly responsible for processing light when photons are scarce (just a single photon can make a rod fire!), but it takes time to replenish the visual pigment that rods require for photoactivation. So, under bright conditions, rods are quickly bleached (Stuart & Brige, 1996) and cannot keep up with the constant barrage of photons hitting them. That’s when the cones become useful. Cones require more photons to fire and, more critically, their photopigments replenish much faster than rods’ photopigments, allowing them to keep up when photons are abundant.
