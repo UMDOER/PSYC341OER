@@ -4,3 +4,174 @@ sidebar:
   nav: "attconnav"
 ---
 # Consciousness
+
+Consciousness is the ultimate mystery. What is it and why do we have it? These questions are difficult to answer, even though consciousness is so fundamental to our existence. Perhaps the natural world could exist largely as it is without human consciousness; but taking away consciousness would essentially take away our humanity. Psychological science has addressed questions about consciousness in part by distinguishing neurocognitive functions allied with conscious experience from those that transpire without conscious experience. The continuing investigation of these sorts of distinctions is yielding an empirical basis for new hypotheses about the precursors of conscious experience. Richer conceptualizations are thus being built, combining first-person and third-person perspectives to provide new clues to the mystery of consciousness
+
+Share on Facebook
+Share on Twitter
+Share via Email
+Share this URL
+http://noba.to/5ydq3tgk
+AwarenessBrainIntrospectionMindSubjectivity
+Learning Objectives
+Understand scientific approaches to comprehending consciousness.
+Be familiar with evidence about human vision, memory, body awareness, and decision making relevant to the study of consciousness.
+Appreciate some contemporary theories about consciousness.
+Conscious Experiences
+Contemplate the unique experience of being you at this moment! You, and only you, have direct knowledge of your own conscious experiences. At the same time, you cannot know consciousness from anyone else’s inside view. How can we begin to understand this fantastic ability to have private, conscious experiences?
+
+A man smiles with eyes closed.
+At the most basic level all of conscious experience is unique to each individual. [Image: Étienne Ljóni Poisson, https://goo.gl/mbo5VJ, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+In a sense, everything you know is from your own vantage point, with your own consciousness at the center. Yet the scientific study of consciousness confronts the challenge of producing general understanding that goes beyond what can be known from one individual’s perspective.
+
+To delve into this topic, some terminology must first be considered. The term consciousness can denote the ability of a person to generate a series of conscious experiences one after another. Here we include experiences of feeling and understanding sensory input, of a temporal sequence of autobiographical events, of imagination, of emotions and moods, of ideas, of memories—the whole range of mental contents open to an individual.
+
+Consciousness can also refer to the state of an individual, as in a sharp or dull state of consciousness, a drug-induced state such as euphoria, or a diminished state due to drowsiness, sleep, neurological abnormality, or coma. In this module, we focus not on states of consciousness or on self-consciousness, but rather on the process that unfolds in the course of a conscious experience—a moment of awareness—the essential ingredient of consciousness.
+
+Other Minds
+You have probably experienced the sense of knowing exactly what a friend is thinking. Various signs can guide our inferences about consciousness in others. We can try to infer what’s going on in someone else’s mind by relying on the assumption that they feel what we imagine we would feel in the same situation. We might account for someone’s actions or emotional expressions through our knowledge of that individual and our careful observations of their behavior. In this way, we often display substantial insight into what they are thinking. Other times we are completely wrong.
+
+By measuring brain activity using various neuroscientific technologies, we can acquire additional information useful for deciphering another person’s state of mind. In special circumstances such inferences can be highly accurate, but limitations on mind reading remain, highlighting the difficulty of understanding exactly how conscious experiences arise.
+
+A Science of Consciousness
+Attempts to understand consciousness have been pervasive throughout human history, mostly dominated by philosophical analyses focused on the first-person perspective. Now we have a wider set of approaches that includes philosophy, psychology, neuroscience, cognitive science, and contemplative science (Blackmore, 2006; Koch, 2012; Zelazo, Moscovitch, & Thompson, 2007; Zeman, 2002).
+
+A statue of the Buddha
+Consciousness is a topic that has been addressed by religious scholars, philosophers, psychologists, and neuroscientists. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+The challenge for this combination of approaches is to give a comprehensive explanation of consciousness. That explanation would include describing the benefits of consciousness, particularly for behavioral capabilities that conscious experiences allow, that trump automatic behaviors. Subjective experiences also need to be described in a way that logically shows how they result from precursor events in the human brain. Moreover, a full account would describe how consciousness depends on biological, environmental, social, cultural, and developmental factors.
+
+At the outset, a central question is how to conceive of consciousness relative to other things we know. Objects in our environment have a physical basis and are understood to be composed of constituents, such that they can be broken down into molecules, elements, atoms, particles, and so on. Yet we can also understand things relationally and conceptually. Sometimes a phenomenon can best be conceived as a process rather than a physical entity (e.g., digestion is a process whereby food is broken down). What, then, is the relationship between our conscious thoughts and the physical universe, and in particular, our brains?
+
+Rene Descartes’ position, dualism, was that mental and physical are, in essence, different substances. This view can be contrasted with reductionist views that mental phenomena can be explained via descriptions of physical phenomena. Although the dualism/reductionism debate continues, there are many ways in which mind can be shown to depend on brain.
+
+A prominent orientation to the scientific study of consciousness is to seek understanding of these dependencies—to see how much light they can shed on consciousness. Significant advances in our knowledge about consciousness have thus been gained, as seen in the following examples.
+
+Conscious Experiences of Visual Perception
+Suppose you meet your friend at a crowded train station. You may notice a subtle smile on her face. At that moment you are probably unaware of many other things happening within your view. What makes you aware of some things but not others? You probably have your own intuitions about this, but experiments have proven wrong many common intuitions about what generates visual awareness.
+
+For instance, you may think that if you attentively look at a bright spot, you must be aware of it. Not so. In a phenomenon known as motion-induced blindness, bright discs completely vanish from your awareness in full attention. To experience this for yourself, see this module's Outside Resource section for a demonstration of motion-induced blindness.
+
+A crowded train station with streams of people passing in opposite directions.
+Are you really aware of everything that is going on around you? In the context of a crowded train station you may be visually aware of certain things while essentially being blind to many others that are right in front of you. [Image: Diego Torres Silvestre, https://goo.gl/ZkCWEC, CC BY 2.0, https://goo.gl/BRvSA7]
+You may think that if you deeply analyze an image, decoding its meaning and making a decision about it, you must be aware of the image. Not necessarily. When a number is briefly flashed and rapidly replaced by a random pattern, you may have no awareness of it, despite the fact that your brain allows you to determine that the number is greater than 5, and then prepare your right hand for a key press if that is what you were instructed to do (Dehaene et al., 1998).
+
+Thus, neither the brightness of an image, paying full attention to it, nor deeply analyzing it guarantees that you will be aware of it. What, then, is the crucial ingredient of visual awareness?
+
+A contemporary answer is that our awareness of a visual feature depends on a certain type of reciprocal exchange of information across multiple brain areas, particularly in the cerebral cortex. In support of this idea, directly activating your visual motion area (known as V5) with an externally applied magnetic field (transcranial magnetic stimulation) will make you see moving dots. This is not surprising. What is surprising is that activating your visual motion area alone does not let you see motion. You will not see moving dots if the feedback signal from V5 to the primary visual cortex is disrupted by a further transcranial magnetic stimulation pulse (Pascual-Leone & Walsh, 2001). The reverberating reciprocal exchange of information between higher-level visual areas and primary visual cortex appears to be essential for generating visual awareness.
+
+This idea can also explain why people with certain types of brain damage lack visual awareness. Consider a patient with brain damage limited to primary visual cortex who claims not to see anything — a problem termed cortical blindness. Other areas of visual cortex may still receive visual input through projections from brain structures such as the thalamus and superior colliculus, and these networks may mediate some preserved visual abilities that take place without awareness. For example, a patient with cortical blindness might detect moving stimuli via V5 activation but still have no conscious experiences of the stimuli, because the reverberating reciprocal exchange of information cannot take place between V5 and the damaged primary visual cortex. The preserved ability to detect motion might be evident only when a guess is required (“guess whether something moved to the left or right”)—otherwise the answer would be “I didn’t see anything.” This phenomenon of blindsight refers to blindness due to a neurological cause that preserves abilities to analyze and respond to visual stimuli that are not consciously experienced (Lamme, 2001).
+
+If exchanges of information across brain areas are crucial for generating visual awareness, neural synchronization must play an important role because it promotes neural communication. A neuron’s excitability varies over time. Communication among neural populations is enhanced when their oscillatory cycles of excitability are synchronized. In this way, information transmitted from one population in its excitable phase is received by the target population when it is also in its excitable phase. Indeed, oscillatory neural synchronization in the beta- and gamma-band frequencies (identified according to the number of oscillations per second, 13–30 Hz and 30–100 Hz, respectively) appears to be closely associated with visual awareness. This idea is highlighted in the Global Neuronal Workspace Theory of Consciousness (Dehaene & Changeux, 2011), in which sharing of information among prefrontal, inferior parietal, and occipital regions of the cerebral cortex is postulated to be especially important for generating awareness.
+
+A related view, the Information Integration Theory of Consciousness, is that shared information itself constitutes consciousness (Tononi, 2004). An organism would have minimal consciousness if the structure of shared information is simple, whereas it would have rich conscious experiences if the structure of shared information is complex. Roughly speaking, complexity is defined as the number of intricately interrelated informational units or ideas generated by a web of local and global sharing of information. The degree of consciousness in an organism (or a machine) would be high if numerous and diversely interrelated ideas arise, low if only a few ideas arise or if there are numerous ideas but they are random and unassociated. Computational analyses provide additional perspectives on such proposals. In particular, if every neuron is connected to every other neuron, all neurons would tend to activate together, generating few distinctive ideas. With a very low level of neuronal connectivity at the other extreme, all neurons would tend to activate independently, generating numerous but unassociated ideas. To promote a rich level of consciousness, then, a suitable mixture of short-, medium-, and long-range neural connections would be needed. The human cerebral cortex may indeed have such an optimum structure of neural connectivity. Given how consciousness is conceptualized in this theory as graded rather than all-or-none, a quantitative approach (e.g., Casali et al., 2013; Monti et al., 2013) could conceivably be used to estimate the level of consciousness in nonhuman species and artificial beings.
+
+Conscious Experiences of Memory
+The pinnacle of conscious human memory functions is known as episodic recollection because it allows one to reexperience the past, to virtually relive an earlier event. People who suffer from amnesia due to neurological damage to certain critical brain areas have poor memory for events and facts. Their memory deficit disrupts the type of memory termed declarative memory and makes it difficult to consciously remember. However, amnesic insults typically spare a set of memory functions that do not involve conscious remembering. These other types of memory, which include various habits, motor skills, cognitive skills, and procedures, can be demonstrated when an individual executes various actions as a function of prior learning, but in these cases a conscious experience of remembering is not necessarily included.
+
+Hands sifting through a box of old photographs.
+Memory is one basis for conscious awareness. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+Research on amnesia has thus supported the proposal that conscious remembering requires a specific set of brain operations that depend on networks of neurons in the cerebral cortex. Some of the other types of memory involve only subcortical brain regions, but there are also notable exceptions. In particular, perceptual priming is a type of memory that does not entail the conscious experience of remembering and that is typically preserved in amnesia. Perceptual priming is thought to reflect a fluency of processing produced by a prior experience, even when the individual cannot remember that prior experience. For example, a word or face might be perceived more efficiently if it had been viewed minutes earlier than if it hadn’t. Whereas a person with amnesia can demonstrate this item-specific fluency due to changes in corresponding cortical areas, they nevertheless would be impaired if asked to recognize the words or faces they previously experienced. A reasonable conclusion on the basis of this evidence is that remembering an episode is a conscious experience not merely due to the involvement of one portion of the cerebral cortex, but rather due to the specific configuration of cortical activity involved in the sharing or integration of information.
+
+Further neuroscientific studies of memory retrieval have shed additional light on the necessary steps for conscious recollection. For example, storing memories for the events we experience each day appears to depend on connections among multiple cortical regions as well as on a brain structure known as the hippocampus. Memory storage becomes more secure due to interactions between the hippocampus and cerebral cortex that can transpire over extended time periods following the initial registration of information. Conscious retrieval thus depends on the activity of elaborate sets of networks in the cortex. Memory retrieval that does not include conscious recollection depends either on restricted portions of the cortex or on brain regions separate from the cortex.
+
+The ways in which memory expressions that include the awareness of remembering differ from those that do not thus highlight the special nature of conscious memory experiences (Paller, Voss, & Westerberg, 2009; Voss, Lucas, & Paller, 2012). Indeed, memory storage in the brain can be very complex for many different types of memory, but there are specific physiological prerequisites for the type of memory that coincides with conscious recollection.
+
+Conscious Experiences of Body Awareness
+The brain can generate body awareness by registering coincident sensations. For example, when you rub your arm, you see your hand rubbing your arm and simultaneously feel the rubbing sensation in both your hand and your arm. This simultaneity tells you that it is your hand and your arm. Infants use the same type of coincident sensations to initially develop the self/nonself distinction that is fundamental to our construal of the world.
+
+The fact that your brain constructs body awareness in this way can be experienced via the rubber-hand illusion (see Outside Resource on this). If you see a rubber hand being rubbed and simultaneously feel the corresponding rubbing sensation on your own body out of view, you will momentarily feel a bizarre sensation—that the rubber hand is your own.
+
+The construction of our body awareness appears to be mediated by specific brain mechanisms involving a region of the cortex known as the temporoparietal junction. Damage to this brain region can generate distorted body awareness, such as feeling a substantially elongated torso. Altered neural activity in this region through artificial stimulation can also produce an out-of-body experience (see this module’s Outside Resources section), in which you feel like your body is in another location and you have a novel perspective on your body and the world, such as from the ceiling of the room.
+
+Remarkably, comparable brain mechanisms may also generate the normal awareness of the sense of self and the sensation of being inside a body. In the context of virtual reality this sensation is known as presence (the compelling experience of actually being there). Our normal localization of the self may be equally artificial, in that it is not a given aspect of life but is constructed through a special brain mechanism.
+
+A Social Neuroscience Theory of Consciousness (Graziano & Kastner, 2011) ascribes an important role to our ability to localize our own sense of self. The main premise of the theory is that you fare better in a social environment to the extent that you can predict what people are going to do. So, the human brain has developed mechanisms to construct models of other people’s attention and intention, and to localize those models in the corresponding people’s heads to keep track of them. The proposal is that the same brain mechanism was adapted to construct a model of one’s own attention and intention, which is then localized in one’s own head and perceived as consciousness. If so, then the primary function of consciousness is to allow us to predict our own behavior. Research is needed to test the major predictions of this new theory, such as whether changes in consciousness (e.g., due to normal fluctuations, psychiatric disease, brain damage) are closely associated with changes in the brain mechanisms that allow us to model other people’s attention and intention.
+
+Conscious Experiences of Decision Making
+Choosing among multiple possible actions, the sense of volition, is closely associated with our subjective feeling of consciousness. When we make a lot of decisions, we may feel especially conscious and then feel exhausted, as if our mental energy has been drained.
+
+A woman in a supermarket aisle holds two different types of Doritos and carefully reads the packages.
+When making a decision you might carefully consider your choices or simply "go with your gut". [Image: Daniel Lee, https://goo.gl/aJi3jx, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+We make decisions in two distinct ways. Sometimes we carefully analyze and weigh different factors to reach a decision, taking full advantage of the brain’s conscious mode of information processing. Other times we make a gut decision, trusting the unconscious mode of information processing (although it still depends on the brain). The unconscious mode is adept at simultaneously considering numerous factors in parallel, which can yield an overall impression of the sum total of evidence. In this case, we have no awareness of the individual considerations. In the conscious mode, in contrast, we can carefully scrutinize each factor—although the act of focusing on a specific factor can interfere with weighing in other factors.
+
+One might try to optimize decision making by taking into account these two strategies. A careful conscious decision should be effective when there are only a few known factors to consider. A gut decision should be effective when a large number of factors should be considered simultaneously. Gut decisions can indeed be accurate on occasion (e.g., guessing which of many teams will win a close competition), but only if you are well versed in the relevant domain (Dane, Rockmann, & Pratt, 2012).
+
+As we learn from our experiences, some of this gradual knowledge accrual is unconscious; we don’t know we have it and we can use it without knowing it. On the other hand, consciously acquired information can be uniquely beneficial by allowing additional stages of control (de Lange, van Gaal, Lamme, & Dehaene, 2011). It is often helpful to control which new knowledge we acquire and which stored information we retrieve in accordance with our conscious goals and beliefs.
+
+Whether you choose to trust your gut or to carefully analyze the relevant factors, you feel that you freely reach your own decision. Is this feeling of free choice real? Contemporary experimental techniques fall short of answering this existential question. However, it is likely that at least the sense of immediacy of our decisions is an illusion.
+
+In one experiment, people were asked to freely consider whether to press the right button or the left button, and to press it when they made the decision (Soon, Brass, Heinze, & Haynes, 2008). Although they indicated that they made the decision immediately before pressing the button, their brain activity, measured using functional magnetic resonance imaging, predicted their decision as much as 10 seconds before they said they freely made the decision. In the same way, each conscious experience is likely preceded by precursor brain events that on their own do not entail consciousness but that culminate in a conscious experience.
+
+In many situations, people generate a reason for an action that has nothing to do with the actual basis of the decision to act in a particular way. We all have a propensity to retrospectively produce a reasonable explanation for our behavior, yet our behavior is often the result of unconscious mental processing, not conscious volition.
+
+Why do we feel that each of our actions is immediately preceded by our own decision to act? This illusion may help us distinguish our own actions from those of other agents. For example, while walking hand-in-hand with a friend, if you felt you made a decision to turn left immediately before you both turned left, then you know that you initiated the turn; otherwise, you would know that your friend did.
+
+Even if some aspects of the decision-making process are illusory, to what extent are our decisions determined by prior conditions? It certainly seems that we can have full control of some decisions, such as when we create a conscious intention that leads to a specific action: You can decide to go left or go right. To evaluate such impressions, further research must develop a better understanding of the neurocognitive basis of volition, which is a tricky undertaking, given that decisions are conceivably influenced by unconscious processing, neural noise, and the unpredictability of a vast interactive network of neurons in the brain.
+
+Yet belief in free choice has been shown to promote moral behavior, and it is the basis of human notions of justice. The sense of free choice may be a beneficial trait that became prevalent because it helped us flourish as social beings.
+
+Understanding Consciousness
+Our human consciousness unavoidably colors all of our observations and our attempts to gain understanding. Nonetheless, scientific inquiries have provided useful perspectives on consciousness. The advances described above should engender optimism about the various research strategies applied to date and about the prospects for further insight into consciousness in the future.
+
+
+Because conscious experiences are inherently private, they have sometimes been taken to be outside the realm of scientific inquiry. This view idealizes science as an endeavor involving only observations that can be verified by multiple observers, relying entirely on the third-person perspective, or the view from nowhere (from no particular perspective). Yet conducting science is a human activity that depends, like other human activities, on individuals and their subjective experiences. A rational scientific account of the world cannot avoid the fact that people have subjective experiences.
+
+Subjectivity thus has a place in science. Conscious experiences can be subjected to systematic analysis and empirical tests to yield progressive understanding. Many further questions remain to be addressed by scientists of the future. Is the first-person perspective of a conscious experience basically the same for all human beings, or do individuals differ fundamentally in their introspective experiences and capabilities? Should psychological science focus only on ordinary experiences of consciousness, or are extraordinary experiences also relevant? Can training in introspection lead to a specific sort of expertise with respect to conscious experience? An individual with training, such as through extensive meditation practice, might be able to describe their experiences in a more precise manner, which could then support improved characterizations of consciousness. Such a person might be able to understand subtleties of experience that other individuals fail to notice, and thereby move our understanding of consciousness significantly forward. These and other possibilities await future scientific inquiries into consciousness.
+
+Outside Resources
+1. Video: Demonstration of motion-induced blindness - Look steadily at the blue moving pattern. One or more of the yellow spots may disappear.
+
+2. Web: Learn more about motion-induced blindness on Michael Bach\\\'s website
+http://www.michaelbach.de/ot/mot-mib/index.html
+3. Video: Clip showing a patient with blindsight, from the documentary \\\"Phantoms in the Brain.\\\"
+
+4. Video: Clip on the rubber hand illusion, from the BBC science series \\\"Horizon.\\\"
+
+5. Video: Clip on out-of-body experiences induced using virtual reality.
+
+6. App: Visual illusions for the iPad.
+http://www.exploratorium.edu/explore/apps/color-uncovered
+7. Web: Definitions of Consciousness
+http://www.consciousentities.com/definitions.htm
+8. Video: The mind-body problem - An interview with Ned Block
+
+9. Video: Imaging the Brain, Reading the Mind - A talk by Marsel Mesulam.
+
+Video: Ted Talk - Simon Lewis: Don't take consciousness for granted
+http://www.ted.com/talks/simon_lewis_don_t_take_consciousness_for_granted.html
+Discussion Questions
+Why has consciousness evolved? Presumably it provides some beneficial capabilities for an organism beyond behaviors that are based only on automatic triggers or unconscious processing. What are the likely benefits of consciousness?
+How would you explain to a congenitally blind person the experience of seeing red? Detailed explanations of the physics of light and neurobiology of color processing in the brain would describe the mechanisms that give rise to the experience of seeing red, but would not convey the experience. What would be the best way to communicate the subjective experience itself?
+Our visual experiences seem to be a direct readout of information from the world that comes into our eyes, and we usually believe that our mental representations give us an accurate and exact re-creation of the world. Is it possible that what we consciously perceive is not veridical, but is a limited and distorted view, in large part a function of the specific sensory and information-processing abilities that the brain affords?
+When are you most conscious—while you’re calm, angry, happy, or moved; while absorbed in a movie, video game, or athletic activity; while engaged in a spirited conversation, making decisions, meditating, reflecting, trying to solve a difficult problem, day dreaming, or feeling creative? How do these considerations shed light on what consciousness is?
+Consciousness may be a natural biological phenomenon and a chief function of a brain, but consider the many ways in which it is also contingent on (i) a body linked with a brain, (ii) an outside world, (iii) a social environment, and (iv) a developmental trajectory. How do these considerations enrich our understanding of consciousness?
+Conscious experiences may not be limited to human beings. However, the difficulty of inferring consciousness in other beings highlights the limitations of our current understanding of consciousness. Many nonhuman animals may have conscious experiences; pet owners often have no doubt about what their pets are thinking. Computers with sufficient complexity might at some point be conscious—but how would we know?
+Vocabulary
+Awareness
+A conscious experience or the capability of having conscious experiences, which is distinct from self-awareness, the conscious understanding of one’s own existence and individuality.
+Conscious experience
+The first-person perspective of a mental event, such as feeling some sensory input, a memory, an idea, an emotion, a mood, or a continuous temporal sequence of happenings.
+Contemplative science
+A research area concerned with understanding how contemplative practices such as meditation can affect individuals, including changes in their behavior, their emotional reactivity, their cognitive abilities, and their brains. Contemplative science also seeks insights into conscious experience that can be gained from first-person observations by individuals who have gained extraordinary expertise in introspection.
+First-person perspective
+Observations made by individuals about their own conscious experiences, also known as introspection or a subjective point of view. Phenomenology refers to the description and investigation of such observations.
+Third-person perspective
+Observations made by individuals in a way that can be independently confirmed by other individuals so as to lead to general, objective understanding. With respect to consciousness, third-person perspectives make use of behavioral and neural measures related to conscious experiences.
+References
+Blackmore, S. (2006). Conversations on consciousness: What the best minds think about the brain, free will, and what it means to be human. Oxford: Oxford University Press.
+Casali, A. G., Gosseries, O., Rosanova, M., Boly, M. Sarasso, S., Casali, K. R., Casarotto, S., Bruno, M.-A., Laureys, S., Tononi, G., & Massimini, M. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. Science Translational Medicine, 5, 198ra105
+Dane, E., Rockmann, K. W., & Pratt, M. G. (2012). When should I trust my gut? Linking domain expertise to intuitive decision-making effectiveness. Organizational Behavior and Human Decision Processes, 119, 187–194.
+Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70, 200–227.
+Dehaene, S., Naccache, L., Le Clec’H, G., Koechlin, E., Mueller, M., Dehaene-Lambertz, G., van de Moortele, P.-F., & Le Bihan, D. (1998). Imaging unconscious semantic priming. Nature, 395, 597–600.
+Graziano, M. S. A., & Kastner, S. (2011). Human consciousness and its relationship to social neuroscience: A novel hypothesis. Cognitive Neuroscience, 2, 98–113.
+Koch, C. (2012). Consciousness: Confessions of a romantic reductionist. Cambridge, MA: MIT Press.
+Lamme, V. A. F. (2001). Blindsight: The role of feedforward and feedback corticocortical connections. Acta Psychologica, 107, 209–228.
+Monti, M. M., Lutkenhoff, E. S., Rubinov, M., Boveroux, P., Vanhaudenhuyse, A., Gosseries O., Bruno, M. A., Noirhomme, Q., Boly, M., & Laureys S. (2013) Dynamic change of global and local information processing in propofol-induced loss and recovery of consciousness. PLoS Comput Biol 9(10): e1003271. doi:10.1371/journal.pcbi.1003271
+Paller, K. A., Voss, J. L., & Westerberg, C. E. (2009). Investigating the awareness of remembering. Perspectives on Psychological Science, 4, 185–199.
+Pascual-Leone, A., & Walsh, V. (2001). Fast backprojections from the motion to the primary visual area necessary for visual awareness. Science, 292, 510–512.
+Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decision in the human brain. Nature Neuroscience, 11, 543–545.
+Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5(42), 1–22. Retrieved from http://www.biomedcentral.com/1471-2202/5/42/
+Voss, J. L., Lucas, H. D., & Paller, K. A. (2012). More than a feeling: Pervasive influences of memory processing without awareness of retrieval. Cognitive Neuroscience, 3, 193–207.
+Zelazo, P. D., Moscovitch, M., & Thompson, E. (2007). The Cambridge Handbook of Consciousness. Cambridge, UK: Cambridge University Press.
+Zeman, A. (2002). A user’s guide to consciousness. New Haven, CT: Yale University Press.
+de Lange, F., van Gaal, S., Lamme, V., & Dehaene, S. (2011). How awareness changes the relative weights of evidence during human decision making. PLOS-Biology, 9, e1001203.
