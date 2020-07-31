@@ -8,14 +8,14 @@ sidebar:
 
 ## Learning Objectives
 
-<font size="10">
+<font size="1">
 * Describe how the eye transforms light information into neural energy.
 * Understand what sorts of information the brain is interested in extracting from the environment and why it is useful.
 * Describe how the visual system has adapted to deal with different lighting conditions.
 * Understand the value of having two eyes.
 * Understand why we have color vision.
 * Understand the interdependence between vision and other brain functions.
- </font>
+
 
 ## What Is Vision?
 Think about the spectacle of a starry night. You look up at the sky, and thousands of photons from distant stars come crashing into your retina, a light-sensitive structure at the back of your eyeball. These photons are millions of years old and have survived a trip across the universe, only to run into one of your photoreceptors. Tough luck: in one thousandth of a second, this little bit of light energy becomes the fuel to a photochemical reaction known as photoactivation. The light energy becomes neural energy and triggers a cascade of neural activity that, a few hundredths of a second later, will result in your becoming aware of that distant star. You and the universe united by photons. That is the amazing power of vision. Light brings the world to you. Without moving, you know what’s out there. You can recognize friends coming to meet you before you are able to hear them coming, ripe fruits from green ones on trees without having to taste them and before reaching out to grab them. You can also tell how quickly a ball is moving in your direction (Will it hit you? Can you hit it?).
@@ -149,3 +149,4 @@ Nirenberg, S., & Pandarinath, C. (2012). Retinal prosthetic strategy with the ca
 Stuart, J. A., & Brige, R. R. (1996). Characterization of the primary photochemical events in bacteriorhodopsin and rhodopsin. In A. G. Lee (Ed.), Rhodopsin and G-protein linked receptors (Part A, Vol. 2, pp. 33–140). Greenwich, CT: JAI.
 Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
 Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48.
+ </font>
