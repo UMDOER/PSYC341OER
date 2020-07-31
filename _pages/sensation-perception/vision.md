@@ -8,13 +8,14 @@ sidebar:
 
 ## Learning Objectives
 
-<font size="1">
+<font size="3">
 * Describe how the eye transforms light information into neural energy.
 * Understand what sorts of information the brain is interested in extracting from the environment and why it is useful.
 * Describe how the visual system has adapted to deal with different lighting conditions.
 * Understand the value of having two eyes.
 * Understand why we have color vision.
 * Understand the interdependence between vision and other brain functions.
+ </font>
 
 
 ## What Is Vision?
@@ -149,4 +150,4 @@ Nirenberg, S., & Pandarinath, C. (2012). Retinal prosthetic strategy with the ca
 Stuart, J. A., & Brige, R. R. (1996). Characterization of the primary photochemical events in bacteriorhodopsin and rhodopsin. In A. G. Lee (Ed.), Rhodopsin and G-protein linked receptors (Part A, Vol. 2, pp. 33–140). Greenwich, CT: JAI.
 Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
 Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48.
- </font>
+
