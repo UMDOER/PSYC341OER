@@ -8,20 +8,21 @@ sidebar:
 
 ## Learning Objectives
 
-<font size="3">
 * Describe how the eye transforms light information into neural energy.
 * Understand what sorts of information the brain is interested in extracting from the environment and why it is useful.
 * Describe how the visual system has adapted to deal with different lighting conditions.
 * Understand the value of having two eyes.
 * Understand why we have color vision.
 * Understand the interdependence between vision and other brain functions.
- </font>
+
 
 
 ## What Is Vision?
+<font size="4">
 Think about the spectacle of a starry night. You look up at the sky, and thousands of photons from distant stars come crashing into your retina, a light-sensitive structure at the back of your eyeball. These photons are millions of years old and have survived a trip across the universe, only to run into one of your photoreceptors. Tough luck: in one thousandth of a second, this little bit of light energy becomes the fuel to a photochemical reaction known as photoactivation. The light energy becomes neural energy and triggers a cascade of neural activity that, a few hundredths of a second later, will result in your becoming aware of that distant star. You and the universe united by photons. That is the amazing power of vision. Light brings the world to you. Without moving, you know what’s out there. You can recognize friends coming to meet you before you are able to hear them coming, ripe fruits from green ones on trees without having to taste them and before reaching out to grab them. You can also tell how quickly a ball is moving in your direction (Will it hit you? Can you hit it?).
 
 How does all of that happen? First, light enters the eyeball through a tiny hole known as the pupil and, thanks to the refractive properties of your cornea and lens, this light signal gets projected sharply into the retina (see Outside Resources for links to a more detailed description of the eye structure). There, light is transduced into neural energy by about 200 million photoreceptor cells.
+</font>
 
 Diagram of the human eye.
 <embed: src "https://goo.gl/cMOQdh" width="500" height="500"
