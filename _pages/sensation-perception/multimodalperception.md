@@ -117,81 +117,83 @@ Discussion Questions
 The extensive network of multisensory areas and neurons in the cortex implies that much perceptual processing occurs in the context of multiple inputs. Could the processing of unimodal information ever be useful? Why or why not?
 Some researchers have argued that the Principle of Inverse Effectiveness (PoIE) results from ceiling effects: Multisensory enhancement cannot take place when one modality is sufficient for processing because in such cases it is not possible for processing to be enhanced (because performance is already at the “ceiling”). On the other hand, other researchers claim that the PoIE stems from the perceptual system’s ability to assess the relative value of stimulus cues, and to use the most reliable sources of information to construct a representation of the outside world. What do you think? Could these two possibilities ever be teased apart? What kinds of experiments might one conduct to try to get at this issue?
 In the late 17th century, a scientist named William Molyneux asked the famous philosopher John Locke a question relevant to modern studies of multisensory processing. The question was this: Imagine a person who has been blind since birth, and who is able, by virtue of the sense of touch, to identify three dimensional shapes such as spheres or pyramids. Now imagine that this person suddenly receives the ability to see. Would the person, without using the sense of touch, be able to identify those same shapes visually? Can modern research in multimodal perception help answer this question? Why or why not? How do the studies about crossmodal phenomena inform us about the answer to this question?
-Vocabulary
-Bouncing balls illusion
+
+## Vocabulary
+### Bouncing balls illusion
 The tendency to perceive two circles as bouncing off each other if the moment of their contact is accompanied by an auditory stimulus.
-Crossmodal phenomena
+### Crossmodal phenomena
 Effects that concern the influence of the perception of one sensory modality on the perception of another.
-Crossmodal receptive field
+### Crossmodal receptive field
 A receptive field that can be stimulated by a stimulus from more than one sensory modality.
-Crossmodal stimulus
+### Crossmodal stimulus
 A stimulus with components in multiple sensory modalties that interact with each other.
-Double flash illusion
+### Double flash illusion
 The false perception of two visual flashes when a single flash is accompanied by two auditory beeps.
-Integrated
+### Integrated
 The process by which the perceptual system combines information arising from more than one modality.
-McGurk effect
+### McGurk effect
 An effect in which conflicting visual and auditory components of a speech stimulus result in an illusory percept.
-Multimodal
+### Multimodal
 Of or pertaining to multiple sensory modalities.
-Multimodal perception
+### Multimodal perception
 The effects that concurrent stimulation in more than one sensory modality has on the perception of events and objects in the world.
-Multimodal phenomena
+### Multimodal phenomena
 Effects that concern the binding of inputs from multiple sensory modalities.
-Multisensory convergence zones
+### Multisensory convergence zones
 Regions in the brain that receive input from multiple unimodal areas processing different sensory modalities.
-Multisensory enhancement
+### Multisensory enhancement
 See “superadditive effect of multisensory integration.”
-Primary auditory cortex
+### Primary auditory cortex
 A region of the cortex devoted to the processing of simple auditory information.
-Primary visual cortex
+### Primary visual cortex
 A region of the cortex devoted to the processing of simple visual information.
-Principle of Inverse Effectiveness
+### Principle of Inverse Effectiveness
 The finding that, in general, for a multimodal stimulus, if the response to each unimodal component (on its own) is weak, then the opportunity for multisensory enhancement is very large. However, if one component—by itself—is sufficient to evoke a strong response, then the effect on the response gained by simultaneously processing the other components of the stimulus will be relatively small.
-Receptive field
+### Receptive field
 The portion of the world to which a neuron will respond if an appropriate stimulus is present there.
-Rubber hand illusion
+### Rubber hand illusion
 The false perception of a fake hand as belonging to a perceiver, due to multimodal sensory information.
-Sensory modalities
+### Sensory modalities
 A type of sense; for example, vision or audition.
-Spatial principle of multisensory integration
+### Spatial principle of multisensory integration
 The finding that the superadditive effects of multisensory integration are observed when the sources of stimulation are spatially related to one another.
-Superadditive effect of multisensory integration
+### Superadditive effect of multisensory integration
 The finding that responses to multimodal stimuli are typically greater than the sum of the independent responses to each unimodal component if it were presented on its own.
-Unimodal
+### Unimodal
 Of or pertaining to a single sensory modality.
-Unimodal components
+### Unimodal components
 The parts of a stimulus relevant to one sensory modality at a time.
-Unimodal cortex
+### Unimodal cortex
 A region of the brain devoted to the processing of information from a single sensory modality.
-References
-Andersson, U., Lyxell, B., Rönnberg, J., & Spens, K.-E. (2001). Cognitive correlates of visual speech understanding in hearing-impaired individuals. Journal of Deaf Studies and Deaf Education, 6(2), 103–116. doi: 10.1093/deafed/6.2.103
-Auer, E. T., Jr., & Bernstein, L. E. (2007). Enhanced visual speech perception in individuals with early-onset hearing impairment. Journal of Speech, Language, and Hearing Research, 50(5), 1157–1165. doi: 10.1044/1092-4388(2007/080)
-Bernstein, L. E. (2006). Visual speech perception. In E. Vatikiotis-Bateson, G. Bailley, & P. Perrier (Eds.), Audio-visual speech processing. Cambridge, MA: MIT Press.
-Bernstein, L. E., Auer, E. T., Jr., & Tucker, P. E. (2001). Enhanced speechreading in deaf adults: Can short-term training/practice close the gap for hearing adults? Journal of Speech, Language, and Hearing Research, 44, 5–18.
-Botvinick, M., & Cohen, J. (1998). Rubber hands /`feel/' touch that eyes see. [10.1038/35784]. Nature, 391(6669), 756–756.
-Calvert, G. A. (2001). Crossmodal processing in the human brain: Insights from functional neuroimaging studies. Cerebral Cortex, 11, 1110–1123.
-Calvert, G. A., Hansen, P. C., Iversen, S. D., & Brammer, M. J. (2001). Detection of audio-visual integration sites in humans by application of electrophysiological criteria to the bold effect. NeuroImage, 14(2), 427–438. doi: 10.1006/nimg.2001.0812
-Driver, J., & Noesselt, T. (2008). Multisensory interplay reveals crossmodal influences on ‘sensory-specific’ brain regions, neural responses, and judgments. Neuron, 57(1), 11–23. doi: 10.1016/j.neuron.2007.12.013
-Edwards, S. B., Ginsburgh, C. L., Henkel, C. K., & Stein, B. E. (1979). Sources of subcortical projections to the superior colliculus in the cat. Journal of Comparative Neurology, 184(2), 309–329. doi: 10.1002/cne.901840207
-Ghazanfar, A. A., & Schroeder, C. E. (2006). Is neocortex essentially multisensory? TRENDS in Cognitive Sciences, 10(6), 278-285. doi: 10.1016/j.tics.2006.04.008
-Kamachi, M., Hill, H., Lander, K., & Vatikiotis-Bateson, E. (2003). "Putting the face to the voice": Matching identity across modality. Current Biology, 13, 1709–1714.
-Lachs, L., & Pisoni, D. B. (2004a). Crossmodal source identification in speech perception. Ecological Psychology, 16(3), 159–187.
-Lachs, L., & Pisoni, D. B. (2004b). Crossmodal source information and spoken word recognition. Journal of Experimental Psychology: Human Perception & Performance, 30(2), 378–396.
-Lachs, L., & Pisoni, D. B. (2004c). Specification of crossmodal source information in isolated kinematic displays of speech. Journal of the Acoustical Society of America, 116(1), 507–518.
-Macaluso, E., & Driver, J. (2005). Multisensory spatial interactions: A window onto functional integration in the human brain. Trends in Neurosciences, 28(5), 264–271. doi: 10.1016/j.tins.2005.03.008
-McDonald, J. J., Teder-Sälejärvi, W. A., Russo, F. D., & Hillyard, S. A. (2003). Neural substrates of perceptual enhancement by cross-modal spatial attention. Journal of Cognitive Neuroscience, 15(1), 10–19. doi: 10.1162/089892903321107783
-McGurk, H., & MacDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–748.
-Mohammed, T., Campbell, R., MacSweeney, M., Milne, E., Hansen, P., & Coleman, M. (2005). Speechreading skill and visual movement sensitivity are related in deaf speechreaders. Perception, 34(2), 205–216.
-Recanzone, G. H. (2003). Auditory influences on visual temporal rate perception. Journal of Neurophysiology, 89(2), 1078–1093. doi: 10.1152/jn.00706.2002
-Rosenblum, L. D., Miller, R. M., & Sanchez, K. (2007). Lip-read me now, hear me better later: Cross-modal transfer of talker-familiarity effects. Psychological Science, 18(5), 392–396.
-Rosenblum, L. D., Smith, N. M., Nichols, S. M., Lee, J., & Hale, S. (2006). Hearing a face: Cross-modal speaker matching using isolated visible speech. Perception & Psychophysics, 68, 84–93.
-Sekuler, R., Sekuler, A. B., & Lau, R. (1997). Sound alters visual motion perception. [10.1038/385308a0]. Nature, 385(6614), 308–308.
-Shams, L., Kamitani, Y., & Shimojo, S. (2000). Illusions. What you see is what you hear. Nature, 408(6814), 788. doi: 10.1038/35048669
-Soto-Faraco, S., Kingstone, A., & Spence, C. (2003). Multisensory contributions to the perception of motion. Neuropsychologia, 41(13), 1847–1862. doi: 10.1016/s0028-3932(03)00185-4
-Spence, C., Senkowski, D., & Roder, B. (2009). Crossmodal processing. [Editorial Introductory]. Exerimental Brain Research, 198(2-3), 107–111. doi: 10.1007/s00221-009-1973–4
-Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. Cambridge, MA: The MIT Press.
-Stein, B. E., & Stanford, T. R. (2008). Multisensory integration: Current issues from the perspective of the single neuron. [10.1038/nrn2331]. Nature Reviews Neuroscience, 9(4), 255–266.
-Sumby, W. H., & Pollack, I. (1954). Visual contribution of speech intelligibility in noise. Journal of the Acoustical Society of America, 26, 212–215.
-Vasconcelos, N., Pantoja, J., Belchior, H., Caixeta, F. V., Faber, J., Freire, M. A. M., . . . Ribeiro, S. (2011). Cross-modal responses in the primary visual cortex encode complex objects and correlate with tactile discrimination. Proceedings of the National Academy of Sciences, 108(37), 15408–15413. doi: 10.1073/pnas.1102780108
-Vroomen, J., & De Gelder, B. (2004). Perceptual effects of cross-modal stimulation: Ventriloquism and the freezing phenomenon. In G. A. Calvert, C. Spence, & B. E. Stein (Eds.), Handbook of multisensory processes. Cambridge, MA: MIT Press.
+
+### ### References
+* Andersson, U., Lyxell, B., Rönnberg, J., & Spens, K.-E. (2001). Cognitive correlates of visual speech understanding in hearing-impaired individuals. Journal of Deaf Studies and Deaf Education, 6(2), 103–116. doi: 10.1093/deafed/6.2.103
+* Auer, E. T., Jr., & Bernstein, L. E. (2007). Enhanced visual speech perception in individuals with early-onset hearing impairment. Journal of Speech, Language, and Hearing Research, 50(5), 1157–1165. doi: 10.1044/1092-4388(2007/080)
+* Bernstein, L. E. (2006). Visual speech perception. In E. Vatikiotis-Bateson, G. Bailley, & P. Perrier (Eds.), Audio-visual speech processing. Cambridge, MA: MIT Press.
+* Bernstein, L. E., Auer, E. T., Jr., & Tucker, P. E. (2001). Enhanced speechreading in deaf adults: Can short-term training/practice close the gap for hearing adults? Journal of Speech, Language, and Hearing Research, 44, 5–18.
+* Botvinick, M., & Cohen, J. (1998). Rubber hands /`feel/' touch that eyes see. [10.1038/35784]. Nature, 391(6669), 756–756.
+* Calvert, G. A. (2001). Crossmodal processing in the human brain: Insights from functional neuroimaging studies. Cerebral Cortex, 11, 1110–1123.
+* Calvert, G. A., Hansen, P. C., Iversen, S. D., & Brammer, M. J. (2001). Detection of audio-visual integration sites in humans by application of electrophysiological criteria to the bold effect. NeuroImage, 14(2), 427–438. doi: 10.1006/nimg.2001.0812
+* Driver, J., & Noesselt, T. (2008). Multisensory interplay reveals crossmodal influences on ‘sensory-specific’ brain regions, neural responses, and judgments. Neuron, 57(1), 11–23. doi: 10.1016/j.neuron.2007.12.013
+* Edwards, S. B., Ginsburgh, C. L., Henkel, C. K., & Stein, B. E. (1979). Sources of subcortical projections to the superior colliculus in the cat. Journal of Comparative Neurology, 184(2), 309–329. doi: 10.1002/cne.901840207
+* Ghazanfar, A. A., & Schroeder, C. E. (2006). Is neocortex essentially multisensory? TRENDS in Cognitive Sciences, 10(6), 278-285. doi: 10.1016/j.tics.2006.04.008
+* Kamachi, M., Hill, H., Lander, K., & Vatikiotis-Bateson, E. (2003). "Putting the face to the voice": Matching identity across modality. Current Biology, 13, 1709–1714.
+* Lachs, L., & Pisoni, D. B. (2004a). Crossmodal source identification in speech perception. Ecological Psychology, 16(3), 159–187.
+* Lachs, L., & Pisoni, D. B. (2004b). Crossmodal source information and spoken word recognition. Journal of Experimental Psychology: Human Perception & Performance, 30(2), 378–396.
+* Lachs, L., & Pisoni, D. B. (2004c). Specification of crossmodal source information in isolated kinematic displays of speech. Journal of the Acoustical Society of America, 116(1), 507–518.
+* Macaluso, E., & Driver, J. (2005). Multisensory spatial interactions: A window onto functional integration in the human brain. Trends in Neurosciences, 28(5), 264–271. doi: 10.1016/j.tins.2005.03.008
+* McDonald, J. J., Teder-Sälejärvi, W. A., Russo, F. D., & Hillyard, S. A. (2003). Neural substrates of perceptual enhancement by cross-modal spatial attention. Journal of Cognitive Neuroscience, 15(1), 10–19. doi: 10.1162/089892903321107783
+* McGurk, H., & MacDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–748.
+* Mohammed, T., Campbell, R., MacSweeney, M., Milne, E., Hansen, P., & Coleman, M. (2005). Speechreading skill and visual movement sensitivity are related in deaf speechreaders. Perception, 34(2), 205–216.
+* Recanzone, G. H. (2003). Auditory influences on visual temporal rate perception. Journal of Neurophysiology, 89(2), 1078–1093. doi: 10.1152/jn.00706.2002
+* Rosenblum, L. D., Miller, R. M., & Sanchez, K. (2007). Lip-read me now, hear me better later: Cross-modal transfer of talker-familiarity effects. Psychological Science, 18(5), 392–396.
+* Rosenblum, L. D., Smith, N. M., Nichols, S. M., Lee, J., & Hale, S. (2006). Hearing a face: Cross-modal speaker matching using isolated visible speech. Perception & Psychophysics, 68, 84–93.
+* Sekuler, R., Sekuler, A. B., & Lau, R. (1997). Sound alters visual motion perception. [10.1038/385308a0]. Nature, 385(6614), 308–308.
+* Shams, L., Kamitani, Y., & Shimojo, S. (2000). Illusions. What you see is what you hear. Nature, 408(6814), 788. doi: 10.1038/35048669
+* Soto-Faraco, S., Kingstone, A., & Spence, C. (2003). Multisensory contributions to the perception of motion. Neuropsychologia, 41(13), 1847–1862. doi: 10.1016/s0028-3932(03)00185-4
+* Spence, C., Senkowski, D., & Roder, B. (2009). Crossmodal processing. [Editorial Introductory]. Exerimental Brain Research, 198(2-3), 107–111. doi: 10.1007/s00221-009-1973–4
+* Stein, B. E., & Meredith, M. A. (1993). The merging of the senses. Cambridge, MA: The MIT Press.
+* Stein, B. E., & Stanford, T. R. (2008). Multisensory integration: Current issues from the perspective of the single neuron. [10.1038/nrn2331]. Nature Reviews Neuroscience, 9(4), 255–266.
+* Sumby, W. H., & Pollack, I. (1954). Visual contribution of speech intelligibility in noise. Journal of the Acoustical Society of America, 26, 212–215.
+* Vasconcelos, N., Pantoja, J., Belchior, H., Caixeta, F. V., Faber, J., Freire, M. A. M., . . . Ribeiro, S. (2011). Cross-modal responses in the primary visual cortex encode complex objects and correlate with tactile discrimination. Proceedings of the National Academy of Sciences, 108(37), 15408–15413. doi: 10.1073/pnas.1102780108
+* Vroomen, J., & De Gelder, B. (2004). Perceptual effects of cross-modal stimulation: Ventriloquism and the freezing phenomenon. In G. A. Calvert, C. Spence, & B. E. Stein (Eds.), Handbook of multisensory processes. Cambridge, MA: MIT Press.
