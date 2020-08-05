@@ -119,54 +119,54 @@ Some researchers have argued that the Principle of Inverse Effectiveness (PoIE) 
 In the late 17th century, a scientist named William Molyneux asked the famous philosopher John Locke a question relevant to modern studies of multisensory processing. The question was this: Imagine a person who has been blind since birth, and who is able, by virtue of the sense of touch, to identify three dimensional shapes such as spheres or pyramids. Now imagine that this person suddenly receives the ability to see. Would the person, without using the sense of touch, be able to identify those same shapes visually? Can modern research in multimodal perception help answer this question? Why or why not? How do the studies about crossmodal phenomena inform us about the answer to this question?
 
 ## Vocabulary
-### Bouncing balls illusion
+#### Bouncing balls illusion
 The tendency to perceive two circles as bouncing off each other if the moment of their contact is accompanied by an auditory stimulus.
-### Crossmodal phenomena
+#### Crossmodal phenomena
 Effects that concern the influence of the perception of one sensory modality on the perception of another.
-### Crossmodal receptive field
+#### Crossmodal receptive field
 A receptive field that can be stimulated by a stimulus from more than one sensory modality.
-### Crossmodal stimulus
+#### Crossmodal stimulus
 A stimulus with components in multiple sensory modalties that interact with each other.
-### Double flash illusion
+#### Double flash illusion
 The false perception of two visual flashes when a single flash is accompanied by two auditory beeps.
-### Integrated
+#### Integrated
 The process by which the perceptual system combines information arising from more than one modality.
-### McGurk effect
+#### McGurk effect
 An effect in which conflicting visual and auditory components of a speech stimulus result in an illusory percept.
-### Multimodal
+#### Multimodal
 Of or pertaining to multiple sensory modalities.
-### Multimodal perception
+#### Multimodal perception
 The effects that concurrent stimulation in more than one sensory modality has on the perception of events and objects in the world.
-### Multimodal phenomena
+#### Multimodal phenomena
 Effects that concern the binding of inputs from multiple sensory modalities.
-### Multisensory convergence zones
+#### Multisensory convergence zones
 Regions in the brain that receive input from multiple unimodal areas processing different sensory modalities.
-### Multisensory enhancement
+#### Multisensory enhancement
 See “superadditive effect of multisensory integration.”
-### Primary auditory cortex
+#### Primary auditory cortex
 A region of the cortex devoted to the processing of simple auditory information.
-### Primary visual cortex
+#### Primary visual cortex
 A region of the cortex devoted to the processing of simple visual information.
-### Principle of Inverse Effectiveness
+#### Principle of Inverse Effectiveness
 The finding that, in general, for a multimodal stimulus, if the response to each unimodal component (on its own) is weak, then the opportunity for multisensory enhancement is very large. However, if one component—by itself—is sufficient to evoke a strong response, then the effect on the response gained by simultaneously processing the other components of the stimulus will be relatively small.
-### Receptive field
+#### Receptive field
 The portion of the world to which a neuron will respond if an appropriate stimulus is present there.
-### Rubber hand illusion
+#### Rubber hand illusion
 The false perception of a fake hand as belonging to a perceiver, due to multimodal sensory information.
-### Sensory modalities
+#### Sensory modalities
 A type of sense; for example, vision or audition.
-### Spatial principle of multisensory integration
+#### Spatial principle of multisensory integration
 The finding that the superadditive effects of multisensory integration are observed when the sources of stimulation are spatially related to one another.
-### Superadditive effect of multisensory integration
+#### Superadditive effect of multisensory integration
 The finding that responses to multimodal stimuli are typically greater than the sum of the independent responses to each unimodal component if it were presented on its own.
-### Unimodal
+#### Unimodal
 Of or pertaining to a single sensory modality.
 ### Unimodal components
 The parts of a stimulus relevant to one sensory modality at a time.
-### Unimodal cortex
+#### Unimodal cortex
 A region of the brain devoted to the processing of information from a single sensory modality.
 
-### ### References
+## References
 * Andersson, U., Lyxell, B., Rönnberg, J., & Spens, K.-E. (2001). Cognitive correlates of visual speech understanding in hearing-impaired individuals. Journal of Deaf Studies and Deaf Education, 6(2), 103–116. doi: 10.1093/deafed/6.2.103
 * Auer, E. T., Jr., & Bernstein, L. E. (2007). Enhanced visual speech perception in individuals with early-onset hearing impairment. Journal of Speech, Language, and Hearing Research, 50(5), 1157–1165. doi: 10.1044/1092-4388(2007/080)
 * Bernstein, L. E. (2006). Visual speech perception. In E. Vatikiotis-Bateson, G. Bailley, & P. Perrier (Eds.), Audio-visual speech processing. Cambridge, MA: MIT Press.
