@@ -100,20 +100,8 @@ Similarly, it has been shown that when perceivers see a speaking face, they can 
 ## Conclusion
 In this module, we have reviewed some of the main evidence and findings concerning the role of multimodal perception in our experience of the world. It appears that our nervous system (and the cortex in particular) contains considerable architecture for the processing of information arriving from multiple senses. Given this neurobiological setup, and the diversity of behavioral phenomena associated with multimodal stimuli, it is likely that the investigation of multimodal perception will continue to be a topic of interest in the field of experimental perception for many years to come.
 
-Outside Resources
-Article: A review of the neuroanatomy and methods associated with multimodal perception:
-http://dx.doi.org/10.1016/j.neubiorev.2011.04.015
-Journal: Experimental Brain Research Special issue: Crossmodal processing
-http://www.springerlink.com/content/0014-4819/198/2-3
-TED Talk: Optical Illusions
-http://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see
-Video: McGurk demo
 
-Video: The Rubber Hand Illusion
-
-Web: Double-flash illusion demo
-http://www.cns.atr.jp/~kmtn/soundInducedIllusoryFlash2/
-Discussion Questions
+## Discussion Questions
 The extensive network of multisensory areas and neurons in the cortex implies that much perceptual processing occurs in the context of multiple inputs. Could the processing of unimodal information ever be useful? Why or why not?
 Some researchers have argued that the Principle of Inverse Effectiveness (PoIE) results from ceiling effects: Multisensory enhancement cannot take place when one modality is sufficient for processing because in such cases it is not possible for processing to be enhanced (because performance is already at the “ceiling”). On the other hand, other researchers claim that the PoIE stems from the perceptual system’s ability to assess the relative value of stimulus cues, and to use the most reliable sources of information to construct a representation of the outside world. What do you think? Could these two possibilities ever be teased apart? What kinds of experiments might one conduct to try to get at this issue?
 In the late 17th century, a scientist named William Molyneux asked the famous philosopher John Locke a question relevant to modern studies of multisensory processing. The question was this: Imagine a person who has been blind since birth, and who is able, by virtue of the sense of touch, to identify three dimensional shapes such as spheres or pyramids. Now imagine that this person suddenly receives the ability to see. Would the person, without using the sense of touch, be able to identify those same shapes visually? Can modern research in multimodal perception help answer this question? Why or why not? How do the studies about crossmodal phenomena inform us about the answer to this question?
@@ -161,7 +149,7 @@ The finding that the superadditive effects of multisensory integration are obser
 The finding that responses to multimodal stimuli are typically greater than the sum of the independent responses to each unimodal component if it were presented on its own.
 #### Unimodal
 Of or pertaining to a single sensory modality.
-### Unimodal components
+#### Unimodal components
 The parts of a stimulus relevant to one sensory modality at a time.
 #### Unimodal cortex
 A region of the brain devoted to the processing of information from a single sensory modality.
