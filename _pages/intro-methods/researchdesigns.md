@@ -7,20 +7,14 @@ sidebar:
 
 Psychologists test research questions using a variety of methods. Most research relies on either correlations or experiments. With correlations, researchers measure variables as they naturally occur in people and compute the degree to which two variables go together. With experiments, researchers actively make changes in one variable and watch for changes in another variable. Experiments allow researchers to make causal inferences. Other types of methods include longitudinal and quasi-experimental designs. Many factors, including practical constraints, determine the type of methods researchers use. Often researchers survey people even though it would be better, but more expensive and time consuming, to track them longitudinally.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/acxb2thy
-CausalityCorrelationsExperimentsLongitudinal studyQuasi-experimentsResearch designsSurvey
-Learning Objectives
-Articulate the difference between correlational and experimental designs.
-Understand how to interpret correlations.
-Understand how experiments help us to infer causality.
-Understand how surveys relate to correlational and experimental research.
-Explain what a longitudinal study is.
-List a strength and weakness of different research designs.
-Research Designs
+## Learning Objectives
+* Articulate the difference between correlational and experimental designs.
+* Understand how to interpret correlations.
+* Understand how experiments help us to infer causality.
+* Understand how surveys relate to correlational and experimental research.
+* Explain what a longitudinal study is.
+* List a strength and weakness of different research designs.
+## Research Designs
 In the early 1970’s, a man named Uri Geller tricked the world: he convinced hundreds of thousands of people that he could bend spoons and slow watches using only the power of his mind. In fact, if you were in the audience, you would have likely believed he had psychic powers. Everything looked authentic—this man had to have paranormal abilities! So, why have you probably never heard of him before? Because when Uri was asked to perform his miracles in line with scientific experimentation, he was no longer able to do them. That is, even though it seemed like he was doing the impossible, when he was tested by science, he proved to be nothing more than a clever magician.
 
 When we look at dinosaur bones to make educated guesses about extinct life, or systematically chart the heavens to learn about the relationships between stars and planets, or study magicians to figure out how they perform their tricks, we are forming observations—the foundation of science. Although we are all familiar with the saying “seeing is believing,” conducting science is more than just what your eyes perceive. Science is the result of systematic and intentional study of the natural world. And psychology is no different. In the movie Jerry Maguire, Cuba Gooding, Jr. became famous for using the phrase, “Show me the money!” In psychology, as in all sciences, we might say, “Show me the data!”
@@ -29,7 +23,7 @@ One of the important steps in scientific inquiry is to test our research questio
 
 Most psychological research can be divided into two types: experimental and correlational research.
 
-Experimental Research
+## Experimental Research
 If somebody gave you $20 that absolutely had to be spent today, how would you choose to spend it? Would you spend it on an item you’ve been eyeing for weeks, or would you donate the money to charity? Which option do you think would bring you the most happiness? If you’re like most people, you’d choose to spend the money on yourself (duh, right?). Our intuition is that we’d be happier if we spent the money on ourselves.
 
 Coffee shop owner Josh cooks shows 100 dollars that were donated by a generous customer to buy drinks for strangers.
@@ -46,17 +40,17 @@ By randomly assigning people to conditions (self-spending versus other-spending)
 
 Here’s another example of the importance of random assignment: Let’s say your class is going to form two basketball teams, and you get to be the captain of one team. The class is to be divided evenly between the two teams. If you get to pick the players for your team first, whom will you pick? You’ll probably pick the tallest members of the class or the most athletic. You probably won’t pick the short, uncoordinated people, unless there are no other options. As a result, your team will be taller and more athletic than the other team. But what if we want the teams to be fair? How can we do this when we have people of varying height and ability? All we have to do is randomly assign players to the two teams. Most likely, some tall and some short people will end up on your team, and some tall and some short people will end up on the other team. The average height of the teams will be approximately the same. That is the power of random assignment!
 
-Other considerations
+## Other considerations
 In addition to using random assignment, you should avoid introducing confounds into your experiments. Confounds are things that could undermine your ability to draw causal inferences. For example, if you wanted to test if a new happy pill will make people happier, you could randomly assign participants to take the happy pill or not (the independent variable) and compare these two groups on their self-reported happiness (the dependent variable). However, if some participants know they are getting the happy pill, they might develop expectations that influence their self-reported happiness. This is sometimes known as a placebo effect. Sometimes a person just knowing that he or she is receiving special treatment or something new is enough to actually cause changes in behavior or perception: In other words, even if the participants in the happy pill condition were to report being happier, we wouldn’t know if the pill was actually making them happier or if it was the placebo effect—an example of a confound. A related idea is participant demand. This occurs when participants try to behave in a way they think the experimenter wants them to behave. Placebo effects and participant demand often occur unintentionally. Even experimenter expectations can influence the outcome of a study. For example, if the experimenter knows who took the happy pill and who did not, and the dependent variable is the experimenter’s observations of people’s happiness, then the experimenter might perceive improvements in the happy pill group that are not really there.
 
 One way to prevent these confounds from affecting the results of a study is to use a double-blind procedure. In a double-blind procedure, neither the participant nor the experimenter knows which condition the participant is in. For example, when participants are given the happy pill or the fake pill, they don’t know which one they are receiving. This way the participants shouldn’t experience the placebo effect, and will be unable to behave as the researcher expects (participant demand). Likewise, the researcher doesn’t know which pill each participant is taking (at least in the beginning—later, the researcher will get the results for data-analysis purposes), which means the researcher’s expectations can’t influence his or her observations. Therefore, because both parties are “blind” to the condition, neither will be able to behave in a way that introduces a confound. At the end of the day, the only difference between groups will be which pills the participants received, allowing the researcher to determine if the happy pill actually caused people to be happier.
 
-Correlational Designs
+## Correlational Designs
 When scientists passively observe and measure phenomena it is called correlational research. Here, we do not intervene and change behavior, as we do in experiments. In correlational research, we identify patterns of relationships, but we usually cannot infer what causes what. Importantly, with correlational research, you can examine only two variables at a time, no more and no less.
 
 So, what if you wanted to test whether spending on others is related to happiness, but you don’t have $20 to give to each participant? You could use a correlational design—which is exactly what Professor Dunn did, too. She asked people how much of their income they spent on others or donated to charity, and later she asked them how happy they were. Do you think these two variables were related? Yes, they were! The more money people reported spending on others, the happier they were.
 
-More details about the correlation
+## More details about the correlation
 To find out how well two variables correspond, we can plot the relation between the two scores on what is known as a scatterplot (Figure 1). In the scatterplot, each dot represents a data point. (In this case it’s individuals, but it could be some other unit.) Importantly, each dot provides us with two pieces of information—in this case, information about how good the person rated the past month (x-axis) and how happy the person felt in the past month (y-axis). Which variable is plotted on which axis does not matter. 
 
 Scatterplot of the association between happiness and ratings of the past month, a positive correlation (r = .81)
@@ -77,17 +71,17 @@ Scatterplot showing the association between valuing happiness and GPA, a weak ne
 Figure 3. Scatterplot showing the association between valuing happiness and GPA, a weak negative correlation (r = –.32). Each dot represents an individual.
 Can you guess the strength and direction of the correlation between age and year of birth? If you said this is a strong negative correlation, you are correct! Older people always have lower years of birth than younger people (e.g., 1950 vs. 1995), but at the same time, the older people will have a higher age (e.g., 65 vs. 20). In fact, this is a perfect correlation because there are no exceptions to this pattern. I challenge you to find a 10-year-old born before 2003! You can’t.
 
-Problems with the correlation
+## Problems with the correlation
 If generosity and happiness are positively correlated, should we conclude that being generous causes happiness? Similarly, if height and pathogen prevalence are negatively correlated, should we conclude that disease causes shortness? From a correlation alone, we can’t be certain. For example, in the first case it may be that happiness causes generosity, or that generosity causes happiness. Or, a third variable might cause both happiness and generosity, creating the illusion of a direct link between the two. For example, wealth could be the third variable that causes both greater happiness and greater generosity. This is why correlation does not mean causation—an often repeated phrase among psychologists.
 
-Qualitative Designs
+## Qualitative Designs
 Just as correlational research allows us to study topics we can’t experimentally manipulate (e.g., whether you have a large or small income), there are other types of research designs that allow us to investigate these harder-to-study topics. Qualitative designs, including participant observation, case studies, and narrative analysis are examples of such methodologies. Although something as simple as “observation” may seem like it would be a part of all research methods, participant observation is a distinct methodology that involves the researcher embedding him- or herself into a group in order to study its dynamics. For example, Festinger, Riecken, and Shacter (1956) were very interested in the psychology of a particular cult. However, this cult was very secretive and wouldn’t grant interviews to outside members. So, in order to study these people, Festinger and his colleagues pretended to be cult members, allowing them access to the behavior and psychology of the cult. Despite this example, it should be noted that the people being observed in a participant observation study usually know that the researcher is there to study them.
 
 Another qualitative method for research is the case study, which involves an intensive examination of specific individuals or specific contexts. Sigmund Freud, the father of psychoanalysis, was famous for using this type of methodology; however, more current examples of case studies usually involve brain injuries. For instance, imagine that researchers want to know how a very specific brain injury affects people’s experience of happiness. Obviously, the researchers can’t conduct experimental research that involves inflicting this type of injury on people. At the same time, there are too few people who have this type of injury to conduct correlational research. In such an instance, the researcher may examine only one person with this brain injury, but in doing so, the researcher will put the participant through a very extensive round of tests. Hopefully what is learned from this one person can be applied to others; however, even with thorough tests, there is the chance that something unique about this individual (other than the brain injury) will affect his or her happiness. But with such a limited number of possible participants, a case study is really the only type of methodology suitable for researching this brain injury.
 
 The final qualitative method to be discussed in this section is narrative analysis. Narrative analysis centers around the study of stories and personal accounts of people, groups, or cultures. In this methodology, rather than engaging with participants directly, or quantifying their responses or behaviors, researchers will analyze the themes, structure, and dialogue of each person’s narrative. That is, a researcher will examine people’s personal testimonies in order to learn more about the psychology of those individuals or groups. These stories may be written, audio-recorded, or video-recorded, and allow the researcher not only to study what the participant says but how he or she says it. Every person has a unique perspective on the world, and studying the way he or she conveys a story can provide insight into that perspective. 
 
-Quasi-Experimental Designs
+## Quasi-Experimental Designs
 What if you want to study the effects of marriage on a variable? For example, does marriage make people happier? Can you randomly assign some people to get married and others to remain single? Of course not. So how can you study these important variables? You can use a quasi-experimental design.
 
 Scrabble tiles and wedding rings spell out the word "Love".
@@ -96,64 +90,56 @@ A quasi-experimental design is similar to experimental research, except that ran
 
 Because experimental and quasi-experimental designs can seem pretty similar, let’s take another example to distinguish them. Imagine you want to know who is a better professor: Dr. Smith or Dr. Khan. To judge their ability, you’re going to look at their students’ final grades. Here, the independent variable is the professor (Dr. Smith vs. Dr. Khan) and the dependent variable is the students’ grades. In an experimental design, you would randomly assign students to one of the two professors and then compare the students’ final grades. However, in real life, researchers can’t randomly force students to take one professor over the other; instead, the researchers would just have to use the preexisting classes and study them as-is (quasi-experimental design). Again, the key difference is random assignment to the conditions of the independent variable. Although the quasi-experimental design (where the students choose which professor they want) may seem random, it’s most likely not. For example, maybe students heard Dr. Smith sets low expectations, so slackers prefer this class, whereas Dr. Khan sets higher expectations, so smarter students prefer that one. This now introduces a confounding variable (student intelligence) that will almost certainly have an effect on students’ final grades, regardless of how skilled the professor is. So, even though a quasi-experimental design is similar to an experimental design (i.e., both have independent and dependent variables), because there’s no random assignment, you can’t reasonably draw the same conclusions that you would with an experimental design.
 
-Longitudinal Studies
+## Longitudinal Studies
 Another powerful research design is the longitudinal study. Longitudinal studies track the same people over time. Some longitudinal studies last a few weeks, some a few months, some a year or more. Some studies that have contributed a lot to psychology followed the same people over decades. For example, one study followed more than 20,000 Germans for two decades. From these longitudinal data, psychologist Rich Lucas (2003) was able to determine that people who end up getting married indeed start off a bit happier than their peers who never marry. Longitudinal studies like this provide valuable evidence for testing many theories in psychology, but they can be quite costly to conduct, especially if they follow many people for many years.
 
-Surveys
+## Surveys
 Ticking a box on a survey form.
 Surveys provide researchers with some significant advantages in gathering data. They make it possible to reach large numbers of people while keeping costs to the researchers and the time commitments of participants relatively low.
 A survey is a way of gathering information, using old-fashioned questionnaires or the Internet. Compared to a study conducted in a psychology laboratory, surveys can reach a larger number of participants at a much lower cost. Although surveys are typically used for correlational research, this is not always the case. An experiment can be carried out using surveys as well. For example, King and Napa (1998) presented participants with different types of stimuli on paper: either a survey completed by a happy person or a survey completed by an unhappy person. They wanted to see whether happy people were judged as more likely to get into heaven compared to unhappy people. Can you figure out the independent and dependent variables in this study? Can you guess what the results were? Happy people (vs. unhappy people; the independent variable) were judged as more likely to go to heaven (the dependent variable) compared to unhappy people!
 
 Likewise, correlational research can be conducted without the use of surveys. For instance, psychologists LeeAnn Harker and Dacher Keltner (2001) examined the smile intensity of women’s college yearbook photos. Smiling in the photos was correlated with being married 10 years later!
 
-Tradeoffs in Research
+## Tradeoffs in Research
 Even though there are serious limitations to correlational and quasi-experimental research, they are not poor cousins to experiments and longitudinal designs. In addition to selecting a method that is appropriate to the question, many practical concerns may influence the decision to use one method over another. One of these factors is simply resource availability—how much time and money do you have to invest in the research? (Tip: If you’re doing a senior honor’s thesis, do not embark on a lengthy longitudinal study unless you are prepared to delay graduation!) Often, we survey people even though it would be more precise—but much more difficult—to track them longitudinally. Especially in the case of exploratory research, it may make sense to opt for a cheaper and faster method first. Then, if results from the initial study are promising, the researcher can follow up with a more intensive method.
 
 Beyond these practical concerns, another consideration in selecting a research design is the ethics of the study. For example, in cases of brain injury or other neurological abnormalities, it would be unethical for researchers to inflict these impairments on healthy participants. Nonetheless, studying people with these injuries can provide great insight into human psychology (e.g., if we learn that damage to a particular region of the brain interferes with emotions, we may be able to develop treatments for emotional irregularities). In addition to brain injuries, there are numerous other areas of research that could be useful in understanding the human mind but which pose challenges to a true experimental design—such as the experiences of war, long-term isolation, abusive parenting, or prolonged drug use. However, none of these are conditions we could ethically experimentally manipulate and randomly assign people to. Therefore, ethical considerations are another crucial factor in determining an appropriate research design.
 
-Research Methods: Why You Need Them
+## Research Methods: Why You Need Them
 Just look at any major news outlet and you’ll find research routinely being reported. Sometimes the journalist understands the research methodology, sometimes not (e.g., correlational evidence is often incorrectly represented as causal evidence). Often, the media are quick to draw a conclusion for you. After reading this module, you should recognize that the strength of a scientific finding lies in the strength of its methodology. Therefore, in order to be a savvy consumer of research, you need to understand the pros and cons of different methods and the distinctions among them. Plus, understanding how psychologists systematically go about answering research questions will help you to solve problems in other domains, both personal and professional, not just in psychology.
 
-Outside Resources
-Article: Harker and Keltner study of yearbook photographs and marriage
-http://psycnet.apa.org/journals/psp/80/1/112/
-Article: Rich Lucas’s longitudinal study on the effects of marriage on happiness
-http://psycnet.apa.org/journals/psp/84/3/527/
-Article: Spending money on others promotes happiness. Elizabeth Dunn’s research
-https://www.sciencemag.org/content/319/5870/1687.abstract
-Article: What makes a life good?
-http://psycnet.apa.org/journals/psp/75/1/156/
-Discussion Questions
-What are some key differences between experimental and correlational research?
-Why might researchers sometimes use methods other than experiments?
-How do surveys relate to correlational and experimental designs?
-Vocabulary
-Confounds
+
+## Discussion Questions
+* What are some key differences between experimental and correlational research?
+* Why might researchers sometimes use methods other than experiments?
+* How do surveys relate to correlational and experimental designs?
+## Vocabulary
+### Confounds
 Factors that undermine the ability to draw causal inferences from an experiment.
-Correlation
+### Correlation
 Measures the association between two variables, or how they go together.
-Dependent variable
+### Dependent variable
 The variable the researcher measures but does not manipulate in an experiment.
-Experimenter expectations
+### Experimenter expectations
 When the experimenter’s expectations influence the outcome of a study.
-Independent variable
+### Independent variable
 The variable the researcher manipulates and controls in an experiment.
-Longitudinal study
+### Longitudinal study
 A study that follows the same group of individuals over time.
-Operational definitions
+### Operational definitions
 How researchers specifically measure a concept.
-Participant demand
+### Participant demand
 When participants behave in a way that they think the experimenter wants them to behave.
-Placebo effect
+### Placebo effect
 When receiving special treatment or something new affects human behavior.
-Quasi-experimental design
+### Quasi-experimental design
 An experiment that does not require random assignment to conditions.
-Random assignment
+### Random assignment
 Assigning participants to receive different conditions of an experiment by chance.
-References
-Chiao, J. (2009). Culture–gene coevolution of individualism – collectivism and the serotonin transporter gene. Proceedings of the Royal Society B, 277, 529-537. doi: 10.1098/rspb.2009.1650
-Dunn, E. W., Aknin, L. B., & Norton, M. I. (2008). Spending money on others promotes happiness. Science, 319(5870), 1687–1688. doi:10.1126/science.1150952
-Festinger, L., Riecken, H.W., & Schachter, S. (1956). When prophecy fails. Minneapolis, MN: University of Minnesota Press.
-Harker, L. A., & Keltner, D. (2001). Expressions of positive emotion in women\'s college yearbook pictures and their relationship to personality and life outcomes across adulthood. Journal of Personality and Social Psychology, 80, 112–124.
-King, L. A., & Napa, C. K. (1998). What makes a life good? Journal of Personality and Social Psychology, 75, 156–165.
-Lucas, R. E., Clark, A. E., Georgellis, Y., & Diener, E. (2003). Re-examining adaptation and the setpoint model of happiness: Reactions to changes in marital status. Journal of Personality and Social Psychology, 84, 527–539.
+## References
+* Chiao, J. (2009). Culture–gene coevolution of individualism – collectivism and the serotonin transporter gene. Proceedings of the Royal Society B, 277, 529-537. doi: 10.1098/rspb.2009.1650
+* Dunn, E. W., Aknin, L. B., & Norton, M. I. (2008). Spending money on others promotes happiness. Science, 319(5870), 1687–1688. doi:10.1126/science.1150952
+* Festinger, L., Riecken, H.W., & Schachter, S. (1956). When prophecy fails. Minneapolis, MN: University of Minnesota Press.
+* Harker, L. A., & Keltner, D. (2001). Expressions of positive emotion in women\'s college yearbook pictures and their relationship to personality and life outcomes across adulthood. Journal of Personality and Social Psychology, 80, 112–124.
+* King, L. A., & Napa, C. K. (1998). What makes a life good? Journal of Personality and Social Psychology, 75, 156–165.
+* Lucas, R. E., Clark, A. E., Georgellis, Y., & Diener, E. (2003). Re-examining adaptation and the setpoint model of happiness: Reactions to changes in marital status. Journal of Personality and Social Psychology, 84, 527–539.
