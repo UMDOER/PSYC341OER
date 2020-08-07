@@ -7,18 +7,12 @@ sidebar:
 
 People form mental concepts of categories of objects, which permit them to respond appropriately to new objects they encounter. Most concepts cannot be strictly defined but are organized around the “best” examples or prototypes, which have the properties most common in the category. Objects fall into many different categories, but there is usually a most salient one, called the basic-level category, which is at an intermediate level of specificity (e.g., chairs, rather than furniture or desk chairs). Concepts are closely related to our knowledge of the world, and people can more easily learn concepts that are consistent with their knowledge. Theories of concepts argue either that people learn a summary description of a whole category or else that they learn exemplars of the category. Recent research suggests that there are different ways to learn and represent concepts and that they are accomplished by different neural systems.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/6vu4cpkt
-Basic-level categoryCategorical hierarchiesCategoryConceptExemplarExemplar theory of conceptsFamily resemblanceKnowledge approach to conceptsPrototypePrototype theory of conceptsPsychological essentialismTypicality
-Learning Objectives
-Understand the problems with attempting to define categories.
-Understand typicality and fuzzy category boundaries.
-Learn about theories of the mental representation of concepts.
-Learn how knowledge may influence concept learning.
-Introduction
+## Learning Objectives
+* Understand the problems with attempting to define categories.
+* Understand typicality and fuzzy category boundaries.
+* Learn about theories of the mental representation of concepts.
+* Learn how knowledge may influence concept learning.
+## Introduction
 A colorful transport truck driving up a hill.
 Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [Image: CC0 Public Domain, https://goo.gl/m25gce]
 Consider the following set of objects: some dust, papers, a computer monitor, two pens, a cup, and an orange. What do these things have in common? Only that they all happen to be on my desk as I write this. This set of things can be considered a category, a set of objects that can be treated as equivalent in some way. But, most of our categories seem much more informative—they share many properties. For example, consider the following categories: trucks, wireless devices, weddings, psychopaths, and trout. Although the objects in a given category are different from one another, they have many commonalities. When you know something is a truck, you know quite a bit about it. The psychology of categories concerns how people learn, remember, and use informative categories such as trucks or psychopaths.
@@ -31,7 +25,7 @@ You know thousands of categories, most of which you have learned without careful
 
 Simpler organisms, such as animals and human infants, also have concepts (Mareschal, Quinn, & Lea, 2010). Squirrels may have a concept of predators, for example, that is specific to their own lives and experiences. However, animals likely have many fewer concepts and cannot understand complex concepts such as mortgages or musical instruments.
 
-Nature of Categories
+## Nature of Categories
 A dog that is missing one of it's front legs sits in the backseat of a car.
 Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [Image: State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7]
 Traditionally, it has been assumed that categories are well-defined. This means that you can give a definition that specifies what is in and out of the category. Such a definition has two parts. First, it provides the necessary features for category membership: What must objects have in order to be in it? Second, those features must be jointly sufficient for membership: If an object has those features, then it is in the category. For example, if I defined a dog as a four-legged animal that barks, this would mean that every dog is four-legged, an animal, and barks, and also that anything that has all those properties is a dog.
@@ -40,15 +34,15 @@ Unfortunately, it has not been possible to find definitions for many familiar ca
 
 Even in domains where one might expect to find clear-cut definitions, such as science and law, there are often problems. For example, many people were upset when Pluto was downgraded from its status as a planet to a dwarf planet in 2006. Upset turned to outrage when they discovered that there was no hard-and-fast definition of planethood: “Aren’t these astronomers scientists? Can’t they make a simple definition?” In fact, they couldn’t. After an astronomical organization tried to make a definition for planets, a number of astronomers complained that it might not include accepted planets such as Neptune and refused to use it. If everything looked like our Earth, our moon, and our sun, it would be easy to give definitions of planets, moons, and stars, but the universe has sadly not conformed to this ideal.
 
-Fuzzy Categories
-Borderline Items  
+## Fuzzy Categories
+## Borderline Items  
 Experiments also showed that the psychological assumptions of well-defined categories were not correct. Hampton (1979) asked subjects to judge whether a number of items were in different categories. He did not find that items were either clear members or clear nonmembers. Instead, he found many items that were just barely considered category members and others that were just barely not members, with much disagreement among subjects. Sinks were barely considered as members of the kitchen utensil category, and sponges were barely excluded. People just included seaweed as a vegetable and just barely excluded tomatoes and gourds. Hampton found that members and nonmembers formed a continuum, with no obvious break in people’s membership judgments. If categories were well defined, such examples should be very rare. Many studies since then have found such borderline members that are not clearly in or clearly out of the category.
 
 Examples of two categories with members ordered by typicality. Category 1, Furniture: chair, table, desk, bookcase, lamp, cushion, rug, stove, picture, vase. Category 2, Fruit: orange, banana, pear, plum, strawberry, pineapple, lemon, honeydew, date, tomato.
 Table 1. Examples of two categories, with members ordered by typicality (from Rosch & Mervis, 1975)
 McCloskey and Glucksberg (1978) found further evidence for borderline membership by asking people to judge category membership twice, separated by two weeks. They found that when people made repeated category judgments such as “Is an olive a fruit?” or “Is a sponge a kitchen utensil?” they changed their minds about borderline items—up to 22 percent of the time. So, not only do people disagree with one another about borderline items, they disagree with themselves! As a result, researchers often say that categories are fuzzy, that is, they have unclear boundaries that can shift over time.
 
-Typicality
+## Typicality
 A related finding that turns out to be most important is that even among items that clearly are in a category, some seem to be “better” members than others (Rosch, 1973). Among birds, for example, robins and sparrows are very typical. In contrast, ostriches and penguins are very atypical (meaning not typical). If someone says, “There’s a bird in my yard,” the image you have will be of a smallish passerine bird such as a robin, not an eagle or hummingbird or turkey.
 
 You can find out which category members are typical merely by asking people. Table 1 shows a list of category members in order of their rated typicality. Typicality is perhaps the most important variable in predicting how people interact with categories. The following text box is a partial list of what typicality influences.
@@ -57,7 +51,7 @@ We can understand the two phenomena of borderline members and typicality as two 
 
 Influences of typicality on cognition: 1 – Typical items are judged category members more often. 2 – The speed of categorization is faster for typical items. 3 – Typical members are learned before atypical ones. 4 – Learning a category is easier of typical items are provided. 5 – In language comprehension, references to typical members are understood more easily. 6 – In language production, people tend to say typical items before atypical ones (e.g. “apples and lemons” rather than “lemons and apples”).
 Text Box 1
-Source of Typicality
+## Source of Typicality
 Intuitively, it is not surprising that robins are better examples of birds than penguins are, or that a table is a more typical kind of furniture than is a rug. But given that robins and penguins are known to be birds, why should one be more typical than the other? One possible answer is the frequency with which we encounter the object: We see a lot more robins than penguins, so they must be more typical. Frequency does have some effect, but it is actually not the most important variable (Rosch, Simpson, & Miller, 1976). For example, I see both rugs and tables every single day, but one of them is much more typical as furniture than the other.
 
 The best account of what makes something typical comes from Rosch and Mervis’s (1975) family resemblance theory. They proposed that items are likely to be typical if they (a) have the features that are frequent in the category and (b) do not have features frequent in other categories. Let’s compare two extremes, robins and penguins. Robins are small flying birds that sing, live in nests in trees, migrate in winter, hop around on your lawn, and so on. Most of these properties are found in many other birds. In contrast, penguins do not fly, do not sing, do not live in nests or in trees, do not hop around on your lawn. Furthermore, they have properties that are common in other categories, such as swimming expertly and having wings that look and act like fins. These properties are more often found in fish than in birds.
@@ -68,7 +62,7 @@ According to Rosch and Mervis, then, it is not because a robin is a very common 
 
 In a classic experiment, Rosch and Mervis (1975) made up two new categories, with arbitrary features. Subjects viewed example after example and had to learn which example was in which category. Rosch and Mervis constructed some items that had features that were common in the category and other items that had features less common in the category. The subjects learned the first type of item before they learned the second type. Furthermore, they then rated the items with common features as more typical. In another experiment, Rosch and Mervis constructed items that differed in how many features were shared with a different category. The more features were shared, the longer it took subjects to learn which category the item was in. These experiments, and many later studies, support both parts of the family resemblance theory.
 
-Category Hierarchies
+## Category Hierarchies
 Many important categories fall into hierarchies, in which more concrete categories are nested inside larger, abstract categories. For example, consider the categories: brown bear, bear, mammal, vertebrate, animal, entity. Clearly, all brown bears are bears; all bears are mammals; all mammals are vertebrates; and so on. Any given object typically does not fall into just one category—it could be in a dozen different categories, some of which are structured in this hierarchical manner. Examples of biological categories come to mind most easily, but within the realm of human artifacts, hierarchical structures can readily be found: desk chair, chair, furniture, artifact, object.
 
 Brown (1958), a child language researcher, was perhaps the first to note that there seems to be a preference for which category we use to label things. If your office desk chair is in the way, you’ll probably say, “Move that chair,” rather than “Move that desk chair” or “piece of furniture.” Brown thought that the use of a single, consistent name probably helped children to learn the name for things. And, indeed, children’s first labels for categories tend to be exactly those names that adults prefer to use (Anglin, 1977).
@@ -131,72 +125,57 @@ Essentialism is probably helpful in dealing with much of the natural world, but 
 
 Research on categories of people is an exciting ongoing enterprise, and we still do not know as much as we would like to about how concepts of different kinds of people are learned in childhood and how they may (or may not) change in adulthood. Essentialism doesn’t apply only to person categories, but it is one important factor in how we think of groups.
 
-Conclusion
+## Conclusion
 Concepts are central to our everyday thought. When we are planning for the future or thinking about our past, we think about specific events and objects in terms of their categories. If you’re visiting a friend with a new baby, you have some expectations about what the baby will do, what gifts would be appropriate, how you should behave toward it, and so on. Knowing about the category of babies helps you to effectively plan and behave when you encounter this child you’ve never seen before.
 
 Learning about those categories is a complex process that involves seeing exemplars (babies), hearing or reading general descriptions (“Babies like black-and-white pictures”), general knowledge (babies have kidneys), and learning the occasional rule (all babies have a rooting reflex). Current research is focusing on how these different processes take place in the brain. It seems likely that these different aspects of concepts are accomplished by different neural structures (Maddox & Ashby, 2004).
 
 Another interesting topic is how concepts differ across cultures. As different cultures have different interests and different kinds of interactions with the world, it seems clear that their concepts will somehow reflect those differences. On the other hand, the structure of categories in the world also imposes a strong constraint on what kinds of categories are actually useful. Some researchers have suggested that differences between Eastern and Western modes of thought have led to qualitatively different kinds of concepts (e.g.,Norenzayan, Smith, Kim, & Nisbett, 2002). Although such differences are intriguing, we should also remember that different cultures seem to share common categories such as chairs, dogs, parties, and jars, so the differences may not be as great as suggested by experiments designed to detect cultural effects. The interplay of culture, the environment, and basic cognitive processes in establishing concepts has yet to be fully investigated.
 
-Outside Resources
-Debate: The debate about Pluto and the definition of planet is an interesting one, as it illustrates the difficulty of arriving at definitions even in science. The Planetary Science Institute’s website has a series of press releases about the Pluto debate, including reactions from astronomers, while it happened.
-http://www.psi.edu
-Image Search: It can be interesting to get a pictorial summary of how much diversity there is among category members. If you do an image search for familiar categories such as houses, dogs, weddings, telephones, fruit, or whatever, you can get a visual display on a single page of the category structure. Of course, the results are probably biased, as people do not just randomly upload pictures of dogs or fruit, but it nonetheless will likely reveal the typicality structure, as most of the pictures will be of typical exemplars, and the atypical ones will stand out. (This activity will also demonstrate the phenomenon of ambiguity in language, as a search for “house” will yield some pictures of the TV character House, M.D. However, that is a lesson for a different module.)
-https://www.google.com/
-Self-test: If you would like to run your own category-learning experiment, you can do so by following the link below. It works either in-browser or by download. When downloaded, users can put in their own stimuli to categorize.
-http://cognitrn.psych.indiana.edu/CogSciSoftware/Categorization/index.html
-Software: Self-test Categorization Applet - This software allows you to conduct your own categorization experiment.
-http://cognitrn.psych.indiana.edu/CogSciSoftware/Categorization/index.html
-Web: A Compendium of Category and Concept Activities and Worksheets - This website contains all types of printable worksheets and activities on how to categorize concepts. It includes word searches, picture sorts, and more.
-https://freelanguagestuff.com/category/
-Web: An interesting article at Space.com argues (I believe correctly) that the term planet will not and should not be defined.
-http://www.space.com/3142-planets-defined.html
-Web: Most familiar categories have simple labels such as planet or dog. However, more complex categories can be made up for a particular purpose. Barsalou (1983) studied categories such as things to carry out of a burning house or ways to avoid being killed by the Mob. Interestingly, someone has published a book consisting of people’s photographs of things they would carry out of a burning house, and there is also a website showing such collections. Try to analyze what is common to the category members. What is the category’s prototype?
-http://theburninghouse.com/
-Discussion Questions
-Pick a couple of familiar categories and try to come up with definitions for them. When you evaluate each proposal (a) is it in fact accurate as a definition, and (b) is it a definition that people might actually use in identifying category members?
-For the same categories, can you identify members that seem to be “better” and “worse” members? What about these items makes them typical and atypical?
-Going around the room, point to some common objects (including things people are wearing or brought with them) and identify what the basic-level category is for that item. What are superordinate and subordinate categories for the same items?
-List some features of a common category such as tables. The knowledge view suggests that you know reasons for why these particular features occur together. Can you articulate some of those reasons? Do the same thing for an animal category.
-Choose three common categories: a natural kind, a human artifact, and a social event. Discuss with class members from other countries or cultures whether the corresponding categories in their cultures differ. Can you make a hypothesis about when such categories are likely to differ and when they are not?
-Vocabulary
-Basic-level category
+## Discussion Questions
+* Pick a couple of familiar categories and try to come up with definitions for them. When you evaluate each proposal (a) is it in fact accurate as a definition, and (b) is it a definition that people might actually use in identifying category members?
+* For the same categories, can you identify members that seem to be “better” and “worse” members? What about these items makes them typical and atypical?
+* Going around the room, point to some common objects (including things people are wearing or brought with them) and identify what the basic-level category is for that item. What are superordinate and subordinate categories for the same items?
+* List some features of a common category such as tables. The knowledge view suggests that you know reasons for why these particular features occur together. Can you articulate some of those reasons? Do the same thing for an animal category.
+* Choose three common categories: a natural kind, a human artifact, and a social event. Discuss with class members from other countries or cultures whether the corresponding categories in their cultures differ. Can you make a hypothesis about when such categories are likely to differ and when they are not?
+## Vocabulary
+### Basic-level category
 The neutral, preferred category for a given object, at an intermediate level of specificity.
-Category
+### Category
 A set of entities that are equivalent in some way. Usually the items are similar to one another.
-Concept
+### Concept
 The mental representation of a category.
-Exemplar
+### Exemplar
 An example in memory that is labeled as being in a particular category.
-Psychological essentialism
+### Psychological essentialism
 The belief that members of a category have an unseen property that causes them to be in the category and to have the properties associated with it.
-Typicality
+### Typicality
 The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
-References
-Allen, S. W., & Brooks, L. R. (1991). Specializing the operation of an explicit rule.Journal of Experimental Psychology: General, 120, 3–19.
-Anglin, J. M. (1977). Word, object, and conceptual development. New York, NY: W. W. Norton.
-Berlin, B. (1992). Ethnobiological classification: Principles of categorization of plants and animals in traditional societies. Princeton, NJ: Princeton University Press.
-Brown, R. (1958). How shall a thing be called? Psychological Review, 65, 14–21.
-Gelman, S. A. (2003). The essential child: Origins of essentialism in everyday thought. Oxford, UK: Oxford University Press.
-Hampton, J. A. (1979). Polymorphous concepts in semantic memory. Journal of Verbal Learning and Verbal Behavior, 18, 441–461.
-Hirschfeld, L. A. (1996). Race in the making: Cognition, culture, and the child's construction of human kinds. Cambridge, MA: MIT Press.
-Horton, M. S., & Markman, E. M. (1980). Developmental differences in the acquisition of basic and superordinate categories. Child Development, 51, 708–719.
-Keil, F. C. (1989). Concepts, kinds, and cognitive development. Cambridge, MA: MIT Press.
-Maddox, W. T., & Ashby, F. G. (2004). Dissociating explicit and procedural-based systems of perceptual category learning. Behavioural Processes, 66, 309–332.
-Mandler, J. M. (2004). The foundations of mind: Origins of conceptual thought. Oxford, UK: Oxford University Press.
-Mareschal, D., Quinn, P. C., & Lea, S. E. G. (Eds.) (2010). The making of human concepts. Oxford, UK: Oxford University Press.
-McCloskey, M. E., & Glucksberg, S. (1978). Natural categories: Well defined or fuzzy sets? Memory & Cognition, 6, 462–472.
-Medin, D. L., & Ortony, A. (1989). Psychological essentialism. In S. Vosniadou & A. Ortony (Eds.), Similarity and analogical reasoning (pp. 179–195). Cambridge, UK: Cambridge University Press.
-Medin, D. L., & Schaffer, M. M. (1978). Context theory of classification learning. Psychological Review, 85, 207–238.
-Mervis, C. B. (1987). Child-basic object categories and early lexical development. In U. Neisser (Ed.), Concepts and conceptual development: Ecological and intellectual factors in categorization (pp. 201–233). Cambridge, UK: Cambridge University Press.
-Murphy, G. L., & Allopenna, P. D. (1994). The locus of knowledge effects in concept learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 904–919.
-Murphy, G. L., & Brownell, H. H. (1985). Category differentiation in object recognition: Typicality constraints on the basic category advantage. Journal of Experimental Psychology: Learning, Memory, and Cognition, 11, 70–84.
-Norenzayan, A., Smith, E. E., Kim, B. J., & Nisbett, R. E. (2002). Cultural preferences for formal versus intuitive reasoning. Cognitive Science, 26, 653–684.
-Rosch, E., & Mervis, C. B. (1975). Family resemblance: Studies in the internal structure of categories. Cognitive Psychology, 7, 573–605.
-Rosch, E., Mervis, C. B., Gray, W., Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. Cognitive Psychology, 8, 382–439.
-Rosch, E., Simpson, C., & Miller, R. S. (1976). Structural bases of typicality effects. Journal of Experimental Psychology: Human Perception and Performance, 2, 491–502.
-Rosch, E. H. (1973). On the internal structure of perceptual and semantic categories. In T. E. Moore (Ed.), Cognitive development and the acquisition of language (pp. 111–144). New York, NY: Academic Press.
-Smith, E. E., & Medin, D. L. (1981). Categories and concepts. Cambridge, MA: Harvard University Press.
-Smith, J. D., & Minda, J. P. (1998). Prototypes in the mist: The early epochs of category learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 1411–1436.
-Tanaka, J. W., & Taylor, M. E. (1991). Object categories and expertise: Is the basic level in the eye of the beholder? Cognitive Psychology, 15, 121–149.
-Wisniewski, E. J., & Murphy, G. L. (1989). Superordinate and basic category names in discourse: A textual analysis. Discourse Processes, 12, 245–261.
+## References
+* Allen, S. W., & Brooks, L. R. (1991). Specializing the operation of an explicit rule.Journal of Experimental Psychology: General, 120, 3–19.
+* Anglin, J. M. (1977). Word, object, and conceptual development. New York, NY: W. W. Norton.
+* Berlin, B. (1992). Ethnobiological classification: Principles of categorization of plants and animals in traditional societies. Princeton, NJ: Princeton University Press.
+* Brown, R. (1958). How shall a thing be called? Psychological Review, 65, 14–21.
+* Gelman, S. A. (2003). The essential child: Origins of essentialism in everyday thought. Oxford, UK: Oxford University Press.
+* Hampton, J. A. (1979). Polymorphous concepts in semantic memory. Journal of Verbal Learning and Verbal Behavior, 18, 441–461.
+* Hirschfeld, L. A. (1996). Race in the making: Cognition, culture, and the child's construction of human kinds. Cambridge, MA: MIT Press.
+* Horton, M. S., & Markman, E. M. (1980). Developmental differences in the acquisition of basic and superordinate categories. Child Development, 51, 708–719.
+* Keil, F. C. (1989). Concepts, kinds, and cognitive development. Cambridge, MA: MIT Press.
+* Maddox, W. T., & Ashby, F. G. (2004). Dissociating explicit and procedural-based systems of perceptual category learning. Behavioural Processes, 66, 309–332.
+* Mandler, J. M. (2004). The foundations of mind: Origins of conceptual thought. Oxford, UK: Oxford University Press.
+* Mareschal, D., Quinn, P. C., & Lea, S. E. G. (Eds.) (2010). The making of human concepts. Oxford, UK: Oxford University Press.
+* McCloskey, M. E., & Glucksberg, S. (1978). Natural categories: Well defined or fuzzy sets? Memory & Cognition, 6, 462–472.
+* Medin, D. L., & Ortony, A. (1989). Psychological essentialism. In S. Vosniadou & A. Ortony (Eds.), Similarity and analogical reasoning (pp. 179–195). Cambridge, UK: Cambridge University Press.
+* Medin, D. L., & Schaffer, M. M. (1978). Context theory of classification learning. Psychological Review, 85, 207–238.
+* Mervis, C. B. (1987). Child-basic object categories and early lexical development. In U. Neisser (Ed.), Concepts and conceptual development: Ecological and intellectual factors in categorization (pp. 201–233). Cambridge, UK: Cambridge University Press.
+* Murphy, G. L., & Allopenna, P. D. (1994). The locus of knowledge effects in concept learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 904–919.
+* Murphy, G. L., & Brownell, H. H. (1985). Category differentiation in object recognition: Typicality constraints on the basic category advantage. Journal of Experimental Psychology: Learning, Memory, and Cognition, 11, 70–84.
+* Norenzayan, A., Smith, E. E., Kim, B. J., & Nisbett, R. E. (2002). Cultural preferences for formal versus intuitive reasoning. Cognitive Science, 26, 653–684.
+* Rosch, E., & Mervis, C. B. (1975). Family resemblance: Studies in the internal structure of categories. Cognitive Psychology, 7, 573–605.
+* Rosch, E., Mervis, C. B., Gray, W., Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. Cognitive Psychology, 8, 382–439.
+* Rosch, E., Simpson, C., & Miller, R. S. (1976). Structural bases of typicality effects. Journal of Experimental Psychology: Human Perception and Performance, 2, 491–502.
+* Rosch, E. H. (1973). On the internal structure of perceptual and semantic categories. In T. E. Moore (Ed.), Cognitive development and the acquisition of language (pp. 111–144). New York, NY: Academic Press.
+* Smith, E. E., & Medin, D. L. (1981). Categories and concepts. Cambridge, MA: Harvard University Press.
+* Smith, J. D., & Minda, J. P. (1998). Prototypes in the mist: The early epochs of category learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 1411–1436.
+* Tanaka, J. W., & Taylor, M. E. (1991). Object categories and expertise: Is the basic level in the eye of the beholder? Cognitive Psychology, 15, 121–149.
+* Wisniewski, E. J., & Murphy, G. L. (1989). Superordinate and basic category names in discourse: A textual analysis. Discourse Processes, 12, 245–261.
