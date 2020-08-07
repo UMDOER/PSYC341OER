@@ -8,17 +8,11 @@ sidebar:
 
 No matter what you’re doing--solving homework, playing a video game, simply picking out a shirt--all of your actions and decisions relate to your consciousness. But as frequently as we use it, have you ever stopped to ask yourself: What really is consciousness? In this module, we discuss the different levels of consciousness and how they can affect your behavior in a variety of situations. As well, we explore the role of consciousness in other, “altered” states like hypnosis and sleep.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/xj2cbhek
-AwarenessbiasConsciousnessHypnosisPrimingSleepTrance
-Learning Objectives
-Define consciousness and distinguish between high and low conscious states
-Explain the relationship between consciousness and bias
-Understand the difference between popular portrayals of hypnosis and how it is currently used therapeutically
-Introduction
+## Learning Objectives
+* Define consciousness and distinguish between high and low conscious states
+* Explain the relationship between consciousness and bias
+* Understand the difference between popular portrayals of hypnosis and how it is currently used therapeutically
+## Introduction
 Have you ever had a fellow motorist stopped beside you at a red light, singing his brains out, or picking his nose, or otherwise behaving in ways he might not normally do in public? There is something about being alone in a car that encourages people to zone out and forget that others can see them. Although these little lapses of attention are amusing for the rest of us, they are also instructive when it comes to the topic of consciousness.
 
 A young man sits behind the wheel of a car with his eyes closed as he sings along with the radio.
@@ -27,10 +21,10 @@ Consciousness is a term meant to indicate awareness. It includes awareness of th
 
 Upon reflection, it is easy to see how slippery a topic consciousness is. For example, are people conscious when they are daydreaming? What about when they are drunk? In this module, we will describe several levels of consciousness and then discuss altered states of consciousness such as hypnosis and sleep.
 
-Levels of Awareness
+## Levels of Awareness
 In 1957, a marketing researcher inserted the words “Eat Popcorn” onto one frame of a film being shown all across the United States. And although that frame was only projected onto the movie screen for 1/24th of a second—a speed too fast to be perceived by conscious awareness—the researcher reported an increase in popcorn sales by nearly 60%. Almost immediately, all forms of “subliminal messaging” were regulated in the US and banned in countries such as Australia and the United Kingdom. Even though it was later shown that the researcher had made up the data (he hadn’t even inserted the words into the film), this fear about influences on our subconscious persists. At its heart, this issue pits various levels of awareness against one another. On the one hand, we have the “low awareness” of subtle, even subliminal influences. On the other hand, there is you—the conscious thinking, feeling you which includes all that you are currently aware of, even reading this sentence. However, when we consider these different levels of awareness separately, we can better understand how they operate.
 
-Low Awareness
+## Low Awareness
 You are constantly receiving and evaluating sensory information. Although each moment has too many sights, smells, and sounds for them all to be consciously considered, our brains are nonetheless processing all that information. For example, have you ever been at a party, overwhelmed by all the people and conversation, when out of nowhere you hear your name called? Even though you have no idea what else the person is saying, you are somehow conscious of your name (for more on this, “the cocktail party effect,” see Noba’s Module on Attention). So, even though you may not be aware of various stimuli in your environment, your brain is paying closer attention than you think.
 
 Similar to a reflex (like jumping when startled), some cues, or significant sensory information, will automatically elicit a response from us even though we never consciously perceive it. For example, Öhman and Soares (1994) measured subtle variations in sweating of participants with a fear of snakes. The researchers flashed pictures of different objects (e.g., mushrooms, flowers, and most importantly, snakes) on a screen in front of them, but did so at speeds that left the participant clueless as to what he or she had actually seen. However, when snake pictures were flashed, these participants started sweating more (i.e., a sign of fear), even though they had no idea what they’d just viewed!
@@ -75,7 +69,7 @@ Now, similar to hypnotic states, trance states also involve a dissociation of th
 
 Most researchers today describe both hypnosis and trance states as “subjective” alterations of consciousness, not an actually distinct or evolved form (Kirsch & Lynn, 1995). Just like you feel different when you’re in a state of deep relaxation, so, too, are hypnotic and trance states simply shifts from the standard conscious experience. Researchers contend that even though both hypnotic and trance states appear and feel wildly different than the normal human experience, they can be explained by standard socio-cognitive factors like imagination, expectation, and the interpretation of the situation.
 
-Sleep
+## Sleep
 A man dressed in pajamas sits up in bed as he stretches and yawns.
 Sleep is necessary in order for people to function well. [Image: jaci XIII, https://goo.gl/pog6Fr, CC BY-NC 2.0, https://goo.gl/FIlc2e]
 You may have experienced the sensation-- as you are falling asleep-- of falling and then found yourself physically jerking forward and grabbing out as if you were really falling. Sleep is a unique state of consciousness; it lacks full awareness but the brain is still active. People generally follow a “biological clock” that impacts when they naturally become drowsy, when they fall asleep, and the time they naturally awaken. The hormone melatonin increases at night and is associated with becoming sleepy. Your natural daily rhythm, or Circadian Rhythm, can be influenced by the amount of daylight to which you are exposed as well as your work and activity schedule. Changing your location, such as flying from Canada to England, can disrupt your natural sleep rhythms, and we call this jet lag. You can overcome jet lag by synchronizing yourself to the local schedule by exposing yourself to daylight and forcing yourself to stay awake even though you are naturally sleepy.
@@ -92,20 +86,20 @@ Dreams are, arguably, the most interesting aspect of sleep. Throughout history d
 
 Sleep serves many functions, one of which is to give us a period of mental and physical restoration. Children generally need more sleep than adults since they are developing. It is so vital, in fact, that a lack of sleep is associated with a wide range of problems. People who do not receive adequate sleep are more irritable, have slower reaction time, have more difficulty sustaining attention, and make poorer decisions. Interestingly, this is an issue relevant to the lives of college students. In one highly cited study researchers found that 1 in 5 students took more than 30 minutes to fall asleep at night, 1 in 10 occasionally took sleep medications, and more than half reported being “mostly tired” in the mornings (Buboltz, et al, 2001).
 
-Psychoactive Drugs
+## Psychoactive Drugs
 On April 16, 1943, Albert Hoffman—a Swiss chemist working in a pharmaceutical company—accidentally ingested a newly synthesized drug. The drug—lysergic acid diethylimide (LSD)—turned out to be a powerful hallucinogen. Hoffman went home and later reported the effects of the drug, describing them as seeing the world through a “warped mirror” and experiencing visions of “extraordinary shapes with intense, kaleidoscopic play of colors.” Hoffman had discovered what members of many traditional cultures around the world already knew: there are substances that, when ingested, can have a powerful effect on perception and on consciousness.
 
 Drugs operate on human physiology in a variety of ways and researchers and medical doctors tend to classify drugs according to their effects. Here we will briefly cover 3 categories of drugs: hallucinogens, depressants, and stimulants.
 
-Hallucinogens
+## Hallucinogens
 It is possible that hallucinogens are the substance that have, historically, been used the most widely. Traditional societies have used plant-based hallucinogens such as peyote, ebene, and psilocybin mushrooms in a wide range of religious ceremonies. Hallucinogens are substances that alter a person’s perceptions, often by creating visions or hallucinations that are not real. There are a wide range of hallucinogens and many are used as recreational substances in industrialized societies. Common examples include marijuana, LSD, and MDMA (also known as “ecstasy”). Marijuana is the dried flowers of the hemp plant and is often smoked to produce euphoria. The active ingredient in marijuana is called THC and can produce distortions in the perception of time, can create a sense of rambling, unrelated thoughts, and is sometimes associated with increased hunger or excessive laughter. The use and possession of marijuana is illegal in most places but this appears to be a trend that is changing. Uruguay, Bangladesh, and several of the United States, have recently legalized marijuana. This may be due, in part, to changing public attitudes or to the fact that marijuana is increasingly used for medical purposes such as the management of nausea or treating glaucoma.
 
-Depressants
+## Depressants
 Depressants are substances that, as their name suggests, slow down the body’s physiology and mental processes. Alcohol is the most widely used depressant. Alcohol’s effects include the reduction of inhibition, meaning that intoxicated people are more likely to act in ways they would otherwise be reluctant to. Alcohol’s psychological effects are the result of it increasing the neurotransmitter GABA. There are also physical effects, such as loss of balance and coordination, and these stem from the way that alcohol interferes with the coordination of the visual and motor systems of the brain. Despite the fact that alcohol is so widely accepted in many cultures it is also associated with a variety of dangers. First, alcohol is toxic, meaning that it acts like a poison because it is possible to drink more alcohol than the body can effectively remove from the bloodstream. When a person’s blood alcohol content (BAC) reaches .3 to .4% there is a serious risk of death. Second, the lack of judgment and physical control associated with alcohol is associated with more risk taking behavior or dangerous behavior such as drunk driving. Finally, alcohol is addictive and heavy drinkers often experience significant interference with their ability to work effectively or in their close relationships.
 
 Other common depressants include opiates (also called “narcotics”), which are substances synthesized from the poppy flower. Opiates stimulate endorphin production in the brain and because of this they are often used as pain killers by medical professionals. Unfortunately, because opiates such as Oxycontin so reliably produce euphoria they are increasingly used—illegally—as recreational substances. Opiates are highly addictive.
 
-Stimulants
+## Stimulants
 
 A cup of black coffee.
 Caffeine is the most widely consumed stimulant in the world. Be honest, how many cups of coffee, tea, or energy drinks have you had today? [Image: Personeelsnet, https://goo.gl/h0GQ3R, CC BY-SA 2.0, https://goo.gl/iZlxAE]
@@ -113,125 +107,78 @@ Stimulants are substances that “speed up” the body’s physiological and men
 
 There are other stimulants such as cocaine and methamphetamine (also known as “crystal meth” or “ice”) that are illegal substances that are commonly used. These substances act by blocking “re-uptake” of dopamine in the brain. This means that the brain does not naturally clear out the dopamine and that it builds up in the synapse, creating euphoria and alertness. As the effects wear off it stimulates strong cravings for more of the drug. Because of this these powerful stimulants are highly addictive.
 
-Conclusion
+## Conclusion
 When you think about your daily life it is easy to get lulled into the belief that there is one “setting” for your conscious thought. That is, you likely believe that you hold the same opinions, values, and memories across the day and throughout the week. But “you” are like a dimmer switch on a light that can be turned from full darkness increasingly on up to full brightness. This switch is consciousness. At your brightest setting you are fully alert and aware; at dimmer settings you are day dreaming; and sleep or being knocked unconscious represent dimmer settings still. The degree to which you are in high, medium, or low states of conscious awareness affect how susceptible you are to persuasion, how clear your judgment is, and how much detail you can recall. Understanding levels of awareness, then, is at the heart of understanding how we learn, decide, remember and many other vital psychological processes.
 
-Outside Resources
-App: Visual illusions for the iPad.
-http://www.exploratorium.edu/explore/apps/color-uncovered
-Book: A wonderful book about how little we know about ourselves: Wilson, T. D. (2004). Strangers to ourselves. Cambridge, MA: Harvard University Press.
-http://www.hup.harvard.edu/catalog.php?isbn=9780674013827
-Book: Another wonderful book about free will—or its absence?: Wegner, D. M. (2002). The illusion of conscious will. Cambridge, MA: MIT Press.
-https://mitpress.mit.edu/books/illusion-conscious-will
-Information on alcoholism, alcohol abuse, and treatment:
-http://www.niaaa.nih.gov/alcohol-health/support-treatment
-The American Psychological Association has information on getting a good night’s sleep as well as on sleep disorders
-http://www.apa.org/helpcenter/sleep-disorders.aspx
-The LSD simulator: This simulator uses optical illusions to simulate the halluginogenic experience of LSD. Simply follow the instructions in this two minute video. After looking away you may see the world around you in a warped or pulsating way similar to the effects of LSD. The effect is temporary and will disappear in about a minute.
-
-The National Sleep Foundation is a non-profit with videos on insomnia, sleep training in children, and other topics
-https://sleepfoundation.org/video-library
-Video: An artist who periodically took LSD and drew self-portraits:
-http://www.openculture.com/2013/10/artist-draws-nine-portraits-on-lsd-during-1950s-research-experiment.html
-Video: An interesting video on attention:
-http://www.dansimons.com/videos.html
-Video: Clip on out-of-body experiences induced using virtual reality.
-
-Video: Clip on the rubber hand illusion, from the BBC science series \\\\\\\"Horizon.\\\\\\\"
-
-Video: Clip showing a patient with blindsight, from the documentary \\\\\\\"Phantoms in the Brain.\\\\\\\"
-
-Video: Demonstration of motion-induced blindness - Look steadily at the blue moving pattern. One or more of the yellow spots may disappear:
-
-Video: Howie Mandel from America\\\'s Got Talent being hypnotized into shaking hands with people:
-
-Video: Imaging the Brain, Reading the Mind - A talk by Marsel Mesulam.
-http://video.at.northwestern.edu/lores/SO_marsel.m4v
-Video: Lucas Handwerker – a stage hypnotist discusses the therapeutic aspects of hypnosis:
-
-Video: Ted Talk - Simon Lewis: Don\\\\\\\'t take consciousness for granted
-http://www.ted.com/talks/simon_lewis_don_t_take_consciousness_for_granted.html
-Video: TED Talk on Dream Research:
-
-Video: The mind-body problem - An interview with Ned Block:
-
-Want a quick demonstration of priming? (Want a quick demonstration of how powerful these effects can be? Check out:
-
-Web: A good overview of priming:
-http://en.wikipedia.org/wiki/Priming_(psychology)
-Web: Definitions of Consciousness:
-http://www.consciousentities.com/definitions.htm
-Web: Learn more about motion-induced blindness on Michael Bach\\\\\\\'s website:
-http://www.michaelbach.de/ot/mot-mib/index.html
-Discussion Questions
-If someone were in a coma after an accident, and you wanted to better understand how “conscious” or aware s/he were, how might you go about it?
-What are some of the factors in daily life that interfere with people’s ability to get adequate sleep? What interferes with your sleep?
-How frequently do you remember your dreams? Do you have recurring images or themes in your dreams? Why do you think that is? 
-Consider times when you fantasize or let your mind wander? Describe these times: are you more likely to be alone or with others? Are there certain activities you engage in that seem particularly prone to daydreaming?
-A number of traditional societies use consciousness altering substances in ceremonies. Why do you think they do this?
-Do you think attitudes toward drug use are changing over time? If so, how? Why do you think these changes occur?
-Students in high school and college are increasingly using stimulants such as Adderol as study aids and “performance enhancers.” What is your opinion of this trend?
-Vocabulary
-Blood Alcohol Content (BAC)
+## Discussion Questions
+* If someone were in a coma after an accident, and you wanted to better understand how “conscious” or aware s/he were, how might you go about it?
+* What are some of the factors in daily life that interfere with people’s ability to get adequate sleep? What interferes with your sleep?
+* How frequently do you remember your dreams? Do you have recurring images or themes in your dreams? Why do you think that is? 
+* Consider times when you fantasize or let your mind wander? Describe these times: are you more likely to be alone or with others? Are there certain activities you engage in that seem particularly prone to daydreaming?
+* A number of traditional societies use consciousness altering substances in ceremonies. Why do you think they do this?
+* Do you think attitudes toward drug use are changing over time? If so, how? Why do you think these changes occur?
+* Students in high school and college are increasingly using stimulants such as Adderol as study aids and “performance enhancers.” What is your opinion of this trend?
+## Vocabulary
+### Blood Alcohol Content (BAC)
 Blood Alcohol Content (BAC): a measure of the percentage of alcohol found in a person’s blood. This measure is typically the standard used to determine the extent to which a person is intoxicated, as in the case of being too impaired to drive a vehicle.
-Circadian Rhythm
+### Circadian Rhythm
 Circadian Rhythm: The physiological sleep-wake cycle. It is influenced by exposure to sunlight as well as daily schedule and activity. Biologically, it includes changes in body temperature, blood pressure and blood sugar.
-Consciousness
+### Consciousness
 Consciousness: the awareness or deliberate perception of a stimulus
-Cues
+### Cues
 Cues: a stimulus that has a particular significance to the perceiver (e.g., a sight or a sound that has special relevance to the person who saw or heard it)
-Depressants
+### Depressants
 Depressants: a class of drugs that slow down the body’s physiological and mental processes.
-Dissociation
+### Dissociation
 Dissociation: the heightened focus on one stimulus or thought such that many other things around you are ignored; a disconnect between one’s awareness of their environment and the one object the person is focusing on
-Euphoria
+### Euphoria
 Euphoria: an intense feeling of pleasure, excitement or happiness.
-Flexible Correction Model
+### Flexible Correction Model
 Flexible Correction Model: the ability for people to correct or change their beliefs and evaluations if they believe these judgments have been biased (e.g., if someone realizes they only thought their day was great because it was sunny, they may revise their evaluation of the day to account for this “biasing” influence of the weather)
-Hallucinogens
+### Hallucinogens
 Hallucinogens: substances that, when ingested, alter a person’s perceptions, often by creating hallucinations that are not real or distorting their perceptions of time.
-Hypnosis
+### Hypnosis
 Hypnosis: the state of consciousness whereby a person is highly responsive to the suggestions of another; this state usually involves a dissociation with one’s environment and an intense focus on a single stimulus, which is usually accompanied by a sense of relaxation
-Hypnotherapy
+### Hypnotherapy
 Hypnotherapy: The use of hypnotic techniques such as relaxation and suggestion to help engineer desirable change such as lower pain or quitting smoking.
 Implicit Associations Test
 Implicit Associations Test (IAT): A computer reaction time test that measures a person’s automatic associations with concepts. For instance, the IAT could be used to measure how quickly a person makes positive or negative evaluations of members of various ethnic groups.
-Jet Lag
+### Jet Lag
 Jet Lag: The state of being fatigued and/or having difficulty adjusting to a new time zone after traveling a long distance (across multiple time zones).
-Melatonin
+### Melatonin
 Melatonin: A hormone associated with increased drowsiness and sleep.
-Mindfulness
+### Mindfulness
 Mindfulness: a state of heightened focus on the thoughts passing through one’s head, as well as a more controlled evaluation of those thoughts (e.g., do you reject or support the thoughts you’re having?)
-Priming
+### Priming
 Priming: the activation of certain thoughts or feelings that make them easier to think of and act upon
-Stimulants
+### Stimulants
 Stimulants: a class of drugs that speed up the body’s physiological and mental processes.
-Trance States
+### Trance States
 Trance: a state of consciousness characterized by the experience of “out-of-body possession,” or an acute dissociation between one’s self and the current, physical environment surrounding them.
-References
-Abbot, N. C., Stead, L. F., White, A. R., Barnes, J., & Ernst, E. (1998). Hypnotherapy for smoking cessation. Cochrane Database of Systematic Reviews, 2.
-Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. Journal of Personality and Social Psychology, 71(2), 230.
-Buboltz, W., Brown, F. & Soper, B. (2001). Sleep habits and patterns of college students: A preliminary study. Journal of American College Health, 50, 131-135.
-Chaiken, S. (1980). Heuristic versus systematic information processing and the use of source versus message cues in persuasion. Journal of Personality and Social Psychology, 39(5), 752.
-Ewin, D. M. (1978). Clinical use of hypnosis for attenuation of burn depth. Hypnosis at its Bicentennial-Selected Papers from the Seventh International Congress of Hypnosis and Psychosomatic Medicine. New York: Plenum Press.
-Freud, S. (2001). The Standard Edition of the Complete Psychological Works of Sigmund Freud: The Interpretation of Dreams (First Part) (Vol. 4). Random House.
-Gilbert, D. T., & Hixon, J. G. (1991). The trouble of thinking: activation and application of stereotypic beliefs. Journal of Personality and Social Psychology, 60(4), 509.
-Greenwald, A. G., & Farnham, S. D. (2000). Using the Implicit Association Test to measure self-esteem and self-concept. Journal of Personality and Social Psychology, 79, 1022-1038.
-Greenwald, A. G., McGhee, D. E., & Schwartz, J. K. L. (1998). Measuring individual differences in implicit cognition: The Implicit Association Test. Journal of Personality and Social Psychology, 74, 1464-1480.
-Kihlstrom, J.F. (2003). Hypnosis and memory. In J.F. Byrne (Ed.), Learning and memory, 2nd ed. (pp. 240-242). Farmington Hills, Mi.: Macmillan Reference
-Kirsch, I., & Lynn, S. J. (1995). Altered state of hypnosis: Changes in the theoretical landscape. American Psychologist, 50(10), 846.
-Lynn S. J., and Kirsch I. (2006). Essentials of clinical hypnosis. Washington, DC: American Psychological Association.
-Lynn, S. J., Rhue, J. W., & Weekes, J. R. (1990). Hypnotic involuntariness: A social-cognitive analysis. Psychological Review, 97, 169–184.
-Manoach, D. S., Thakkar, K. N., Stroynowski, E., Ely, A., McKinley, S. K., Wamsley, E., ... & Stickgold, R. (2010). Reduced overnight consolidation of procedural learning in chronic medicated schizophrenia is related to specific sleep stages. Journal of Psychiatric Research, 44(2), 112-120.
-Nosek, B. A., Banaji, M. R., & Greenwald, A. G. (2002). Harvesting implicit group attitudes and beliefs from a demonstration website. Group Dynamics, 6(1), 101-115.
-Patterson, D. R., Everett, J. J., Burns, G. L., & Marvin, J. A. (1992). Hypnosis for the treatment of burn pain. Journal of Consulting and Clinical Psychology, 60, 713-17
-Pekala, R. J., Kumar, V. K., Maurer, R., Elliott-Carter, N., Moon, E., & Mullen, K. (2010). Suggestibility, expectancy, trance state effects, and hypnotic depth: I. Implications for understanding hypnotism. American Journal of Clinical Hypnosis, 52(4), 275-290.
-Petty, R. E., & Cacioppo, J. T. (1986). The Elaboration Likelihood Model of persuasion. In L. Berkowitz (Ed.), Advances in Experimental Social Psychology (Vol. 19, pp. 123-205). New York: Academic Press.
-Raichle, M. E. (2015). The brain's default mode network. Annual Review of Neuroscience, 38, 433-447.
-Stewart, B. & Kleinhues, P. (2003). World cancer report. World Health Organization.
-Syrjala, K. L., Cummings, C., & Donaldson, G. W. (1992). Hypnosis or cognitive behavioral training for the reduction of pain and nausea during cancer treatment: A controlled clinical trial. Pain, 48, 137-46.
-Wegener, D. T., & Petty, R. E. (1997). The flexible correction model: The role of naive theories of bias in bias correction. Advances in Experimental Social Psychology, 29, 142-208.
-Wickramasekera II, I. E., & Szlyk, J. (2003). Could empathy be a predictor of hypnotic ability? International Journal of Clinical and Experimental Hypnosis, 51(4), 390–399.
-Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607.
-Öhman, A., & Soares, J. J. (1994). \"Unconscious anxiety\": phobic responses to masked stimuli. Journal of Abnormal Psychology, 103(2), 231.
-Šušmáková, K., & Krakovská, A. (2008). Discrimination ability of individual measures used in sleep stages classification. Artificial Intelligence in Medicine, 44(3), 261-277.
+## References
+* Abbot, N. C., Stead, L. F., White, A. R., Barnes, J., & Ernst, E. (1998). Hypnotherapy for smoking cessation. Cochrane Database of Systematic Reviews, 2.
+* Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. Journal of Personality and Social Psychology, 71(2), 230.
+* Buboltz, W., Brown, F. & Soper, B. (2001). Sleep habits and patterns of college students: A preliminary study. Journal of American College Health, 50, 131-135.
+* Chaiken, S. (1980). Heuristic versus systematic information processing and the use of source versus message cues in persuasion. Journal of Personality and Social Psychology, 39(5), 752.
+* Ewin, D. M. (1978). Clinical use of hypnosis for attenuation of burn depth. Hypnosis at its Bicentennial-Selected Papers from the Seventh International Congress of Hypnosis and Psychosomatic Medicine. New York: Plenum Press.
+* Freud, S. (2001). The Standard Edition of the Complete Psychological Works of Sigmund Freud: The Interpretation of Dreams (First Part) (Vol. 4). Random House.
+* Gilbert, D. T., & Hixon, J. G. (1991). The trouble of thinking: activation and application of stereotypic beliefs. Journal of Personality and Social Psychology, 60(4), 509.
+* Greenwald, A. G., & Farnham, S. D. (2000). Using the Implicit Association Test to measure self-esteem and self-concept. Journal of Personality and Social Psychology, 79, 1022-1038.
+* Greenwald, A. G., McGhee, D. E., & Schwartz, J. K. L. (1998). Measuring individual differences in implicit cognition: The Implicit Association Test. Journal of Personality and Social Psychology, 74, 1464-1480.
+* Kihlstrom, J.F. (2003). Hypnosis and memory. In J.F. Byrne (Ed.), Learning and memory, 2nd ed. (pp. 240-242). Farmington Hills, Mi.: Macmillan Reference
+* Kirsch, I., & Lynn, S. J. (1995). Altered state of hypnosis: Changes in the theoretical landscape. American Psychologist, 50(10), 846.
+* Lynn S. J., and Kirsch I. (2006). Essentials of clinical hypnosis. Washington, DC: American Psychological Association.
+* Lynn, S. J., Rhue, J. W., & Weekes, J. R. (1990). Hypnotic involuntariness: A social-cognitive analysis. Psychological Review, 97, 169–184.
+* Manoach, D. S., Thakkar, K. N., Stroynowski, E., Ely, A., McKinley, S. K., Wamsley, E., ... & Stickgold, R. (2010). Reduced overnight consolidation of procedural learning in chronic medicated schizophrenia is related to specific sleep stages. Journal of Psychiatric Research, 44(2), 112-120.
+* Nosek, B. A., Banaji, M. R., & Greenwald, A. G. (2002). Harvesting implicit group attitudes and beliefs from a demonstration website. Group Dynamics, 6(1), 101-115.
+* Patterson, D. R., Everett, J. J., Burns, G. L., & Marvin, J. A. (1992). Hypnosis for the treatment of burn pain. Journal of Consulting and Clinical Psychology, 60, 713-17
+* Pekala, R. J., Kumar, V. K., Maurer, R., Elliott-Carter, N., Moon, E., & Mullen, K. (2010). Suggestibility, expectancy, trance state effects, and hypnotic depth: I. Implications for understanding hypnotism. American Journal of Clinical Hypnosis, 52(4), 275-290.
+* Petty, R. E., & Cacioppo, J. T. (1986). The Elaboration Likelihood Model of persuasion. In L. Berkowitz (Ed.), Advances in Experimental Social Psychology (Vol. 19, pp. 123-205). New York: Academic Press.
+* Raichle, M. E. (2015). The brain's default mode network. Annual Review of Neuroscience, 38, 433-447.
+* Stewart, B. & Kleinhues, P. (2003). World cancer report. World Health Organization.
+* Syrjala, K. L., Cummings, C., & Donaldson, G. W. (1992). Hypnosis or cognitive behavioral training for the reduction of pain and nausea during cancer treatment: A controlled clinical trial. Pain, 48, 137-46.
+* Wegener, D. T., & Petty, R. E. (1997). The flexible correction model: The role of naive theories of bias in bias correction. Advances in Experimental Social Psychology, 29, 142-208.
+* Wickramasekera II, I. E., & Szlyk, J. (2003). Could empathy be a predictor of hypnotic ability? International Journal of Clinical and Experimental Hypnosis, 51(4), 390–399.
+* Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607.
+* Öhman, A., & Soares, J. J. (1994). \"Unconscious anxiety\": phobic responses to masked stimuli. Journal of Abnormal Psychology, 103(2), 231.
+* Šušmáková, K., & Krakovská, A. (2008). Discrimination ability of individual measures used in sleep stages classification. Artificial Intelligence in Medicine, 44(3), 261-277.
