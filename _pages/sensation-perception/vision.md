@@ -82,75 +82,55 @@ Finally, vision is also often implicated in a blending-of-sensations phenomenon 
 ## Concluding Remarks
 We are at an exciting moment in our scientific understanding of vision. We have just begun to get a functional understanding of the visual system. It is not sufficiently evolved for us to recreate artificial visual systems (i.e., we still cannot make robots that “see” and understand light signals as we do), but we are getting there. Just recently, major breakthroughs in vision science have allowed researchers to significantly improve retinal prosthetics: photosensitive circuits that can be implanted on the back of the eyeball of blind people that connect to visual areas of the brain and have the capacity to partially restore a “visual experience” to these patients (Nirenberg & Pandarinath, 2012). And using functional magnetic brain imaging, we can now “decode” from your brain activity the images that you saw in your dreams while you were asleep (Horikawa, Tamaki, Miyawaki, & Kamitani, 2013)! Yet, there is still so much more to understand. Consider this: if vision is a construction process that takes time, whatever we see now is no longer what is front of us. Yet, humans can do amazing time-sensitive feats like hitting a 90-mph fastball in a baseball game. It appears then that a fundamental function of vision is not just to know what is happening around you now, but actually to make an accurate inference about what you are about to see next (Enns & Lleras, 2008), so that you can keep up with the world. Understanding how this future-oriented, predictive function of vision is achieved in the brain is probably the next big challenge in this fascinating realm of research.
 
-## Outside Resources
-Video: Acquired knowledge and its impact on our three-dimensional interpretation of the world - 3D Street Art
-
-Video: Acquired knowledge and its impact on our three-dimensional interpretation of the world - Anamorphic Illusions
-
-Video: Acquired knowledge and its impact on our three-dimensional interpretation of the world - Optical Illusion
-
-Web: Amazing library with visual phenomena and optical illusions, explained
-http://michaelbach.de/ot/index.html
-Web: Anatomy of the eye
-http://www.eyecareamerica.org/eyecare/anatomy/
-Web: Demonstration of contrast gain adaptation
-http://www.michaelbach.de/ot/lum_contrast-adapt/
-Web: Demonstration of illusory contours and lateral inhibition. Mach bands
-http://michaelbach.de/ot/lum-MachBands/index.html
-Web: Demonstration of illusory contrast and lateral inhibition. The Hermann grid
-http://michaelbach.de/ot/lum_herGrid/
-Web: Further information regarding what and where/how pathways
-http://www.scholarpedia.org/article/What_and_where_pathways
-
 ## Discussion Questions
-When running in the dark, it is recommended that you never look straight at the ground. Why? What would be a better strategy to avoid obstacles?
-The majority of ganglion cells in the eye specialize in detecting drops in the amount of light coming from a given location. That is, they increase their firing rate when they detect less light coming from a specific location. Why might the absence of light be more important than the presence of light? Why would it be evolutionarily advantageous to code this type of information?
-There is a hole in each one of your eyeballs called the optic disk. This is where veins enter the eyeball and where neurons (the axons of the ganglion cells) exit the eyeball. Why do you not see two holes in the world all the time? Close one eye now. Why do you not see a hole in the world now? To “experience” a blind spot, follow the instructions in this website: http://michaelbach.de/ot/cog_blindSpot/index.html
-Imagine you were given the task of testing the color-perception abilities of a newly discovered species of monkeys in the South Pacific. How would you go about it?
-An important aspect of emotions is that we sense them in ourselves much in the same way as we sense other perceptions like vision. Can you think of an example where the concept of contrast gain can be used to understand people’s responses to emotional events?
+* When running in the dark, it is recommended that you never look straight at the ground. Why? What would be a better strategy to avoid obstacles?
+* The majority of ganglion cells in the eye specialize in detecting drops in the amount of light coming from a given location. That is, they increase their firing rate when they detect less light coming from a specific location. Why might the absence of light be more important than the presence of light? Why would it be evolutionarily advantageous to code this type of information?
+* There is a hole in each one of your eyeballs called the optic disk. This is where veins enter the eyeball and where neurons (the axons of the ganglion cells) exit the eyeball. Why do you not see two holes in the world all the time? Close one eye now. Why do you not see a hole in the world now? To “experience” a blind spot, follow the instructions in this website: http://michaelbach.de/ot/cog_blindSpot/index.html
+* Imagine you were given the task of testing the color-perception abilities of a newly discovered species of monkeys in the South Pacific. How would you go about it?
+* An important aspect of emotions is that we sense them in ourselves much in the same way as we sense other perceptions like vision. Can you think of an example where the concept of contrast gain can be used to understand people’s responses to emotional events?
 ## Vocabulary
-Binocular advantage
+### Binocular advantage
 Benefits from having two eyes as opposed to a single eye.
-Cones
+### Cones
 Photoreceptors that operate in lighted environments and can encode fine visual details. There are three different kinds (S or blue, M or green and L or red) that are each sensitive to slightly different types of light. Combined, these three types of cones allow you to have color vision.
-Contrast
+### Contrast
 Relative difference in the amount and type of light coming from two nearby locations.
-Contrast gain
+### Contrast gain
 Process where the sensitivity of your visual system can be tuned to be most sensitive to the levels of contrast that are most prevalent in the environment.
-Dark adaptation
+### Dark adaptation
 Process that allows you to become sensitive to very small levels of light, so that you can actually see in the near-absence of light.
-Lateral inhibition
+### Lateral inhibition
 A signal produced by a neuron aimed at suppressing the response of nearby neurons.
-Opponent Process Theory
+### Opponent Process Theory
 Theory of color vision that assumes there are four different basic colors, organized into two pairs (red/green and blue/yellow) and proposes that colors in the world are encoded in terms of the opponency (or difference) between the colors in each pair. There is an additional black/white pair responsible for coding light contrast.
-Photoactivation
+### Photoactivation
 A photochemical reaction that occurs when light hits photoreceptors, producing a neural signal.
-Primary visual cortex (V1)
+### Primary visual cortex (V1)
 Brain region located in the occipital cortex (toward the back of the head) responsible for processing basic visual information like the detection, thickness, and orientation of simple lines, color, and small-scale motion.
-Rods
+### Rods
 Photoreceptors that are very sensitive to light and are mostly responsible for night vision.
-Synesthesia
+### Synesthesia
 The blending of two or more sensory experiences, or the automatic activation of a secondary (indirect) sensory experience due to certain aspects of the primary (direct) sensory stimulation.
-Trichromacy theory
+### Trichromacy theory
 Theory that proposes that all of your color perception is fundamentally based on the combination of three (not two, not four) different color signals.
-Vestibulo-ocular reflex
+### Vestibulo-ocular reflex
 Coordination of motion information with visual information that allows you to maintain your gaze on an object while you move.
-What pathway
+### What pathway
 Pathway of neural processing in the brain that is responsible for your ability to recognize what is around you.
-Where-and-How pathway
+### Where-and-How pathway
 Pathway of neural processing in the brain that is responsible for you knowing where things are in the world and how to interact with them.
 
 ## References
-Enns, J. T., & Lleras, A. (2008). New evidence for prediction in human vision. Trends in Cognitive Sciences, 12¸ 327–333.
-Gardner, J. L., Sun, P., Waggoner, R. A. , Ueno, K., Tanaka, K., & Cheng, K. (2005). Contrast adaptation and representation in human early visual cortex. Neuron, 47, 607–620.
-Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. Trends in Neuroscience, 15, 20–25.
-Helmholtz, H. von. (1867). Handbuch der Physiologischen Optik. Leipzig: Leopold Voss.
-Hering, E. (1892). Grundzüge der Lehre vom Lichtsinn. Berlin, Germany: Springer.
-Horikawa, T., Tamaki, M., Miyawaki, Y., & Kamitani, Y. (2013). Neural decoding of visual imagery during sleep. Science, 340(6132), 639–642.
-Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction, and functional architecture in the cat’s visual cortex. Journal of Physiology, 160, 106–154.
-Hurley, J. B. (2002). Shedding light on adaptation. Journal of General Physiology, 119, 125–128.
-Nirenberg, S., & Pandarinath, C. (2012). Retinal prosthetic strategy with the capacity to restore normal vision. Proceedings of the National Academy of Sciences, 109 (37), 15012–15017.
-Stuart, J. A., & Brige, R. R. (1996). Characterization of the primary photochemical events in bacteriorhodopsin and rhodopsin. In A. G. Lee (Ed.), Rhodopsin and G-protein linked receptors (Part A, Vol. 2, pp. 33–140). Greenwich, CT: JAI.
-Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
-Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48. 
+* Enns, J. T., & Lleras, A. (2008). New evidence for prediction in human vision. Trends in Cognitive Sciences, 12¸ 327–333.
+* Gardner, J. L., Sun, P., Waggoner, R. A. , Ueno, K., Tanaka, K., & Cheng, K. (2005). Contrast adaptation and representation in human early visual cortex. Neuron, 47, 607–620.
+* Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. Trends in Neuroscience, 15, 20–25.
+* Helmholtz, H. von. (1867). Handbuch der Physiologischen Optik. Leipzig: Leopold Voss.
+* Hering, E. (1892). Grundzüge der Lehre vom Lichtsinn. Berlin, Germany: Springer.
+* Horikawa, T., Tamaki, M., Miyawaki, Y., & Kamitani, Y. (2013). Neural decoding of visual imagery during sleep. Science, 340(6132), 639–642.
+* Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction, and functional architecture in the cat’s visual cortex. Journal of Physiology, 160, 106–154.
+* Hurley, J. B. (2002). Shedding light on adaptation. Journal of General Physiology, 119, 125–128.
+* Nirenberg, S., & Pandarinath, C. (2012). Retinal prosthetic strategy with the capacity to restore normal vision. Proceedings of the National Academy of Sciences, 109 (37), 15012–15017.
+* Stuart, J. A., & Brige, R. R. (1996). Characterization of the primary photochemical events in bacteriorhodopsin and rhodopsin. In A. G. Lee (Ed.), Rhodopsin and G-protein linked receptors (Part A, Vol. 2, pp. 33–140). Greenwich, CT: JAI.
+* Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
+* Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48. 
 
