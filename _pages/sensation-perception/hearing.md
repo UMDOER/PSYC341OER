@@ -7,18 +7,12 @@ sidebar:
 
 Hearing allows us to perceive the world of acoustic vibrations all around us, and provides us with our most important channels of communication. This module reviews the basic mechanisms of hearing, beginning with the anatomy and physiology of the ear and a brief review of the auditory pathways up to the auditory cortex. An outline of the basic perceptual attributes of sound, including loudness, pitch, and timbre, is followed by a review of the principles of tonotopic organization, established in the cochlea. An overview of masking and frequency selectivity is followed by a review of the perception and neural mechanisms underlying spatial hearing. Finally, an overview is provided of auditory scene analysis, which tackles the important question of how the auditory system is able to make sense of the complex mixtures of sounds that are encountered in everyday acoustic environments.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/jry3cu78
-Auditory perceptionAuditory scene analysisFrequency selectivityHearing
-Learning Objectives
-Describe the basic auditory attributes of sound.
-Describe the structure and general function of the auditory pathways from the outer ear to the auditory cortex.
-Discuss ways in which we are able to locate sounds in space.
-Describe various acoustic cues that contribute to our ability to perceptually segregate simultaneously arriving sounds.
-Introduction
+## Learning Objectives
+* Describe the basic auditory attributes of sound.
+* Describe the structure and general function of the auditory pathways from the outer ear to the auditory cortex.
+* Discuss ways in which we are able to locate sounds in space.
+* Describe various acoustic cues that contribute to our ability to perceptually segregate simultaneously arriving sounds.
+## Introduction
 A young boy whispers in the ear of a young girl.
 Hearing provides us with our most important connection to the people around us. [Image: Bindaas Madhavi, https://goo.gl/Sv6TtR, CC BY-NC-ND 2.0, https://goo.gl/62XJAl]
 Hearing forms a crucial part of our everyday life. Most of our communication with others, via speech or music, reaches us through the ears. Indeed, a saying, often attributed to Helen Keller, is that blindness separates us from things, but deafness separates us from people. The ears respond to acoustic information, or sound—tiny and rapid variations in air pressure. Sound waves travel from the source and produce pressure variations in the listener’s ear canals, causing the eardrums (or tympanic membranes) to vibrate. This module provides an overview of the events that follow, which convert these simple mechanical vibrations into our rich experience known as hearing, or auditory perception.
@@ -110,35 +104,35 @@ Pinna
 Visible part of the outer ear.
 Tympanic membrane
 Ear drum, which separates the outer ear from the middle ear.
-References
-Attneave, F., & Olson, R. K. (1971). Pitch as a medium: A new approach to psychophysical scaling. American Journal of Psychology, 84, 147–166.
-Bendor, D., & Wang, X. (2005). The neuronal representation of pitch in primate auditory cortex. Nature, 436, 1161–1165.
-Bernstein, L. R., & Trahiotis, C. (2002). Enhancing sensitivity to interaural delays at high frequencies by using "transposed stimuli." Journal of the Acoustical Society of America, 112, 1026–1036.
-Bregman, A. S. (1990). Auditory scene analysis: The perceptual organization of sound. Cambridge, MA: MIT Press.
-Deutsch, D. (1979). Binaural integration of melodic patterns. Perception & Psychophysics, 25, 399–405.
-Durlach, N. I., Mason, C. R., Kidd, G., Jr., Arbogast, T. L., Colburn, H. S., & Shinn-Cunningham, B. G. (2003). Note on informational masking. Journal of the Acoustical Society of America, 113, 2984–2987.
-Elhilali, M., Ma, L., Micheyl, C., Oxenham, A. J., & Shamma, S. (2009). Temporal coherence in the perceptual organization and cortical representation of auditory scenes. Neuron, 61, 317–329.
-Fechner, G. T. (1860). Elemente der Psychophysik (Vol. 1). Leipzig, Germany: Breitkopf und Haertl.
-Griffiths, T. D., Buchel, C., Frackowiak, R. S., & Patterson, R. D. (1998). Analysis of temporal structure in sound by the human brain. Nature Neuroscience, 1, 422–427.
-Gutschalk, A., Micheyl, C., & Oxenham, A. J. (2008). Neural correlates of auditory perceptual awareness under informational masking. PLoS Biology, 6, 1156–1165 (e1138).
-Harper, N. S., & McAlpine, D. (2004). Optimal neural population coding of an auditory spatial cue. Nature, 430, 682–686.
-Hofman, P. M., Van Riswick, J. G. A., & Van Opstal, A. J. (1998). Relearning sound localization with new ears. Nature Neuroscience, 1, 417–421.
+## References
+* Attneave, F., & Olson, R. K. (1971). Pitch as a medium: A new approach to psychophysical scaling. American Journal of Psychology, 84, 147–166.
+* Bendor, D., & Wang, X. (2005). The neuronal representation of pitch in primate auditory cortex. Nature, 436, 1161–1165.
+* Bernstein, L. R., & Trahiotis, C. (2002). Enhancing sensitivity to interaural delays at high frequencies by using "transposed stimuli." Journal of the Acoustical Society of America, 112, 1026–1036.
+* Bregman, A. S. (1990). Auditory scene analysis: The perceptual organization of sound. Cambridge, MA: MIT Press.
+* Deutsch, D. (1979). Binaural integration of melodic patterns. Perception & Psychophysics, 25, 399–405.
+* Durlach, N. I., Mason, C. R., Kidd, G., Jr., Arbogast, T. L., Colburn, H. S., & Shinn-Cunningham, B. G. (2003). Note on informational masking. Journal of the Acoustical Society of America, 113, 2984–2987.
+* Elhilali, M., Ma, L., Micheyl, C., Oxenham, A. J., & Shamma, S. (2009). Temporal coherence in the perceptual organization and cortical representation of auditory scenes. Neuron, 61, 317–329.
+* Fechner, G. T. (1860). Elemente der Psychophysik (Vol. 1). Leipzig, Germany: Breitkopf und Haertl.
+* Griffiths, T. D., Buchel, C., Frackowiak, R. S., & Patterson, R. D. (1998). Analysis of temporal structure in sound by the human brain. Nature Neuroscience, 1, 422–427.
+* Gutschalk, A., Micheyl, C., & Oxenham, A. J. (2008). Neural correlates of auditory perceptual awareness under informational masking. PLoS Biology, 6, 1156–1165 (e1138).
+* Harper, N. S., & McAlpine, D. (2004). Optimal neural population coding of an auditory spatial cue. Nature, 430, 682–686.
+* Hofman, P. M., Van Riswick, J. G. A., & Van Opstal, A. J. (1998). Relearning sound localization with new ears. Nature Neuroscience, 1, 417–421.
 ISO. (2003). ISO:226 Acoustics - Normal equal-loudness-level contours. Geneva, Switzerland: International Organization for Standardization.
-Klump, R. G., & Eady, H. R. (1956). Some measurements of interaural time difference thresholds. Journal of the Acoustical Society of America, 28, 859–860.
-Knudsen, E. I., & Konishi, M. (1978). A neural map of auditory space in the owl. Science, 200, 795–797.
-Macpherson, E. A., & Middlebrooks, J. C. (2002). Listener weighting of cues for lateral angle: The duplex theory of sound localization revisited. Journal of the Acoustical Society of America, 111, 2219–2236.
-Moore, B. C. J. (2007). Cochlear hearing loss: Physiological, psychological, and technical issues. Chichester: Wiley.
-Moore, B. C. J., Glasberg, B. R., & Baer, T. (1997). A model for the prediction of thresholds, loudness, and partial loudness. Journal of the Audio Engineering Society, 45, 224–240.
-Oxenham, A. J., Micheyl, C., Keebler, M. V., Loper, A., & Santurette, S. (2011). Pitch perception beyond the traditional existence region of pitch. Proceedings of the National Academy of Sciences USA, 108, 7629–7634.
-Penagos, H., Melcher, J. R., & Oxenham, A. J. (2004). A neural representation of pitch salience in non-primary human auditory cortex revealed with fMRI. Journal of Neuroscience, 24, 6810–6815.
-Pressnitzer, D., Patterson, R. D., & Krumbholz, K. (2001). The lower limit of melodic pitch. Journal of the Acoustical Society of America, 109, 2074–2084.
-Rayleigh, L. (1907). On our perception of sound direction. Philosophical Magazine, 13, 214–232.
-Risset, J. C., & Wessel, D. L. (1999). Exploration of timbre by analysis and synthesis. In D. Deutsch (Ed.), The psychology of music (2nd ed., pp. 113–168): Academic Press.
-Shinn-Cunningham, B. G., Lee, A. K., & Oxenham, A. J. (2007). A sound element gets lost in perceptual competition. Proceedings of the National Academy of Sciences USA, 104, 12223–12227.
-Smith, Z. M., Delgutte, B., & Oxenham, A. J. (2002). Chimaeric sounds reveal dichotomies in auditory perception. Nature, 416, 87–90.
-Stevens, S. S. (1957). On the psychophysical law. Psychological Review, 64, 153–181.
-Walker, K. M., Bizley, J. K., King, A. J., & Schnupp, J. W. (2011). Multiplexed and robust representations of sound features in auditory cortex. Journal of Neuroscience, 31, 14565–14576.
-Wang, D., & Brown, G. J. (Eds.). (2006). Computational auditory scene analysis: Principles, algorithms, and applications. Hoboken, NJ: Wiley.
-Watson, C. S., & Kelly, W. J. (1978). Informational masking in auditory patterns. Journal of the Acoustical Society of America, 64, S39.
-Zahorik, P., & Wightman, F. L. (2001). Loudness constancy with varying sound source distance. Nature Neuroscience, 4, 78–83.
-de Cheveigné, A. (2005). Pitch perception models. In C. J. Plack, A. J. Oxenham, A. N. Popper, & R. Fay (Eds.), Pitch: Neural coding and perception (pp. 169–233). New York, NY: Springer Verlag.
+* Klump, R. G., & Eady, H. R. (1956). Some measurements of interaural time difference thresholds. Journal of the Acoustical Society of America, 28, 859–860.
+* Knudsen, E. I., & Konishi, M. (1978). A neural map of auditory space in the owl. Science, 200, 795–797.
+* Macpherson, E. A., & Middlebrooks, J. C. (2002). Listener weighting of cues for lateral angle: The duplex theory of sound localization revisited. Journal of the Acoustical Society of America, 111, 2219–2236.
+* Moore, B. C. J. (2007). Cochlear hearing loss: Physiological, psychological, and technical issues. Chichester: Wiley.
+* Moore, B. C. J., Glasberg, B. R., & Baer, T. (1997). A model for the prediction of thresholds, loudness, and partial loudness. Journal of the Audio Engineering Society, 45, 224–240.
+* Oxenham, A. J., Micheyl, C., Keebler, M. V., Loper, A., & Santurette, S. (2011). Pitch perception beyond the traditional existence region of pitch. Proceedings of the National Academy of Sciences USA, 108, 7629–7634.
+* Penagos, H., Melcher, J. R., & Oxenham, A. J. (2004). A neural representation of pitch salience in non-primary human auditory cortex revealed with fMRI. Journal of Neuroscience, 24, 6810–6815.
+* Pressnitzer, D., Patterson, R. D., & Krumbholz, K. (2001). The lower limit of melodic pitch. Journal of the Acoustical Society of America, 109, 2074–2084.
+* Rayleigh, L. (1907). On our perception of sound direction. Philosophical Magazine, 13, 214–232.
+* Risset, J. C., & Wessel, D. L. (1999). Exploration of timbre by analysis and synthesis. In D. Deutsch (Ed.), The psychology of music (2nd ed., pp. 113–168): Academic Press.
+* Shinn-Cunningham, B. G., Lee, A. K., & Oxenham, A. J. (2007). A sound element gets lost in perceptual competition. Proceedings of the National Academy of Sciences USA, 104, 12223–12227.
+* Smith, Z. M., Delgutte, B., & Oxenham, A. J. (2002). Chimaeric sounds reveal dichotomies in auditory perception. Nature, 416, 87–90.
+* Stevens, S. S. (1957). On the psychophysical law. Psychological Review, 64, 153–181.
+* Walker, K. M., Bizley, J. K., King, A. J., & Schnupp, J. W. (2011). Multiplexed and robust representations of sound features in auditory cortex. Journal of Neuroscience, 31, 14565–14576.
+* Wang, D., & Brown, G. J. (Eds.). (2006). Computational auditory scene analysis: Principles, algorithms, and applications. Hoboken, NJ: Wiley.
+* Watson, C. S., & Kelly, W. J. (1978). Informational masking in auditory patterns. Journal of the Acoustical Society of America, 64, S39.
+* Zahorik, P., & Wightman, F. L. (2001). Loudness constancy with varying sound source distance. Nature Neuroscience, 4, 78–83.
+de Cheveigné, A. (2005). Pitch perception models. In C. J. Plack, A. J. Oxenham, A. N. Popper, & R. Fay (Eds.), Pitch: Neural coding and perception (pp. 169–233). * New York, NY: Springer Verlag.
