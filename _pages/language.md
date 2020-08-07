@@ -7,18 +7,13 @@ sidebar:
 
 Humans have the capacity to use complex language, far more than any other species on Earth. We cooperate with each other to use language for communication; language is often used to communicate about and even construct and maintain our social world. Language use and human sociality are inseparable parts of Homo sapiens as a biological species.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/gq62cpam
-Audience designCommon groundSituation modelSocial brain hypothesis
-Learning Objectives
-Define basic terms used to describe language use.
-Describe the process by which people can share new information by using language.
-Characterize the typical content of conversation and its social implications.
-Characterize psychological consequences of language use and give an example.
-Introduction
+## Learning Objectives
+* Define basic terms used to describe language use.
+* Describe the process by which people can share new information by using language.
+* Characterize the typical content of conversation and its social implications.
+* Characterize psychological consequences of language use and give an example.
+
+## Introduction
 Imagine two men of 30-something age, Adam and Ben, walking down the corridor. Judging from their clothing, they are young businessmen, taking a break from work. They then have this exchange.
 
 Adam: “You know, Gary bought a ring.”
@@ -29,7 +24,7 @@ An artwork titled "Graphic Conversation" made up of speech balloons like those o
 Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [Image: Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8]
 Language is used in our everyday lives. If psychology is a science of behavior, scientific investigation of language use must be one of the most central topics—this is because language use is ubiquitous. Every human group has a language; human infants (except those who have unfortunate disabilities) learn at least one language without being taught explicitly. Even when children who don’t have much language to begin with are brought together, they can begin to develop and use their own language. There is at least one known instance where children who had had little language were brought together and developed their own language spontaneously with minimum input from adults. In Nicaragua in the 1980s, deaf children who were separately raised in various locations were brought together to schools for the first time. Teachers tried to teach them Spanish with little success. However, they began to notice that the children were using their hands and gestures, apparently to communicate with each other. Linguists were brought in to find out what was happening—it turned out the children had developed their own sign language by themselves. That was the birth of a new language, Nicaraguan Sign Language (Kegl, Senghas, & Coppola, 1999). Language is ubiquitous, and we humans are born to use it.
 
-How Do We Use Language?
+## How Do We Use Language?
 If language is so ubiquitous, how do we actually use it? To be sure, some of us use it to write diaries and poetry, but the primary form of language use is interpersonal. That’s how we learn language, and that’s how we use it. Just like Adam and Ben, we exchange words and utterances to communicate with each other. Let’s consider the simplest case of two people, Adam and Ben, talking with each other. According to Clark (1996), in order for them to carry out a conversation, they must keep track of common ground. Common ground is a set of knowledge that the speaker and listener share and they think, assume, or otherwise take for granted that they share. So, when Adam says, “Gary bought a ring,” he takes for granted that Ben knows the meaning of the words he is using, whom Gary is, and what buying a ring means. When Ben says, “For Mary, isn’t it?” he takes for granted that Adam knows the meaning of these words, who Mary is, and what buying a ring for someone means. All these are part of their common ground.
 
 A pair of female students stand on the steps in front of a building engaged in conversation.
@@ -45,7 +40,7 @@ Pickering and Garrod (2004) argue that we achieve our conversational coordinatio
 
 Pickering and Garrod (2004) suggest that these interpersonal alignments at different levels of language use can activate similar situation models in the minds of those who are engaged in a conversation. Situation models are representations about the topic of a conversation. So, if you are talking about Gary and Mary with your friends, you might have a situation model of Gary giving Mary a ring in your mind. Pickering and Garrod’s theory is that as you describe this situation using language, others in the conversation begin to use similar words and grammar, and many other aspects of language use converge. As you all do so, similar situation models begin to be built in everyone’s mind through the mechanism known as priming. Priming occurs when your thinking about one concept (e.g., “ring”) reminds you about other related concepts (e.g., “marriage”, “wedding ceremony”). So, if everyone in the conversation knows about Gary, Mary, and the usual course of events associated with a ring—engagement, wedding, marriage, etc.— everyone is likely to construct a shared situation model about Gary and Mary. Thus, making use of our highly developed interpersonal ability to imitate (i.e., executing the same action as another person) and cognitive ability to infer (i.e., one idea leading to other ideas), we humans coordinate our common ground, share situation models, and communicate with each other.
 
-What Do We Talk About?
+## What Do We Talk About?
 
 Studies show that people love to gossip. By gossiping, humans can communicate and share their representations about their social world—who their friends and enemies are, what the right thing to do is under what circumstances, and so on. [Image: aqua.mech, https://goo.gl/Q7Ap4b, CC BY 2.0, https://goo.gl/T4qgSp]
 What are humans doing when we are talking? Surely, we can communicate about mundane things such as what to have for dinner, but also more complex and abstract things such as the meaning of life and death, liberty, equality, and fraternity, and many other philosophical thoughts. Well, when naturally occurring conversations were actually observed (Dunbar, Marriott, & Duncan, 1997), a staggering 60%–70% of everyday conversation, for both men and women, turned out to be gossip—people talk about themselves and others whom they know. Just like Adam and Ben, more often than not, people use language to communicate about their social world.
@@ -57,7 +52,7 @@ Dunbar’s hypothesis is controversial. Nonetheless, whether or not he is right,
 
 In addition, when people exchange their gossip, it can spread through broader social networks. If gossip is transmitted from one person to another, the second person can transmit it to a third person, who then in turn transmits it to a fourth, and so on through a chain of communication. This often happens for emotive stories (Box 2). If gossip is repeatedly transmitted and spread, it can reach a large number of people. When stories travel through communication chains, they tend to become conventionalized (Bartlett, 1932). A Native American tale of the “War of the Ghosts” recounts a warrior’s encounter with ghosts traveling in canoes and his involvement with their ghostly battle. He is shot by an arrow but doesn’t die, returning home to tell the tale. After his narration, however, he becomes still, a black thing comes out of his mouth, and he eventually dies. When it was told to a student in England in the 1920s and retold from memory to another person, who, in turn, retold it to another and so on in a communication chain, the mythic tale became a story of a young warrior going to a battlefield, in which canoes became boats, and the black thing that came out of his mouth became simply his spirit (Bartlett, 1932). In other words, information transmitted multiple times was transformed to something that was easily understood by many, that is, information was assimilated into the common ground shared by most people in the linguistic community. More recently, Kashima (2000) conducted a similar experiment using a story that contained a sequence of events that described a young couple’s interaction that included both stereotypical and counter-stereotypical actions (e.g., a man watching sports on TV on Sunday vs. a man vacuuming the house). After the retelling of this story, much of the counter-stereotypical information was dropped, and stereotypical information was more likely to be retained. Because stereotypes are part of the common ground shared by the community, this finding too suggests that conversational retellings are likely to reproduce conventional content.
 
-Psychological Consequences of Language Use
+## Psychological Consequences of Language Use
 What are the psychological consequences of language use? When people use language to describe an experience, their thoughts and feelings are profoundly shaped by the linguistic representation that they have produced rather than the original experience per se (Holtgraves & Kashima, 2008). For example, Halberstadt (2003) showed a picture of a person displaying an ambiguous emotion and examined how people evaluated the displayed emotion. When people verbally explained why the target person was expressing a particular emotion, they tended to remember the person as feeling that emotion more intensely than when they simply labeled the emotion.
 
 Two close friends have a conversation over coffee.
@@ -67,61 +62,61 @@ Thus, constructing a linguistic representation of another person’s emotion app
 
 Furthermore, if a certain type of language use (linguistic practice) (Holtgraves & Kashima, 2008) is repeated by a large number of people in a community, it can potentially have a significant effect on their thoughts and action. This notion is often called Sapir-Whorf hypothesis (Sapir, 1921; Whorf, 1956; Box 3). For instance, if you are given a description of a man, Steven, as having greater than average experience of the world (e.g., well-traveled, varied job experience), a strong family orientation, and well-developed social skills, how do you describe Steven? Do you think you can remember Steven’s personality five days later? It will probably be difficult. But if you know Chinese and are reading about Steven in Chinese, as Hoffman, Lau, and Johnson (1986) showed, the chances are that you can remember him well. This is because English does not have a word to describe this kind of personality, whereas Chinese does (shì gù). This way, the language you use can influence your cognition. In its strong form, it has been argued that language determines thought, but this is probably wrong. Language does not completely determine our thoughts—our thoughts are far too flexible for that—but habitual uses of language can influence our habit of thought and action. For instance, some linguistic practice seems to be associated even with cultural values and social institution. Pronoun drop is the case in point. Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English. In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence. So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English. However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences. It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values (e.g., employees having greater loyalty toward their employers) than those who use non–pronoun drop languages such as English (Kashima & Kashima, 1998). It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals. Such a linguistic practice may act as a constant reminder of the cultural value, which, in turn, may encourage people to perform the linguistic practice.
 
-Conclusion
+## Conclusion
 Language and language use constitute a central ingredient of human psychology. Language is an essential tool that enables us to live the kind of life we do. Can you imagine a world in which machines are built, farms are cultivated, and goods and services are transported to our household without language? Is it possible for us to make laws and regulations, negotiate contracts, and enforce agreements and settle disputes without talking? Much of contemporary human civilization wouldn’t have been possible without the human ability to develop and use language. Like the Tower of Babel, language can divide humanity, and yet, the core of humanity includes the innate ability for language use. Whether we can use it wisely is a task before us in this globalized world.
 
-Discussion Questions
-In what sense is language use innate and learned?
-Is language a tool for thought or a tool for communication?
-What sorts of unintended consequences can language use bring to your psychological processes?
-Vocabulary
-Audience design
+## Discussion Questions
+* In what sense is language use innate and learned?
+* Is language a tool for thought or a tool for communication?
+* What sorts of unintended consequences can language use bring to your psychological processes?
+## Vocabulary
+### Audience design
 Constructing utterances to suit the audience’s knowledge.
-Common ground
+### Common ground
 Information that is shared by people who engage in a conversation.
-Ingroup
+### Ingroup
 Group to which a person belongs.
-Lexicon
+### Lexicon
 Words and expressions.
-Linguistic intergroup bias
+### Linguistic intergroup bias
 A tendency for people to characterize positive things about their ingroup using more abstract expressions, but negative things about their outgroups using more abstract expressions.
-Outgroup
+### Outgroup
 Group to which a person does not belong.
-Priming
+### Priming
 A stimulus presented to a person reminds him or her about other ideas associated with the stimulus.
-Sapir-Whorf hypothesis
+### Sapir-Whorf hypothesis
 The hypothesis that the language that people use determines their thoughts.
-Situation model
+### Situation model
 A mental representation of an event, object, or situation constructed at the time of comprehending a linguistic description.
-Social brain hypothesis
+### Social brain hypothesis
 The hypothesis that the human brain has evolved, so that humans can maintain larger ingroups.
-Social networks
+### Social networks
 Networks of social relationships among individuals through which information can travel.
-Syntax
+### Syntax
 Rules by which words are strung together to form sentences.
-References
-Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, UK: Cambridge University Press.
-Branigan, H. P., Pickering, M. J., & Cleland, A. A. (2000). Syntactic co-ordination in dialogue. Cognition, 75, B13–25.
-Clark, H. H. (1996). Using language. Cambridge, UK: Cambridge University Press.
-Clark, H. H., & Wilkes-Gibbs, D. (1986). Referring as a collaborative process. Cognition, 22, 1–39.
-Dunbar, R. (1996). Grooming, gossip, and the evolution of language. Boston, MA: Harvard University Press.
-Dunbar, R. I. M. (1993). Coevolution of neorcortical size, group size and language in humans. Behavioral and Brain Sciences, 16, 681–735.
-Dunbar, R. I. M., Duncan, N. D. C., & Nettle, D. (1995). Size and structure of freely forming conversational groups. Human Nature, 6, 67–78.
-Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C. (1997). Human conversational behaviour. Human Nature, 8, 231–246.
-Fussell, S. R., & Krauss, R. M. (1992). Coordination of knowledge in communication: Effects of speakers’ assumptions about what others know. Journal of Personality and Social Psychology, 62, 378–391.
-Giles, H., Coupland, N., & Coupland, J. (1991) Accommodation theory: Communication, context, and consequence. In H. Giles, J. Coupland, & N. Coupland (Eds.), Contexts of accommodation: Developments in applied sociolinguistics (pp. 1–68). Cambridge, UK: Cambridge University Press.
-Halberstadt, J. (2003). The paradox of emotion attribution: Explanation biases perceptual memory for emotional expressions. Current Directions in Psychological Science, 12, 197–201.
-Hoffman, C., Lau, I., & Johnson, D. R. (1986). The linguistic relativity of person cognition: An English-Chinese comparison. Journal of Personality and Social Psychology, 51, 1097–1105.
-Holtgraves, T. M., & Kashima, Y. (2008). Language, meaning, and social cognition. Personality and Social Psychology Review, 12, 73–94.
-James, J. (1953). The distribution of free-forming small group size. American Sociological Review, 18, 569–570.
-Kashima, E., & Kashima, Y. (1998). Culture and language: The case of cultural dimensions and personal pronoun use. Journal of Cross-Cultural Psychology, 29, 461–486.
-Kashima, Y. (2000). Maintaining cultural stereotypes in the serial reproduction of narratives. Personality and Social Psychology Bulletin, 26, 594–604.
-Kegl, J., Senghas, A., & Coppola, M. (1999). Creation through contact: Sign language emergence and sign language change in Nicaragua. In M. DeGraff (Ed.), Language creation and language change Creolization, diachrony, and development (pp. 179–237). Cambridge, MA: The MIT Press.
-Lieberman, M., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. W. (2007). Putting feelings into words. Psychological Science, 18, 421–428.
-Lyubomirsky, S., Sousa, L., & Dickerhoof, R. (2006). The costs and benefits of writing, talking, and thinking about life’s triumphs and defeats. Journal of Personality and Social Psychology, 90, 692–708.
-Maass, A., Salvi, D., Arcuri, L., & Semin, G. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57, 981–993.
-Pennebaker, J. W., & Seagal, J. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243–1254.
-Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and Brain Sciences, 27, 169–226.
-Sapir, E. (1921). Language: An introduction to the study of speech. New York, NY: Harcourt Brace.
-Semin, G., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons: Social cognition and language. Journal of Personality and Social Psychology, 54, 558–568.
-Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
+## References
+* Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, UK: Cambridge University Press.
+* Branigan, H. P., Pickering, M. J., & Cleland, A. A. (2000). Syntactic co-ordination in dialogue. Cognition, 75, B13–25.
+* Clark, H. H. (1996). Using language. Cambridge, UK: Cambridge University Press.
+* Clark, H. H., & Wilkes-Gibbs, D. (1986). Referring as a collaborative process. Cognition, 22, 1–39.
+* Dunbar, R. (1996). Grooming, gossip, and the evolution of language. Boston, MA: Harvard University Press.
+* Dunbar, R. I. M. (1993). Coevolution of neorcortical size, group size and language in humans. Behavioral and Brain Sciences, 16, 681–735.
+* Dunbar, R. I. M., Duncan, N. D. C., & Nettle, D. (1995). Size and structure of freely forming conversational groups. Human Nature, 6, 67–78.
+* Dunbar, R. I. M., Marriott, A., & Duncan, N. D. C. (1997). Human conversational behaviour. Human Nature, 8, 231–246.
+* Fussell, S. R., & Krauss, R. M. (1992). Coordination of knowledge in communication: Effects of speakers’ assumptions about what others know. Journal of Personality and Social Psychology, 62, 378–391.
+* Giles, H., Coupland, N., & Coupland, J. (1991) Accommodation theory: Communication, context, and consequence. In H. Giles, J. Coupland, & N. Coupland (Eds.), Contexts of accommodation: Developments in applied sociolinguistics (pp. 1–68). Cambridge, UK: Cambridge University Press.
+* Halberstadt, J. (2003). The paradox of emotion attribution: Explanation biases perceptual memory for emotional expressions. Current Directions in Psychological Science, 12, 197–201.
+* Hoffman, C., Lau, I., & Johnson, D. R. (1986). The linguistic relativity of person cognition: An English-Chinese comparison. Journal of Personality and Social Psychology, 51, 1097–1105.
+* Holtgraves, T. M., & Kashima, Y. (2008). Language, meaning, and social cognition. Personality and Social Psychology Review, 12, 73–94.
+* James, J. (1953). The distribution of free-forming small group size. American Sociological Review, 18, 569–570.
+* Kashima, E., & Kashima, Y. (1998). Culture and language: The case of cultural dimensions and personal pronoun use. Journal of Cross-Cultural Psychology, 29, 461–486.
+* Kashima, Y. (2000). Maintaining cultural stereotypes in the serial reproduction of narratives. Personality and Social Psychology Bulletin, 26, 594–604.
+* Kegl, J., Senghas, A., & Coppola, M. (1999). Creation through contact: Sign language emergence and sign language change in Nicaragua. In M. DeGraff (Ed.), Language creation and language change Creolization, diachrony, and development (pp. 179–237). Cambridge, MA: The MIT Press.
+* Lieberman, M., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. W. (2007). Putting feelings into words. Psychological Science, 18, 421–428.
+* Lyubomirsky, S., Sousa, L., & Dickerhoof, R. (2006). The costs and benefits of writing, talking, and thinking about life’s triumphs and defeats. Journal of Personality and Social Psychology, 90, 692–708.
+* Maass, A., Salvi, D., Arcuri, L., & Semin, G. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57, 981–993.
+* Pennebaker, J. W., & Seagal, J. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243–1254.
+* Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and Brain Sciences, 27, 169–226.
+* Sapir, E. (1921). Language: An introduction to the study of speech. New York, NY: Harcourt Brace.
+* Semin, G., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons: Social cognition and language. Journal of Personality and Social Psychology, 54, 558–568.
+* Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
