@@ -7,18 +7,12 @@ sidebar:
 
 The vestibular system functions to detect head motion and position relative to gravity and is primarily involved in the fine control of visual gaze, posture, orthostasis, spatial orientation, and navigation. Vestibular signals are highly processed in many regions of the brain and are involved in many essential functions. In this module, we provide an overview of how the vestibular system works and how vestibular signals are used to guide behavior.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/ey5sb6fg
-Eye movementMotion perceptionNavigationPosturespatial orientationVestibular
-Learning Objectives
-Define the basic structures of the vestibular receptor system.
-Describe the neuroanatomy of the vestibuloocular, vestibulospinal, and vestibulo-thalamo-cortical pathways.
-Describe the vestibular commissural system.
-Describe the different multisensory cortical areas for motion perception.
-Introduction
+## Learning Objectives
+* Define the basic structures of the vestibular receptor system.
+* Describe the neuroanatomy of the vestibuloocular, vestibulospinal, and vestibulo-thalamo-cortical pathways.
+* Describe the vestibular commissural system.
+* Describe the different multisensory cortical areas for motion perception.
+## Introduction
 Remember the dizzy feeling you got as a child after you jumped off the merry-go-round or spun around like a top? These feelings result from activation of the vestibular system, which detects our movements through space but is not a conscious sense like vision or hearing. In fact, most vestibular functions are imperceptible, but vestibular-related sensations such as motion sickness can pop up rapidly when riding on a roller coaster, having a bumpy plane ride, or a sailing a boat in rough seas. However, these sensations are really side effects and the vestibular system is actually extremely important for everyday activities, with vestibular signals being involved in much of the brain’s information processing that controls such fundamental functions as balance, posture, gaze stabilization, spatial orientation, and navigation, to name a few. In many regions of the brain, vestibular information is combined with signals from the other senses as well as with motor information to give rise to motion perception, body awareness, and behavioral control. Here, we will explore the workings of the vestibular system and consider some of the integrated computations the brain performs using vestibular signals to guide our common behavior.
 
 Warning sign at a carnival that those who easily experience motion sickness should not go on this ride.
@@ -28,7 +22,7 @@ The vestibular receptors lie in the inner ear next to the auditory cochlea. They
 
 These receptors are contained in a series of interconnected fluid filled tubes that are protected by a dense, overlying bone (Iurato, 1967). Each of the three semicircular canals lies in a plane that is orthogonal to the other two. The horizontal semicircular canal lies in a roughly horizontal head plane, whereas the anterior and posterior semicircular canals lie vertically in the head (Blanks, Curthoys, Bennett, & Markham, 1985). The semicircular canal receptor cells, termed hair cells, are located only in the middle of the circular tubes in a special epithelium, covered by a gelatinous membrane that stretches across the tube to form a fluid-tight seal like the skin of a drum (Figures 1A and 1B). Hair cells are so named due to an array of nearly 100 staggered-height stereocilia (like a church pipe organ) that protrude from the top of the cell into the overlying gelatin membrane (Wersäll, 1956). The shortest stereocilia are at one end of the cell and the tallest at the other (Lindeman, 1969). When the head is rotated, the fluid in the semicircular canals lags behind the head motion and pushes on the gelatin membrane, which bends the stereocilia.
 
-Receptor hair cells and semicircular canal structure.
+## Receptor hair cells and semicircular canal structure.
 Figure 1. Receptor hair cells and semicircular canal structure. A) Vestibular hair cell in the receptor epithelium with stereocilia in the apical surface of the cell. Innervating afferent and efferent neurons make synaptic contacts with the basal surface of the cell. B) Semicircular canal structure showing the fluid duct, the hair cell stereocilia embedded in a gelatinous membrane on top of the hair cells, and the innervating afferent fibers.
 As shown in Figure 2, when the head moves toward the receptor hair cells (e.g., left head turns for the left horizontal semicircular canal), the stereocilia are bent toward the tallest end and special mechanically gated ion channels in the tips of the cilia open, which excites (depolarizes) the cell (Shotwell, Jacobs, & Hudspeth, 1981). Head motion in the opposite direction causes bending toward the smallest stereocilia, which closes the channels and inhibits (hyperpolarizes) the cell. The left and right ear semicircular canals have opposite polarity, so for example, when you turn your head to the left, the receptors in the left horizontal semicircular canal will be excited while right ear horizontal canal receptors will be inhibited (Figure 3). The same relationship is true for the vertical semicircular canals. Vestibular afferent nerve fibers innervate the base of the hair cell and increase or decrease their neural firing rate as the receptor cell is excited or inhibited (Dickman and Correia, 1989), respectively, and then carry these signals regarding head rotational motion to the brain as part of the vestibulocochlear nerve (Cranial nerve VIII). They enter the brainstem and terminate in the ipsilateral vestibular nuclei, cerebellum, and reticular formation (Carleton & Carpenter, 1984; Dickman & Fang, 1996). The primary vestibular hair cell and afferent neurotransmitters are glutamate and aspartate. Due to the mechanical properties of the vestibular receptor system, rotational accelerations of the head are integrated into velocity signals (Van Egmond, Groen, & Jongkess, 1949) that are then encoded by semicircular canal afferents (Fernandez & Goldberg, 1971). Detection thresholds for rotational motion have shown that afferents can discriminate differences in head velocity on the order of 2 deg/sec, but also are sensitive to a broad range of natural head movements up to high head speeds in the hundreds of deg/sec (as you might experience when you make a fast head turn toward a loud sound, or are performing gymnastics; Sadeghi, Chacron, Taylor, & Cullen, 2007; Yu, Dickman, & Angelaki, 2012).
 
@@ -38,16 +32,16 @@ Illustration of excitation of receptors on the left and inhibition of receptors 
 Figure 3. Receptor hair cells in the otolith organs. Receptor cells have stereocilia embedded in the gelatinous membrane, which is covered by thousands of calcium carbonite otoconia. Receptor cells are polarized in opposite directions relative to a central location and are innervated by VIIIth nerve afferent fibers.
 Otolith receptors are sensitive to linear accelerations and tilts of the head relative to gravity (Fernandez & Goldberg, 1976a). The utricle otolith receptor lies parallel to the horizontal semicircular canal and the saccule receptor lies vertical in the head (Hearing module, Figure 1- http://noba.to/jry3cu78). As shown in Figure 4, a special otolith epithelium contains receptor hair cells whose stereocilia extend into a gelatin membrane that is covered by a layer of calcium carbonate crystals, termed otoconia, like rocks piled up to form a jetty (Lindeman, 1969). Otoconia are not affected by fluid movements but instead are displaced by linear accelerations, including translations (e.g., forward/backward or upward/downward motions) or changes in head position relative to gravity. These linear accelerations produce displacements of the otoconia (due to their high mass), much like rocks rolling down a hill or your coffee cup falling off the car dashboard when you push the gas pedal. Movements of the otoconia bend the hair cell stereocilia and open/close channels in a similar way to that described for the semicircular canals. However, otolith hair cells are polarized such that the tallest stereocilia are pointing toward the center of the utricle and away from the center in the saccule, which effectively splits the receptors into two opposing groups (Flock, 1964; Lindeman, 1969). In this way, some hair cells are excited and some inhibited for each linear motion force or head tilt experienced, with the population of receptors and their innervating afferents being directionally tuned to all motions or head tilts in 3D space (Fernandez & Goldberg, 1976b).
 
-Anatomy of otolith receptors.
+## Anatomy of otolith receptors.
 Figure 4. Vestibular response to horizontal plane head rotation. A) When the head is stationary, afferent fibers on both the sides of the head have equivalent firing so there is no sense of motion. B) When the head turns to the left, all of the left horizontal semicircular canal hair cells are excited and afferent fibers increase their firing rate. Conversely, right horizontal canal afferents decrease their firing rate
 All vestibular hair cells and afferents receive connections from vestibular efferents, which are fibers projecting from the brain out to the vestibular receptor organs, whose function is not well understood. It is thought that efferents control the sensitivity of the receptor (Boyle, Carey, & Highstein, 1991). The primary efferents neurotransmitter is acetylcholine (Anniko & Arnold, 1991).
 
-The vestibular nuclei
+## The vestibular nuclei
 The vestibular nuclei comprise a large set of neural elements in the brainstem that receive motion and other multisensory signals, then regulate movement responses and sensory experience. Many vestibular nuclei neurons have reciprocal connections with the cerebellum that form important regulatory mechanisms for the control of eye movements, head movements, and posture. There are four major vestibular nuclei that lie in the rostral medulla and caudal pons of the brainstem; all receive direct input from vestibular afferents (Brodal, 1984; Precht & Shimazu, 1965). Many of these nuclei neurons receive convergent motion information from the opposite ear through an inhibitory commissural pathway that uses gamma-aminobutyric acid (GABA) as a neurotransmitter (Kasahara & Uchino, 1974; Shimazu & Precht, 1966). The commissural pathway is highly organized such that cells receiving horizontal excitatory canal signals from the ipsilateral ear will also receive contralateral inhibitory horizontal canal signals from the opposite ear This fact gives rise to a “push-pull” vestibular function, whereby directional sensitivity to head movement is coded by opposing receptor signals. Because vestibular nuclei neurons receive information from bilateral inner ear receptors and because they maintain a high spontaneous firing rate (nearly 100 impulses/sec), they are thought to act to “compare” the relative discharge rates of left vs. right canal afferent firing activity. For example, during a leftward head turn, left brainstem nuclei neurons receive high firing-rate information from the left horizontal canal and low firing-rate information from the right horizontal canal. The comparison of activity is interpreted as a left head turn. Similar nuclei neuron responses exist when the head is pitched or rolled, with the vertical semicircular canals being stimulated by the rotational motion in their sensitivity planes. However, the opposing push-pull response from the vertical canals occurs with the anterior semicircular canal in one ear and the co-planar posterior semicircular canal of the opposite ear. Damage or disease that interrupts inner ear signal information from one side of the head can change the normal resting activity in the VIIIth nerve afferent fibers and will be interpreted by the brain as a head rotation, even though the head is stationary. These effects often lead to illusions of spinning or rotating that can be quite upsetting and may produce nausea or vomiting. However, over time the commissural fibers provide for vestibular compensation, a process by which the loss of unilateral vestibular receptor function is partially restored centrally and behavioral responses, such as the vestibuloocular reflex (VOR) and postural responses, mostly recover (Beraneck et al., 2003; Fetter & Zee, 1988,; Newlands, Hesse, Haque, & Angelaki, 2001; Newlands & Perachio, 1990).
 
 In addition to the commissural pathway, many vestibular nuclei neurons receive proprioceptive signals from the spinal cord regarding muscle movement and position, visual signals regarding spatial motion, other multisensory (e.g., trigeminal) signals, and higher order signals from the cortex. It is thought that the cortical inputs regulate fine gaze and postural control, as well as suppress the normal compensatory reflexes during motion in order to elicit volitional movements. Of special significance are convergent signals from the semicircular canal and otolith afferents that allow central vestibular neurons to compute specific properties of head motion (Dickman & Angelaki, 2002). For example, Einstein (1907) showed that linear accelerations are equivalent whether they arise from translational motion or from tilts of the head relative to gravity. The otolith receptors cannot discriminate between the two, so how is it that we can tell the difference between when we are translating forward and tilting backward, where the linear acceleration signaled by the otolith afferents is the same? Vestibular nuclei and cerebellar neurons use convergent signals from both the semicircular canals and the otolith receptors to discriminate between tilt and translation, and as a result, some cells encode head tilt (Zhou, 2006) while other cells encode translational motion (Angelaki, Shaikh, Green, & Dickman, 2004).
 
-Vestibuloocular system
+## Vestibuloocular system
 The vestibular system is responsible for controlling gaze stability during motion (Crane & Demer, 1997). For example, if we want to read the sign in a store window while walking by, we must maintain foveal fixation on the words while compensating for the combined rotational and translational head movements incurred during our stride. The vestibular system regulates compensatory eye, neck, spinal, and limb movements in order to maintain gaze (Keshner & Peterson, 1995). One of the major components contributing to gaze stability is the VOR, which produces reflexive eye movements that are equal in magnitude and opposite in direction to the perceived head motion in 3D space (Wilson et al., 1995). The VOR is so accurate and fast that it allows people to maintain visual fixation on objects of interest while experiencing demanding motion conditions, such as running, skiing, playing tennis, and driving. In fact, gaze stabilization in humans has been shown to be completely compensatory (essentially perfect) for most natural behaviors. To produce the VOR, vestibular neurons must control each of the six pairs of eye muscles in unison through a specific set of connections to the oculomotor nuclei (Ezure & Graf, 1984). The anterior and posterior semicircular canals along with the saccule control vertical and torsional (turning of the eye around the line of sight) eye movements, while the horizontal canals and the utricle control horizontal eye movements.
 
 To understand how the VOR works, let’s take the example of the compensatory response for a leftward head turn while reading the words on a computer screen. The basic pathway consists of horizontal semicircular canal afferents that project to specific neurons in the vestibular nuclei. These nuclei cells, in turn, send an excitatory signal to the contralateral abducens nucleus, which projects through the sixth cranial nerve to innervate the lateral rectus muscle (Figure 5). Some abducens neurons send an excitatory projection back across the midline to a subdivision of cells in the ipsilateral oculomotor nucleus, which, in turn, projects through the third cranial nerve to innervate the right (ipsilateral) medial rectus muscle. When a leftward head turn is made, the left horizontal canal vestibular afferents will increase their firing rate and consequently increase the activity of vestibular nuclei neurons projecting to the opposite (contralateral) right abducens nucleus. The abducens neurons produce contraction of the right lateral rectus and, through a separate cell projection to the left oculomotor nucleus, excite the left medial rectus muscles. In addition, matching bilateral inhibitory connections relax the left lateral rectus and right medial rectus eye muscles. The resulting rightward eye movement for both eyes stabilizes the object of interest upon the retina for greatest visual acuity.
@@ -56,17 +50,17 @@ To understand how the VOR works, let’s take the example of the compensatory re
 Figure 5. Vestibuloocular reflex. During a leftward head turn, the left horizontal semicircular canal receptors are excited, while the right ear receptors are inhibited. The left excitatory signals excite vestibular nuclei neurons. These cells project across the brain to excite motor neurons in the right abducens nucleus (VI) that excite the lateral rectus muscle of the right eye and to cells in the oculomotor nucleus (III) that excite the medial rectus muscle of the left eye. This moves both eyes to the right to exactly match the leftward head movement and stabilize visual gaze upon a target of interest. The right ear inhibitory signals cross to neurons in the left vestibular nucleus that decrease their firing rate. These cells are inhibitory and decrease their firing rate to further increase the response of rightward motor eye muscle cells.
 During linear translations, a different type of VOR also occurs (Paige & Tomko, 1991). For example, sideways motion to the left results in a horizontal rightward eye movement to maintain visual stability on an object of interest. In a similar manner, vertical up–down head movements (such as occur while walking or running) elicit oppositely directed vertical eye movements (Angelaki, McHenry, & Hess, 2000). For these reflexes, the amplitude of the translational VOR depends on viewing distance. This is due to the fact that the vergence angle (i.e., the angle between the lines of sight for each eye) varies as a function of the inverse of the distance to the viewed visual object (Schwarz, Busettini, & Miles, 1989). Visual objects that are far away (2 meters or more) require no vergence angle, but as the visual objects get closer (e.g., when holding your finger close to your nose), a large vergence angle is needed. During translational motion, the eyes will change their vergence angle as the visual object moves from close to farther away (or vice versa). These responses are a result of activation of the otolith receptors, with connections to the oculomotor nuclei similar to those described above for the rotational vestibuloocular reflex. With tilts of the head, the resulting eye movement is termed torsion, and consists of a rotational eye movement around the line of sight that is in the direction opposite to the head tilt. As mentioned above, there are major reciprocal connections between the vestibular nuclei and the cerebellum. It has been well established that these connections are crucial for adaptive motor learning in the vestibuloocular reflex (Lisberger, Pavelko, & Broussard, 1994).
 
-Vestibulo-spinal network
+## Vestibulo-spinal network
 A man walks across a slackline with his arms extended for balance.
 Similar to how the gyroscope in your cell phone can detect which angle it’s at to adjust the screen, so do the MSVT neurons inform your body which direction it’s headed in order to make the appropriate bodily adjustments. [Image: Kleman Gellek, https://goo.gl/DR9rpR, CC BY 4.0, https://goo.gl/QuGXFp]
 There are two vestibular descending pathways that regulate body muscle responses to motion and gravity, consisting of the lateral vestibulo-spinal tract (LVST) and the medial vestibulo-spinal tract (MVST). Reflexive control of head and neck muscles arises through the neurons in the medial vestibulospinal tract (MVST). These neurons comprise the rapid vestibulocollic reflex (VCR) that serves to stabilize the head in space and participates in gaze control (Peterson, Goldber, Bilotto, & Fuller, 1985). The MVST neurons receive input from vestibular receptors and the cerebellum, and somatosensory information from the spinal cord. MVST neurons carry both excitatory and inhibitory signals to innervate neck flexor and extensor motor neurons in the spinal cord. For example, if one trips over a crack in the pavement while walking, MVST neurons will receive downward and forward linear acceleration signals from the otolith receptors and forward rotation acceleration signals from the vertical semicircular canals. The VCR will compensate by providing excitatory signals to the dorsal neck flexor muscles and inhibitory signals to the ventral neck extensor muscles, which moves the head upward and opposite to the falling motion to protect it from impact.
 
 The LVST comprises a topographic organization of vestibular nuclei cells that receive substantial input from the cerebellum, proprioceptive inputs from the spinal cord, and convergent afferent signals from vestibular receptors. LVST fibers project ipsilateral to many levels of motor neurons in the cord to provide coordination of different muscle groups for postural control (Shinoda, Sugiuchi, Futami, Ando, & Kawasaki, 1994). LVST neurons contain either acetylcholine or glutamate as a neurotransmitter and exert an excitatory influence upon extensor muscle motor neurons. For example, LVST fibers produce extension of the contralateral axial and limb musculature when the body is tilted sideways. These actions serve to stabilize the body’s center of gravity in order to preserve upright posture.
 
-Vestibulo-autonomic control
+## Vestibulo-autonomic control
 Some vestibular nucleus neurons send projections to the reticular formation, dorsal pontine nuclei, and nucleus of the solitary tract. These connections regulate breathing and circulation through compensatory vestibular autonomic responses that stabilize respiration and blood pressure during body motion and changes relative to gravity. They may also be important for induction of motion sickness and emesis.
 
-Vestibular signals in the thalamus and cortex
+## Vestibular signals in the thalamus and cortex
 The cognitive perception of motion, spatial orientation, and navigation through space arises through multisensory information from vestibular, visual, and somatosensory signals in the thalamus and cortex (Figure 6A). Vestibular nuclei neurons project bilaterally to the several thalamic regions. Neurons in the ventral posterior group respond to either vestibular signals alone, or to vestibular plus somatosensory signals, and projects to primary somatosensory cortex (area 3a, 2v), somatosensory association cortex, posterior parietal cortex (areas 5 and 7), and the insula of the temporal cortex (Marlinski & McCrea, 2008; Meng, May, Dickman, & Angelaki, 2007). The posterior nuclear group (PO), near the medial geniculate body, receives both vestibular and auditory signals as well as inputs from the superior colliculus and spinal cord, indicating an integration of multiple sensory signals. Some anterior pulvinar neurons also respond to motion stimuli and project to cortical area 3a, the posterior insula, and the temporo-parietal cortex (PIVC). In humans, electrical stimulation of the thalamic areas produces sensations of movement and sometimes dizziness.
 
 Area 2v cells respond to motion, and electrical stimulation of this area in humans produces sensations of moving, spinning, or dizziness. Area 3a lies at the base of the central sulcus adjacent to the motor cortex and is thought to be involved in integrative motor control of the head and body (Guldin, Akbarian, & Grusser, 1992). Neurons in the PIVC are multisensory, responding to body motion, somatosensory, proprioceptive, and visual motion stimuli (Chen, DeAngelis, & Angelaki, 2011; Grusser, Pause, & Schreiter, 1982). PIVC and areas 3a and 2v are heavily interconnected. Vestibular neurons also have been observed in the posterior parietal cortex; in area 7, in the ventral intraparietal area (VIP), the medial intraparietal area (MIP), and the medial superior temporal area (MST). VIP contains multimodal neurons involved in spatial coding. MIP and MST neurons respond to body motion through space by multisensory integration of visual motion and vestibular signals (Gu, DeAngelis, & Angelaki , 2007) and many MST cells are directly involved in heading perception (Gu, Watkins, Angelaki, & DeAngelis, 2006). Lesions of the parietal cortical areas can result in confusions in spatial awareness. Finally, areas involved with the control of saccades and pursuit eye movements, including area 6, area 8, and the superior frontal gyrus, receive vestibular signals (Fukushima, Sato, Fukushima, Shinmei, & Kaneko, 2000). How these different cortical regions contribute to our perception of motion and spatial orientation is still not well understood.
@@ -76,137 +70,130 @@ Figure 6. Cortical regions of the brain known to be involved with vestibular pro
 Spatial orientation and navigation
 Our ability to know where we are and to navigate different spatial locations is essential for survival. It is believed that a cognitive map of our environment is created through exploration and then used for spatial orientation and navigation, such as driving to the store, or walking through a dark house (McNaughton, Battaglia, Jensen, Moser, & Moser, 2006). Cells in the limbic system and the hippocampus that contribute to these functions have been identified, including place cells, grid cells, and head direction cells (Figure 6B). Place cells in the hippocampus encode specific locations in the environment (O’Keefe, 1976). Grid cells in the entorhinal cortex encode spatial maps in a tessellated pattern (Hafting, Fyhn, Molden, Moser, & Moser, 2005). Head direction cells in the anterior-dorsal thalamus encode heading direction, independent of spatial location (Taube, 1995). It is thought that these cell types work together to provide for spatial orientation, spatial memory, and our ability to navigate. Both place cells and head direction cells depend upon a functioning vestibular system to maintain their directional and orientation information (Stackman, Clark, & Taube, 2002). The pathway by which vestibular signals reach the navigation network is not well understood; however, damage to the vestibular system, hippocampus, and dorsal thalamus regions often disrupts our ability to orient in familiar environments, navigate from place to place, or even to find our way home.
 
-Motion sickness
+## Motion sickness
 A small coast guard ship moves through large ocean waves.
 A common treatment of motion sickness is Dramamine, which helps to reduce the sensitivity of input from your vestibular system to the rest of your body. [Image: Mike Baird, https://goo.gl/zfeqqr, CC BY 2.0, https://goo.gl/BRvSA7]
 Although a number of conditions can produce motion sickness, it is generally thought that it is evoked from a mismatch in sensory cues between vestibular, visual, and proprioceptive signals (Yates, Miller, & Lucot, 1998). For example, reading a book in a car on a winding road can produce motion sickness, whereby the accelerations experienced by the vestibular system do not match the visual input. However, if one looks out the window at the scenery going by during the same travel, no sickness occurs because the visual and vestibular cues are in alignment. Sea sickness, a form of motion sickness, appears to be a special case and arises from unusual vertical oscillatory and roll motion. Human studies have found that low frequency oscillations of 0.2 Hz and large amplitudes (such as found in large seas during a storm) are most likely to cause motion sickness, with higher frequencies offering little problems.
 
-Summary
+## Summary
 Here, we have seen that the vestibular system transduces and encodes signals about head motion and position with respect to gravity, information that is then used by the brain for many essential functions and behaviors. We actually understand a great deal regarding vestibular contributions to fundamental reflexes, such as compensatory eye movements and balance during motion. More recent progress has been made toward understanding how vestibular signals combine with other sensory cues, such as vision, in the thalamus and cortex to give rise to motion perception. However, there are many complex cognitive abilities that we know require vestibular information to function, such as spatial orientation and navigation behaviors, but these systems are only just beginning to be investigated. Future research regarding vestibular system function will likely be geared to seeking answers to questions regarding how the brain copes with vestibular signal loss. In fact, according to the National Institutes of Health, nearly 35% of Americans over the age of 40 (69 million people) have reported chronic vestibular-related problems. It is therefore of significant importance to human health to better understand how vestibular cues contribute to common brain functions and how better treatment options for vestibular dysfunction can be realized.
 
-Outside Resources
-Animated Video of the Vestibular System
-http://sites.sinauer.com/neuroscience5e/animations14.01.html
-Discussion Questions
-If a person sustains loss of the vestibular receptors in one ear due to disease or trauma, what symptoms would the person suffer? Would the symptoms be permanent?
-Often motion sickness is relieved when a person looks at far distance objects, such as things located on the far horizon. Why does far distance viewing help in motion sickness while close distance view (like reading a map or book) make it worse?
-Vestibular signals combine with visual signals in certain areas of cortex and assist in motion perception. What types of cues does the visual system provide for self motion through space? What types of vestibular signals would be consistent with rotational versus translational motion?
-Vocabulary
-Abducens nucleus
+## Vocabulary
+### Abducens nucleus
 A group of excitatory motor neurons in the medial brainstem that send projections through the VIth cranial nerve to control the ipsilateral lateral rectus muscle. In addition, abducens interneurons send an excitatory projection across the midline to a subdivision of cells in the ipsilateral oculomotor nucleus, which project through the IIIrd cranial nerve to innervate the ipsilateral medial rectus muscle.
-Acetylcholine
+### Acetylcholine
 An organic compound neurotransmitter consisting of acetic acid and choline. Depending upon the receptor type, acetycholine can have excitatory, inhibitory, or modulatory effects.
-Afferent nerve fibers
+### Afferent nerve fibers
 Single neurons that innervate the receptor hair cells and carry vestibular signals to the brain as part of the vestibulocochlear nerve (cranial nerve VIII).
-Aspartate
+### Aspartate
 An excitatory amino acid neurotransmitter that is widely used by vestibular receptors, afferents, and many neurons in the brain.
-Compensatory reflexes
+### Compensatory reflexes
 A stabilizing motor reflex that occurs in response to a perceived movement, such as the vestibuloocular reflex, or the postural responses that occur during running or skiing.
-Depolarized
+### Depolarized
 When receptor hair cells have mechanically gated channels open, the cell increases its membrane voltage, which produces a release of neurotransmitter to excite the innervating nerve fiber.
-Detection thresholds
+### Detection thresholds
 The smallest amount of head motion that can be reliably reported by an observer.
-Directional tuning
+### Directional tuning
 The preferred direction of motion that hair cells and afferents exhibit where a peak excitatory response occurs and the least preferred direction where no response occurs. Cells are said to be “tuned” for a best and worst direction of motion, with in-between motion directions eliciting a lesser but observable response.
-Gamma-aminobutyric acid
+### Gamma-aminobutyric acid
 A major inhibitory neurotransmitter in the vestibular commissural system.
-Gaze stability
+### Gaze stability
 A combination of eye, neck, and head responses that are all coordinated to maintain visual fixation (fovea) upon a point of interest.
-Glutamate
+### Glutamate
 An excitatory amino acid neurotransmitter that is widely used by vestibular receptors, afferents, and many neurons in the brain.
-Hair cells
+### Hair cells
 The receptor cells of the vestibular system. They are termed hair cells due to the many hairlike cilia that extend from the apical surface of the cell into the gelatin membrane. Mechanical gated ion channels in the tips of the cilia open and close as the cilia bend to cause membrane voltage changes in the hair cell that are proportional to the intensity and direction of motion.
-Hyperpolarizes
+### Hyperpolarizes
 When receptor hair cells have mechanically gated channels close, the cell decreases its membrane voltage, which produces less release of neurotransmitters to inhibit the innervating nerve fiber.
-Lateral rectus muscle
+### Lateral rectus muscle
 An eye muscle that turns outward in the horizontal plane.
-Lateral vestibulo-spinal tract
+### Lateral vestibulo-spinal tract
 Vestibular neurons that project to all levels of the spinal cord on the ipsilateral side to control posture and balance movements.
-Mechanically gated ion channels
+### Mechanically gated ion channels
 Ion channels located in the tips of the stereocilia on the receptor cells that open/close as the cilia bend toward the tallest/smallest cilia, respectively. These channels are permeable to potassium ions, which are abundant in the fluid bathing the top of the hair cells.
-Medial vestibulo-spinal tract
+### Medial vestibulo-spinal tract
 Vestibular nucleus neurons project bilaterally to cervical spinal motor neurons for head and neck movement control. The tract principally functions in gaze direction and stability during motion.
-Neurotransmitters
+### Neurotransmitters
 A chemical compound used to send signals from a receptor cell to a neuron, or from one neuron to another. Neurotransmitters can be excitatory, inhibitory, or modulatory and are packaged in small vesicles that are released from the end terminals of cells.
-Oculomotor nuclei
+### Oculomotor nuclei
 Includes three neuronal groups in the brainstem, the abducens nucleus, the oculomotor nucleus, and the trochlear nucleus, whose cells send motor commands to the six pairs of eye muscles.
-Oculomotor nucleus
+### Oculomotor nucleus
 A group of cells in the middle brainstem that contain subgroups of neurons that project to the medial rectus, inferior oblique, inferior rectus, and superior rectus muscles of the eyes through the 3rd cranial nerve.
-Otoconia
+### Otoconia
 Small calcium carbonate particles that are packed in a layer on top of the gelatin membrane that covers the otolith receptor hair cell stereocilia.
-Otolith receptors
+### Otolith receptors
 Two inner ear vestibular receptors (utricle and saccule) that transduce linear accelerations and head tilt relative to gravity into neural signals that are then transferred to the brain.
-Proprioceptive
+### Proprioceptive
 Sensory information regarding muscle position and movement arising from receptors in the muscles, tendons, and joints.
-Semicircular canals
+### Semicircular canals
 A set of three inner ear vestibular receptors (horizontal, anterior, posterior) that transduce head rotational accelerations into head rotational velocity signals that are then transferred to the brain. There are three semicircular canals in each ear, with the major planes of each canal being orthogonal to each other.
-Stereocilia
+### Stereocilia
 Hairlike projections from the top of the receptor hair cells. The stereocilia are arranged in ascending height and when displaced toward the tallest cilia, the mechanical gated channels open and the cell is excited (depolarized). When the stereocilia are displaced toward the smallest cilia, the channels close and the cell is inhibited (hyperpolarized).
-Torsion
+### Torsion
 A rotational eye movement around the line of sight that consists of a clockwise or counterclockwise direction.
-Vergence angle
+### Vergence angle
 The angle between the line of sight for the two eyes. Low vergence angles indicate far-viewing objects, whereas large angles indicate viewing of near objects.
-Vestibular compensation
+### Vestibular compensation
 Following injury to one side of vestibular receptors or the vestibulocochlear nerve, the central vestibular nuclei neurons gradually recover much of their function through plasticity mechanisms. The recovery is never complete, however, and extreme motion environments can lead to dizziness, nausea, problems with balance, and spatial memory.
-Vestibular efferents
+### Vestibular efferents
 Nerve fibers originating from a nucleus in the brainstem that project from the brain to innervate the vestibular receptor hair cells and afferent nerve terminals. Efferents have a modulatory role on their targets, which is not well understood.
-Vestibular system
+### Vestibular system
 Consists of a set of motion and gravity detection receptors in the inner ear, a set of primary nuclei in the brainstem, and a network of pathways carrying motion and gravity signals to many regions of the brain.
-Vestibulocochlear nerve
+### Vestibulocochlear nerve
 The VIIIth cranial nerve that carries fibers innervating the vestibular receptors and the cochlea.
-Vestibuloocular reflex
+### Vestibuloocular reflex
 Eye movements produced by the vestibular brainstem that are equal in magnitude and opposite in direction to head motion. The VOR functions to maintain visual stability on a point of interest and is nearly perfect for all natural head movements.
-References
-Angelaki, D. E., McHenry, M. Q., & Hess, B. J. (2000). Primate translational vestibuloocular reflexes. I. High-frequency dynamics and three-dimensional properties during lateral motion. J. Neurophysiol 83, 1637–1647.
-Angelaki, D. E., Shaikh, A. G., Green, A. M., & Dickman, J. D. (2004). Neurons compute internal models of the physical laws of motion. Nature, 430, 560–564.
-Anniko, M., & Arnold, W. (1991). Acetylcholine receptor localization in human adult cochlear and vestibular hair cells. AC and Otolar, 111, 491–499.
-Beraneck, M., Hachemaoui, M., Idoux, E., Ris, L., Uno, A., Godaux, E., . . . Vibert, N. (2003). Long-term plasticity of ipsilesional medial vestibular nucleus neurons after unilateral labyrinthectomy. J Neurophysiol, 90, 184–203.
-Blanks, R.H.I., Curthoys, I. S., Bennett, M. L., & Markham, C. H. (1985). Planar relationships of the semicircular canals in rhesus and squirrel monkeys. Brain Res, 340, 315–324.
-Boyle, R., Carey, J. P., & Highstein, S.M. (1991). Morphological correlates of response dynamics and efferent stimulation in horizontal semicircular canal afferents of the toadfish, Opsanus tau. J Neurophysiol, 66, 1504–1511.
-Brodal, A. The vestibular nuclei in the macaque monkey. (1984). J. Comp. Neurol., 227, 252–266.
-Carleton, S. C., & Carpenter, M. B. (1984). Distribution of primary vestibular fibers in the brainstem and cerebellum of the monkey. Brain Res, 294, 281–298.
-Chen, A., DeAngelis, G. C., & Angelaki, D. E. (2011). A comparison of vestibular spatiotemporal tuning in macaque parietoinsular vestibular cortex, ventral intraparietal area, and medial superior temporal area. J. Neurosci., 31, 3082–3094.
-Crane, B. T., & Demer, J. L. (1997). Human gaze stabilization during natural activities: translation, rotation, magnification, and target distance effects. J Neurophysiol, 78, 2129–2144.
-Dickman, J. D., & Angelaki, D. E. (2002). Vestibular convergence patterns in vestibular nuclei neurons of alert primates. J. Neurophysiol., 88, 3518–3533.
-Dickman, J. D., & Correia, M. J. (1989). Responses of pigeon horizontal semicircular canal afferent fibers. I. Step, trapezoid, and low frequency sinusoid mechanical and rotational stimulation. J Neurophysiol, 62, 1090–1101.
-Dickman, J. D., & Fang, Q. (1996). Differential central projections of vestibular afferents in pigeons. J Comp Neurol, 367, 110–121.
-Einstein, A. (1907).On the relativity principle and the conclusions drawn from it. Jahrb. Radioakt, 4, 411–462.
-Ezure, K., & Graf, K.W. (1984). A quantitative analysis of the spatial organization of the vestibulo-ocular reflexes in lateral- and frontal-eyed animals. I. Orientation of semicircular canals and extraocular muscles. Neuroscience, 12, 85–94.
-Fernandez, C., & Goldberg, J. M. (1976b). Physiology of peripheral neurons innervating otolith organs of the squirrel monkey. II. Directional selectivity and force-response relations. J. Neurophysiol., 39, 985–995.
-Fernandez, C., & Goldberg, J. M. (1971). Physiology of peripheral neurons innervating semicircular canals of the squirrel monkey. II. Response to sinusoidal stimulation and dynamics of peripheral vestibular system. J Neurophysiol, 34, 661–675.
-Fernandez, C., & Goldberg, J.M. (1976a). Physiology of peripheral neurons innervating otolith organ in the squirrel monkey. I. Response to static tilts and to long-duration centrifugal force. J. Neurophysiol., 39, 970–984.
-Fetter, M., & Zee, D. S. (1988). Recovery from unilateral labyrinthectomy in rhesus monkey. J Neurophysiol, 59, 370–393.
-Flock, A. (1964). Structure of the macula utriculi with special reference to directional interplay of sensory responses as revealed by morphological polarization. J Cell Biol, 22, 413–431.
-Fukushima, K., Sato, T., Fukushima, J. Shinmei, Y., and Kaneko C.R. (2000). Activity of smooth pursuit related neurons in the monkey perarcuate cortes during pursuit and passive whole-body rotation. J. Neurophys., 83, 563–587.
-Grusser, O., Pause, M., & Schreiter, U. (1982). Neuronal responses in the parieto-insular vestibular cortex of alert java monkeys (Macaca fascicularis). In A. Roucoux and M. Crommelinck (Eds.), Physiological and pathological aspects of eye movements. The Haque: W. Junk Publishers.
-Gu, Y., DeAngelis, G. C., & Angelaki, D. E. (2007). A functional link between area mstd and heading perception based on vestibular signals. Nat Neurosci, 10, 1038–1047.
-Gu, Y., Watkins, P. V., Angelaki, D. E., & DeAngelis, G. C. (2006). Visual and nonvisual contributions to three-dimensional heading selectivity in the medial superior temporal area. J Neurosci, 26, 73–85.
-Guldin, W. O., Akbarian, S., & Grusser, O. J. (1992). Cortico-cortical connections and cytoarchitectonics of the primate vestibular cortex: A study in squirrel monkeys (Saimiri sciureus). J. Comp. Neurol., 326, 375–401.
-Hafting, T., Fyhn, M., Molden, S., Moser, M.-B., Moser, E. I. (2005). Microstructure of a spatial map in the entorhinal cortex. Nature, 436, 801–806.
-Iurato, S. (1967). Submicroscopic structure of the inner ear. London, England: Pergamon Press.
-Kasahara, M., & Uchino, Y. (1974). Bilateral semicircular canal inputs to neurons in cat vestibular nuclei. Exp Brain Res, 20, 285–296.
-Keshner, E. A., & Peterson, B. W. (1995). Mechanisms controlling human head stabilization. I. Head-neck dynamics during random rotations in the horizontal plane. J Neurophysiol, 73, 2293–2301.
-Lindeman, H. H. (1969). Studies on the morphology of the sensory regions of the vestibular apparatus with 45 figures. Ergeb Anat Entwicklungsgesch, 42, 1–113.
-Lisberger, S. G., Pavelko, T. A., & Broussard, D. M. (1994). Neural basis for motor learning in the vestibuloocular reflex of primates. I. Changes in the responses of brain stem neurons. J. Neurophysiol, 72, 928–973.
-Marlinski, V., & McCrea, R. A. (2008). Activity of ventroposterior thalamus neurons during rotation and translation in the horizontal plane in the alert squirrel monkey. J Neurophysiol, 99, 2533–2545.
-McNaughton, B. L., Battaglia, F. P., Jensen, O., Moser, E. I., & Moser, M.-.B. (2006). Path integration and the neural basis of the “cognitive map.” Nature Rev., 7, 663–678.
-Meng, H., May, P. J., Dickman, J. D., & Angelaki, D. E. (2007). Vestibular signals in primate thalamus: Properties and origins. J Neurosci, 27, 13590–13602.
-Newlands, S. D., & Perachio, A. A. (1990). Compensation of horizontal canal related activity in the medial vestibular nucleus following unilateral labyrinth ablation in the decerebrate gerbil. i. type i neurons. Exp Brain Res, 82, 359–372.
-Newlands, S. D., Hesse, S. V., Haque, A., & Angelaki, D. E. (2001). Head unrestrained horizontal gaze shifts after unilateral labyrinthectomy in the rhesus monkey. Exp Brain Res, 140, 25–33.
-O’Keefe, J. (1976). Place units in the hippocampus of the freely moving rat. Exp Neurol, 51, 78–109.
-Paige, G. D., & Tomko, D. L. (1991). Eye movement responses to linear head motion in the squirrel monkey. I. Basic characteristics. J Neurophysiol, 65, 1170–1182.
-Peterson, B. W., Goldberg, J., Bilotto, G., & Fuller, J. H. (1985). Cervicocollic reflex: Its dynamic properties and interaction with vestibular reflexes. J Neurophysiol, 54, 90–109.
-Precht, W., & Shimazu, H. (1965). Functional connections of tonic and kinetic vestibular neurons with primary vestibular afferents. J Neurophysiol, 28, 1014–1028.
-Sadeghi, S. G., Chacron, M. J., Taylor, M. C., & Cullen, K. E. (2007). Neural variability, detection thresholds, and information transmission in the vestibular system. J. Neurosci., 27, 771–781.
-Schwarz, U., Busettini, C., & Miles, F. A. (1989). Ocular responses to linear motion are inversely proportional to viewing distance. Science, 245, 1394–1396.
-Shimazu, H., & Precht, W. (1966). Inhibition of central vestibular neurons from the contralateral labyrinth and its mediating pathway. J Neurophysiol, 29, 467–492.
-Shinoda, Y., Sugiuchi, Y., Futami, T., Ando, N., & Kawasaki, T. (1994). Input patterns and pathways from the six semicircular canals to motoneurons of neck muscles. I. The multifidus muscle group. J. Neurophysiol., 72, 2691–2802.
-Shotwell, S. L, Jacobs, R., & Hudspeth, A. J. (1981). Directional sensitivity of individual vertebrate hair cells to controlled deflection of their hair bundles. ANYAS, 374, 1–10.
-Stackman, R. W., Clark, A. S., & Taube, J. (2002). Hippocampal spatial representations require vestibular input. Hippocampus, 12, 291–303.
-Taube, J .S. (1995). Head direction cells recorded in the anterior thalamic nuclei of freely moving rats. J. Neurosci., 15, 70–86.
-Van Egmond, A. A. J., Groen, J. J., & Jongkess, L. B. W. (1949). The mechanics of the semicircular canals. J Physiol Lond, 110, 1–17.
-Wersäll, J. (1956). Studies on the structure and innervation of the sensory epithelium of the cristae ampullares in the guinea pig; a light and electron microscopic investigation. Acta Otolaryngol Supp, 126, 1–85.
-Wilson, V. J., Boyle, R., Fukushima, K., Rose, P. K., Shinoda, Y., Sugiuchi, Y., & Uchino, Y. (1995). The vestibulocollic reflex. J Vestib Res, 5, 147–170.
-Yates, B. J., Miller A. D., & Lucot, J. B. (1998). Physiological basis and pharmacology of motion sickness: An update. Brain Res Bull, 47, 395–406.
-Yu, X. J., Dickman, J. D., Angelaki, D. E. (2012). Detection thresholds of macaque otolith afferents. J Neurosci., 32, 8306–8316.
-Zhou, W., Tang, B.F., Newlands, S.D., King, W.M. (2006). Responses of monkey vestibular-only neurons to translation and angular rotation. J Neurophysiol 96, 2915-2930.
+## References
+* Angelaki, D. E., McHenry, M. Q., & Hess, B. J. (2000). Primate translational vestibuloocular reflexes. I. High-frequency dynamics and three-dimensional properties during lateral motion. J. Neurophysiol 83, 1637–1647.
+* Angelaki, D. E., Shaikh, A. G., Green, A. M., & Dickman, J. D. (2004). Neurons compute internal models of the physical laws of motion. Nature, 430, 560–564.
+* Anniko, M., & Arnold, W. (1991). Acetylcholine receptor localization in human adult cochlear and vestibular hair cells. AC and Otolar, 111, 491–499.
+* Beraneck, M., Hachemaoui, M., Idoux, E., Ris, L., Uno, A., Godaux, E., . . . Vibert, N. (2003). Long-term plasticity of ipsilesional medial vestibular nucleus neurons after unilateral labyrinthectomy. J Neurophysiol, 90, 184–203.
+* Blanks, R.H.I., Curthoys, I. S., Bennett, M. L., & Markham, C. H. (1985). Planar relationships of the semicircular canals in rhesus and squirrel monkeys. Brain Res, 340, 315–324.
+* Boyle, R., Carey, J. P., & Highstein, S.M. (1991). Morphological correlates of response dynamics and efferent stimulation in horizontal semicircular canal afferents of the toadfish, Opsanus tau. J Neurophysiol, 66, 1504–1511.
+* Brodal, A. The vestibular nuclei in the macaque monkey. (1984). J. Comp. Neurol., 227, 252–266.
+* Carleton, S. C., & Carpenter, M. B. (1984). Distribution of primary vestibular fibers in the brainstem and cerebellum of the monkey. Brain Res, 294, 281–298.
+* Chen, A., DeAngelis, G. C., & Angelaki, D. E. (2011). A comparison of vestibular spatiotemporal tuning in macaque parietoinsular vestibular cortex, ventral intraparietal area, and medial superior temporal area. J. Neurosci., 31, 3082–3094.
+* Crane, B. T., & Demer, J. L. (1997). Human gaze stabilization during natural activities: translation, rotation, magnification, and target distance effects. J Neurophysiol, 78, 2129–2144.
+* Dickman, J. D., & Angelaki, D. E. (2002). Vestibular convergence patterns in vestibular nuclei neurons of alert primates. J. Neurophysiol., 88, 3518–3533.
+* Dickman, J. D., & Correia, M. J. (1989). Responses of pigeon horizontal semicircular canal afferent fibers. I. Step, trapezoid, and low frequency sinusoid mechanical and rotational stimulation. J Neurophysiol, 62, 1090–1101.
+* Dickman, J. D., & Fang, Q. (1996). Differential central projections of vestibular afferents in pigeons. J Comp Neurol, 367, 110–121.
+* Einstein, A. (1907).On the relativity principle and the conclusions drawn from it. Jahrb. Radioakt, 4, 411–462.
+* Ezure, K., & Graf, K.W. (1984). A quantitative analysis of the spatial organization of the vestibulo-ocular reflexes in lateral- and frontal-eyed animals. I. Orientation of semicircular canals and extraocular muscles. Neuroscience, 12, 85–94.
+* Fernandez, C., & Goldberg, J. M. (1976b). Physiology of peripheral neurons innervating otolith organs of the squirrel monkey. II. Directional selectivity and force-response relations. J. Neurophysiol., 39, 985–995.
+* Fernandez, C., & Goldberg, J. M. (1971). Physiology of peripheral neurons innervating semicircular canals of the squirrel monkey. II. Response to sinusoidal stimulation and dynamics of peripheral vestibular system. J Neurophysiol, 34, 661–675.
+* Fernandez, C., & Goldberg, J.M. (1976a). Physiology of peripheral neurons innervating otolith organ in the squirrel monkey. I. Response to static tilts and to long-duration centrifugal force. J. Neurophysiol., 39, 970–984.
+* Fetter, M., & Zee, D. S. (1988). Recovery from unilateral labyrinthectomy in rhesus monkey. J Neurophysiol, 59, 370–393.
+* Flock, A. (1964). Structure of the macula utriculi with special reference to directional interplay of sensory responses as revealed by morphological polarization. J Cell Biol, 22, 413–431.
+* Fukushima, K., Sato, T., Fukushima, J. Shinmei, Y., and Kaneko C.R. (2000). Activity of smooth pursuit related neurons in the monkey perarcuate cortes during pursuit and passive whole-body rotation. J. Neurophys., 83, 563–587.
+* Grusser, O., Pause, M., & Schreiter, U. (1982). Neuronal responses in the parieto-insular vestibular cortex of alert java monkeys (Macaca fascicularis). In A. Roucoux and M. Crommelinck (Eds.), Physiological and pathological aspects of eye movements. The Haque: W. Junk Publishers.
+* Gu, Y., DeAngelis, G. C., & Angelaki, D. E. (2007). A functional link between area mstd and heading perception based on vestibular signals. Nat Neurosci, 10, 1038–1047.
+* Gu, Y., Watkins, P. V., Angelaki, D. E., & DeAngelis, G. C. (2006). Visual and nonvisual contributions to three-dimensional heading selectivity in the medial superior temporal area. J Neurosci, 26, 73–85.
+* Guldin, W. O., Akbarian, S., & Grusser, O. J. (1992). Cortico-cortical connections and cytoarchitectonics of the primate vestibular cortex: A study in squirrel monkeys (Saimiri sciureus). J. Comp. Neurol., 326, 375–401.
+* Hafting, T., Fyhn, M., Molden, S., Moser, M.-B., Moser, E. I. (2005). Microstructure of a spatial map in the entorhinal cortex. Nature, 436, 801–806.
+* Iurato, S. (1967). Submicroscopic structure of the inner ear. London, England: Pergamon Press.
+* Kasahara, M., & Uchino, Y. (1974). Bilateral semicircular canal inputs to neurons in cat vestibular nuclei. Exp Brain Res, 20, 285–296.
+* Keshner, E. A., & Peterson, B. W. (1995). Mechanisms controlling human head stabilization. I. Head-neck dynamics during random rotations in the horizontal plane. J Neurophysiol, 73, 2293–2301.
+* Lindeman, H. H. (1969). Studies on the morphology of the sensory regions of the vestibular apparatus with 45 figures. Ergeb Anat Entwicklungsgesch, 42, 1–113.
+* Lisberger, S. G., Pavelko, T. A., & Broussard, D. M. (1994). Neural basis for motor learning in the vestibuloocular reflex of primates. I. Changes in the responses of brain stem neurons. J. Neurophysiol, 72, 928–973.
+* Marlinski, V., & McCrea, R. A. (2008). Activity of ventroposterior thalamus neurons during rotation and translation in the horizontal plane in the alert squirrel monkey. J Neurophysiol, 99, 2533–2545.
+* McNaughton, B. L., Battaglia, F. P., Jensen, O., Moser, E. I., & Moser, M.-.B. (2006). Path integration and the neural basis of the “cognitive map.” Nature Rev., 7, 663–678.
+* Meng, H., May, P. J., Dickman, J. D., & Angelaki, D. E. (2007). Vestibular signals in primate thalamus: Properties and origins. J Neurosci, 27, 13590–13602.
+* Newlands, S. D., & Perachio, A. A. (1990). Compensation of horizontal canal related activity in the medial vestibular nucleus following unilateral labyrinth ablation in the decerebrate gerbil. i. type i neurons. Exp Brain Res, 82, 359–372.
+* Newlands, S. D., Hesse, S. V., Haque, A., & Angelaki, D. E. (2001). Head unrestrained horizontal gaze shifts after unilateral labyrinthectomy in the rhesus monkey. Exp Brain Res, 140, 25–33.
+* O’Keefe, J. (1976). Place units in the hippocampus of the freely moving rat. Exp Neurol, 51, 78–109.
+* Paige, G. D., & Tomko, D. L. (1991). Eye movement responses to linear head motion in the squirrel monkey. I. Basic characteristics. J Neurophysiol, 65, 1170–1182.
+* Peterson, B. W., Goldberg, J., Bilotto, G., & Fuller, J. H. (1985). Cervicocollic reflex: Its dynamic properties and interaction with vestibular reflexes. J Neurophysiol, 54, 90–109.
+* Precht, W., & Shimazu, H. (1965). Functional connections of tonic and kinetic vestibular neurons with primary vestibular afferents. J Neurophysiol, 28, 1014–1028.
+* Sadeghi, S. G., Chacron, M. J., Taylor, M. C., & Cullen, K. E. (2007). Neural variability, detection thresholds, and information transmission in the vestibular system. J. Neurosci., 27, 771–781.
+* Schwarz, U., Busettini, C., & Miles, F. A. (1989). Ocular responses to linear motion are inversely proportional to viewing distance. Science, 245, 1394–1396.
+* Shimazu, H., & Precht, W. (1966). Inhibition of central vestibular neurons from the contralateral labyrinth and its mediating pathway. J Neurophysiol, 29, 467–492.
+* Shinoda, Y., Sugiuchi, Y., Futami, T., Ando, N., & Kawasaki, T. (1994). Input patterns and pathways from the six semicircular canals to motoneurons of neck muscles. I. The multifidus muscle group. J. Neurophysiol., 72, 2691–2802.
+* Shotwell, S. L, Jacobs, R., & Hudspeth, A. J. (1981). Directional sensitivity of individual vertebrate hair cells to controlled deflection of their hair bundles. ANYAS, 374, 1–10.
+* Stackman, R. W., Clark, A. S., & Taube, J. (2002). Hippocampal spatial representations require vestibular input. Hippocampus, 12, 291–303.
+* Taube, J .S. (1995). Head direction cells recorded in the anterior thalamic nuclei of freely moving rats. J. Neurosci., 15, 70–86.
+* Van Egmond, A. A. J., Groen, J. J., & Jongkess, L. B. W. (1949). The mechanics of the semicircular canals. J Physiol Lond, 110, 1–17.
+* Wersäll, J. (1956). Studies on the structure and innervation of the sensory epithelium of the cristae ampullares in the guinea pig; a light and electron microscopic investigation. Acta Otolaryngol Supp, 126, 1–85.
+* Wilson, V. J., Boyle, R., Fukushima, K., Rose, P. K., Shinoda, Y., Sugiuchi, Y., & Uchino, Y. (1995). The vestibulocollic reflex. J Vestib Res, 5, 147–170.
+* Yates, B. J., Miller A. D., & Lucot, J. B. (1998). Physiological basis and pharmacology of motion sickness: An update. Brain Res Bull, 47, 395–406.
+* Yu, X. J., Dickman, J. D., Angelaki, D. E. (2012). Detection thresholds of macaque otolith afferents. J Neurosci., 32, 8306–8316.
+* Zhou, W., Tang, B.F., Newlands, S.D., King, W.M. (2006). Responses of monkey vestibular-only neurons to translation and angular rotation. J Neurophysiol 96, 2915-2930.
