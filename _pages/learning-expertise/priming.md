@@ -8,18 +8,12 @@ sidebar:
 
 Basic principles of learning are always operating and always influencing human behavior. This module discusses the two most fundamental forms of learning -- classical (Pavlovian) and instrumental (operant) conditioning. Through them, we respectively learn to associate 1) stimuli in the environment, or 2) our own behaviors, with significant events, such as rewards and punishments. The two types of learning have been intensively studied because they have powerful effects on behavior, and because they provide methods that allow scientists to analyze learning processes rigorously. This module describes some of the most important things you need to know about classical and instrumental conditioning, and it illustrates some of the many ways they help us understand normal and disordered behavior in humans. The module concludes by introducing the concept of observational learning, which is a form of learning that is largely distinct from classical and operant conditioning.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/ajxhcqdr
-Associative learningClassical conditioningInstrumental learningLearning theoryOperant conditioningPavlovian learning
-Learning Objectives
-Distinguish between classical (Pavlovian) conditioning and instrumental (operant) conditioning.
-Understand some important facts about each that tell us how they work.
-Understand how they work separately and together to influence human behavior in the world outside the laboratory.
-Students will be able to list the four aspects of observational learning according to Social Learning Theory.
-Two Types of Conditioning
+## Learning Objectives
+* Distinguish between classical (Pavlovian) conditioning and instrumental (operant) conditioning.
+* Understand some important facts about each that tell us how they work.
+* Understand how they work separately and together to influence human behavior in the world outside the laboratory.
+* Students will be able to list the four aspects of observational learning according to Social Learning Theory.
+## Two Types of Conditioning
 Although Ivan Pavlov won a Nobel Prize for studying digestion, he is much more famous for something else: working with a dog, a bell, and a bowl of saliva. Many people are familiar with the classic study of “Pavlov’s dog,” but rarely do they understand the significance of its discovery. In fact, Pavlov’s work helps explain why some people get anxious just looking at a crowded bus, why the sound of a morning alarm is so hated, and even why we swear off certain foods we’ve only tried once. Classical (or Pavlovian) conditioning is one of the fundamental ways we learn about the world around us. But it is far more than just a theory of learning; it is also arguably a theory of identity. For, once you understand classical conditioning, you’ll recognize that your favorite music, clothes, even political candidate, might all be a result of the same process that makes a dog drool at the sound of bell.
 
 A dog looks up from the kitchen floor with expectant eyes and its tongue hanging out.
@@ -54,7 +48,7 @@ The illustration above summarizes the basic elements of classical and instrument
 
 Understanding classical and operant conditioning provides psychologists with many tools for understanding learning and behavior in the world outside the lab. This is in part because the two types of learning occur continuously throughout our lives. It has been said that “much like the laws of gravity, the laws of learning are always in effect” (Spreat & Spreat, 1982).
 
-Useful Things to Know about Classical Conditioning
+## Useful Things to Know about Classical Conditioning
 Classical Conditioning Has Many Effects on Behavior
 A classical CS (e.g., the bell) does not merely elicit a simple, unitary reflex. Pavlov emphasized salivation because that was the only response he measured. But his bell almost certainly elicited a whole system of responses that functioned to get the organism ready for the upcoming US (food) (see Timberlake, 2001). For example, in addition to salivation, CSs (such as the bell) that signal that food is near also elicit the secretion of gastric acid, pancreatic enzymes, and insulin (which gets blood glucose into cells). All of these responses prepare the body for digestion. Additionally, the CS elicits approach behavior and a state of excitement. And presenting a CS for food can also cause animals whose stomachs are full to eat more food if it is available. In fact, food CSs are so prevalent in modern society, humans are likewise inclined to eat or feel hungry in response to cues associated with food, such as the sound of a bag of potato chips opening, the sight of a well-known logo (e.g., Coca-Cola), or the feel of the couch in front of the television.
 
@@ -72,7 +66,7 @@ A final effect of classical cues is that they motivate ongoing operant behavior 
 
 Diagram depicts the blocking of a second stimulus, a light, by the original stimulus, the ringing bell. The process is described in the following section.
 [Image courtesy of Bernard W. Balleine]
-The Learning Process
+## The Learning Process
 As mentioned earlier, classical conditioning provides a method for studying basic learning processes. Somewhat counterintuitively, though, studies show that pairing a CS and a US together is not sufficient for an association to be learned between them. Consider an effect called blocking (see Kamin, 1969). In this effect, an animal first learns to associate one CS—call it stimulus A—with a US. In the illustration above, the sound of a bell (stimulus A) is paired with the presentation of food. Once this association is learned, in a second phase, a second stimulus—stimulus B—is presented alongside stimulus A, such that the two stimuli are paired with the US together. In the illustration, a light is added and turned on at the same time the bell is rung. However, because the animal has already learned the association between stimulus A (the bell) and the food, the animal doesn’t learn an association between stimulus B (the light) and the food. That is, the conditioned response only occurs during the presentation of stimulus A, because the earlier conditioning of A “blocks” the conditioning of B when B is added to A. The reason? Stimulus A already predicts the US, so the US is not surprising when it occurs with Stimulus B.
 
 Learning depends on such a surprise, or a discrepancy between what occurs on a conditioning trial and what is already predicted by cues that are present on the trial. To learn something through classical conditioning, there must first be some prediction error, or the chance that a conditioned stimulus won’t lead to the expected outcome. With the example of the bell and the light, because the bell always leads to the reward of food, there’s no “prediction error” that the addition of the light helps to correct. However, if the researcher suddenly requires that the bell and the light both occur in order to receive the food, the bell alone will produce a prediction error that the animal has to learn.
@@ -83,7 +77,7 @@ Classical conditioning is strongest if the CS and US are intense or salient. It 
 
 There are many factors that affect the strength of classical conditioning, and these have been the subject of much research and theory (see Rescorla & Wagner, 1972; Pearce & Bouton, 2001). Behavioral neuroscientists have also used classical conditioning to investigate many of the basic brain processes that are involved in learning (see Fanselow & Poulos, 2005; Thompson & Steinmetz, 2009).
 
-Erasing Classical Learning
+## Erasing Classical Learning
 After conditioning, the response to the CS can be eliminated if the CS is presented repeatedly without the US. This effect is called extinction, and the response is said to become “extinguished.” For example, if Pavlov kept ringing the bell but never gave the dog any food afterward, eventually the dog’s CR (drooling) would no longer happen when it heard the CS (the bell), because the bell would no longer be a predictor of food. Extinction is important for many reasons. For one thing, it is the basis for many therapies that clinical psychologists use to eliminate maladaptive and unwanted behaviors. Take the example of a person who has a debilitating fear of spiders: one approach might include systematic exposure to spiders. Whereas, initially the person has a CR (e.g., extreme fear) every time s/he sees the CS (e.g., the spider), after repeatedly being shown pictures of spiders in neutral conditions, pretty soon the CS no longer predicts the CR (i.e., the person doesn’t have the fear reaction when seeing spiders, having learned that spiders no longer serve as a “cue” for that fear). Here, repeated exposure to spiders without an aversive consequence causes extinction.
 
 Psychologists must accept one important fact about extinction, however: it does not necessarily destroy the original learning (see Bouton, 2004). For example, imagine you strongly associate the smell of chalkboards with the agony of middle school detention. Now imagine that, after years of encountering chalkboards, the smell of them no longer recalls the agony of detention (an example of extinction). However, one day, after entering a new building for the first time, you suddenly catch a whiff of a chalkboard and WHAM!, the agony of detention returns. This is called spontaneous recovery: following a lapse in exposure to the CS after extinction has occurred, sometimes re-exposure to the CS (e.g., the smell of chalkboards) can evoke the CR again (e.g., the agony of detention).
@@ -92,10 +86,10 @@ Another related phenomenon is the renewal effect: After extinction, if the CS is
 
 This does not mean that extinction is a bad treatment for behavior disorders. Instead, clinicians can increase its effectiveness by using basic research on learning to help defeat these relapse effects (see Craske et al., 2008). For example, conducting extinction therapies in contexts where patients might be most vulnerable to relapsing (e.g., at work), might be a good strategy for enhancing the therapy’s success.
 
-Useful Things to Know about Instrumental Conditioning
+## Useful Things to Know about Instrumental Conditioning
 Most of the things that affect the strength of classical conditioning also affect the strength of instrumental learning—whereby we learn to associate our actions with their outcomes. As noted earlier, the “bigger” the reinforcer (or punisher), the stronger the learning. And, if an instrumental behavior is no longer reinforced, it will also be extinguished. Most of the rules of associative learning that apply to classical conditioning also apply to instrumental learning, but other facts about instrumental learning are also worth knowing.
 
-Instrumental Responses Come Under Stimulus Control
+## Instrumental Responses Come Under Stimulus Control
 As you know, the classic operant response in the laboratory is lever-pressing in rats, reinforced by food. However, things can be arranged so that lever-pressing only produces pellets when a particular stimulus is present. For example, lever-pressing can be reinforced only when a light in the Skinner box is turned on; when the light is off, no food is released from lever-pressing. The rat soon learns to discriminate between the light-on and light-off conditions, and presses the lever only in the presence of the light (responses in light-off are extinguished). In everyday life, think about waiting in the turn lane at a traffic light. Although you know that green means go, only when you have the green arrow do you turn. In this regard, the operant behavior is now said to be under stimulus control. And, as is the case with the traffic light, in the real world, stimulus control is probably the rule.
 
 The stimulus controlling the operant response is called a discriminative stimulus. It can be associated directly with the response, or the reinforcer (see below). However, it usually does not elicit the response the way a classical CS does. Instead, it is said to “set the occasion for” the operant response. For example, a canvas put in front of an artist does not elicit painting behavior or compel her to paint. It allows, or sets the occasion for, painting to occur.
@@ -104,13 +98,13 @@ Stimulus-control techniques are widely used in the laboratory to study perceptio
 
 These methods can also be used to study “higher” cognitive processes. For example, pigeons can learn to peck at different buttons in a Skinner box when pictures of flowers, cars, chairs, or people are shown on a miniature TV screen (see Wasserman, 1995). Pecking button 1 (and no other) is reinforced in the presence of a flower image, button 2 in the presence of a chair image, and so on. Pigeons can learn the discrimination readily, and, under the right conditions, will even peck the correct buttons associated with pictures of new flowers, cars, chairs, and people they have never seen before. The birds have learned to categorize the sets of stimuli. Stimulus-control methods can be used to study how such categorization is learned.
 
-Operant Conditioning Involves Choice
+## Operant Conditioning Involves Choice
 A pigeon pecks a button inside a Skinner box.
 Another thing to know about operant conditioning is that the response always requires choosing one behavior over others. The student who goes to the bar on Thursday night chooses to drink instead of staying at home and studying. The rat chooses to press the lever instead of sleeping or scratching its ear in the back of the box. The alternative behaviors are each associated with their own reinforcers. And the tendency to perform a particular action depends on both the reinforcers earned for it and the reinforcers earned for its alternatives.
 
 To investigate this idea, choice has been studied in the Skinner box by making two levers available for the rat (or two buttons available for the pigeon), each of which has its own reinforcement or payoff rate. A thorough study of choice in situations like this has led to a rule called the quantitative law of effect (see Herrnstein, 1970), which can be understood without going into quantitative detail: The law acknowledges the fact that the effects of reinforcing one behavior depend crucially on how much reinforcement is earned for the behavior’s alternatives. For example, if a pigeon learns that pecking one light will reward two food pellets, whereas the other light only rewards one, the pigeon will only peck the first light. However, what happens if the first light is more strenuous to reach than the second one? Will the cost of energy outweigh the bonus of food? Or will the extra food be worth the work? In general, a given reinforcer will be less reinforcing if there are many alternative reinforcers in the environment. For this reason, alcohol, sex, or drugs may be less powerful reinforcers if the person’s environment is full of other sources of reinforcement, such as achievement at work or love from family members.
 
-Cognition in Instrumental Learning
+## Cognition in Instrumental Learning
 Modern research also indicates that reinforcers do more than merely strengthen or “stamp in” the behaviors they are a consequence of, as was Thorndike’s original view. Instead, animals learn about the specific consequences of each behavior, and will perform a behavior depending on how much they currently want—or “value”—its consequence.
 
 Image depicts the reinforcer devaluation effect described below in the text.
@@ -121,7 +115,7 @@ Things can get more complicated, however, if the rat performs the instrumental a
 
 Habits are very common in human experience, and can be useful. You do not need to relearn each day how to make your coffee in the morning or how to brush your teeth. Instrumental behaviors can eventually become habitual, letting us get the job done while being free to think about other things.
 
-Putting Classical and Instrumental Conditioning Together
+## Putting Classical and Instrumental Conditioning Together
 Classical and operant conditioning are usually studied separately. But outside of the laboratory they almost always occur at the same time. For example, a person who is reinforced for drinking alcohol or eating excessively learns these behaviors in the presence of certain stimuli—a pub, a set of friends, a restaurant, or possibly the couch in front of the TV. These stimuli are also available for association with the reinforcer. In this way, classical and operant conditioning are always intertwined.
 
 The figure below summarizes this idea, and helps review what we have discussed in this module. Generally speaking, any reinforced or punished operant response (R) is paired with an outcome (O) in the presence of some stimulus or set of stimuli (S).
@@ -137,7 +131,7 @@ The final link in the figure is between the stimulus and the response-outcome as
 
 The figure provides a framework that you can use to understand almost any learned behavior you observe in yourself, your family, or your friends. If you would like to understand it more deeply, consider taking a course on learning in the future, which will give you a fuller appreciation of how classical learning, instrumental learning, habit learning, and occasion setting actually work and interact.
 
-Observational Learning
+## Observational Learning
 Not all forms of learning are accounted for entirely by classical and operant conditioning. Imagine a child walking up to a group of children playing a game on the playground. The game looks fun, but it is new and unfamiliar. Rather than joining the game immediately, the child opts to sit back and watch the other children play a round or two. Observing the others, the child takes note of the ways in which they behave while playing the game. By watching the behavior of the other kids, the child can figure out the rules of the game and even some strategies for doing well at the game. This is called observational learning.
 
 A group of children standby watching an adult playing a game of chess.
@@ -154,113 +148,106 @@ In this experiment (Bandura, Ross & Ross 1961), Bandura had children individuall
 
 While reinforcement was not required to elicit the children’s behavior in Bandura’s first experiment, it is important to acknowledge that consequences do play a role within observational learning. A future adaptation of this study (Bandura, Ross, & Ross, 1963) demonstrated that children in the aggression group showed less aggressive behavior if they witnessed the adult model receive punishment for aggressing against Bobo. Bandura referred to this process as vicarious reinforcement, as the children did not experience the reinforcement or punishment directly, yet were still influenced by observing it.
 
-Conclusion
+## Conclusion
 We have covered three primary explanations for how we learn to behave and interact with the world around us. Considering your own experiences, how well do these theories apply to you? Maybe when reflecting on your personal sense of fashion, you realize that you tend to select clothes others have complimented you on (operant conditioning). Or maybe, thinking back on a new restaurant you tried recently, you realize you chose it because its commercials play happy music (classical conditioning). Or maybe you are now always on time with your assignments, because you saw how others were punished when they were late (observational learning). Regardless of the activity, behavior, or response, there’s a good chance your “decision” to do it can be explained based on one of the theories presented in this module. 
 
-Outside Resources
-Article: Rescorla, R. A. (1988). Pavlovian conditioning: It’s not what you think it is. American Psychologist, 43, 151–160.
-Book: Bouton, M. E. (2007). Learning and behavior: A contemporary synthesis. Sunderland, MA: Sinauer Associates.
-Book: Bouton, M. E. (2009). Learning theory. In B. J. Sadock, V. A. Sadock, & P. Ruiz (Eds.), Kaplan & Sadock’s comprehensive textbook of psychiatry (9th ed., Vol. 1, pp. 647–658). New York, NY: Lippincott Williams & Wilkins.
-Book: Domjan, M. (2010). The principles of learning and behavior (6th ed.). Belmont, CA: Wadsworth.
-Video: Albert Bandura discusses the Bobo Doll Experiment.
-
-Discussion Questions
-Describe three examples of Pavlovian (classical) conditioning that you have seen in your own behavior, or that of your friends or family, in the past few days.
-Describe three examples of instrumental (operant) conditioning that you have seen in your own behavior, or that of your friends or family, in the past few days.
-Drugs can be potent reinforcers. Discuss how Pavlovian conditioning and instrumental conditioning can work together to influence drug taking.
-In the modern world, processed foods are highly available and have been engineered to be highly palatable and reinforcing. Discuss how Pavlovian and instrumental conditioning can work together to explain why people often eat too much.
-How does blocking challenge the idea that pairings of a CS and US are sufficient to cause Pavlovian conditioning? What is important in creating Pavlovian learning?
-How does the reinforcer devaluation effect challenge the idea that reinforcers merely “stamp in” the operant response? What does the effect tell us that animals actually learn in operant conditioning?
-With regards to social learning do you think people learn violence from observing violence in movies? Why or why not?
-What do you think you have learned through social learning? Who are your social models?
-Vocabulary
-Blocking
+## Discussion Questions
+* Describe three examples of Pavlovian (classical) conditioning that you have seen in your own behavior, or that of your friends or family, in the past few days.
+* Describe three examples of instrumental (operant) conditioning that you have seen in your own behavior, or that of your friends or family, in the past few days.
+* Drugs can be potent reinforcers. Discuss how Pavlovian conditioning and instrumental conditioning can work together to influence drug taking.
+* In the modern world, processed foods are highly available and have been engineered to be highly palatable and reinforcing. Discuss how Pavlovian and instrumental conditioning can work together to explain why people often eat too much.
+* How does blocking challenge the idea that pairings of a CS and US are sufficient to cause Pavlovian conditioning? What is important in creating Pavlovian learning?
+* How does the reinforcer devaluation effect challenge the idea that reinforcers merely “stamp in” the operant response? What does the effect tell us that animals actually learn in operant conditioning?
+* With regards to social learning do you think people learn violence from observing violence in movies? Why or why not?
+* What do you think you have learned through social learning? Who are your social models?
+## Vocabulary
+### Blocking
 In classical conditioning, the finding that no conditioning occurs to a stimulus if it is combined with a previously conditioned stimulus during conditioning trials. Suggests that information, surprise value, or prediction error is important in conditioning.
-Categorize
+### Categorize
 To sort or arrange different items into classes or categories.
-Classical conditioning
+### Classical conditioning
 The procedure in which an initially neutral stimulus (the conditioned stimulus, or CS) is paired with an unconditioned stimulus (or US). The result is that the conditioned stimulus begins to elicit a conditioned response (CR). Classical conditioning is nowadays considered important as both a behavioral phenomenon and as a method to study simple associative learning. Same as Pavlovian conditioning.
-Conditioned compensatory response
+### Conditioned compensatory response
 In classical conditioning, a conditioned response that opposes, rather than is the same as, the unconditioned response. It functions to reduce the strength of the unconditioned response. Often seen in conditioning when drugs are used as unconditioned stimuli.
-Conditioned response (CR)
+### Conditioned response (CR)
 The response that is elicited by the conditioned stimulus after classical conditioning has taken place.
-Conditioned stimulus (CS)
+### Conditioned stimulus (CS)
 An initially neutral stimulus (like a bell, light, or tone) that elicits a conditioned response after it has been associated with an unconditioned stimulus.
-Context
+### Context
 Stimuli that are in the background whenever learning occurs. For instance, the Skinner box or room in which learning takes place is the classic example of a context. However, “context” can also be provided by internal stimuli, such as the sensory effects of drugs (e.g., being under the influence of alcohol has stimulus properties that provide a context) and mood states (e.g., being happy or sad). It can also be provided by a specific period in time—the passage of time is sometimes said to change the “temporal context.”
-Discriminative stimulus
+### Discriminative stimulus
 In operant conditioning, a stimulus that signals whether the response will be reinforced. It is said to “set the occasion” for the operant response.
-Extinction
+### Extinction
 Decrease in the strength of a learned behavior that occurs when the conditioned stimulus is presented without the unconditioned stimulus (in classical conditioning) or when the behavior is no longer reinforced (in instrumental conditioning). The term describes both the procedure (the US or reinforcer is no longer presented) as well as the result of the procedure (the learned response declines). Behaviors that have been reduced in strength through extinction are said to be “extinguished.”
-Fear conditioning
+### Fear conditioning
 A type of classical or Pavlovian conditioning in which the conditioned stimulus (CS) is associated with an aversive unconditioned stimulus (US), such as a foot shock. As a consequence of learning, the CS comes to evoke fear. The phenomenon is thought to be involved in the development of anxiety disorders in humans.
-Goal-directed behavior
+### Goal-directed behavior
 Instrumental behavior that is influenced by the animal’s knowledge of the association between the behavior and its consequence and the current value of the consequence. Sensitive to the reinforcer devaluation effect.
-Habit
+### Habit
 Instrumental behavior that occurs automatically in the presence of a stimulus and is no longer influenced by the animal’s knowledge of the value of the reinforcer. Insensitive to the reinforcer devaluation effect.
-Instrumental conditioning
+### Instrumental conditioning
 Process in which animals learn about the relationship between their behaviors and their consequences. Also known as operant conditioning.
-Law of effect
+### Law of effect
 The idea that instrumental or operant responses are influenced by their effects. Responses that are followed by a pleasant state of affairs will be strengthened and those that are followed by discomfort will be weakened. Nowadays, the term refers to the idea that operant or instrumental behaviors are lawfully controlled by their consequences.
-Observational learning
+### Observational learning
 Learning by observing the behavior of others.
-Operant
+### Operant
 A behavior that is controlled by its consequences. The simplest example is the rat’s lever-pressing, which is controlled by the presentation of the reinforcer.
-Operant conditioning
+### Operant conditioning
 See instrumental conditioning.
-Pavlovian conditioning
+### Pavlovian conditioning
 See classical conditioning.
-Prediction error
+### Prediction error
 When the outcome of a conditioning trial is different from that which is predicted by the conditioned stimuli that are present on the trial (i.e., when the US is surprising). Prediction error is necessary to create Pavlovian conditioning (and associative learning generally). As learning occurs over repeated conditioning trials, the conditioned stimulus increasingly predicts the unconditioned stimulus, and prediction error declines. Conditioning works to correct or reduce prediction error.
-Preparedness
+### Preparedness
 The idea that an organism’s evolutionary history can make it easy to learn a particular association. Because of preparedness, you are more likely to associate the taste of tequila, and not the circumstances surrounding drinking it, with getting sick. Similarly, humans are more likely to associate images of spiders and snakes than flowers and mushrooms with aversive outcomes like shocks.
-Punisher
+### Punisher
 A stimulus that decreases the strength of an operant behavior when it is made a consequence of the behavior.
-Quantitative law of effect
+### Quantitative law of effect
 A mathematical rule that states that the effectiveness of a reinforcer at strengthening an operant response depends on the amount of reinforcement earned for all alternative behaviors. A reinforcer is less effective if there is a lot of reinforcement in the environment for other behaviors.
-Reinforcer
+### Reinforcer
 Any consequence of a behavior that strengthens the behavior or increases the likelihood that it will be performed it again.
-Reinforcer devaluation effect
+### Reinforcer devaluation effect
 The finding that an animal will stop performing an instrumental response that once led to a reinforcer if the reinforcer is separately made aversive or undesirable.
-Renewal effect
+### Renewal effect
 Recovery of an extinguished response that occurs when the context is changed after extinction. Especially strong when the change of context involves return to the context in which conditioning originally occurred. Can occur after extinction in either classical or instrumental conditioning.
-Social Learning Theory
+### Social Learning Theory
 The theory that people can learn new responses and behaviors by observing the behavior of others.
-Social models
+### Social models
 Authorities that are the targets for observation and who model behaviors.
-Spontaneous recovery
+### Spontaneous recovery
 Recovery of an extinguished response that occurs with the passage of time after extinction. Can occur after extinction in either classical or instrumental conditioning.
-Stimulus control
+### Stimulus control
 When an operant behavior is controlled by a stimulus that precedes it.
-Taste aversion learning
+### Taste aversion learning
 The phenomenon in which a taste is paired with sickness, and this causes the organism to reject—and dislike—that taste in the future.
-Unconditioned response (UR)
+### Unconditioned response (UR)
 In classical conditioning, an innate response that is elicited by a stimulus before (or in the absence of) conditioning.
-Unconditioned stimulus (US)
+### Unconditioned stimulus (US)
 In classical conditioning, the stimulus that elicits the response before conditioning occurs.
-Vicarious reinforcement
+### Vicarious reinforcement
 Learning that occurs by observing the reinforcement or punishment of another person.
-References
-Balleine, B. W. (2005). Neural basis of food-seeking: Affect, arousal, and reward in corticostratolimbic circuits. Physiology & Behavior, 86, 717–730.
-Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice Hall
-Bandura, A., Ross, D., Ross, S (1963). Imitation of film-mediated aggressive models. Journal of Abnormal and Social Psychology 66(1), 3 - 11.
-Bandura, A.; Ross, D.; Ross, S. A. (1961). "Transmission of aggression through the imitation of aggressive models". Journal of Abnormal and Social Psychology 63(3), 575–582.
-Bernstein, I. L. (1991). Aversion conditioning in response to cancer and cancer treatment. Clinical Psychology Review, 11, 185–191.
-Bouton, M. E. (2004). Context and behavioral processes in extinction. Learning & Memory, 11, 485–494.
-Colwill, R. M., & Rescorla, R. A. (1986). Associative structures in instrumental learning. In G. H. Bower (Ed.), The psychology of learning and motivation, (Vol. 20, pp. 55–104). New York, NY: Academic Press.
-Craske, M. G., Kircanski, K., Zelikowsky, M., Mystkowski, J., Chowdhury, N., & Baker, A. (2008). Optimizing inhibitory learning during exposure therapy. Behaviour Research and Therapy, 46, 5–27.
-Dickinson, A., & Balleine, B. W. (1994). Motivational control of goal-directed behavior. Animal Learning & Behavior, 22, 1–18.
-Fanselow, M. S., & Poulos, A. M. (2005). The neuroscience of mammalian associative learning. Annual Review of Psychology, 56, 207–234.
-Herrnstein, R. J. (1970). On the law of effect. Journal of the Experimental Analysis of Behavior, 13, 243–266.
-Holland, P. C. (2004). Relations between Pavlovian-instrumental transfer and reinforcer devaluation. Journal of Experimental Psychology: Animal Behavior Processes, 30, 104–117.
-Kamin, L. J. (1969). Predictability, surprise, attention, and conditioning. In B. A. Campbell & R. M. Church (Eds.), Punishment and aversive behavior (pp. 279–296). New York, NY: Appleton-Century-Crofts.
-Mineka, S., & Zinbarg, R. (2006). A contemporary learning theory perspective on the etiology of anxiety disorders: It’s not what you thought it was. American Psychologist, 61, 10–26.
-Pearce, J. M., & Bouton, M. E. (2001). Theories of associative learning in animals. Annual Review of Psychology, 52, 111–139.
-Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), Classical conditioning II: Current research and theory (pp. 64–99). New York, NY: Appleton-Century-Crofts.
-Scalera, G., & Bavieri, M. (2009). Role of conditioned taste aversion on the side effects of chemotherapy in cancer patients. In S. Reilly & T. R. Schachtman (Eds.), Conditioned taste aversion: Behavioral and neural processes (pp. 513–541). New York, NY: Oxford University Press.
-Siegel, S. (1989). Pharmacological conditioning and drug effects. In A. J. Goudie & M. Emmett-Oglesby (Eds.), Psychoactive drugs (pp. 115–180). Clifton, NY: Humana Press.
-Siegel, S., Hinson, R. E., Krank, M. D., & McCully, J. (1982). Heroin “overdose” death: Contribution of drug associated environmental cues. Science, 216, 436–437.
-Spreat, S., & Spreat, S. R. (1982). Learning principles. In V. Voith & P. L. Borchelt (Eds.), Veterinary clinics of North America: Small animal practice (pp. 593–606). Philadelphia, PA: W. B. Saunders.
-Thompson, R. F., & Steinmetz, J. E. (2009). The role of the cerebellum in classical conditioningof discrete behavioral responses. Neuroscience, 162, 732–755.
-Timberlake, W. L. (2001). Motivational modes in behavior systems. In R. R. Mowrer & S. B. Klein (Eds.), Handbook of contemporary learning theories (pp. 155–210). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
-Wasserman, E. A. (1995). The conceptual abilities of pigeons. American Scientist, 83, 246–255.
+## References
+* Balleine, B. W. (2005). Neural basis of food-seeking: Affect, arousal, and reward in corticostratolimbic circuits. Physiology & Behavior, 86, 717–730.
+* Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice Hall
+* Bandura, A., Ross, D., Ross, S (1963). Imitation of film-mediated aggressive models. Journal of Abnormal and Social Psychology 66(1), 3 - 11.
+* Bandura, A.; Ross, D.; Ross, S. A. (1961). "Transmission of aggression through the imitation of aggressive models". Journal of Abnormal and Social Psychology 63(3), 575–582.
+* Bernstein, I. L. (1991). Aversion conditioning in response to cancer and cancer treatment. Clinical Psychology Review, 11, 185–191.
+* Bouton, M. E. (2004). Context and behavioral processes in extinction. Learning & Memory, 11, 485–494.
+* Colwill, R. M., & Rescorla, R. A. (1986). Associative structures in instrumental learning. In G. H. Bower (Ed.), The psychology of learning and motivation, (Vol. 20, pp. 55–104). New York, NY: Academic Press.
+* Craske, M. G., Kircanski, K., Zelikowsky, M., Mystkowski, J., Chowdhury, N., & Baker, A. (2008). Optimizing inhibitory learning during exposure therapy. Behaviour Research and Therapy, 46, 5–27.
+* Dickinson, A., & Balleine, B. W. (1994). Motivational control of goal-directed behavior. Animal Learning & Behavior, 22, 1–18.
+* Fanselow, M. S., & Poulos, A. M. (2005). The neuroscience of mammalian associative learning. Annual Review of Psychology, 56, 207–234.
+* Herrnstein, R. J. (1970). On the law of effect. Journal of the Experimental Analysis of Behavior, 13, 243–266.
+* Holland, P. C. (2004). Relations between Pavlovian-instrumental transfer and reinforcer devaluation. Journal of Experimental Psychology: Animal Behavior Processes, 30, 104–117.
+* Kamin, L. J. (1969). Predictability, surprise, attention, and conditioning. In B. A. Campbell & R. M. Church (Eds.), Punishment and aversive behavior (pp. 279–296). New York, NY: Appleton-Century-Crofts.
+* Mineka, S., & Zinbarg, R. (2006). A contemporary learning theory perspective on the etiology of anxiety disorders: It’s not what you thought it was. American Psychologist, 61, 10–26.
+* Pearce, J. M., & Bouton, M. E. (2001). Theories of associative learning in animals. Annual Review of Psychology, 52, 111–139.
+* Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), Classical conditioning II: Current research and theory (pp. 64–99). New York, NY: Appleton-Century-Crofts.
+* Scalera, G., & Bavieri, M. (2009). Role of conditioned taste aversion on the side effects of chemotherapy in cancer patients. In S. Reilly & T. R. Schachtman (Eds.), Conditioned taste aversion: Behavioral and neural processes (pp. 513–541). New York, NY: Oxford University Press.
+* Siegel, S. (1989). Pharmacological conditioning and drug effects. In A. J. Goudie & M. Emmett-Oglesby (Eds.), Psychoactive drugs (pp. 115–180). Clifton, NY: Humana Press.
+* Siegel, S., Hinson, R. E., Krank, M. D., & McCully, J. (1982). Heroin “overdose” death: Contribution of drug associated environmental cues. Science, 216, 436–437.
+* Spreat, S., & Spreat, S. R. (1982). Learning principles. In V. Voith & P. L. Borchelt (Eds.), Veterinary clinics of North America: Small animal practice (pp. 593–606). Philadelphia, PA: W. B. Saunders.
+* Thompson, R. F., & Steinmetz, J. E. (2009). The role of the cerebellum in classical conditioningof discrete behavioral responses. Neuroscience, 162, 732–755.
+* Timberlake, W. L. (2001). Motivational modes in behavior systems. In R. R. Mowrer & S. B. Klein (Eds.), Handbook of contemporary learning theories (pp. 155–210). * Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+* Wasserman, E. A. (1995). The conceptual abilities of pigeons. American Scientist, 83, 246–255.
