@@ -5,13 +5,13 @@ sidebar:
 ---
 # Statistical Thinking
 
-Learning Objectives
-Define basic elements of a statistical investigation.
-Describe the role of p-values and confidence intervals in statistical inference.
-Describe the role of random sampling in generalizing conclusions from a sample to a population.
-Describe the role of random assignment in drawing cause-and-effect conclusions.
-Critique statistical studies.
-Introduction
+## Learning Objectives
+* Define basic elements of a statistical investigation.
+* Describe the role of p-values and confidence intervals in statistical inference.
+* Describe the role of random sampling in generalizing conclusions from a sample to a population.
+* Describe the role of random assignment in drawing cause-and-effect conclusions.
+* Critique statistical studies.
+## Introduction
 Does drinking coffee actually increase your life expectancy? A recent study (Freedman, Park, Abnet, Hollenbeck, & Sinha, 2012) found that men who drank at least six cups of coffee a day had a 10% lower chance of dying (women 15% lower) than those who drank none. Does this mean you should pick up or increase your own coffee habit?
 
 Modern society has become awash in studies such as this; you can read about several such studies in the news every day. Moreover, data abound everywhere in modern life. Conducting such a study well, and interpreting the results of such studies well for making informed decisions or setting policies, requires understanding basic ideas of statistics, the science of gaining insight from data. Rather than relying on anecdote and intuition, statistics allows us to systematically study phenomena of interest.
@@ -25,7 +25,7 @@ Inferring from the data: What are valid statistical methods for drawing inferenc
 Drawing conclusions: Based on what you learned from your data, what conclusions can you draw? Who do you think these conclusions apply to? (Were the people in the coffee study older? Healthy? Living in cities?) Can you draw a cause-and-effect conclusion about your treatments? (Are scientists now saying that the coffee drinking is the cause of the decreased risk of death?)
 Notice that the numerical analysis (“crunching numbers” on the computer) comprises only a small part of overall statistical investigation. In this module, you will see how we can answer some of these questions and what questions you should be asking about any statistical investigation you read about.
 
-Distributional Thinking
+## Distributional Thinking
 When data are collected to address a particular question, an important first step is to think of meaningful ways to organize and examine the data. The most fundamental principle of statistics is that data vary. The pattern of that variation is crucial to capture and to understand. Often, careful presentation of the data will address many of the research questions without requiring more sophisticated analyses. It may, however, point to additional questions that need to be examined in more detail.
 
 Example 1: Researchers investigated whether cancer pamphlets are written at an appropriate level to be read and understood by cancer patients (Short, Moriarty, & Cooley, 1995). Tests of reading ability were given to 63 patients. In addition, readability level was determined for a sample of 30 pamphlets, based on characteristics such as the lengths of words and sentences in the pamphlet. The results, reported in terms of grade levels, are displayed in Table 1.
@@ -43,7 +43,7 @@ Addressing the research question of whether the cancer pamphlets are written at 
 Figure 1: Comparison of patient reading levels and pamphlet readability levels.
 Figure 1 makes clear that the two distributions are not well aligned at all. The most glaring discrepancy is that many patients (17/63, or 27%, to be precise) have a reading level below that of the most readable pamphlet. These patients will need help to understand the information provided in the cancer pamphlets. Notice that this conclusion follows from considering the distributions as a whole, not simply measures of center or variability, and that the graph contrasts those distributions more immediately than the frequency tables.
 
-Statistical Significance
+## Statistical Significance
 Even when we find patterns in data, often there is still uncertainty in various aspects of the data. For example, there may be potential for measurement errors (even your own body temperature can fluctuate by almost 1 °F over the course of the day). Or we may only have a “snapshot” of observations from a more long-term process or only a small subset of individuals from the population of interest. In such cases, how can we determine whether patterns we see in our small set of data is convincing evidence of a systematic phenomenon in the larger process or population?
 
 Example 2: In a study reported in the November 2007 issue of Nature, researchers investigated whether pre-verbal infants take into account an individual’s actions toward others in evaluating that individual as appealing or aversive (Hamlin, Wynn, & Bloom, 2007). In one component of the study, 10-month-old infants were shown a “climber” character (a piece of wood with “googly” eyes glued onto it) that could not make it up a hill in two tries. Then the infants were shown two scenarios for the climber’s next try, one where the climber was pushed to the top of the hill by another character (“helper”), and one where the climber was pushed back down the hill by another character (“hinderer”). The infant was alternately shown these two scenarios several times. Then the infant was presented with two pieces of wood (representing the helper and the hinderer characters) and asked to pick one to play with. The researchers found that of the 16 infants who made a clear choice, 14 chose to play with the helper toy.
@@ -56,7 +56,7 @@ It is beginning to appear that the researchers accounted for all the other plaus
 
 If the infants were equally likely to pick between the two toys, then each infant had a 50% chance of picking the helper toy. It’s like each infant tossed a coin, and if it landed heads, the infant picked the helper toy. So if we tossed a coin 16 times, could it land heads 14 times? Sure, it’s possible, but it turns out to be very unlikely. Getting 14 (or more) heads in 16 tosses is about as likely as tossing a coin and getting 9 heads in a row. This probability is referred to as a p-value. The p-value tells you how often a random process would give a result at least as extreme as what was found in the actual study, assuming there was nothing other than random chance at play. So, if we assume that each infant was choosing equally, then the probability that 14 or more out of 16 infants would choose the helper toy is found to be 0.0021. We have only two logical possibilities: either the infants have a genuine preference for the helper toy, or the infants have no preference (50/50) and an outcome that would occur only 2 times in 1,000 iterations happened in this study. Because this p-value of 0.0021 is quite small, we conclude that the study provides very strong evidence that these infants have a genuine preference for the helper toy. We often compare the p-value to some cut-off value (called the level of significance, typically around 0.05). If the p-value is smaller than that cut-off value, then we reject the hypothesis that only random chance was at play here. In this case, these researchers would conclude that significantly more than half of the infants in the study chose the helper toy, giving strong evidence of a genuine preference for the toy with the helping behavior.
 
-Generalizability
+## Generalizability
 Ariel view of a large crowd.
 Generalizability is an important research consideration: The results of studies with widely representative samples are more likely to generalize to the population. [Image: Mike PD, https://goo.gl/ynFCMC, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
 One limitation to the previous study is that the conclusion only applies to the 16 infants in the study. We don’t know much about how those 16 infants were selected. Suppose we want to select a subset of individuals (a sample) from a much larger group of individuals (the population) in such a way that conclusions from the sample can be generalized to the larger population. This is the question faced by pollsters every day.
@@ -67,7 +67,7 @@ In 2004, the GSS reported that 817 of 977 respondents (or 83.6%) indicated that 
 
 The key to the margin of error is that when we use a probability sampling method, we can make claims about how often (in the long run, with repeated random sampling) the sample result would fall within a certain distance from the unknown population value by chance (meaning by random sampling variation) alone. Conversely, non-random samples are often suspect to bias, meaning the sampling method systematically over-represents some segments of the population and under-represents others. We also still need to consider other sources of bias, such as individuals not responding honestly. These sources of error are not measured by the margin of error.
 
-Cause and Effect Conclusions
+## Cause and Effect Conclusions
 In many research studies, the primary question of interest concerns differences between groups. Then the question becomes how were the groups formed (e.g., selecting people who already drink coffee vs. those who don’t). In some studies, the researchers actively form the groups themselves. But then we have a similar question—could any differences we observe in the groups be an artifact of that group-formation process? Or maybe the difference we observe in the groups is so large that we can discount a “fluke” in the group-formation process as a reasonable explanation for what we find?
 
 Example 4: A psychology study investigated whether people tend to display more creativity when they are thinking about intrinsic or extrinsic motivations (Ramsey & Schafer, 2002, based on a study by Amabile, 1985). The subjects were 47 people with extensive experience with creative writing. Subjects began by answering survey questions about either intrinsic motivations for writing (such as the pleasure of self-expression) or extrinsic motivations (such as public recognition). Then all subjects were instructed to write a haiku, and those poems were evaluated for creativity by a panel of judges. The researchers conjectured beforehand that subjects who were thinking about intrinsic motivations would display more creativity than subjects who were thinking about extrinsic motivations. The creativity scores from the 47 subjects in this study are displayed in Figure 2, where higher scores indicate more creativity.
@@ -92,7 +92,7 @@ Only 2 of the 1,000 simulated random assignments produced a difference in group 
 
 Notice that the previous statement implies a cause-and-effect relationship between motivation and creativity score; is such a strong conclusion justified? Yes, because of the random assignment used in the study. That should have balanced out any other variables between the two groups, so now that the small p-value convinces us that the higher mean in the intrinsic group wasn’t just a coincidence, the only reasonable explanation left is the difference in the type of motivation. Can we generalize this conclusion to everyone? Not necessarily—we could cautiously generalize this conclusion to individuals with extensive experience in creative writing similar the individuals in this study, but we would still want to know more about how these individuals were selected to participate.
 
-Conclusion
+## Conclusion
 handwritten statistical calculations.
 Researchers employ the scientific method that involves a great deal of statistical thinking: generate a hypothesis --> design a study to test that hypothesis --> conduct the study --> analyze the data --> report the results. [Image: widdowquinn, https://goo.gl/9l8Dht, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
 Statistical thinking involves the careful design of a study to collect meaningful data to answer a focused research question, detailed analysis of patterns in the data, and drawing conclusions that go beyond the observed data. Random sampling is paramount to generalizing results from our sample to a larger population, and random assignment is key to drawing cause-and-effect conclusions. With both kinds of randomness, probability models help us assess how much random variation we can expect in our results, in order to determine whether our results could happen by chance alone and to estimate a margin of error.
@@ -109,49 +109,40 @@ Whether coffee was caffeinated or decaffeinated did not appear to affect the res
 This was an observational study, so no cause-and-effect conclusions can be drawn between coffee drinking and increased longevity, contrary to the impression conveyed by many news headlines about this study. In particular, it’s possible that those with chronic diseases don’t tend to drink coffee.
 This study needs to be reviewed in the larger context of similar studies and consistency of results across studies, with the constant caution that this was not a randomized experiment. Whereas a statistical analysis can still “adjust” for other potential confounding variables, we are not yet convinced that researchers have identified them all or completely isolated why this decrease in death risk is evident. Researchers can now take the findings of this study and develop more focused studies that address new questions.
 
-Outside Resources
-Apps: Interactive web applets for teaching and learning statistics include the collection at
-http://www.rossmanchance.com/applets/
-P-Value extravaganza
-
-Web: Inter-university Consortium for Political and Social Research
-http://www.icpsr.umich.edu/index.html
-Web: The Consortium for the Advancement of Undergraduate Statistics
-https://www.causeweb.org/
-Discussion Questions
-Find a recent research article in your field and answer the following: What was the primary research question? How were individuals selected to participate in the study? Were summary results provided? How strong is the evidence presented in favor or against the research question? Was random assignment used? Summarize the main conclusions from the study, addressing the issues of statistical significance, statistical confidence, generalizability, and cause and effect. Do you agree with the conclusions drawn from this study, based on the study design and the results presented?
-Is it reasonable to use a random sample of 1,000 individuals to draw conclusions about all U.S. adults? Explain why or why not.
-Vocabulary
-Cause-and-effect
+## Discussion Questions
+* Find a recent research article in your field and answer the following: What was the primary research question? How were individuals selected to participate in the study? Were summary results provided? How strong is the evidence presented in favor or against the research question? Was random assignment used? Summarize the main conclusions from the study, addressing the issues of statistical significance, statistical confidence, generalizability, and cause and effect. Do you agree with the conclusions drawn from this study, based on the study design and the results presented?
+* Is it reasonable to use a random sample of 1,000 individuals to draw conclusions about all U.S. adults? Explain why or why not.
+## Vocabulary
+### Cause-and-effect
 Related to whether we say one variable is causing changes in the other variable, versus other variables that may be related to these two variables.
-Confidence interval
+### Confidence interval
 An interval of plausible values for a population parameter; the interval of values within the margin of error of a statistic.
-Distribution
+### Distribution
 The pattern of variation in data.
-Generalizability
+### Generalizability
 Related to whether the results from the sample can be generalized to a larger population.
-Margin of error
+### Margin of error
 The expected amount of random variation in a statistic; often defined for 95% confidence level.
-Parameter
+### Parameter
 A numerical result summarizing a population (e.g., mean, proportion).
-Population
+### Population
 A larger collection of individuals that we would like to generalize our results to.
-P-value
+### P-value
 The probability of observing a particular outcome in a sample, or more extreme, under a conjecture about the larger population or process.
-Random assignment
+### Random assignment
 Using a probability-based method to divide a sample into treatment groups.
-Random sampling
+### Random sampling
 Using a probability-based method to select a subset of individuals for the sample from the population.
-Sample
+### Sample
 The collection of individuals on which we collect data.
-Statistic
+### Statistic
 A numerical result computed from a sample (e.g., mean, proportion).
-Statistical significance
+### Statistical significance
 A result is statistically significant if it is unlikely to arise by chance alone.
-References
-Amabile, T. (1985). Motivation and creativity: Effects of motivational orientation on creative writers. Journal of Personality and Social Psychology, 48(2), 393–399.
-Freedman, N. D., Park, Y., Abnet, C. C., Hollenbeck, A. R., & Sinha, R. (2012). Association of coffee drinking with total and cause-specific mortality. New England Journal of Medicine, 366, 1891–1904.
-Hamlin, J. K., Wynn, K., & Bloom, P. (2007). Social evaluation by preverbal infants. Nature, 452(22), 557–560.
-Ramsey, F., & Schafer, D. (2002). The statistical sleuth: A course in methods of data analysis. Belmont, CA: Duxbury.
-Short, T., Moriarty, H., & Cooley, M. E. (1995). Readability of educational materials for patients with cancer. Journal of Statistics Education, 3(2).
-Stanovich, K. (2013). How to think straight about psychology (10th ed.). Upper Saddle River, NJ: Pearson.
+## References
+* Amabile, T. (1985). Motivation and creativity: Effects of motivational orientation on creative writers. Journal of Personality and Social Psychology, 48(2), 393–399.
+* Freedman, N. D., Park, Y., Abnet, C. C., Hollenbeck, A. R., & Sinha, R. (2012). Association of coffee drinking with total and cause-specific mortality. New England Journal of Medicine, 366, 1891–1904.
+* Hamlin, J. K., Wynn, K., & Bloom, P. (2007). Social evaluation by preverbal infants. Nature, 452(22), 557–560.
+* Ramsey, F., & Schafer, D. (2002). The statistical sleuth: A course in methods of data analysis. Belmont, CA: Duxbury.
+* Short, T., Moriarty, H., & Cooley, M. E. (1995). Readability of educational materials for patients with cancer. Journal of Statistics Education, 3(2).
+* Stanovich, K. (2013). How to think straight about psychology (10th ed.). Upper Saddle River, NJ: Pearson.
