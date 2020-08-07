@@ -8,17 +8,11 @@ sidebar:
 
 We think important objects and events in our world will automatically grab our attention, but they often don’t, particularly when our attention is focused on something else. The failure to notice unexpected objects or events when attention is focused elsewhere is now known as inattentional blindness. The study of such failures of awareness has a long history, but their practical importance has received increasing attention over the past decade. This module describes the history and status of research on inattentional blindness, discusses the reasons why we find these results to be counterintuitive, and the implications of failures of awareness for how we see and act in our world.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/cemagjuw
-AttentionAwarenessCocktail party effectFocused attentionInattentional blindnessInattentional deafnessIndividual differencesSelective listeningSelective looking
-Learning Objectives
-Learn about inattentional blindness and why it occurs.
-Identify ways in which failures of awareness are counterintuitive.
-Better understand the link between focused attention and failures of awareness.
-Do you regularly spot editing errors in movies? Can you multitask effectively, texting while talking with your friends or watching television? Are you fully aware of your surroundings? If you answered yes to any of those questions, you’re not alone. And, you’re most likely wrong.
+## Learning Objectives
+* Learn about inattentional blindness and why it occurs.
+* Identify ways in which failures of awareness are counterintuitive.
+* Better understand the link between focused attention and failures of awareness.
+* Do you regularly spot editing errors in movies? Can you multitask effectively, texting while talking with your friends or watching television? Are you fully aware of your surroundings? If you answered yes to any of those questions, you’re not alone. And, you’re most likely wrong.
 
 More than 50 years ago, experimental psychologists began documenting the many ways that our perception of the world is limited, not by our eyes and ears, but by our minds. We appear able to process only one stream of information at a time, effectively filtering other information from awareness. To a large extent, we perceive only that which receives the focus of our cognitive efforts: our attention.
 
@@ -68,47 +62,38 @@ A woman texting as she drives.
 Even though you may think you can drive, text, listen to music, and drink a smoothie at the same time, really, your focus should be only on the road. Everything else is a potential distraction from what’s most important: driving safely! [Image: FMHS The Buzz TV, https://goo.gl/TSk2RP, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
 First, maximize the attention you do have available by avoiding distractions, especially under conditions for which an unexpected event might be catastrophic. The ring of a new call or the ding of a new text are hard to resist, so make it impossible to succumb to the temptation by turning your phone off or putting it somewhere out of reach when you are driving. If you know that you will be tempted and you know that using your phone will increase inattentional blindness, you must be proactive. Second, pay attention to what others might not notice. If you are a bicyclist, don’t assume that the driver sees you, even if they appear to make eye contact. Looking is not the same as seeing. Only by understanding the limits of attention and by recognizing our mistaken beliefs about what we “know” to be true can we avoid the modern-day consequences of those limits.
 
-Outside Resources
-Article: Scholarpedia article on inattentional blindness
-http://www.scholarpedia.org/article/Inattentional_blindness
-Video: The original gorilla video
-
-Video: The sequel to the gorilla video
-
-Web: Website for Chabris & Simons book, The Invisible Gorilla. Includes links to videos and descriptions of the research on inattentional blindness
-http://www.theinvisiblegorilla.com
-Discussion Questions
-Many people, upon learning about inattentional blindness, try to think of ways to eliminate it, allowing themselves complete situation awareness. Why might we be far worse off if we were not subject to inattentional blindness?
-If inattentional blindness cannot be eliminated, what steps might you take to avoid its consequences?
-Can you think of situations in which inattentional blindness is highly likely to be a problem? Can you think of cases in which inattentional blindness would not have much of an impact?
-Vocabulary
-Dichotic listening
+## Discussion Questions
+* Many people, upon learning about inattentional blindness, try to think of ways to eliminate it, allowing themselves complete situation awareness. Why might we be far worse off if we were not subject to inattentional blindness?
+* If inattentional blindness cannot be eliminated, what steps might you take to avoid its consequences?
+* Can you think of situations in which inattentional blindness is highly likely to be a problem? Can you think of cases in which inattentional blindness would not have much of an impact?
+## Vocabulary
+### Dichotic listening
 A task in which different audio streams are presented to each ear. Typically, people are asked to monitor one stream while ignoring the other.
-Inattentional blindness
+### Inattentional blindness
 The failure to notice a fully visible, but unexpected, object or event when attention is devoted to something else.
-Inattentional deafness
+### Inattentional deafness
 The auditory analog of inattentional blindness. People fail to notice an unexpected sound or voice when attention is devoted to other aspects of a scene.
-Selective listening
+### Selective listening
 A method for studying selective attention in which people focus attention on one auditory stream of information while deliberately ignoring other auditory information.
-References
-Bredemeier, K., & Simons, D. J. (2012). Working memory and inattentional blindness. Psychonomic Bulletin & Review, 19, 239–244.
-Chabris, C. F., Weinberger, A., Fontaine, M., & Simons, D. J. (2011). You do not talk about fight club if you do not notice fight club: Inattentional blindness for a simulated real-world assault. i-Perception, 2, 150–153.
-Cherry, E. C. (1953). Experiments on the recognition of speech with one and two ears. Journal of the Acoustical Society of America, 25, 975–979.
-Conway, A. R. A., Cowan, N., & Bunting, M. F. (2001). The cocktail party phenomenon revisited: The importance of working memory capacity. Psychonomic Bulletin & Review, 8, 331–335.
-Dalton, P., & Fraenkel, N. (2012). Gorillas we have missed: Sustained inattentional deafness for dynamic events. Cognition, 124, 367–372.
-Levin, D. T., & Angelone, B. L. (2008). The visual metacognition questionnaire: A measure of intuitions about vision. The American Journal of Psychology, 121, 451–472.
-Macdonald, J. S. P., & Lavie, N. (2011). Visual perceptual load induces inattentional deafness. Attention, Perception, & Psychophysics, 73, 1780–1789.
-Mack A., & Rock I. (1998). Inattentional blindness. Cambridge, MA: MIT Press.
-Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. Quarterly Journal of Experimental Psychology, 11, 56–60.
-Most, S. B., Scholl, B. J., Clifford, E. R., & Simons, D. J. (2005). What you see is what you set: Sustained inattentional blindness and the capture of awareness. Psychological Review, 112, 217–242.
-Most, S. B., Simons, D. J., Scholl, B. J., Jimenez, R., Clifford, E., & Chabris, C. F. (2001). How not to be seen: The contribution of similarity and selective ignoring to sustained inattentional blindness. Psychological Science, 12, 9–17.
-Neisser U., & Becklen R., (1975). Selective looking: Attending to visually specified events. Cognitive Psychology, 7, 480–494.
-Neisser, U. (1979). The control of information pickup in selective looking. In A. D. Pick (Ed.), Perception and its development: A tribute to Eleanor J. Gibson (pp. 201–219). Hillsdale, NJ: Lawrence Erlbaum Associates.
-Richards, A., Hannon, E., & Derakshan, N. (2010). Predicting and manipulating the incidence of inattentional blindness. Psychological Research, 74, 513–523.
-Seegmiller, J. K., Watson, J. M., & Strayer, D. L. (2011). Individual differences in susceptibility to inattentional blindness. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37, 785–791.
-Simons, D. J., & Chabris, C. F. (2010). The invisible gorilla, and other ways our intuitions deceive us. New York, NY: Crown.
-Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28, 1059–1074.
-Simons, D. J., & Jensen, M. S. (2009). The effects of individual differences and task difficulty on inattentional blindness. Psychonomic Bulletin & Review, 16(2), 398–403.
-Strayer, D. L., & Johnston, W. A. (2001). Driven to distraction: Dual-task studies of simulated driving and conversing on a cellular telephone. Psychological Science, 12, 462–466.
-Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
-Wayand. J. F., Levin, D. T., & Varakin, D. A. (2005). Inattentional blindness for a noxious multimodal stimulus. The American Journal of Psychology, 118, 339–352.
+## References
+* Bredemeier, K., & Simons, D. J. (2012). Working memory and inattentional blindness. Psychonomic Bulletin & Review, 19, 239–244.
+* Chabris, C. F., Weinberger, A., Fontaine, M., & Simons, D. J. (2011). You do not talk about fight club if you do not notice fight club: Inattentional blindness for a simulated real-world assault. i-Perception, 2, 150–153.
+* Cherry, E. C. (1953). Experiments on the recognition of speech with one and two ears. Journal of the Acoustical Society of America, 25, 975–979.
+* Conway, A. R. A., Cowan, N., & Bunting, M. F. (2001). The cocktail party phenomenon revisited: The importance of working memory capacity. Psychonomic Bulletin & Review, 8, 331–335.
+* Dalton, P., & Fraenkel, N. (2012). Gorillas we have missed: Sustained inattentional deafness for dynamic events. Cognition, 124, 367–372.
+* Levin, D. T., & Angelone, B. L. (2008). The visual metacognition questionnaire: A measure of intuitions about vision. The American Journal of Psychology, 121, 451–472.
+* Macdonald, J. S. P., & Lavie, N. (2011). Visual perceptual load induces inattentional deafness. Attention, Perception, & Psychophysics, 73, 1780–1789.
+* Mack A., & Rock I. (1998). Inattentional blindness. Cambridge, MA: MIT Press.
+* Moray, N. (1959). Attention in dichotic listening: Affective cues and the influence of instructions. Quarterly Journal of Experimental Psychology, 11, 56–60.
+* Most, S. B., Scholl, B. J., Clifford, E. R., & Simons, D. J. (2005). What you see is what you set: Sustained inattentional blindness and the capture of awareness. Psychological Review, 112, 217–242.
+* Most, S. B., Simons, D. J., Scholl, B. J., Jimenez, R., Clifford, E., & Chabris, C. F. (2001). How not to be seen: The contribution of similarity and selective ignoring to sustained inattentional blindness. Psychological Science, 12, 9–17.
+* Neisser U., & Becklen R., (1975). Selective looking: Attending to visually specified events. Cognitive Psychology, 7, 480–494.
+* Neisser, U. (1979). The control of information pickup in selective looking. In A. D. Pick (Ed.), Perception and its development: A tribute to Eleanor J. Gibson (pp. 201–219). Hillsdale, NJ: Lawrence Erlbaum Associates.
+* Richards, A., Hannon, E., & Derakshan, N. (2010). Predicting and manipulating the incidence of inattentional blindness. Psychological Research, 74, 513–523.
+* Seegmiller, J. K., Watson, J. M., & Strayer, D. L. (2011). Individual differences in susceptibility to inattentional blindness. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37, 785–791.
+* Simons, D. J., & Chabris, C. F. (2010). The invisible gorilla, and other ways our intuitions deceive us. New York, NY: Crown.
+* Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28, 1059–1074.
+* Simons, D. J., & Jensen, M. S. (2009). The effects of individual differences and task difficulty on inattentional blindness. Psychonomic Bulletin & Review, 16(2), 398–403.
+* Strayer, D. L., & Johnston, W. A. (2001). Driven to distraction: Dual-task studies of simulated driving and conversing on a cellular telephone. Psychological Science, 12, 462–466.
+* Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
+* Wayand. J. F., Levin, D. T., & Varakin, D. A. (2005). Inattentional blindness for a noxious multimodal stimulus. The American Journal of Psychology, 118, 339–352.
