@@ -17,23 +17,23 @@ A young boy whispers in the ear of a young girl.
 Hearing provides us with our most important connection to the people around us. [Image: Bindaas Madhavi, https://goo.gl/Sv6TtR, CC BY-NC-ND 2.0, https://goo.gl/62XJAl]
 Hearing forms a crucial part of our everyday life. Most of our communication with others, via speech or music, reaches us through the ears. Indeed, a saying, often attributed to Helen Keller, is that blindness separates us from things, but deafness separates us from people. The ears respond to acoustic information, or sound—tiny and rapid variations in air pressure. Sound waves travel from the source and produce pressure variations in the listener’s ear canals, causing the eardrums (or tympanic membranes) to vibrate. This module provides an overview of the events that follow, which convert these simple mechanical vibrations into our rich experience known as hearing, or auditory perception.
 
-Perceptual Attributes of Sound
+## Perceptual Attributes of Sound
 There are many ways to describe a sound, but the perceptual attributes of a sound can typically be divided into three main categories—namely, loudness, pitch, and timbre. Although all three refer to perception, and not to the physical sounds themselves, they are strongly related to various physical variables.
 
-Loudness
+## Loudness
 The most direct physical correlate of loudness is sound intensity (or sound pressure) measured close to the eardrum. However, many other factors also influence the loudness of a sound, including its frequency content, its duration, and the context in which it is presented. Some of the earliest psychophysical studies of auditory perception, going back more than a century, were aimed at examining the relationships between perceived loudness, the physical sound intensity, and the just-noticeable differences in loudness (Fechner, 1860; Stevens, 1957). A great deal of time and effort has been spent refining various measurement methods. These methods involve techniques such as magnitude estimation, where a series of sounds (often sinusoids, or pure tones of single frequency) are presented sequentially at different sound levels, and subjects are asked to assign numbers to each tone, corresponding to the perceived loudness. Other studies have examined how loudness changes as a function of the frequency of a tone, resulting in the international standard iso-loudness-level contours (ISO, 2003), which are used in many areas of industry to assess noise and annoyance issues. Such studies have led to the development of computational models that are designed to predict the loudness of arbitrary sounds (e.g., Moore, Glasberg, & Baer, 1997).
 
-Pitch
+## Pitch
 A man plays a piano on a sidewalk.
 Pitch is crucial to our perception and understanding of music and language. [Image: xroper7, https://goo.gl/1E4sJY, CC BY-NC 2.0, https://goo.gl/tgFydH]
 Pitch plays a crucial role in acoustic communication. Pitch variations over time provide the basis of melody for most types of music; pitch contours in speech provide us with important prosodic information in non-tone languages, such as English, and help define the meaning of words in tone languages, such as Mandarin Chinese. Pitch is essentially the perceptual correlate of waveform periodicity, or repetition rate: The faster a waveform repeats over time, the higher is its perceived pitch. The most common pitch-evoking sounds are known as harmonic complex tones. They are complex because they consist of more than one frequency, and they are harmonic because the frequencies are all integer multiples of a common fundamental frequency (F0). For instance, a harmonic complex tone with a F0 of 100 Hz would also contain energy at frequencies of 200, 300, 400 Hz, and so on. These higher frequencies are known as harmonics or overtones, and they also play an important role in determining the pitch of a sound. In fact, even if the energy at the F0 is absent or masked, we generally still perceive the remaining sound to have a pitch corresponding to the F0. This phenomenon is known as the “pitch of the missing fundamental,” and it has played an important role in the formation of theories and models about pitch (de Cheveigné, 2005). We hear pitch with sufficient accuracy to perceive melodies over a range of F0s from about 30 Hz (Pressnitzer, Patterson, & Krumbholz, 2001) up to about 4–5 kHz (Attneave & Olson, 1971; Oxenham, Micheyl, Keebler, Loper, & Santurette, 2011). This range also corresponds quite well to the range covered by musical instruments; for instance, the modern grand piano has notes that extend from 27.5 Hz to 4,186 Hz. We are able to discriminate changes in frequency above 5,000 Hz, but we are no longer very accurate in recognizing melodies or judging musical intervals.
 
-Timbre
+## Timbre
 Timbre refers to the quality of sound, and is often described using words such as bright, dull, harsh, and hollow. Technically, timbre includes anything that allows us to distinguish two sounds that have the same loudness, pitch, and duration. For instance, a violin and a piano playing the same note sound very different, based on their sound quality or timbre.
 
 An important aspect of timbre is the spectral content of a sound. Sounds with more high-frequency energy tend to sound brighter, tinnier, or harsher than sounds with more low-frequency content, which might be described as deep, rich, or dull. Other important aspects of timbre include the temporal envelope (or outline) of the sound, especially how it begins and ends. For instance, a piano has a rapid onset, or attack, produced by the hammer striking the string, whereas the attack of a clarinet note can be much more gradual. Artificially changing the onset of a piano note by, for instance, playing a recording backwards, can dramatically alter its character so that it is no longer recognizable as a piano note. In general, the overall spectral content and the temporal envelope can provide a good first approximation to any sound, but it turns out that subtle changes in the spectrum over time (or spectro-temporal variations) are crucial in creating plausible imitations of natural musical instruments (Risset & Wessel, 1999).
 
-An Overview of the Auditory System
+## An Overview of the Auditory System
 Diagram of the outer, middle, and inner ear.
 Figure 1: Diagram of the outer, middle, and inner ear.
 Our auditory perception depends on how sound is processed through the ear. The ear can be divided into three main parts—the outer, middle, and inner ear (see Figure 1). The outer ear consists of the pinna (the visible part of the ear, with all its unique folds and bumps), the ear canal (or auditory meatus), and the tympanic membrane. Of course, most of us have two functioning ears, which turn out to be particularly useful when we are trying to figure out where a sound is coming from. As discussed below in the section on spatial hearing, our brain can compare the subtle differences in the signals at the two ears to localize sounds in space. However, this trick does not always help: for instance, a sound directly in front or directly behind you will not produce a difference between the ears. In these cases, the filtering produced by the pinnae helps us localize sounds and resolve potential front-back and up-down confusions. More generally, the folds and bumps of the pinna produce distinct peaks and dips in the frequency response that depend on the location of the sound source. The brain then learns to associate certain patterns of spectral peaks and dips with certain spatial locations. Interestingly, this learned association remains malleable, or plastic, even in adulthood. For instance, a study that altered the pinnae using molds found that people could learn to use their “new” ears accurately within a matter of a few weeks (Hofman, Van Riswick, & Van Opstal, 1998). Because of the small size of the pinna, these kinds of acoustic cues are only found at high frequencies, above about 2 kHz. At lower frequencies, the sound is basically unchanged whether it comes from above, in front, or below. The ear canal itself is a tube that helps to amplify sound in the region from about 1 to 4 kHz—a region particularly important for speech communication.
@@ -46,7 +46,7 @@ One of the most important principles of hearing—frequency analysis—is establ
 
 Unlike vision, where the primary visual cortex (or V1) is considered an early stage of processing, auditory signals go through many stages of processing before they reach the primary auditory cortex, located in the temporal lobe. Although we have a fairly good understanding of the electromechanical properties of the cochlea and its various structures, our understanding of the processing accomplished by higher stages of the auditory pathways remains somewhat sketchy. With the possible exception of spatial localization and neurons tuned to certain locations in space (Harper & McAlpine, 2004; Knudsen & Konishi, 1978), there is very little consensus on the how, what, and where of auditory feature extraction and representation. There is evidence for a “pitch center” in the auditory cortex from both human neuroimaging studies (e.g., Griffiths, Buchel, Frackowiak, & Patterson, 1998; Penagos, Melcher, & Oxenham, 2004) and single-unit physiology studies (Bendor & Wang, 2005), but even here there remain some questions regarding whether a single area of cortex is responsible for coding single features, such as pitch, or whether the code is more distributed (Walker, Bizley, King, & Schnupp, 2011).
 
-Audibility, Masking, and Frequency Selectivity
+## Audibility, Masking, and Frequency Selectivity
 Overall, the human cochlea provides us with hearing over a very wide range of frequencies. Young people with normal hearing are able to perceive sounds with frequencies ranging from about 20 Hz all the way up to 20 kHz. The range of intensities we can perceive is also impressive: the quietest sounds we can hear in the medium-frequency range (between about 1 and 4 kHz) have a sound intensity that is about a factor of 1,000,000,000,000 less intense than the loudest sound we can listen to without incurring rapid and permanent hearing loss. In part because of this enormous dynamic range, we tend to use a logarithmic scale, known as decibels (dB), to describe sound pressure or intensity. On this scale, 0 dB sound pressure level (SPL) is defined as 20 micro-Pascals (μPa), which corresponds roughly to the quietest perceptible sound level, and 120 dB SPL is considered dangerously loud.
 
 A group of motor scooters and a bicyclist wait at an intersection for the traffic light to change.
@@ -55,7 +55,7 @@ Masking is the process by which the presence of one sound makes another sound mo
 
 Although much masking can be explained in terms of interactions within the cochlea, there are other forms that cannot be accounted for so easily, and that can occur even when interactions within the cochlea are unlikely. These more central forms of masking come in different forms, but have often been categorized together under the term “informational masking” (Durlach et al., 2003; Watson & Kelly, 1978). Relatively little is known about the causes of informational masking, although most forms can be ascribed to a perceptual “fusion” of the masker and target sounds, or at least a failure to segregate the target from the masking sounds. Also relatively little is known about the physiological locus of informational masking, except that at least some forms seem to originate in the auditory cortex and not before (Gutschalk, Micheyl, & Oxenham, 2008).
 
-Spatial Hearing
+## Spatial Hearing
 In contrast to vision, we have a 360° field of hearing. Our auditory acuity is, however, at least an order of magnitude poorer than vision in locating an object in space. Consequently, our auditory localization abilities are most useful in alerting us and allowing us to orient towards sources, with our visual sense generally providing the finer-grained analysis. Of course, there are differences between species, and some, such as barn owls and echolocating bats, have developed highly specialized sound localization systems.
 
 A man puts his hand behind his unusually large ear as if trying to locate the location of a sound.
@@ -70,39 +70,30 @@ In general, we are most sensitive to ITDs at low frequencies (below about 1.5 kH
 
 As with vision, our perception of distance depends to a large degree on context. If we hear someone shouting at a very low sound level, we infer that the shouter must be far away, based on our knowledge of the sound properties of shouting. In rooms and other enclosed locations, the reverberation can also provide information about distance: As a speaker moves further away, the direct sound level decreases but the sound level of the reverberation remains about the same; therefore, the ratio of direct-to-reverberant energy decreases (Zahorik & Wightman, 2001).
 
-Auditory Scene Analysis
+## Auditory Scene Analysis
 There is usually more than one sound source in the environment at any one time—imagine talking with a friend at a café, with some background music playing, the rattling of coffee mugs behind the counter, traffic outside, and a conversation going on at the table next to yours. All these sources produce sound waves that combine to form a single complex waveform at the eardrum, the shape of which may bear very little relationship to any of the waves produced by the individual sound sources. Somehow the auditory system is able to break down, or decompose, these complex waveforms and allow us to make sense of our acoustic environment by forming separate auditory “objects” or “streams,” which we can follow as the sounds unfold over time (Bregman, 1990).
 
 A number of heuristic principles have been formulated to describe how sound elements are grouped to form a single object or segregated to form multiple objects. Many of these originate from the early ideas proposed in vision by the so-called Gestalt psychologists, such as Max Wertheimer. According to these rules of thumb, sounds that are in close proximity, in time or frequency, tend to be grouped together. Also, sounds that begin and end at the same time tend to form a single auditory object. Interestingly, spatial location is not always a strong or reliable grouping cue, perhaps because the location information from individual frequency components is often ambiguous due to the effects of reverberation. Several studies have looked into the relative importance of different cues by “trading off” one cue against another. In some cases, this has led to the discovery of interesting auditory illusions, where melodies that are not present in the sounds presented to either ear emerge in the perception (Deutsch, 1979), or where a sound element is perceptually “lost” in competing perceptual organizations (Shinn-Cunningham, Lee, & Oxenham, 2007).
 
 More recent attempts have used computational and neutrally based approaches to uncover the mechanisms of auditory scene analysis (e.g., Elhilali, Ma, Micheyl, Oxenham, & Shamma, 2009), and the field of computational auditory scene analysis (CASA) has emerged in part as an effort to move towards more principled, and less heuristic, approaches to understanding the parsing and perception of complex auditory scenes (e.g., Wang & Brown, 2006). Solving this problem will not only provide us with a better understanding of human auditory perception, but may provide new approaches to “smart” hearing aids and cochlear implants, as well as automatic speech recognition systems that are more robust to background noise.
 
-Conclusion
+## Conclusion
 An infant with a cochlear implant.
 An infant with a cochlear implant. [Image: Bjorn Knetsch, https://goo.gl/J2wCvJ, CC BY 2.0, https://goo.gl/BRvSA7]
 Hearing provides us with our most important connection to the people around us. The intricate physiology of the auditory system transforms the tiny variations in air pressure that reach our ear into the vast array of auditory experiences that we perceive as speech, music, and sounds from the environment around us. We are only beginning to understand the basic principles of neural coding in higher stages of the auditory system, and how they relate to perception. However, even our rudimentary understanding has improved the lives of hundreds of thousands through devices such as cochlear implants, which re-create some of the ear’s functions for people with profound hearing loss.
 
-Outside Resources
-Audio: Auditory Demonstrations from Richard Warren’s lab at the University of Wisconsin, Milwaukee
-http://www4.uwm.edu/APL/demonstrations.html
-Audio: Auditory Demonstrations. CD published by the Acoustical Society of America (ASA). You can listen to the demonstrations here
-http://www.feilding.net/sfuad/musi3012-01/demos/audio/
-Web: Demonstrations and illustrations of cochlear mechanics can be found here
-http://lab.rockefeller.edu/hudspeth/graphicalSimulations
-Web: More demonstrations and illustrations of cochlear mechanics
-http://www.neurophys.wisc.edu/animations/
-Discussion Questions
-Based on the available acoustic cues, how good do you think we are at judging whether a low-frequency sound is coming from in front of us or behind us? How might we solve this problem in the real world?
-Outer hair cells contribute not only to amplification but also to the frequency tuning in the cochlea. What are some of the difficulties that might arise for people with cochlear hearing loss, due to these two factors? Why do hearing aids not solve all these problems?
-Why do you think the auditory system has so many stages of processing before the signals reach the auditory cortex, compared to the visual system? Is there a difference in the speed of processing required?
-Vocabulary
-Cochlea
+## Discussion Questions
+* Based on the available acoustic cues, how good do you think we are at judging whether a low-frequency sound is coming from in front of us or behind us? How might we solve this problem in the real world?
+* Outer hair cells contribute not only to amplification but also to the frequency tuning in the cochlea. What are some of the difficulties that might arise for people with cochlear hearing loss, due to these two factors? Why do hearing aids not solve all these problems?
+* Why do you think the auditory system has so many stages of processing before the signals reach the auditory cortex, compared to the visual system? Is there a difference in the speed of processing required?
+## Vocabulary
+### Cochlea
 Snail-shell-shaped organ that transduces mechanical vibrations into neural signals.
-Interaural differences
+### Interaural differences
 Differences (usually in time or intensity) between the two ears.
-Pinna
+### Pinna
 Visible part of the outer ear.
-Tympanic membrane
+### Tympanic membrane
 Ear drum, which separates the outer ear from the middle ear.
 ## References
 * Attneave, F., & Olson, R. K. (1971). Pitch as a medium: A new approach to psychophysical scaling. American Journal of Psychology, 84, 147–166.
@@ -135,4 +126,4 @@ ISO. (2003). ISO:226 Acoustics - Normal equal-loudness-level contours. Geneva, S
 * Wang, D., & Brown, G. J. (Eds.). (2006). Computational auditory scene analysis: Principles, algorithms, and applications. Hoboken, NJ: Wiley.
 * Watson, C. S., & Kelly, W. J. (1978). Informational masking in auditory patterns. Journal of the Acoustical Society of America, 64, S39.
 * Zahorik, P., & Wightman, F. L. (2001). Loudness constancy with varying sound source distance. Nature Neuroscience, 4, 78–83.
-de Cheveigné, A. (2005). Pitch perception models. In C. J. Plack, A. J. Oxenham, A. N. Popper, & R. Fay (Eds.), Pitch: Neural coding and perception (pp. 169–233). * New York, NY: Springer Verlag.
+de Cheveigné, A. (2005). Pitch perception models. In C. J. Plack, A. J. Oxenham, A. N. Popper, & R. Fay (Eds.), Pitch: Neural coding and perception (pp. 169–233). New York, NY: Springer Verlag.
