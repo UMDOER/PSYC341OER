@@ -7,18 +7,13 @@ sidebar:
 
 In science, replication is the process of repeating research to determine the extent to which findings generalize across time and across situations. Recently, the science of psychology has come under criticism because a number of research findings do not replicate. In this module we discuss reasons for non-replication, the impact this phenomenon has on the field, and suggest solutions to the problem.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/q4cvydeh
-PrimingReplicationscienceScientific Methodsocial psychology
-Learning Objectives
-Define “replication”
-Explain the difference between exact and conceptual replication
-List 4 explanations for non-replication
-Name 3 potential solutions to the replication crisis
- The Disturbing Problem
+## Learning Objectives
+* Define “replication”
+* Explain the difference between exact and conceptual replication
+* List 4 explanations for non-replication
+* Name 3 potential solutions to the replication crisis
+
+## The Disturbing Problem
 If you were driving down the road and you saw a pirate standing at an intersection you might not believe your eyes. But if you continued driving and saw a second, and then a third, you might become more confident in your observations. The more pirates you saw the less likely the first sighting would be a false positive (you were driving fast and the person was just wearing an unusual hat and billowy shirt) and the more likely it would be the result of a logical reason (there is a pirate themed conference in town). This somewhat absurd example is a real-life illustration of replication: the repeated findings of the same results.
 
 Four pirates
@@ -31,14 +26,14 @@ Psychology is not alone in coming up short on replication. There have been notab
 
 The non-reproducibility of findings is disturbing because it suggests the possibility that the original research was done sloppily. Even worse is the suspicion that the research may have been falsified. In science, faking results is the biggest of sins, the unforgivable sin, and for this reason the field of psychology has been thrown into an uproar. However, as we will discuss, there are a number of explanations for non-replication, and not all are bad.
 
-What is Replication?
+## What is Replication?
 Top image - group of 8 men presented with lines a varying length. Bottom image - group of two men and two women presented with varying types of fruit.
 Example of direct replication and conceptual replication of Asch's conformity experiment.
 There are different types of replication. First, there is a type called “exact replication” (also called "direct replication"). In this form, a scientist attempts to exactly recreate the scientific methods used in conditions of an earlier study to determine whether the results come out the same. If, for instance, you wanted to exactly replicate Asch’s (1956) classic findings on conformity, you would follow the original methodology: you would use only male participants, you would use groups of 8, and you would present the same stimuli (lines of differing lengths) in the same order. The second type of replication is called “conceptual replication.” This occurs when—instead of an exact replication, which reproduces the methods of the earlier study as closely as possible—a scientist tries to confirm the previous findings using a different set of specific methods that test the same idea. The same hypothesis is tested, but using a different set of methods and measures. A conceptual replication of Asch’s research might involve both male and female confederates purposefully misidentifying types of fruit to investigate conformity—rather than only males misidentifying line lengths.
 
 Both exact and conceptual replications are important because they each tell us something new. Exact replications tell us whether the original findings are true, at least under the exact conditions tested. Conceptual replications help confirm whether the theoretical idea behind the findings is true, and under what conditions these findings will occur. In other words, conceptual replication offers insights into how generalizable the findings are. 
 
-Enormity of the Current Crisis
+## Enormity of the Current Crisis
 Percentage of findings published in prestigious journals which have replicated: (1) Journal of Personality and Social Psychology - Social, 23%, (2) Journal of Experimental Psychology - Learning, Memory, and Cognition, 48%, (3) Psychological Science - social articles, 29%, (4) Psychological Science - cognitive articles, 53%
 Table 1: The Reproducibility of Psychological Science
 Recently, there has been growing concern as psychological research fails to replicate. To give you an idea of the extent of non-replicability of psychology findings, below are data reported in 2015 by the Open Science Collaboration project, led by University of Virginia psychologist Brian Nosek (Open Science Collaboration, 2015). Because these findings were reported in the prestigious journal, Science, they received widespread attention from the media. Here are the percentages of research that replicated—selected from several highly prestigious journals:
@@ -47,7 +42,7 @@ Clearly, there is a very large problem when only about 1/3 of the psychological 
 
 The situation in psychology has grown so worrisome that the Nobel Prize-winning psychologist Daniel Kahneman called on social psychologists to clean up their act (Kahneman, 2012). The Nobel laureate spoke bluntly of doubts about the integrity of psychology research, calling the current situation in the field a “mess.” His missive was pointed primarily at researchers who study social “priming,” but in light of the non-replication results that have since come out, it might be more aptly directed at the behavioral sciences in general.
 
-Examples of Non-replications in Psychology
+## Examples of Non-replications in Psychology
  A large number of scientists have attempted to replicate studies on what might be called “metaphorical priming,” and more often than not these replications have failed. Priming is the process by which a recent reference (often a subtle, subconscious cue) can increase the accessibility of a trait. For example, if your instructor says, “Please put aside your books, take out a clean sheet of paper, and write your name at the top,” you might find your pulse quickening. Over time, you have learned that this cue means you are about to be given a pop quiz. This phrase primes all the features associated with pop quizzes: they are anxiety-provoking, they are tricky, your performance matters.
 
 A stereotypical image of a professor - a white, middle-aged man with glasses and a beard, dressed in a coat and tie stands with chalk in hand in front of a blackboard which displays a mathematical formula.
@@ -60,7 +55,7 @@ As one can see from the examples, some of the studies that fail to replicate rep
 
 Nobody has tried to systematically replicate studies from the past, so we do not know if published studies are becoming less replicable over time. In 1990, however, Amir and Sharon were able to successfully replicate most of the main effects of six studies from another culture, though they did fail to replicate many of the interactions. This particular shortcoming in their overall replication may suggest that published studies are becoming less replicable over time, but we cannot be certain. What we can be sure of is that there is a significant problem with replication in psychology, and it’s a trend the field needs to correct. Without replicable findings, nobody will be able to believe in scientific psychology.
 
-Reasons for Non-replication
+## Reasons for Non-replication
 When findings do not replicate, the original scientists sometimes become indignant and defensive, offering reasons or excuses for non-replication of their findings—including, at times, attacking those attempting the replication. They sometimes claim that the scientists attempting the replication are unskilled or unsophisticated, or do not have sufficient experience to replicate the findings. This, of course, might be true, and it is one possible reason for non-replication.
 
 One reason for defensive responses is the unspoken implication that the original results might have been falsified. Faked results are only one reason studies may not replicate, but it is the most disturbing reason. We hope faking is rare, but in the past decade a number of shocking cases have turned up. Perhaps the most well-known come from social psychology. Diederik Stapel, a renowned social psychologist in the Netherlands, admitted to faking the results of a number of studies. Marc Hauser, a popular professor at Harvard, apparently faked results on morality and cognition. Karen Ruggiero at the University of Texas was also found to have falsified a number of her results (proving that bad behavior doesn’t have a gender bias). Each of these psychologists—and there are quite a few more examples—was believed to have faked data. Subsequently, they all were disgraced and lost their jobs.
@@ -71,7 +66,7 @@ Another reason for non-replication is that, while the findings in an original st
 
 A final reason for non-replication relates to the quality of the replication rather than the quality of the original study. Non-replication might be the product of scientist-error, with the newer investigation not following the original procedures closely enough. Similarly, the attempted replication study might, itself, have too small a sample size or insufficient statistical power to find significant results.  
 
-In Defense of Replication Attempts
+## In Defense of Replication Attempts
 Failures in replication are not all bad and, in fact, some non-replication should be expected in science. Original studies are conducted when an answer to a question is uncertain. That is to say, scientists are venturing into new territory. In such cases we should expect some answers to be uncovered that will not pan out in the long run. Furthermore, we hope that scientists take on challenging new topics that come with some amount of risk. After all, if scientists were only to publish safe results that were easy to replicate, we might have very boring studies that do not advance our knowledge very quickly. But, with such risks, some non-replication of results is to be expected.
 
 A woman analyzing data on a computer. Researchers use statistical software to store, analyze and share data. 
@@ -80,8 +75,8 @@ A recent example of risk-taking can be seen in the research of social psychologi
 
 Some people viewed the publication of Bem’s (2011) original study as a failure in the system of science. They argued that the paper should not have been published. But the editor and reviewers of the article had moved forward with publication because, although they might have thought the findings provocative and unlikely, they did not see obvious flaws in the methodology. We see the publication of the Bem paper, and the ensuing debate, as a strength of science. We are willing to consider unusual ideas if there is evidence to support them: we are open-minded. At the same time, we are critical and believe in replication. Scientists should be willing to consider unusual or risky hypotheses but ultimately allow good evidence to have the final say, not people’s opinions.
 
-Solutions to the Problem
-Dissemination of Replication Attempts
+## Solutions to the Problem
+## Dissemination of Replication Attempts
 Psychfiledrawer.org: Archives attempted replications of specific studies and whether replication was achieved.
 Center for Open Science: Psychologist Brian Nosek, a champion of replication in psychology, has created the Open Science Framework, where replications can be reported.
 Association of Psychological Science: Has registered replications of studies, with the overall results published in Perspectives on Psychological Science.
@@ -89,7 +84,7 @@ Plos One: Public Library of Science—publishes a broad range of articles, inclu
 The Replication Index: Created in 2014 by Ulrich Schimmack, the so-called "R Index" is a statistical tool for estimating the replicability of studies, of journals, and even of specific researchers. Schimmack describes it as a "doping test". 
 The fact that replications, including failed replication attempts, now have outlets where they can be communicated to other researchers is a very encouraging development, and should strengthen the science considerably. One problem for many decades has been the near-impossibility of publishing replication attempts, regardless of whether they’ve been positive or negative.
 
-More Systematic Programs of Scientific Research
+## More Systematic Programs of Scientific Research
 The six principles of open science: open data, open source, open access, open methodology, open peer review, open educational resources.
 Figure 1: 6 Principles of Open Science - adapted from openscienceASAP. [Underlying Image: Greg Emmerich, https://goo.gl/UmVaoD, CC BY-SA 2.0, https://goo.gl/rxiUsF]
 The reward structure in academia has served to discourage replication. Many psychologists—especially those who work full time at universities—are often rewarded at work—with promotions, pay raises, tenure, and prestige—through their research. Replications of one’s own earlier work, or the work of others, is typically discouraged because it does not represent original thinking. Instead, academics are rewarded for high numbers of publications, and flashy studies are often given prominence in media reports of published studies.
@@ -98,56 +93,45 @@ Psychological scientists need to carefully pursue programmatic research. Finding
 
 When researchers criticize others for being unable to replicate the original findings, saying that the conditions in the follow-up study were changed, this is important to pay attention to as well. Not all criticism is knee-jerk defensiveness or resentment. The replication crisis has stirred heated emotions among research psychologists and the public, but it is time for us to calm down and return to a more scientific attitude and system of programmatic research.
 
-Textbooks and Journals
+## Textbooks and Journals
 Some psychologists blame the trend toward non-replication on specific journal policies, such as the policy of Psychological Science to publish short single studies. When single studies are published we do not know whether even the authors themselves can replicate their findings. The journal Psychological Science has come under perhaps the harshest criticism. Others blame the rash of nonreplicable studies on a tendency of some fields for surprising and counterintuitive findings that grab the public interest. The irony here is that such counterintuitive findings are in fact less likely to be true precisely because they are so strange—so they should perhaps warrant more scrutiny and further analysis.
 
 The criticism of journals extends to textbooks as well. In our opinion, psychology textbooks should stress true science, based on findings that have been demonstrated to be replicable. There are a number of inaccuracies that persist across common psychology textbooks, including small mistakes in common coverage of the most famous studies, such as the Stanford Prison Experiment (Griggs & Whitehead, 2014) and the Milgram studies (Griggs & Whitehead, 2015). To some extent, the inclusion of non-replicated studies in textbooks is the product of market forces. Textbook publishers are under pressure to release new editions of their books, often far more frequently than advances in psychological science truly justify. As a result, there is pressure to include “sexier” topics such as controversial studies.
 
 Ultimately, people also need to learn to be intelligent consumers of science. Instead of getting overly-excited by findings from a single study, it’s wise to wait for replications. When a corpus of studies is built on a phenomenon, we can begin to trust the findings. Journalists must be educated about this too, and learn not to readily broadcast and promote findings from single flashy studies. If the results of a study seem too good to be true, maybe they are. Everyone needs to take a more skeptical view of scientific findings, until they have been replicated. 
 
-Outside Resources
-Article: New Yorker article on the "replication crisis"
-http://www.newyorker.com/tech/elements/the-crisis-in-social-psychology-that-isnt
-Web: Collaborative Replications and Education Project - This is a replication project where students are encouraged to conduct replications as part of their courses.
-https://osf.io/wfc6u/
-Web: Commentary on what makes for a convincing replication.
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
-Web: Open Science Framework - The Open Science Framework is an open source software project that facilitates open collaboration in science research.
-https://osf.io/
-Web: Psych File Drawer - A website created to address “the file drawer problem”. PsychFileDrawer.org allows users to upload results of serious replication attempts in all research areas of psychology.
-http://psychfiledrawer.org/
-Discussion Questions
-Why do scientists see replication by other laboratories as being so crucial to advances in science?
-Do the failures of replication shake your faith in what you have learned about psychology? Why or why not?
-Can you think of any psychological findings that you think might not replicate?
-What findings are so important that you think they should be replicated?
-Why do you think quite a few studies do not replicate?
-How frequently do you think faking results occurs? Why? How might we prevent that?
-Vocabulary
-Conceptual Replication
+## Discussion Questions
+* Why do scientists see replication by other laboratories as being so crucial to advances in science?
+* Do the failures of replication shake your faith in what you have learned about psychology? Why or why not?
+* Can you think of any psychological findings that you think might not replicate?
+* What findings are so important that you think they should be replicated?
+* Why do you think quite a few studies do not replicate?
+* How frequently do you think faking results occurs? Why? How might we prevent that?
+## Vocabulary
+### Conceptual Replication
 A scientific attempt to copy the scientific hypothesis used in an earlier study in an effort to determine whether the results will generalize to different samples, times, or situations. The same—or similar—results are an indication that the findings are generalizable.
-Confederate
+### Confederate
 An actor working with the researcher. Most often, this individual is used to deceive unsuspecting research participants. Also known as a “stooge.”
-Exact Replication (also called Direct Replication)
+### Exact Replication (also called Direct Replication)
 A scientific attempt to exactly copy the scientific methods used in an earlier study in an effort to determine whether the results are consistent. The same—or similar—results are an indication that the findings are accurate.
-Falsified data (faked data)
+### Falsified data (faked data)
 Data that are fabricated, or made up, by researchers intentionally trying to pass off research results that are inaccurate. This is a serious ethical breach and can even be a criminal offense.
-Priming
+### Priming
 The process by which exposing people to one stimulus makes certain thoughts, feelings or behaviors more salient.
-Sample Size
+### Sample Size
 The number of participants in a study. Sample size is important because it can influence the confidence scientists have in the accuracy and generalizability of their results.
-References
-Amir, Y., & Sharon, I. (1990). Replication research: A “must” for the scientific advancement of psychology. Journal of Social Behavior and Personality, Special Issue, 5, 51-69.
-Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs, 70 (9, Whole No. 416).
-Bem, DJ (March 2011). "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect." Journal of personality and social psychology, 100, 407–25.
-Biswas-Diener, R., & Diener, E. (2006). Subjective well-being of the homeless, and lessons for happiness. Social Indicators Research. 76, 185-205.
-Biswas-Diener, R. , & Diener, E. (2001). Making the best of a bad situation: Satisfaction in the slums of Calcutta. Social Indicators Research, 55, 329-352.
-Dijksterhuis, A., & van Knippenberg, A. (1998). The relation between perception and behavior or how to win a game of Trivial Pursuit. Journal of Personality and Social Psychology, 74, 865–877.
-Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012, August 27). Correcting the Past: Failures to Replicate Psi. Journal of Personality and Social Psychology.
-Griggs & Whitehead (2015). Coverage of Milgram’s obedience experiments in social psychology textbooks: Where have all the criticisms gone? Teaching of Psychology, 42, 315-322.
-Griggs, R. A. & Whitehead, G. I. (2014). Coverage of the Stanford Prison Experiment in Introductory Social Psychology textbooks. Teaching of Psychology, 41, 318-324.
-Kahneman, D. (2012). A proposal to deal with questions about priming effects. An open letter to the scientific community: http://www.nature.com/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman%20Letter.pdf
-Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349.
-Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem’s ‘retroactive facilitation of recall’ effect. PLOS One. DOI: 10.1371/journal.pone.0033423
-Shanks, D. R., Newell, B., Lee, E. H., Balikrishnan, D., Ekelund, L., Cenac, Z., Kavvadia, F. & Moore, C. (2013). Priming intelligent behavior: Elusive phenomenon. PLOS One. DOI: 10.1371/journal.pone.0056515
-Williams, L. E., & Bargh, J. A. (2008). Keeping one's distance: The influence of spatial distance cues on affect and evaluation. Psychological Science, 19, 302-308.
+## References
+* Amir, Y., & Sharon, I. (1990). Replication research: A “must” for the scientific advancement of psychology. Journal of Social Behavior and Personality, Special Issue, 5, 51-69.
+* Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs, 70 (9, Whole No. 416).
+* Bem, DJ (March 2011). "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect." Journal of personality and social psychology, 100, 407–25.
+* Biswas-Diener, R., & Diener, E. (2006). Subjective well-being of the homeless, and lessons for happiness. Social Indicators Research. 76, 185-205.
+* Biswas-Diener, R. , & Diener, E. (2001). Making the best of a bad situation: Satisfaction in the slums of Calcutta. Social Indicators Research, 55, 329-352.
+* Dijksterhuis, A., & van Knippenberg, A. (1998). The relation between perception and behavior or how to win a game of Trivial Pursuit. Journal of Personality and Social Psychology, 74, 865–877.
+* Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012, August 27). Correcting the Past: Failures to Replicate Psi. Journal of Personality and Social Psychology.
+* Griggs & Whitehead (2015). Coverage of Milgram’s obedience experiments in social psychology textbooks: Where have all the criticisms gone? Teaching of Psychology, 42, 315-322.
+* Griggs, R. A. & Whitehead, G. I. (2014). Coverage of the Stanford Prison Experiment in Introductory Social Psychology textbooks. Teaching of Psychology, 41, 318-324.
+* Kahneman, D. (2012). A proposal to deal with questions about priming effects. An open letter to the scientific community: http://www.nature.com/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman%20Letter.pdf
+* Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349.
+* Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem’s ‘retroactive facilitation of recall’ effect. PLOS One. DOI: 10.1371/journal.pone.0033423
+* Shanks, D. R., Newell, B., Lee, E. H., Balikrishnan, D., Ekelund, L., Cenac, Z., Kavvadia, F. & Moore, C. (2013). Priming intelligent behavior: Elusive phenomenon. PLOS One. DOI: 10.1371/journal.pone.0056515
+* Williams, L. E., & Bargh, J. A. (2008). Keeping one's distance: The influence of spatial distance cues on affect and evaluation. Psychological Science, 19, 302-308.
