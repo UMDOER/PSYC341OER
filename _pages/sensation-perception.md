@@ -8,7 +8,7 @@ sidebar:
 
 The topics of sensation and perception are among the oldest and most important in all of psychology. People are equipped with senses such as sight, hearing and taste that help us to take in the world around us. Amazingly, our senses have the ability to convert real-world information into electrical information that can be processed by the brain. The way we interpret this information-- our perceptions-- is what leads to our experiences of the world. In this module, you will learn about the biological processes of sensation and how these can be combined to create perceptions.
 
-<img src="https://UMDOER.github.io/PSYC341OER/assets/images/ssp1.jpg">
+<img src="https://UMDOER.github.io/PSYC341OER/images/ssp1.jpg">
 
 
 <iframe src="https://www.youtube.com/watch?v=unWnZvXJH2o" width="560" height="315" frameborder="0"> </iframe>
