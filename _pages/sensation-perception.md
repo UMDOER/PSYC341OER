@@ -11,7 +11,7 @@ The topics of sensation and perception are among the oldest and most important i
 <img src="https://UMDOER.github.io/PSYC341OER/images/ssp1.jpg">
 
 
-<iframe src="https://www.youtube.com/embed/=unWnZvXJH2o" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="https://www.youtube.com/embed/unWnZvXJH2o" width="560" height="315" frameborder="0"> </iframe>
 
 ## Learning Objectives
 * Differentiate the processes of sensation and perception.
