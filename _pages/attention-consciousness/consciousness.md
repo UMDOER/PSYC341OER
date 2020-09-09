@@ -14,8 +14,6 @@ Consciousness is the ultimate mystery. What is it and why do we have it? These q
 ## Conscious Experiences
 Contemplate the unique experience of being you at this moment! You, and only you, have direct knowledge of your own conscious experiences. At the same time, you cannot know consciousness from anyone else’s inside view. How can we begin to understand this fantastic ability to have private, conscious experiences?
 
-A man smiles with eyes closed.
-At the most basic level all of conscious experience is unique to each individual. [Image: Étienne Ljóni Poisson, https://goo.gl/mbo5VJ, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
 In a sense, everything you know is from your own vantage point, with your own consciousness at the center. Yet the scientific study of consciousness confronts the challenge of producing general understanding that goes beyond what can be known from one individual’s perspective.
 
 To delve into this topic, some terminology must first be considered. The term consciousness can denote the ability of a person to generate a series of conscious experiences one after another. Here we include experiences of feeling and understanding sensory input, of a temporal sequence of autobiographical events, of imagination, of emotions and moods, of ideas, of memories—the whole range of mental contents open to an individual.
@@ -30,8 +28,8 @@ By measuring brain activity using various neuroscientific technologies, we can a
 ## A Science of Consciousness
 Attempts to understand consciousness have been pervasive throughout human history, mostly dominated by philosophical analyses focused on the first-person perspective. Now we have a wider set of approaches that includes philosophy, psychology, neuroscience, cognitive science, and contemplative science (Blackmore, 2006; Koch, 2012; Zelazo, Moscovitch, & Thompson, 2007; Zeman, 2002).
 
-A statue of the Buddha
-Consciousness is a topic that has been addressed by religious scholars, philosophers, psychologists, and neuroscientists. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+Consciousness is a topic that has been addressed by religious scholars, philosophers, psychologists, and neuroscientists. 
+<img src="https://UMDOER/PSYC341OER/assets/images/consc1.jpg"> [Image: CC0 Public Domain, https://goo.gl/m25gce]
 The challenge for this combination of approaches is to give a comprehensive explanation of consciousness. That explanation would include describing the benefits of consciousness, particularly for behavioral capabilities that conscious experiences allow, that trump automatic behaviors. Subjective experiences also need to be described in a way that logically shows how they result from precursor events in the human brain. Moreover, a full account would describe how consciousness depends on biological, environmental, social, cultural, and developmental factors.
 
 At the outset, a central question is how to conceive of consciousness relative to other things we know. Objects in our environment have a physical basis and are understood to be composed of constituents, such that they can be broken down into molecules, elements, atoms, particles, and so on. Yet we can also understand things relationally and conceptually. Sometimes a phenomenon can best be conceived as a process rather than a physical entity (e.g., digestion is a process whereby food is broken down). What, then, is the relationship between our conscious thoughts and the physical universe, and in particular, our brains?
@@ -45,8 +43,7 @@ Suppose you meet your friend at a crowded train station. You may notice a subtle
 
 For instance, you may think that if you attentively look at a bright spot, you must be aware of it. Not so. In a phenomenon known as motion-induced blindness, bright discs completely vanish from your awareness in full attention. To experience this for yourself, see this module's Outside Resource section for a demonstration of motion-induced blindness.
 
-A crowded train station with streams of people passing in opposite directions.
-Are you really aware of everything that is going on around you? In the context of a crowded train station you may be visually aware of certain things while essentially being blind to many others that are right in front of you. [Image: Diego Torres Silvestre, https://goo.gl/ZkCWEC, CC BY 2.0, https://goo.gl/BRvSA7]
+Are you really aware of everything that is going on around you? In the context of a crowded train station you may be visually aware of certain things while essentially being blind to many others that are right in front of you. <img src="https://UMDOER/PSYC341OER/assets/images/consc2.jpg"> [Image: Diego Torres Silvestre, https://goo.gl/ZkCWEC, CC BY 2.0, https://goo.gl/BRvSA7]
 You may think that if you deeply analyze an image, decoding its meaning and making a decision about it, you must be aware of the image. Not necessarily. When a number is briefly flashed and rapidly replaced by a random pattern, you may have no awareness of it, despite the fact that your brain allows you to determine that the number is greater than 5, and then prepare your right hand for a key press if that is what you were instructed to do (Dehaene et al., 1998).
 
 Thus, neither the brightness of an image, paying full attention to it, nor deeply analyzing it guarantees that you will be aware of it. What, then, is the crucial ingredient of visual awareness?
@@ -62,7 +59,7 @@ A related view, the Information Integration Theory of Consciousness, is that sha
 ## Conscious Experiences of Memory
 The pinnacle of conscious human memory functions is known as episodic recollection because it allows one to reexperience the past, to virtually relive an earlier event. People who suffer from amnesia due to neurological damage to certain critical brain areas have poor memory for events and facts. Their memory deficit disrupts the type of memory termed declarative memory and makes it difficult to consciously remember. However, amnesic insults typically spare a set of memory functions that do not involve conscious remembering. These other types of memory, which include various habits, motor skills, cognitive skills, and procedures, can be demonstrated when an individual executes various actions as a function of prior learning, but in these cases a conscious experience of remembering is not necessarily included.
 
-Hands sifting through a box of old photographs.
+<img src="https://UMDOER/PSYC341OER/assets/images/consc3.jpg">
 Memory is one basis for conscious awareness. [Image: CC0 Public Domain, https://goo.gl/m25gce]
 Research on amnesia has thus supported the proposal that conscious remembering requires a specific set of brain operations that depend on networks of neurons in the cerebral cortex. Some of the other types of memory involve only subcortical brain regions, but there are also notable exceptions. In particular, perceptual priming is a type of memory that does not entail the conscious experience of remembering and that is typically preserved in amnesia. Perceptual priming is thought to reflect a fluency of processing produced by a prior experience, even when the individual cannot remember that prior experience. For example, a word or face might be perceived more efficiently if it had been viewed minutes earlier than if it hadn’t. Whereas a person with amnesia can demonstrate this item-specific fluency due to changes in corresponding cortical areas, they nevertheless would be impaired if asked to recognize the words or faces they previously experienced. A reasonable conclusion on the basis of this evidence is that remembering an episode is a conscious experience not merely due to the involvement of one portion of the cerebral cortex, but rather due to the specific configuration of cortical activity involved in the sharing or integration of information.
 
@@ -84,7 +81,7 @@ A Social Neuroscience Theory of Consciousness (Graziano & Kastner, 2011) ascribe
 ## Conscious Experiences of Decision Making
 Choosing among multiple possible actions, the sense of volition, is closely associated with our subjective feeling of consciousness. When we make a lot of decisions, we may feel especially conscious and then feel exhausted, as if our mental energy has been drained.
 
-A woman in a supermarket aisle holds two different types of Doritos and carefully reads the packages.
+<img src="https://UMDOER/PSYC341OER/assets/images/consc4.jpg">
 When making a decision you might carefully consider your choices or simply "go with your gut". [Image: Daniel Lee, https://goo.gl/aJi3jx, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
 We make decisions in two distinct ways. Sometimes we carefully analyze and weigh different factors to reach a decision, taking full advantage of the brain’s conscious mode of information processing. Other times we make a gut decision, trusting the unconscious mode of information processing (although it still depends on the brain). The unconscious mode is adept at simultaneously considering numerous factors in parallel, which can yield an overall impression of the sum total of evidence. In this case, we have no awareness of the individual considerations. In the conscious mode, in contrast, we can carefully scrutinize each factor—although the act of focusing on a specific factor can interfere with weighing in other factors.
 
@@ -106,7 +103,6 @@ Yet belief in free choice has been shown to promote moral behavior, and it is th
 
 ## Understanding Consciousness
 Our human consciousness unavoidably colors all of our observations and our attempts to gain understanding. Nonetheless, scientific inquiries have provided useful perspectives on consciousness. The advances described above should engender optimism about the various research strategies applied to date and about the prospects for further insight into consciousness in the future.
-
 
 Because conscious experiences are inherently private, they have sometimes been taken to be outside the realm of scientific inquiry. This view idealizes science as an endeavor involving only observations that can be verified by multiple observers, relying entirely on the third-person perspective, or the view from nowhere (from no particular perspective). Yet conducting science is a human activity that depends, like other human activities, on individuals and their subjective experiences. A rational scientific account of the world cannot avoid the fact that people have subjective experiences.
 
