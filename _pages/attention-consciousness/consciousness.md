@@ -11,6 +11,7 @@ Consciousness is the ultimate mystery. What is it and why do we have it? These q
 * Understand scientific approaches to comprehending consciousness.
 * Be familiar with evidence about human vision, memory, body awareness, and decision making relevant to the study of consciousness.
 * Appreciate some contemporary theories about consciousness.
+
 ## Conscious Experiences
 Contemplate the unique experience of being you at this moment! You, and only you, have direct knowledge of your own conscious experiences. At the same time, you cannot know consciousness from anyone else’s inside view. How can we begin to understand this fantastic ability to have private, conscious experiences?
 
