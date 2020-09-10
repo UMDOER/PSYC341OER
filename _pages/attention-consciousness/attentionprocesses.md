@@ -49,7 +49,7 @@ Broadbent’s Filter Model. Many researchers have investigated how selection occ
 
 Figure 1: This figure shows information going in both the left and right ears. Some basic sensory information, such as pitch, is processed, but the filter only allows the information from one ear to be processed further. Only the information from the left ear is transferred to short-term memory (STM) and conscious awareness, and then further processed for meaning. That means that the ignored information never makes it beyond a basic physical analysis.
 
-# Treisman’s Attenuation Model
+## Treisman’s Attenuation Model
 Broadbent’s model makes sense, but if you think about it you already know that it cannot account for all aspects of the Cocktail Party Effect. What doesn’t fit? The fact is that you tend to hear your own name when it is spoken by someone, even if you are deeply engaged in a conversation. We mentioned earlier that people in a shadowing experiment were unaware of a word in the unattended ear that was repeated many times—and yet many people noticed their own name in the unattended ear even it occurred only once.
 
 Anne Treisman (1960) carried out a number of dichotic listening experiments in which she presented two different stories to the two ears. As usual, she asked people to shadowthe message in one ear. As the stories progressed, however, she switched the stories to the opposite ears. Treisman found that individuals spontaneously followed the story, or the content of the message, when it shifted from the left ear to the right ear. Then they realized they were shadowing the wrong ear and switched back.
