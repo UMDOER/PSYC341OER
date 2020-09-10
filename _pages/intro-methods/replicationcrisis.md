@@ -31,7 +31,7 @@ There are different types of replication. First, there is a type called “exact
 Both exact and conceptual replications are important because they each tell us something new. Exact replications tell us whether the original findings are true, at least under the exact conditions tested. Conceptual replications help confirm whether the theoretical idea behind the findings is true, and under what conditions these findings will occur. In other words, conceptual replication offers insights into how generalizable the findings are. 
 
 ## Enormity of the Current Crisis
-<img src="https://UMDOER.github.io/PSYC341OER/images/rep2.jpg">
+<img src="https://UMDOER.github.io/PSYC341OER/images/rep2.png">
 Table 1: The Reproducibility of Psychological Science
 Recently, there has been growing concern as psychological research fails to replicate. To give you an idea of the extent of non-replicability of psychology findings, below are data reported in 2015 by the Open Science Collaboration project, led by University of Virginia psychologist Brian Nosek (Open Science Collaboration, 2015). Because these findings were reported in the prestigious journal, Science, they received widespread attention from the media. Here are the percentages of research that replicated—selected from several highly prestigious journals:
 
