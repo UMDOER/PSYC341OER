@@ -27,27 +27,30 @@ Notice that the numerical analysis (“crunching numbers” on the computer) com
 When data are collected to address a particular question, an important first step is to think of meaningful ways to organize and examine the data. The most fundamental principle of statistics is that data vary. The pattern of that variation is crucial to capture and to understand. Often, careful presentation of the data will address many of the research questions without requiring more sophisticated analyses. It may, however, point to additional questions that need to be examined in more detail.
 
 Example 1: Researchers investigated whether cancer pamphlets are written at an appropriate level to be read and understood by cancer patients (Short, Moriarty, & Cooley, 1995). Tests of reading ability were given to 63 patients. In addition, readability level was determined for a sample of 30 pamphlets, based on characteristics such as the lengths of words and sentences in the pamphlet. The results, reported in terms of grade levels, are displayed in Table 1.
-
-Table 1: 
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat1.jpg">
-
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat1.jpg" style="width:100%">
+    <figcaption>Table 1</figcaption>
+</figure>
 These two variables reveal two fundamental aspects of statistical thinking:
 
 Data vary. More specifically, values of a variable (such as reading level of a cancer patient or readability level of a cancer pamphlet) vary.
 Analyzing the pattern of variation, called the distribution of the variable, often reveals insights.
 Addressing the research question of whether the cancer pamphlets are written at appropriate levels for the cancer patients requires comparing the two distributions. A naïve comparison might focus only on the centers of the distributions. Both medians turn out to be ninth grade, but considering only medians ignores the variability and the overall distributions of these data. A more illuminating approach is to compare the entire distributions, for example with a graph, as in Figure 1.
-
-Figure 1:
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat2.jpg">
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat2.jpg" style="width:100%">
+    <figcaption> Figure 1</figcaption>
+</figure>
 Figure 1 makes clear that the two distributions are not well aligned at all. The most glaring discrepancy is that many patients (17/63, or 27%, to be precise) have a reading level below that of the most readable pamphlet. These patients will need help to understand the information provided in the cancer pamphlets. Notice that this conclusion follows from considering the distributions as a whole, not simply measures of center or variability, and that the graph contrasts those distributions more immediately than the frequency tables.
 
 ## Statistical Significance
 Even when we find patterns in data, often there is still uncertainty in various aspects of the data. For example, there may be potential for measurement errors (even your own body temperature can fluctuate by almost 1 °F over the course of the day). Or we may only have a “snapshot” of observations from a more long-term process or only a small subset of individuals from the population of interest. In such cases, how can we determine whether patterns we see in our small set of data is convincing evidence of a systematic phenomenon in the larger process or population?
 
 Example 2: In a study reported in the November 2007 issue of Nature, researchers investigated whether pre-verbal infants take into account an individual’s actions toward others in evaluating that individual as appealing or aversive (Hamlin, Wynn, & Bloom, 2007). In one component of the study, 10-month-old infants were shown a “climber” character (a piece of wood with “googly” eyes glued onto it) that could not make it up a hill in two tries. Then the infants were shown two scenarios for the climber’s next try, one where the climber was pushed to the top of the hill by another character (“helper”), and one where the climber was pushed back down the hill by another character (“hinderer”). The infant was alternately shown these two scenarios several times. Then the infant was presented with two pieces of wood (representing the helper and the hinderer characters) and asked to pick one to play with. The researchers found that of the 16 infants who made a clear choice, 14 chose to play with the helper toy.
-
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat3.jpg">
-Correlation does not equal causation: When babies get their first teeth their saliva production increases but this does not mean that increased saliva causes them to get their teeth. [Image: Ben McLeod, https://goo.gl/0EkXpV, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat3.jpg" style="width:80%">
+    <figcaption>Ben McLeod, https://goo.gl/0EkXpV, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF </figcaption>
+</figure>
+Correlation does not equal causation: When babies get their first teeth their saliva production increases but this does not mean that increased saliva causes them to get their teeth.
 One possible explanation for this clear majority result is that the helping behavior of the one toy increases the infants’ likelihood of choosing that toy. But are there other possible explanations? What about the color of the toy? Well, prior to collecting the data, the researchers arranged so that each color and shape (red square and blue circle) would be seen by the same number of infants. Or maybe the infants had right-handed tendencies and so picked whichever toy was closer to their right hand? Well, prior to collecting the data, the researchers arranged it so half the infants saw the helper toy on the right and half on the left. Or, maybe the shapes of these wooden characters (square, triangle, circle) had an effect? Perhaps, but again, the researchers controlled for this by rotating which shape was the helper toy, the hinderer toy, and the climber. When designing experiments, it is important to control for as many variables as might affect the responses as possible.
 
 It is beginning to appear that the researchers accounted for all the other plausible explanations. But there is one more important consideration that cannot be controlled—if we did the study again with these 16 infants, they might not make the same choices. In other words, there is some randomness inherent in their selection process. Maybe each infant had no genuine preference at all, and it was simply “random luck” that led to 14 infants picking the helper toy. Although this random component cannot be controlled, we can apply a probability model to investigate the pattern of results that would occur in the long run if random chance were the only factor.
@@ -68,10 +71,10 @@ The key to the margin of error is that when we use a probability sampling method
 In many research studies, the primary question of interest concerns differences between groups. Then the question becomes how were the groups formed (e.g., selecting people who already drink coffee vs. those who don’t). In some studies, the researchers actively form the groups themselves. But then we have a similar question—could any differences we observe in the groups be an artifact of that group-formation process? Or maybe the difference we observe in the groups is so large that we can discount a “fluke” in the group-formation process as a reasonable explanation for what we find?
 
 Example 4: A psychology study investigated whether people tend to display more creativity when they are thinking about intrinsic or extrinsic motivations (Ramsey & Schafer, 2002, based on a study by Amabile, 1985). The subjects were 47 people with extensive experience with creative writing. Subjects began by answering survey questions about either intrinsic motivations for writing (such as the pleasure of self-expression) or extrinsic motivations (such as public recognition). Then all subjects were instructed to write a haiku, and those poems were evaluated for creativity by a panel of judges. The researchers conjectured beforehand that subjects who were thinking about intrinsic motivations would display more creativity than subjects who were thinking about extrinsic motivations. The creativity scores from the 47 subjects in this study are displayed in Figure 2, where higher scores indicate more creativity.
-
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat4.jpg">
-Figure 2. Creativity scores separated by type of motivation.
-
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat4.jpg" style="width:100%">
+    <figcaption>Figure 2. Creativity scores separated by type of motivation. </figcaption>
+</figure>
 In this example, the key question is whether the type of motivation affects creativity scores. In particular, do subjects who were asked about intrinsic motivations tend to have higher creativity scores than subjects who were asked about extrinsic motivations?
 
 Figure 2 reveals that both motivation groups saw considerable variability in creativity scores, and these scores have considerable overlap between the groups. In other words, it’s certainly not always the case that those with extrinsic motivations have higher creativity than those with intrinsic motivations, but there may still be a statistical tendency in this direction. (Psychologist Keith Stanovich (2013) refers to people’s difficulties with thinking about such probabilistic tendencies as “the Achilles heel of human cognition.”)
@@ -83,16 +86,20 @@ We again want to consider possible explanations for this difference. The study o
 But does this always work? No, so by “luck of the draw” the groups may be a little different prior to answering the motivation survey. So then the question is, is it possible that an unlucky random assignment is responsible for the observed difference in creativity scores between the groups? In other words, suppose each individual’s poem was going to get the same creativity score no matter which group they were assigned to, that the type of motivation in no way impacted their score. Then how often would the random-assignment process alone lead to a difference in mean creativity scores as large (or larger) than 19.88 – 15.74 = 4.14 points?
 
 We again want to apply to a probability model to approximate a p-value, but this time the model will be a bit different. Think of writing everyone’s creativity scores on an index card, shuffling up the index cards, and then dealing out 23 to the extrinsic motivation group and 24 to the intrinsic motivation group, and finding the difference in the group means. We (better yet, the computer) can repeat this process over and over to see how often, when the scores don’t change, random assignment leads to a difference in means at least as large as 4.41. Figure 3 shows the results from 1,000 such hypothetical random assignments for these scores.
-
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat5.jpg">
-Figure 3. Differences in group means under random assignment alone.
-Only 2 of the 1,000 simulated random assignments produced a difference in group means of 4.41 or larger. In other words, the approximate p-value is 2/1000 = 0.002. This small p-value indicates that it would be very surprising for the random assignment process alone to produce such a large difference in group means. Therefore, as with Example 2, we have strong evidence that focusing on intrinsic motivations tends to increase creativity scores, as compared to thinking about extrinsic motivations.
-
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat5.jpg" style="width:80%">
+    <figcaption> Figure 3. Differences in group means under random assignment alone.
+Only 2 of the 1,000 simulated random assignments produced a difference in group means of 4.41 or larger. In other words, the approximate p-value is 2/1000 = 0.002. This small p-value indicates that it would be very surprising for the random assignment process alone to produce such a large difference in group means. Therefore, as with Example 2, we have strong evidence that focusing on intrinsic motivations tends to increase creativity scores, as compared to thinking about extrinsic motivations. </figcaption>
+</figure>
 Notice that the previous statement implies a cause-and-effect relationship between motivation and creativity score; is such a strong conclusion justified? Yes, because of the random assignment used in the study. That should have balanced out any other variables between the two groups, so now that the small p-value convinces us that the higher mean in the intrinsic group wasn’t just a coincidence, the only reasonable explanation left is the difference in the type of motivation. Can we generalize this conclusion to everyone? Not necessarily—we could cautiously generalize this conclusion to individuals with extensive experience in creative writing similar the individuals in this study, but we would still want to know more about how these individuals were selected to participate.
 
 ## Conclusion
-<img src="https://UMDOER.github.io/PSYC341OER/images/stat6.jpg">
-Researchers employ the scientific method that involves a great deal of statistical thinking: generate a hypothesis --> design a study to test that hypothesis --> conduct the study --> analyze the data --> report the results. [Image: widdowquinn, https://goo.gl/9l8Dht, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat6.jpg" style="width:70%">
+    <figcaption> widdowquinn, https://goo.gl/9l8Dht, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF</figcaption>
+</figure>
+Researchers employ the scientific method that involves a great deal of statistical thinking: generate a hypothesis &rarr; design a study to test that hypothesis &rarr; conduct the study &rarr; analyze the data &rarr; report the results.
+
 Statistical thinking involves the careful design of a study to collect meaningful data to answer a focused research question, detailed analysis of patterns in the data, and drawing conclusions that go beyond the observed data. Random sampling is paramount to generalizing results from our sample to a larger population, and random assignment is key to drawing cause-and-effect conclusions. With both kinds of randomness, probability models help us assess how much random variation we can expect in our results, in order to determine whether our results could happen by chance alone and to estimate a margin of error.
 
 So where does this leave us with regard to the coffee study mentioned at the beginning of this module? We can answer many of the questions:

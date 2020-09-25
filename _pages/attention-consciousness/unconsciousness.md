@@ -33,7 +33,12 @@ The German psychologist Watt (1905), in an appealing experiment, showed that we 
 
 ## Where Action Originates
 
-Using EEG in the psychology lab, experimenters have been able to show that unconscious preparation precedes conscious decision-making. [Image: SMI Eye Tracking, <img src="https://UMDOER.github.io/PSYC341OER/images/uncon1.jpg">
+Using EEG in the psychology lab, experimenters have been able to show that unconscious preparation precedes conscious decision-making. 
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/uncon1.jpg" style="width:80%">
+    <figcaption> SMI Eye Tracking </figcaption>
+</figure>
 
 The idea that we unconsciously prepare an action before we are conscious of this action was tested in one of psychology’s most famous experiments. Quite some time ago, Kornhuber and Deecke (1965) did experiments in which they asked their participants to perform a simple action, in this case flexing a finger. They also measured EEG to investigate when the brain starts to prepare the action. Their results showed that the first sign of unconscious preparation preceded an action by about 800 milliseconds. This is a serious amount of time, and it led Benjamin Libet to wonder whether conscious awareness of the decision to act appears just as long or even longer in advance as well. Libet (1985) replicated the Kornhuber and Deecke experiments while adding another measure: conscious awareness of the decision to act. He showed that conscious decisions follow unconscious preparation and only precede the actual execution of the action by about 200 milliseconds. In other words, the unconscious decides to act, we then become consciously aware of wanting to execute the action, and finally we act.
 
@@ -45,7 +50,13 @@ These days, most scientific research on unconscious processes is aimed at showin
 The research on unconscious processes also greatly improved our understanding of prejudice. People automatically categorize other people according to their race, and Patricia Devine (1989) demonstrated that categorization unconsciously leads to the activation of associated cultural stereotypes. Importantly, Devine also showed that stereotype activation was not moderated by people’s level of explicit prejudice. The conclusion of this work was bleak: We unconsciously activate cultural stereotypes, and this is true for all of us, even for people who are not explicitly prejudiced, or, in other words, for people who do not want to stereotype.
 
 ## Unconscious Processing and the Role of Attention
-<img src="https://UMDOER.github.io/PSYC341OER/images/uncon2.jpg"> [Image: Bart, https://goo.gl/ZMnGFr, CC BY-NC 2.0, https://goo.gl/VnKlK8]
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/uncon2.jpg" style="width:80%">
+    <figcaption> Bart, https://goo.gl/ZMnGFr, CC BY-NC 2.0, https://goo.gl/VnKlK8 </figcaption>
+</figure>
+
+
 Insight into unconscious processes has also contributed to our ideas about creativity. Creativity is usually seen as the result of a three-stage process. It begins with attending to a problem consciously. You think and read about a problem and discuss matters with others. This stage allows the necessary information to be gathered and organized, but during this stage a truly creative idea is rarely produced. The second stage is unconscious; it is the incubation stage during which people think unconsciously. The problem is put aside for a while, and conscious attention is directed elsewhere. The process of unconscious thought sometimes leads to a “Eureka experience” whereby the creative product enters consciousness. This third stage is one where conscious attention again plays a role. The creative product needs to be verbalized and communicated. For example, a scientific discovery needs detailed proof before it can be communicated to others.
 
 The idea that people think unconsciously has also been applied to decision making (Dijksterhuis & Nordgren, 2006). In a recent set of experiments (Bos, Dijksterhuis, & van Baaren, 2008), participants were presented with information about various alternatives (such as cars or roommates) differing in attractiveness. Subsequently, participants engaged in a distractor task before they made a decision. That is, they consciously thought about something else; in this case, they solved anagrams. However, one group was told, prior to the distractor task, that they would be later asked questions about the decision problem. A second group was instead told that they were done with the decision problem and would not be asked anything later on. In other words, the first group had the goal to further process the information, whereas the second group had no such goal. Results showed that the first group made better decisions than the latter. Although they did the exact same thing consciously—again, solving anagrams—the first group made better decisions than the second group because the first thought unconsciously. Recently, researchers reported neuroscientific evidence for such unconscious thought processes, indeed showing that recently encoded information is further processed unconsciously when people have the goal to do so (Creswell, Bursley, & Satpute, in press).

@@ -26,14 +26,18 @@ The non-reproducibility of findings is disturbing because it suggests the possib
 
 ## What is Replication?
 <img src="https://UMDOER.github.io/PSYC341OER/images/rep1.jpg">
+
 There are different types of replication. First, there is a type called “exact replication” (also called "direct replication"). In this form, a scientist attempts to exactly recreate the scientific methods used in conditions of an earlier study to determine whether the results come out the same. If, for instance, you wanted to exactly replicate Asch’s (1956) classic findings on conformity, you would follow the original methodology: you would use only male participants, you would use groups of 8, and you would present the same stimuli (lines of differing lengths) in the same order. The second type of replication is called “conceptual replication.” This occurs when—instead of an exact replication, which reproduces the methods of the earlier study as closely as possible—a scientist tries to confirm the previous findings using a different set of specific methods that test the same idea. The same hypothesis is tested, but using a different set of methods and measures. A conceptual replication of Asch’s research might involve both male and female confederates purposefully misidentifying types of fruit to investigate conformity—rather than only males misidentifying line lengths.
 
 Both exact and conceptual replications are important because they each tell us something new. Exact replications tell us whether the original findings are true, at least under the exact conditions tested. Conceptual replications help confirm whether the theoretical idea behind the findings is true, and under what conditions these findings will occur. In other words, conceptual replication offers insights into how generalizable the findings are. 
 
 ## Enormity of the Current Crisis
-<img src="https://UMDOER.github.io/PSYC341OER/images/rep2.png">
-Table 1: The Reproducibility of Psychological Science
-Recently, there has been growing concern as psychological research fails to replicate. To give you an idea of the extent of non-replicability of psychology findings, below are data reported in 2015 by the Open Science Collaboration project, led by University of Virginia psychologist Brian Nosek (Open Science Collaboration, 2015). Because these findings were reported in the prestigious journal, Science, they received widespread attention from the media. Here are the percentages of research that replicated—selected from several highly prestigious journals:
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep2.png" style="width:100%">
+    <figcaption> Table 1: The Reproducibility of Psychological Science
+Recently, there has been growing concern as psychological research fails to replicate. To give you an idea of the extent of non-replicability of psychology findings, below are data reported in 2015 by the Open Science Collaboration project, led by University of Virginia psychologist Brian Nosek (Open Science Collaboration, 2015). Because these findings were reported in the prestigious journal, Science, they received widespread attention from the media. Here are the percentages of research that replicated—selected from several highly prestigious journals. </figcaption>
+</figure>
+
 
 Clearly, there is a very large problem when only about 1/3 of the psychological studies in premier journals replicate! It appears that this problem is particularly pronounced for social psychology but even the 53% replication level of cognitive psychology is cause for concern.
 
@@ -41,8 +45,13 @@ The situation in psychology has grown so worrisome that the Nobel Prize-winning 
 
 ## Examples of Non-replications in Psychology
  A large number of scientists have attempted to replicate studies on what might be called “metaphorical priming,” and more often than not these replications have failed. Priming is the process by which a recent reference (often a subtle, subconscious cue) can increase the accessibility of a trait. For example, if your instructor says, “Please put aside your books, take out a clean sheet of paper, and write your name at the top,” you might find your pulse quickening. Over time, you have learned that this cue means you are about to be given a pop quiz. This phrase primes all the features associated with pop quizzes: they are anxiety-provoking, they are tricky, your performance matters.
-<img src="https://UMDOER.github.io/PSYC341OER/images/rep3.jpg">
-In one study, researchers enhanced test performance by priming participants with stereotypes of intelligence. But subsequent studies have not been able to replicate those results. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep3.jpg" style="width:60%">
+    <figcaption> CC0 Public Domain, https://goo.gl/m25gce </figcaption>
+</figure>
+
+In one study, researchers enhanced test performance by priming participants with stereotypes of intelligence. But subsequent studies have not been able to replicate those results.
+
 One example of a priming study that, at least in some cases, does not replicate, is the priming of the idea of intelligence. In theory, it might be possible to prime people to actually become more intelligent (or perform better on tests, at least). For instance, in one study, priming students with the idea of a stereotypical professor versus soccer hooligans led participants in the “professor” condition to earn higher scores on a trivia game (Dijksterhuis & van Knippenberg, 1998). Unfortunately, in several follow-up instances this finding has not replicated (Shanks et al, 2013). This is unfortunate for all of us because it would be a very easy way to raise our test scores and general intelligence. If only it were true.
 
 Another example of a finding that seems not to replicate consistently is the use of spatial distance cues to prime people’s feelings of emotional closeness to their families (Williams & Bargh, 2008). In this type of study, participants are asked to plot points on graph paper, either close together or far apart. The participants are then asked to rate how close they are to their family members. Although the original researchers found that people who plotted close-together points on graph paper reported being closer to their relatives, studies reported on PsychFileDrawer—an internet repository of replication attempts—suggest that the findings frequently do not replicate. Again, this is unfortunate because it would be a handy way to help people feel closer to their families.
@@ -64,8 +73,11 @@ A final reason for non-replication relates to the quality of the replication rat
 
 ## In Defense of Replication Attempts
 Failures in replication are not all bad and, in fact, some non-replication should be expected in science. Original studies are conducted when an answer to a question is uncertain. That is to say, scientists are venturing into new territory. In such cases we should expect some answers to be uncovered that will not pan out in the long run. Furthermore, we hope that scientists take on challenging new topics that come with some amount of risk. After all, if scientists were only to publish safe results that were easy to replicate, we might have very boring studies that do not advance our knowledge very quickly. But, with such risks, some non-replication of results is to be expected.
-<img src="https://UMDOER.github.io/PSYC341OER/images/rep4.jpg"> 
-Researchers use specialized statistical software to store, analyze, and share data. Saving data over time and sharing data with others can be useful in conducting replications. [Image: Kwantlen Polytechnic University Psychology Department, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep4.jpg" style="width:60%">
+    <figcaption> Kwantlen Polytechnic University Psychology Department, CC BY 2.0, https://goo.gl/BRvSA7 </figcaption>
+</figure>
+Researchers use specialized statistical software to store, analyze, and share data. Saving data over time and sharing data with others can be useful in conducting replications.
 A recent example of risk-taking can be seen in the research of social psychologist Daryl Bem. In 2011, Bem published an article claiming he had found in a number of studies that future events could influence the past. His proposition turns the nature of time, which is assumed by virtually everyone except science fiction writers to run in one direction, on its head. Needless to say, attacks on Bem’s article came fast and furious, including attacks on his statistics and methodology (Ritchie, Wiseman & French, 2012). There were attempts at replication and most of them failed, but not all. A year after Bem’s article came out, the prestigious journal where it was published, Journal of Personality and Social Psychology, published another paper in which a scientist failed to replicate Bem’s findings in a number of studies very similar to the originals (Galak, Lebeouf, Nelson & Simmons, 2012).
 
 Some people viewed the publication of Bem’s (2011) original study as a failure in the system of science. They argued that the paper should not have been published. But the editor and reviewers of the article had moved forward with publication because, although they might have thought the findings provocative and unlikely, they did not see obvious flaws in the methodology. We see the publication of the Bem paper, and the ensuing debate, as a strength of science. We are willing to consider unusual ideas if there is evidence to support them: we are open-minded. At the same time, we are critical and believe in replication. Scientists should be willing to consider unusual or risky hypotheses but ultimately allow good evidence to have the final say, not people’s opinions.
@@ -80,8 +92,10 @@ The Replication Index: Created in 2014 by Ulrich Schimmack, the so-called "R Ind
 The fact that replications, including failed replication attempts, now have outlets where they can be communicated to other researchers is a very encouraging development, and should strengthen the science considerably. One problem for many decades has been the near-impossibility of publishing replication attempts, regardless of whether they’ve been positive or negative.
 
 ## More Systematic Programs of Scientific Research
-<img src="https://UMDOER.github.io/PSYC341OER/images/rep5.jpg">
-Figure 1: 6 Principles of Open Science - adapted from openscienceASAP. [Underlying Image: Greg Emmerich, https://goo.gl/UmVaoD, CC BY-SA 2.0, https://goo.gl/rxiUsF]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep5.jpg" style="width:100%">
+    <figcaption> Figure 1: 6 Principles of Open Science - adapted from openscienceASAP. [Underlying Image: Greg Emmerich, https://goo.gl/UmVaoD, CC BY-SA 2.0, https://goo.gl/rxiUsF] </figcaption>
+</figure>
 The reward structure in academia has served to discourage replication. Many psychologists—especially those who work full time at universities—are often rewarded at work—with promotions, pay raises, tenure, and prestige—through their research. Replications of one’s own earlier work, or the work of others, is typically discouraged because it does not represent original thinking. Instead, academics are rewarded for high numbers of publications, and flashy studies are often given prominence in media reports of published studies.
 
 Psychological scientists need to carefully pursue programmatic research. Findings from a single study are rarely adequate, and should be followed up by additional studies using varying methodologies. Thinking about research this way—as if it were a program rather than a single study—can help. We would recommend that laboratories conduct careful sets of interlocking studies, where important findings are followed up using various methods. It is not sufficient to find some surprising outcome, report it, and then move on. When findings are important enough to be published, they are often important enough to prompt further, more conclusive research. In this way scientists will discover whether their findings are replicable, and how broadly generalizable they are. If the findings do not always replicate, but do sometimes, we will learn the conditions in which the pattern does or doesn’t hold. This is an important part of science—to discover how generalizable the findings are.

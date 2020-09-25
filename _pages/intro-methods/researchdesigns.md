@@ -50,22 +50,26 @@ So, what if you wanted to test whether spending on others is related to happines
 
 ## More details about the correlation
 To find out how well two variables correspond, we can plot the relation between the two scores on what is known as a scatterplot (Figure 1). In the scatterplot, each dot represents a data point. (In this case it’s individuals, but it could be some other unit.) Importantly, each dot provides us with two pieces of information—in this case, information about how good the person rated the past month (x-axis) and how happy the person felt in the past month (y-axis). Which variable is plotted on which axis does not matter. 
-<img src="https://UMDOER.github.io/PSYC341OER/images/rd1.jpg">
-Figure 1. Scatterplot of the association between happiness and ratings of the past month, a positive correlation (r = .81). Each dot represents an individual.
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rd1.jpg" style="width:80%">
+    <figcaption> Figure 1. Scatterplot of the association between happiness and ratings of the past month, a positive correlation (r = .81). Each dot represents an individual. </figcaption>
+</figure>
 The association between two variables can be summarized statistically using the correlation coefficient (abbreviated as r). A correlation coefficient provides information about the direction and strength of the association between two variables. For the example above, the direction of the association is positive. This means that people who perceived the past month as being good reported feeling more happy, whereas people who perceived the month as being bad reported feeling less happy.
 
 With a positive correlation, the two variables go up or down together. In a scatterplot, the dots form a pattern that extends from the bottom left to the upper right (just as they do in Figure 1). The r value for a positive correlation is indicated by a positive number (although, the positive sign is usually omitted). Here, the r value is .81.
 
 A negative correlation is one in which the two variables move in opposite directions. That is, as one variable goes up, the other goes down. Figure 2 shows the association between the average height of males in a country (y-axis) and the pathogen prevalence (or commonness of disease; x-axis) of that country. In this scatterplot, each dot represents a country. Notice how the dots extend from the top left to the bottom right. What does this mean in real-world terms? It means that people are shorter in parts of the world where there is more disease. The r value for a negative correlation is indicated by a negative number—that is, it has a minus (–) sign in front of it. Here, it is –.83.
-
-<img src="https://UMDOER.github.io/PSYC341OER/images/rd2.jpg">
-Figure 2. Scatterplot showing the association between average male height and pathogen prevalence, a negative correlation (r = –.83). Each dot represents a country. (Chiao, 2009)
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rd2.jpg" style="width:80%">
+    <figcaption> Figure 2. Scatterplot showing the association between average male height and pathogen prevalence, a negative correlation (r = –.83). Each dot represents a country. (Chiao, 2009) </figcaption>
+</figure>
 The strength of a correlation has to do with how well the two variables align. Recall that in Professor Dunn’s correlational study, spending on others positively correlated with happiness: The more money people reported spending on others, the happier they reported to be. At this point you may be thinking to yourself, I know a very generous person who gave away lots of money to other people but is miserable! Or maybe you know of a very stingy person who is happy as can be. Yes, there might be exceptions. If an association has many exceptions, it is considered a weak correlation. If an association has few or no exceptions, it is considered a strong correlation. A strong correlation is one in which the two variables always, or almost always, go together. In the example of happiness and how good the month has been, the association is strong. The stronger a correlation is, the tighter the dots in the scatterplot will be arranged along a sloped line.
 
 The r value of a strong correlation will have a high absolute value. In other words, you disregard whether there is a negative sign in front of the r value, and just consider the size of the numerical value itself. If the absolute value is large, it is a strong correlation. A weak correlation is one in which the two variables correspond some of the time, but not most of the time. Figure 3 shows the relation between valuing happiness and grade point average (GPA). People who valued happiness more tended to earn slightly lower grades, but there were lots of exceptions to this. The r value for a weak correlation will have a low absolute value. If two variables are so weakly related as to be unrelated, we say they are uncorrelated, and the r value will be zero or very close to zero. In the previous example, is the correlation between height and pathogen prevalence strong? Compared to Figure 3, the dots in Figure 2 are tighter and less dispersed. The absolute value of –.83 is large. Therefore, it is a strong negative correlation.
-
-<img src="https://UMDOER.github.io/PSYC341OER/images/rd3.jpg">
-Figure 3. Scatterplot showing the association between valuing happiness and GPA, a weak negative correlation (r = –.32). Each dot represents an individual.
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rd3.jpg" style="width:80%">
+    <figcaption> Figure 3. Scatterplot showing the association between valuing happiness and GPA, a weak negative correlation (r = –.32). Each dot represents an individual. </figcaption>
+</figure>
 Can you guess the strength and direction of the correlation between age and year of birth? If you said this is a strong negative correlation, you are correct! Older people always have lower years of birth than younger people (e.g., 1950 vs. 1995), but at the same time, the older people will have a higher age (e.g., 65 vs. 20). In fact, this is a perfect correlation because there are no exceptions to this pattern. I challenge you to find a 10-year-old born before 2003! You can’t.
 
 ## Problems with the correlation
@@ -89,7 +93,10 @@ Because experimental and quasi-experimental designs can seem pretty similar, let
 Another powerful research design is the longitudinal study. Longitudinal studies track the same people over time. Some longitudinal studies last a few weeks, some a few months, some a year or more. Some studies that have contributed a lot to psychology followed the same people over decades. For example, one study followed more than 20,000 Germans for two decades. From these longitudinal data, psychologist Rich Lucas (2003) was able to determine that people who end up getting married indeed start off a bit happier than their peers who never marry. Longitudinal studies like this provide valuable evidence for testing many theories in psychology, but they can be quite costly to conduct, especially if they follow many people for many years.
 
 ## Surveys
-<img src="https://UMDOER.github.io/PSYC341OER/images/rd4.jpg">
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rd4.jpg" style="width:60%">
+    <figcaption> </figcaption>
+</figure>
 Surveys provide researchers with some significant advantages in gathering data. They make it possible to reach large numbers of people while keeping costs to the researchers and the time commitments of participants relatively low.
 A survey is a way of gathering information, using old-fashioned questionnaires or the Internet. Compared to a study conducted in a psychology laboratory, surveys can reach a larger number of participants at a much lower cost. Although surveys are typically used for correlational research, this is not always the case. An experiment can be carried out using surveys as well. For example, King and Napa (1998) presented participants with different types of stimuli on paper: either a survey completed by a happy person or a survey completed by an unhappy person. They wanted to see whether happy people were judged as more likely to get into heaven compared to unhappy people. Can you figure out the independent and dependent variables in this study? Can you guess what the results were? Happy people (vs. unhappy people; the independent variable) were judged as more likely to go to heaven (the dependent variable) compared to unhappy people!
 
