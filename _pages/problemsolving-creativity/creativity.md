@@ -3,7 +3,7 @@ layout: single
 sidebar:
   nav: "probnav"
 ---
-# Creativity and Plasticity
+# Creativity
 
 An idea or solution is considered creative if it is original, useful, and surprising. However, depending on who actually judges these three criteria, we must distinguish personal “little-c creativity” from consensual “Big-C Creativity.” In any case, psychologists who investigate creativity most often adopt one of three perspectives. First, they can ask how creators think, and thus focus on the cognitive processes behind creativity. Second, they can ask who is creative, and hence investigate the personal characteristics of highly creative people. Third, they can ask about the social context, and, thereby, examine the environments that influence creativity. Although psychologists have made major advances in the study of creativity, many exciting and important questions remain to be answered.
 
@@ -16,13 +16,20 @@ An idea or solution is considered creative if it is original, useful, and surpri
 ## Introduction 
 What do the following have in common: the drug penicillin, the Eiffel Tower, the film Lord of the Rings, the General Theory of Relativity, the hymn Amazing Grace, the iPhone, the novel Don Quixote, the painting The Mona Lisa, a recipe for chocolate fudge, the soft drink Coca-Cola, the video game Wii Sports, the West Coast offense in football, and the zipper? You guessed right! All of the named items were products of the creative mind. Not one of them existed until somebody came up with the idea. Creativity is not something that you just pick like apples from a tree. Because creative ideas are so special, creators who come up with the best ideas are often highly rewarded with fame, fortune, or both. Nobel Prizes, Oscars, Pulitzers, and other honors bring fame, and big sales and box office bring fortune. Yet what is creativity in the first place?
 
-Original drawings submitted to US Patent Office for the invention called the clasp locker. The zippers are shown on a pair of shoes where laces would normally be.
-The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [Image: CC0 Public Domain, https://goo.gl/m25gce]
-Creativity: What Is It?
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat1.png" style="width:75%">
+    <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
+
+## Creativity: What Is It?
 Creativity happens when someone comes up with a creative idea. An example would be a creative solution to a difficult problem. But what makes an idea or solution creative? Although psychologists have offered several definitions (Plucker, Beghetto, & Dow, 2004; Runco & Jaeger, 2012), probably the best definition is the one recently adapted from the three criteria that the U.S. Patent Office uses to decide whether an invention can receive patent protection (Simonton, 2012).
 
-The "Glasses Apostle" painting in the altarpiece of the church of Bad Wildungen, Germany. Painted by Conrad von Soest in 1403, "Glasses Apostle" is considered the oldest depiction of eyeglasses north of the Alps.
-Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [Image: CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat2.jpg" style="width:75%">
+    <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
 The first criterion is originality. The idea must have a low probability. Indeed, it often should be unique. Albert Einstein’s special theory of relativity certainly satisfied this criterion. No other scientist came up with the idea.
 
 The second criterion is usefulness. The idea should be valuable or work. For example, a solution must, in fact, solve the problem. An original recipe that produces a dish that tastes too terrible to eat cannot be creative. In the case of Einstein’s theory, his relativity principle provided explanations for what otherwise would be inexplicable empirical results.
@@ -35,13 +42,16 @@ Yet, certainly, we have to ask: Who makes these judgments? The person who genera
 
 Creativity is a very complex phenomenon (Hennessey & Amabile, 2010; Runco, 2004). As a result, psychologists who study creativity can do so from many different perspectives. Nevertheless, the three most common perspectives are cognitive processes, personal characteristics, and social contexts.
 
-Cognitive Processes: How Do Creators Think?
+## Cognitive Processes: How Do Creators Think?
 Cognitive scientists have long been interested in the thinking processes that lead to creative ideas (Simonton & Damian, 2013). Indeed, many so-called “creativity tests” are actually measures of the thought processes believed to underlie the creative act (Simonton, 2003b). The following two measures are among the best known.
 
 The first is the Remote Associates Test, or RAT, that was introduced by Mednick (1962). Mednick believed that the creative process requires the ability to associate ideas that are considered very far apart conceptually. The RAT consists of items that require the respondent to identify a word that can be associated to three rather distinct stimulus words. For example, what word can be associated with the words “widow, bite, monkey”? The answer is spider (black widow spider, spider bite, spider monkey). This particular question is relatively easy, others are much more difficult, but it gives you the basic idea.
 
-A common red brick
-What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat3.jpg" style="width:75%">
+    <figcaption> What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
 The second measure is the Unusual Uses Task (Guilford, 1967; Torrance, 1974). Here, the participant is asked to generate alternative uses for a common object, such as a brick. The responses can be scored on four dimensions: (a) fluency, the total number of appropriate uses generated; (b) originality, the statistical rarity of the uses given; (c) flexibility, the number of distinct conceptual categories implied by the various uses; and (d) elaboration, the amount of detail given for the generated uses. For example, using a brick as a paperweight represents a different conceptual category that using its volume to conserve water in a toilet tank. The capacity to produce unusual uses is but one example of the general cognitive ability to engage in divergent thinking (Guilford, 1967). Unlike convergent thinking, which converges on the single best answer or solution, divergent thinking comes up with multiple possibilities that might vary greatly in usefulness.
 
 Unfortunately, many different cognitive processes have been linked to creativity (Simonton & Damian, 2013). That is why we cannot use the singular; there is no such thing as the “creative process.” Nonetheless, the various processes do share one feature: All enable the person to “think outside the box” imposed by routine thinking—to venture into territory that would otherwise be ignored (Simonton, 2011). Creativity requires that you go where you don’t know where you’re going.
@@ -49,12 +59,18 @@ Unfortunately, many different cognitive processes have been linked to creativity
 ## Personal Characteristics: Who Is Creative?
 Can anybody be creative? Or is creativity subject to individual differences, such as intelligence? Might creativity even be normally distributed just like scores on IQ tests? The answer is complex. Unlike general intelligence, which represents a more or less cohesive cognitive ability, creativity is just as much a personal attribute as an intellectual capacity. This feature is evident in the fact that some “creativity tests” are actually measures of personality, interests, and values (Simonton, 2003b). An example is the Creative Personality Scale of the Gough Adjective Check List (Gough, 1979; see also Carson, Peterson, & Higgins, 2005). In this measure, a person is asked to check off whatever adjectives are viewed as especially self-descriptive. The relevant adjectives are shown in Table 1. How would you describe yourself? Would you use more adjectives in the left column or the right column?
 
-Add one point if you check any of the following words: capable, clever, confident, egotistical, humorous, individualistic, informal, insightful, intelligent, inventive, original, reflective, resourceful, self-confident, sexy, snobbish, unconventional, wide interests. Subtract one point if you check and of the following words: artificial, cautious, commonplace, conservative, conventional, dissatisfied, honest, narrow interests, sincere, submissive, suspicious, well-mannered.
-Table 1. The Creative Personality Scale of the Gough (1979) Adjective Check List. Note. The Adjective Check List actually contains 300 adjectives arranged in alphabetical order from “absent-minded” to “zany,” but the above adjectives are the only ones scored.
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat4.jpg" style="width:75%">
+    <figcaption> Table 1. The Creative Personality Scale of the Gough (1979) Adjective Check List. Note. The Adjective Check List actually contains 300 adjectives arranged in alphabetical order from “absent-minded” to “zany,” but the above adjectives are the only ones scored.</figcaption>
+</figure>
+
 Another reason to speak of the “creative personality” is that creativity correlates with scores on standard personality measures (Feist, 1998). Most notably, the creative person is more likely to score on the openness-to-experience factor of the Big Five Factor Model (Carson, Peterson, & Higgins, 2005; Harris, 2004; McCrae, 1987). This factor concerns whether a person has a strong intellectual curiosity, preference for variety, and an active imagination and is aesthetically sensitive, attentive to inner feelings, as well as receptive to new ideas and values. It would seem obvious that persons high on this factor would behave differently than those scoring low. For instance, we would expect such persons to be less conventional, to have a wider range of leisure activities, and to be more versatile. Yet, it is equally important to note that people high in openness also think differently. Besides scoring higher in divergent thinking (Carson, Peterson, & Higgins, 2005), openness is also associated with the diminished capacity to filter out extraneous information, a tendency often called cognitive disinhibition or reduced latent inhibition (Peterson & Carson, 2000). This “defocused attention” enables the creative person to make observations that others would overlook—such as what happens in serendipitous discovery. A classic example was when Alexander Flemming noticed that a bacteria culture was being killed by a certain mold, a discovery that directly led to penicillin.
 
-A sketch in one of Leonardo Da Vinci's notebooks of a design for a flying machine.
-Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat5.jpg" style="width:75%">
+    <figcaption> Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
 Now you may wonder, isn’t cognitive disinhibition a bad way of thinking? Isn’t it a good thing to be able to ignore irrelevant stimuli? The answer is yes. In fact, reduced latent inhibition is also connected with mental illness (Carson, 2011; Eysenck, 1995). Thus arises a link between creativity and psychopathology (Simonton, 2010). Even so, creative individuals are seldom outright mentally ill. Instead, creators possess other personal traits and capacities that convert a potential cognitive disability into an exceptional ability (Carson, 2011). Among the most important of these characteristics is high general intelligence (Carson, Peterson, & Higgins, 2005; Kéri, 2011). The creator then has the capacity not just to generate original and surprising ideas but also to test and develop them for usefulness. Mental illness arises when the person always skips the last step—the reality check.
 
 At this point, we must add an important qualification: For Big-C Creativity, you have to have more going for you than boasting a creative personality that can engage in creative thought. You also must acquire appropriate expertise in the domain in which you hope to make creative contributions. Einstein had to learn physics and mathematics; Leonardo da Vinci had to learn how to draw and paint. In fact, it typically requires about a decade of extensive training and practice before a person can become a Big-C Creator (Ericsson, 1996). Even so, just because you become an expert in your field it does not mean that you’ll be creative, too.
@@ -66,8 +82,11 @@ To illustrate the former possibility, creativity is often enhanced when persons 
 
 The above effect is most likely transient. It is doubtful that those participants exposed to such incongruous experiences would exhibit any long-term change in their creativity. But what would happen if the exposure was much longer, years rather than minutes? Then the benefit might endure a lifetime. An example is the long-term benefits that accrue to persons who have acquired multicultural experiences, such as living in a foreign country for a significant amount of time (Leung, Maddux, Galinsky, & Chiu, 2008). Daily life abroad exposes a person to different ways of doing everyday activities. Moreover, because the visitor quickly learns that “when in Rome do as the Romans do,” the exposure becomes direct rather than vicarious (Maddux, Adam, & Galinsky, 2010). To be sure, not everybody’s creativity benefits from multicultural environments. The person also has to score high on openness to experience (Leung & Chiu, 2008). Otherwise, they will close themselves off from the potential stimulation, and then just gripe about the “peculiar customs of the natives” rather than actively practice those customs—such as making a totally different breakfast!
 
-A passport full of stamps.
-Multicultural experiences are advantageous for creative thinking. [Image: Ryan Maple, https://goo.gl/Cu5qrn, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat6.jpg" style="width:75%">
+    <figcaption> Multicultural experiences are advantageous for creative thinking. [Image: Ryan Maple, https://goo.gl/Cu5qrn, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+</figure>
+
 Finally, both little-c and Big-C creativity—but especially the latter—are more likely to appear in specific sociocultural systems (Simonton, 2003a). Some political, social, cultural, and economic environments are supportive of exceptional creativity, whereas others tend to suppress if not destroy creativity. For this reason, the history of any civilization or nation tends to have “Dark Ages” as well as “Golden Ages.” Early medieval Europe illustrates the former, while Renaissance Italy exemplifies the latter. It would take us too far beyond introductory psychology to discuss all of the relevant factors. Yet, one factor fits nicely with what was discussed in the previous paragraph. Highly creative societies are far more likely to be multicultural, with abundant influences from other civilizations. For instance, Japanese civilization tended to undergo a revival of creativity after the infusion of new ideas from other civilizations, including Korean, Chinese, Indian, and European (Simonton, 1997). This influx involved not just Japanese living abroad but also non-Japanese immigrating to Japan.
 
 ## Conclusion
