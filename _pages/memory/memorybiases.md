@@ -15,9 +15,12 @@ Eyewitnesses can provide very compelling legal testimony, but rather than record
 ## What Is Eyewitness Testimony?
 Eyewitness testimony is what happens when a person witnesses a crime (or accident, or other legally important event) and later gets up on the stand and recalls for the court all the details of the witnessed event. It involves a more complicated process than might initially be presumed. It includes what happens during the actual crime to facilitate or hamper witnessing, as well as everything that happens from the time the event is over to the later courtroom appearance. The eyewitness may be interviewed by the police and numerous lawyers, describe the perpetrator to several different people, and make an identification of the perpetrator, among other things.
 
-A man stands in front of a television camera and microphone as he describes an event he has witnessed. 
-What can happen to our memory from the time we witness an event to the retelling of that event later? What can influence how we remember, or misremember, highly significant events like a crime or accident? [Image: Robert Couse-Baker, https://goo.gl/OiPUmz, CC BY 2.0, https://goo.gl/BRvSA7]
-Why Is Eyewitness Testimony an Important Area of Psychological Research?
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb1.jpg" style="width:75%">
+    <figcaption> What can happen to our memory from the time we witness an event to the retelling of that event later? What can influence how we remember, or misremember, highly significant events like a crime or accident? [Image: Robert Couse-Baker, https://goo.gl/OiPUmz, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+</figure>
+
+## Why Is Eyewitness Testimony an Important Area of Psychological Research?
 When an eyewitness stands up in front of the court and describes what happened from her own perspective, this testimony can be extremely compelling—it is hard for those hearing this testimony to take it “with a grain of salt,” or otherwise adjust its power. But to what extent is this necessary?
 
 There is now a wealth of evidence, from research conducted over several decades, suggesting that eyewitness testimony is probably the most persuasive form of evidence presented in court, but in many cases, its accuracy is dubious. There is also evidence that mistaken eyewitness evidence can lead to wrongful conviction—sending people to prison for years or decades, even to death row, for crimes they did not commit. Faulty eyewitness testimony has been implicated in at least 75% of DNA exoneration cases—more than any other cause (Garrett, 2011). In a particularly famous case, a man named Ronald Cotton was identified by a rape victim, Jennifer Thompson, as her rapist, and was found guilty and sentenced to life in prison. After more than 10 years, he was exonerated (and the real rapist identified) based on DNA evidence. For details on this case and other (relatively) lucky individuals whose false convictions were subsequently overturned with DNA evidence, see the Innocence Project website (http://www.innocenceproject.org/).
@@ -25,7 +28,10 @@ There is now a wealth of evidence, from research conducted over several decades,
 There is also hope, though, that many of the errors may be avoidable if proper precautions are taken during the investigative and judicial processes. Psychological science has taught us what some of those precautions might involve, and we discuss some of that science now.
 
 ## Misinformation
-A stop sign and a yield sign.
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb2.jpg" style="width:75%">
+</figure>
+
 Misinformation can be introduced into the memory of a witness between the time of seeing an event and reporting it later. Something as straightforward as which sort of traffic sign was in place at an intersection can be confused if subjects are exposed to erroneous information after the initial incident.
 In an early study of eyewitness memory, undergraduate subjects first watched a slideshow depicting a small red car driving and then hitting a pedestrian (Loftus, Miller, & Burns, 1978). Some subjects were then asked leading questions about what had happened in the slides. For example, subjects were asked, “How fast was the car traveling when it passed the yield sign?” But this question was actually designed to be misleading, because the original slide included a stop sign rather than a yield sign.
 
@@ -46,8 +52,11 @@ In addition to correctly remembering many details of the crimes they witness, ey
 
 In most jurisdictions in the United States, lineups are typically conducted with pictures, called photo spreads, rather than with actual people standing behind one-way glass (Wells, Memon, & Penrod, 2006). The eyewitness is given a set of small pictures of perhaps six or eight individuals who are dressed similarly and photographed in similar circumstances. One of these individuals is the police suspect, and the remainder are “foils” or “fillers” (people known to be innocent of the particular crime under investigation). If the eyewitness identifies the suspect, then the investigation of that suspect is likely to progress. If a witness identifies a foil or no one, then the police may choose to move their investigation in another direction.
 
-A man stands in a darkened room with his face almost entirely obscured by shadow. 
-Mistakes in identifying perpetrators can be influenced by a number of factors including poor viewing conditions, too little time to view the perpetrator, or too much delay from time of witnessing to identification.
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb3.jpg" style="width:75%">
+    <figcaption>Mistakes in identifying perpetrators can be influenced by a number of factors including poor viewing conditions, too little time to view the perpetrator, or too much delay from time of witnessing to identification.</figcaption>
+</figure>
+
 This process is modeled in laboratory studies of eyewitness identifications. In these studies, research subjects witness a mock crime (often as a short video) and then are asked to make an identification from a photo or a live lineup. Sometimes the lineups are target present, meaning that the perpetrator from the mock crime is actually in the lineup, and sometimes they are target absent, meaning that the lineup is made up entirely of foils. The subjects, or mock witnesses, are given some instructions and asked to pick the perpetrator out of the lineup. The particular details of the witnessing experience, the instructions, and the lineup members can all influence the extent to which the mock witness is likely to pick the perpetrator out of the lineup, or indeed to make any selection at all. Mock witnesses (and indeed real witnesses) can make errors in two different ways. They can fail to pick the perpetrator out of a target present lineup (by picking a foil or by neglecting to make a selection), or they can pick a foil in a target absent lineup (wherein the only correct choice is to not make a selection).
 
 Some factors have been shown to make eyewitness identification errors particularly likely. These include poor vision or viewing conditions during the crime, particularly stressful witnessing experiences, too little time to view the perpetrator or perpetrators, too much delay between witnessing and identifying, and being asked to identify a perpetrator from a race other than one’s own (Bornstein, Deffenbacher, Penrod, & McGorty, 2012; Brigham, Bennett, Meissner, & Mitchell, 2007; Burton, Wilson, Cowan, & Bruce, 1999; Deffenbacher, Bornstein, Penrod, & McGorty, 2004).
@@ -57,8 +66,11 @@ It is hard for the legal system to do much about most of these problems. But the
 ## Kinds of Memory Biases
 Memory is also susceptible to a wide variety of other biases and errors. People can forget events that happened to them and people they once knew. They can mix up details across time and place. They can even remember whole complex events that never happened at all. Importantly, these errors, once made, can be very hard to unmake. A memory is no less “memorable” just because it is wrong.
 
-Tall cases of books surround a central area full of desks as people sit reading and accessing information from computers in a public library.
-For most of our experiences schematas are a benefit and help with information overload. However, they may make it difficult or impossible to recall certain details of a situation later. Do you recall the library as it actually was or the library as approximated by your library schemata? [Dan Kleinman, https://goo.gl/07xyDD, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb4.jpg" style="width:75%">
+    <figcaption>For most of our experiences schematas are a benefit and help with information overload. However, they may make it difficult or impossible to recall certain details of a situation later. Do you recall the library as it actually was or the library as approximated by your library schemata? [Dan Kleinman, https://goo.gl/07xyDD, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+</figure>
+
 Some small memory errors are commonplace, and you have no doubt experienced many of them. You set down your keys without paying attention, and then cannot find them later when you go to look for them. You try to come up with a person’s name but cannot find it, even though you have the sense that it is right at the tip of your tongue (psychologists actually call this the tip-of-the-tongue effect, or TOT) (Brown, 1991).
 
 Other sorts of memory biases are more complicated and longer lasting. For example, it turns out that our expectations and beliefs about how the world works can have huge influences on our memories. Because many aspects of our everyday lives are full of redundancies, our memory systems take advantage of the recurring patterns by forming and using schemata, or memory templates (Alba & Hasher, 1983; Brewer & Treyens, 1981). Thus, we know to expect that a library will have shelves and tables and librarians, and so we don’t have to spend energy noticing these at the time. The result of this lack of attention, however, is that one is likely to remember schema-consistent information (such as tables), and to remember them in a rather generic way, whether or not they were actually present.
