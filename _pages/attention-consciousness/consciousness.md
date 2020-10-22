@@ -150,4 +150,4 @@ Observations made by individuals in a way that can be independently confirmed by
 * Zeman, A. (2002). A user’s guide to consciousness. New Haven, CT: Yale University Press.
 * de Lange, F., van Gaal, S., Lamme, V., & Dehaene, S. (2011). How awareness changes the relative weights of evidence during human decision making. PLOS-Biology, 9, e1001203.
 
-Paller, K. & Suzuki, S. (2020). Consciousness. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/5ydq3tgk
+Adapted from Paller, K. & Suzuki, S. (2020). Consciousness. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/5ydq3tgk
