@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
+By Robert Biswas-Diener and Jake Teeny
+Portland State University, The Ohio State University
 
 # States of Consciousness
 
@@ -191,3 +193,5 @@ Trance: a state of consciousness characterized by the experience of “out-of-bo
 * Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322(5901), 606-607.
 * Öhman, A., & Soares, J. J. (1994). \"Unconscious anxiety\": phobic responses to masked stimuli. Journal of Abnormal Psychology, 103(2), 231.
 * Šušmáková, K., & Krakovská, A. (2008). Discrimination ability of individual measures used in sleep stages classification. Artificial Intelligence in Medicine, 44(3), 261-277.
+
+Adapted from Biswas-Diener, R. & Teeny, J. (2020). States of consciousness. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/xj2cbhek
