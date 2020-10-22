@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
+
+By Beth Chance and Allan Rossman, California Polytechnic State University, San Luis Obispo
+
 # Statistical Thinking
 
 ## Learning Objectives
@@ -151,3 +154,5 @@ A result is statistically significant if it is unlikely to arise by chance alone
 * Ramsey, F., & Schafer, D. (2002). The statistical sleuth: A course in methods of data analysis. Belmont, CA: Duxbury.
 * Short, T., Moriarty, H., & Cooley, M. E. (1995). Readability of educational materials for patients with cancer. Journal of Statistics Education, 3(2).
 * Stanovich, K. (2013). How to think straight about psychology (10th ed.). Upper Saddle River, NJ: Pearson.
+
+Adapted from Chance, B. & Rossman, A. (2020). Statistical thinking. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ruaz6wjs
