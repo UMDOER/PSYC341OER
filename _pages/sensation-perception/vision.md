@@ -5,8 +5,9 @@ sidebar:
   nav: "senpernav"
   
 ---
-# Vision
+By Simona Buetti and Alejandro Lleras, University of Illinois at Urbana-Champaign
 
+# Vision
 
 ## Learning Objectives
 
@@ -148,3 +149,4 @@ Pathway of neural processing in the brain that is responsible for you knowing wh
 * Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
 * Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48. 
 
+Adapted from Buetti, S. & Lleras, A. (2020). Vision. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ngkr7ebh
