@@ -4,6 +4,8 @@ sidebar:
   nav: "learningnav"
 ---
 
+By Mark E. Bouton, University of Vermont
+
 # Priming and Conditioning
 
 Basic principles of learning are always operating and always influencing human behavior. This module discusses the two most fundamental forms of learning -- classical (Pavlovian) and instrumental (operant) conditioning. Through them, we respectively learn to associate 1) stimuli in the environment, or 2) our own behaviors, with significant events, such as rewards and punishments. The two types of learning have been intensively studied because they have powerful effects on behavior, and because they provide methods that allow scientists to analyze learning processes rigorously. This module describes some of the most important things you need to know about classical and instrumental conditioning, and it illustrates some of the many ways they help us understand normal and disordered behavior in humans. The module concludes by introducing the concept of observational learning, which is a form of learning that is largely distinct from classical and operant conditioning.
@@ -282,3 +284,5 @@ Learning that occurs by observing the reinforcement or punishment of another per
 * Thompson, R. F., & Steinmetz, J. E. (2009). The role of the cerebellum in classical conditioningof discrete behavioral responses. Neuroscience, 162, 732–755.
 * Timberlake, W. L. (2001). Motivational modes in behavior systems. In R. R. Mowrer & S. B. Klein (Eds.), Handbook of contemporary learning theories (pp. 155–210). * Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
 * Wasserman, E. A. (1995). The conceptual abilities of pigeons. American Scientist, 83, 246–255.
+
+Adapted from Bouton, M. E. (2020). Conditioning and learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ajxhcqdr
