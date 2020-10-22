@@ -5,6 +5,8 @@ sidebar:
 ---
 # Cognitive Development
 
+By Robert Siegler, Carnegie Mellon University
+
 This module examines what cognitive development is, major theories about how it occurs, the roles of nature and nurture, whether it is continuous or discontinuous, and how research in the area is being used to improve education.
 
 ## Learning Objectives
