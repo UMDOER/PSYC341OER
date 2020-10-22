@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
+
+By Edward Diener and Robert Biswas-Diener, University of Utah, University of Virginia, Portland State University
+
 # The Replication Crisis
 
 In science, replication is the process of repeating research to determine the extent to which findings generalize across time and across situations. Recently, the science of psychology has come under criticism because a number of research findings do not replicate. In this module we discuss reasons for non-replication, the impact this phenomenon has on the field, and suggest solutions to the problem.
