@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Lorin Lachs, California State University, Fresno
+
 # Multi-modal Perception
 
 Most of the time, we perceive the world as a unified bundle of sensations from multiple sensory modalities. In other words, our perception is multimodal. This module provides an overview of multimodal perception, including information about its neurobiology and its psychological effects.
@@ -195,3 +198,5 @@ A region of the brain devoted to the processing of information from a single sen
 * Sumby, W. H., & Pollack, I. (1954). Visual contribution of speech intelligibility in noise. Journal of the Acoustical Society of America, 26, 212–215.
 * Vasconcelos, N., Pantoja, J., Belchior, H., Caixeta, F. V., Faber, J., Freire, M. A. M., . . . Ribeiro, S. (2011). Cross-modal responses in the primary visual cortex encode complex objects and correlate with tactile discrimination. Proceedings of the National Academy of Sciences, 108(37), 15408–15413. doi: 10.1073/pnas.1102780108
 * Vroomen, J., & De Gelder, B. (2004). Perceptual effects of cross-modal stimulation: Ventriloquism and the freezing phenomenon. In G. A. Calvert, C. Spence, & B. E. Stein (Eds.), Handbook of multisensory processes. Cambridge, MA: MIT Press.
+
+Adapted from Lachs, L. (2020). Multi-modal perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/cezw4qyn
