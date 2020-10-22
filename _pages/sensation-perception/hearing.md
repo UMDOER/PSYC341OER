@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Andrew J. Oxenham, University of Minnesota
+
 # Hearing
 
 Hearing allows us to perceive the world of acoustic vibrations all around us, and provides us with our most important channels of communication. This module reviews the basic mechanisms of hearing, beginning with the anatomy and physiology of the ear and a brief review of the auditory pathways up to the auditory cortex. An outline of the basic perceptual attributes of sound, including loudness, pitch, and timbre, is followed by a review of the principles of tonotopic organization, established in the cochlea. An overview of masking and frequency selectivity is followed by a review of the perception and neural mechanisms underlying spatial hearing. Finally, an overview is provided of auditory scene analysis, which tackles the important question of how the auditory system is able to make sense of the complex mixtures of sounds that are encountered in everyday acoustic environments.
@@ -136,3 +139,6 @@ ISO. (2003). ISO:226 Acoustics - Normal equal-loudness-level contours. Geneva, S
 * Watson, C. S., & Kelly, W. J. (1978). Informational masking in auditory patterns. Journal of the Acoustical Society of America, 64, S39.
 * Zahorik, P., & Wightman, F. L. (2001). Loudness constancy with varying sound source distance. Nature Neuroscience, 4, 78–83.
 de Cheveigné, A. (2005). Pitch perception models. In C. J. Plack, A. J. Oxenham, A. N. Popper, & R. Fay (Eds.), Pitch: Neural coding and perception (pp. 169–233). New York, NY: Springer Verlag.
+
+Adapted from Oxenham, A. J. (2020). Hearing. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/jry3cu78
+
