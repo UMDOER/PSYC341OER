@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "memorynav"
 ---
+
+By Nicole Dudukovic and Brice Kuhl, New York University
+
 # Forgetting
 
 This module explores the causes of everyday forgetting and considers pathological forgetting in the context of amnesia. Forgetting is viewed as an adaptive process that allows us to be efficient in terms of the information we retain.
@@ -115,3 +118,5 @@ Inability to retrieve memories from just prior to the onset of amnesia with inta
 * Squire, L. R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: A neurobiological perspective. Current Opinions in Neurobiology, 5, 169–177.
 * Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of information in memory for words. Journal of Verbal Learning and Verbal Behavior, 5, 381–391.
 * Wixted, J. T. (2004). The psychology and neuroscience of forgetting. *Annual Reviews of Psychology*, 55, 235–269.
+
+Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/m38qbftg
