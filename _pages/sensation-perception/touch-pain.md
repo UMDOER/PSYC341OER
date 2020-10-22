@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Guro E. Løseth, Dan-Mikael Ellingson, and Siri Leknes, University of Oslo, University of Gothenburg
+
 # Touch and Pain
 The sensory systems of touch and pain provide us with information about our environment and our bodies that is often crucial for survival and well-being. Moreover, touch is a source of pleasure. In this module, we review how information about our environment and our bodies is coded in the periphery and interpreted by the brain as touch and pain sensations. We discuss how these experiences are often dramatically shaped by top-down factors like motivation, expectation, mood, fear, stress, and context. When well-functioning, these circuits promote survival and prepare us to make adaptive decisions. Pathological loss of touch can result in perceived disconnection from the body, and insensitivity to pain can be very dangerous, leading to maladaptive hazardous behavior. On the other hand, chronic pain conditions, in which these systems start signaling pain in response to innocuous touch or even in the absence of any observable sensory stimuli, have tremendous negative impact on the lives of the affected. Understanding how our sensory-processing mechanisms can be modulated psychologically and physiologically promises to help researchers and clinicians find new ways to alleviate the suffering of chronic-pain patients
 
@@ -189,3 +192,5 @@ The mechanisms that convert stimuli into electrical signals that can be transmit
 * Singer, T., Seymour, B., O'Doherty, J., Kaube, H., Dolan, R. J., & Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. Science, 303(5661), 1157–1162.
 * Wiech, K., & Tracey, I. (2009). The influence of negative emotions on pain: Behavioral effects and neural mechanisms. NeuroImage, 47(3), 987–994.
 * Zambreanu, L., Wise, R. G., Brooks, J. C. W., Iannetti, G. D., & Tracey, I. (2005). A role for the brainstem in central sensitisation in humans. Evidence from functional magnetic resonance imaging. Pain, 114(3), 397–407.
+
+Adapted from Løseth, G. E., Ellingson, D., & Leknes, S. (2020). Touch and pain. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/mkw27f6a
