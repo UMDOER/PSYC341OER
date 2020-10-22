@@ -4,8 +4,7 @@ sidebar:
   nav: "attconnav"
 ---
 
-By: Frances Friedrich
-University of Utah
+By: Frances Friedrich, University of Utah
 
 # Attention Processes 
 
