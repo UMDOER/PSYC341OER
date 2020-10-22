@@ -109,4 +109,4 @@ Not conscious; the part of the mind that affects behavior though it is inaccessi
 * Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9, 1–27.
 * van Gaal, S., Lamme, V. A. F., Fahrenfort, J. J., & Ridderinkhof, K. R. (2011). Dissociable brain mechanisms underlying the conscious and unconscious control of behavior. Journal of Cognitive Neuroscience 23(1), 91–105.
 
-Dijksterhuis, A. (2020). The unconscious. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/46hrvmab
+Adapted from Dijksterhuis, A. (2020). The unconscious. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/46hrvmab
