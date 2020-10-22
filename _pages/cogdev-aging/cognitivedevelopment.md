@@ -147,3 +147,5 @@ Theory founded in large part by Lev Vygotsky that emphasizes how other people an
 * Scarr, S., & McCartney, K. (1983). How people make their own environments: A theory of genotype-environment effects. Child Development, 54, 424–435.
 * Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games—but not circular ones—improves low-income preschoolers’ numerical understanding. Journal of Educational Psychology, 101, 545–560.
 * van den Boom, D. C., & Hoeksma, J. B. (1994). The effect of infant irritability on mother-infant interaction: A growth curve analysis. Developmental Psychology, 30, 581–590.
+
+Adapted from Siegler, R. (2020). Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/8uv4fn9h
