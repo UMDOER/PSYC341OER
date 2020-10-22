@@ -4,6 +4,8 @@ sidebar:
   nav: "memorynav"
 ---
 
+By Cara Laney and Elizabeth F. Loftus, Reed College, University of California, Irvine
+
 # Memory Biases
 
 Eyewitnesses can provide very compelling legal testimony, but rather than recording experiences flawlessly, their memories are susceptible to a variety of errors and biases. They (like the rest of us) can make errors in remembering specific details and can even remember whole events that did not actually happen. In this module, we discuss several of the common types of errors, and what they can tell us about human memory and its interactions with the legal system.
@@ -150,3 +152,5 @@ A memory template, created through repeated exposure to a particular class of ob
 * Wells, G. L., & Olson, E. A. (2003). Eyewitness testimony. Annual Review of Psychology, 54, 277–295.
 * Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. Psychological Science in the Public Interest, 7(2), 45-75.
 * Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22, 603–647.
+
+Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/uy49tm37
