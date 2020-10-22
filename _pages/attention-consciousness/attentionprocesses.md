@@ -147,5 +147,5 @@ The ability to process information for meaning when the individual is not consci
 * Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
 * Watson, J. M., & Strayer, D. L. (2010). Supertaskers: Profiles in extraordinary multitasking ability. Psychonomic Bulletin & Review, 17, 479–485.
 
-Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/uv9x8df5. CC 4.0
+Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/uv9x8df5. 
 
