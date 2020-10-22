@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "probnav"
 ---
+
+By Robert Biswas-Diener, Portland State University
+
 # Intelligence
 
 Intelligence is among the oldest and longest studied topics in all of psychology. The development of assessments to measure this concept is at the core of the development of psychological science itself. This module introduces key historical figures, major theories of intelligence, and common assessment strategies related to intelligence. This module will also discuss controversies related to the study of group differences in intelligence.
@@ -147,3 +150,5 @@ Lopes, P. N., Grewal, D., Kadis, J., Gall, M., & Salovey, P. (2006). Evidence th
 * Terman, L. M. (1916). The measurement of intelligence: An explanation of and a complete guide for the use of the Stanford revision and extension of the Binet-Simon Intelligence Scale. Boston: Houghton Mifflin.
 * Terman, L. M. (1916). The measurement of intelligence: An explanation of and a complete guide for the use of the Stanford revision and extension of the Binet-Simon Intelligence Scale. Boston: Houghton Mifflin.
 * Wechsler, D. (1955). Manual for the Wechsler Adult Intelligence Scale. Oxford: Psychological Corporation.
+
+Adapted from Biswas-Diener, R. (2020). Intelligence. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ncb2h79v
