@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
+
+By Christie Napa Scollon, Singapore Management University
+
 # Research Designs
 
 Psychologists test research questions using a variety of methods. Most research relies on either correlations or experiments. With correlations, researchers measure variables as they naturally occur in people and compute the degree to which two variables go together. With experiments, researchers actively make changes in one variable and watch for changes in another variable. Experiments allow researchers to make causal inferences. Other types of methods include longitudinal and quasi-experimental designs. Many factors, including practical constraints, determine the type of methods researchers use. Often researchers survey people even though it would be better, but more expensive and time consuming, to track them longitudinally.
@@ -145,3 +148,5 @@ Assigning participants to receive different conditions of an experiment by chanc
 * Harker, L. A., & Keltner, D. (2001). Expressions of positive emotion in women\'s college yearbook pictures and their relationship to personality and life outcomes across adulthood. Journal of Personality and Social Psychology, 80, 112–124.
 * King, L. A., & Napa, C. K. (1998). What makes a life good? Journal of Personality and Social Psychology, 75, 156–165.
 * Lucas, R. E., Clark, A. E., Georgellis, Y., & Diener, E. (2003). Re-examining adaptation and the setpoint model of happiness: Reactions to changes in marital status. Journal of Personality and Social Psychology, 84, 527–539.
+
+Adapted from Scollon, C. N. (2020). Research designs. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/acxb2thy
