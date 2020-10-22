@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Linda Bartoshuk and Derek Snyder, University of Florida
+
 # Taste and Smell
 
 Humans are omnivores (able to survive on many different foods). The omnivore’s dilemma is to identify foods that are healthy and avoid poisons. Taste and smell cooperate to solve this dilemma. Stimuli for both taste and smell are chemicals. Smell results from a biological system that essentially permits the brain to store rough sketches of the chemical structures of odor stimuli in the environment. Thus, people in very different parts of the world can learn to like odors (paired with calories) or dislike odors (paired with nausea) that they encounter in their worlds. Taste information is preselected (by the nature of the receptors) to be relevant to nutrition. No learning is required; we are born loving sweet and hating bitter. Taste inhibits a variety of other systems in the brain. Taste damage releases that inhibition, thus intensifying sensations like those evoked by fats in foods. Ear infections and tonsillectomies both can damage taste. Adults who have experienced these conditions experience intensified sensations from fats and enhanced palatability of high-fat foods. This may explain why individuals who have had ear infections or tonsillectomies tend to gain weight.
@@ -124,3 +127,5 @@ Perceiving scents/smells introduced via the mouth/palate.
 * Rozin, P., & Vollmecke, T.A. (1986). Food likes and dislikes. Annual Review of Nutrition, 6, 433-456.
 * Shepherd, G. M. (2005). Outline of a theory of olfactory processing and its relevance to humans. Chemical Senses, 30(Suppl 1), i3-i5.
 * Swithers, S. E., & Davidson, T. L. (2008). A role for sweet taste: Calorie predictive relations in energy regulation by rats. Behavioral Neuroscience, 122(1), 161-173.
+
+Adapted from Bartoshuk, L. & Snyder, D. (2020). Taste and smell. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/k92myz65
