@@ -3,6 +3,10 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
+
+By Ap Dijksterhuis
+Radboud University Nijmegen
+
 # Unconsciousness
 
 Unconscious psychological processes have fascinated people for a very long time. The idea that people must have an unconscious is based on the idea that (a) there is so much going on in our brains, and the capacity of consciousness is so small, that there must be much more than just consciousness; and that (b) unless you believe consciousness is causally disconnected from other bodily and mental processes, conscious experiences must be prepared by other processes in the brain of which we are not conscious. Not only logic dictates that action starts unconsciously, but research strongly suggests this too. Moreover, unconscious processes are very often highly important for human functioning, and many phenomena, such as attitude formation, goal pursuit, stereotyping, creativity, and decision making are impossible to fully understand without incorporating the role of unconscious processes.
@@ -104,3 +108,5 @@ Not conscious; the part of the mind that affects behavior though it is inaccessi
 * Watt, H. J. (1905). Experimentelle Beitrage zur einer Theorie des Denkens. Archiv für die Geschichte der Psychologie, 4, 289–436.
 * Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9, 1–27.
 * van Gaal, S., Lamme, V. A. F., Fahrenfort, J. J., & Ridderinkhof, K. R. (2011). Dissociable brain mechanisms underlying the conscious and unconscious control of behavior. Journal of Cognitive Neuroscience 23(1), 91–105.
+
+Dijksterhuis, A. (2020). The unconscious. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/46hrvmab
