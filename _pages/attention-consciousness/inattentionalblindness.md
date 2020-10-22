@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
+By Daniel Simons
+University of Illinois at Urbana-Champaign
 
 # Inattentional Blindness
 
@@ -98,3 +100,5 @@ A method for studying selective attention in which people focus attention on one
 * Strayer, D. L., & Johnston, W. A. (2001). Driven to distraction: Dual-task studies of simulated driving and conversing on a cellular telephone. Psychological Science, 12, 462–466.
 * Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
 * Wayand. J. F., Levin, D. T., & Varakin, D. A. (2005). Inattentional blindness for a noxious multimodal stimulus. The American Journal of Psychology, 118, 339–352.
+
+Adapted from Simons, D. (2020). Failures of awareness: the case of inattentional blindness. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/cemagjuw
