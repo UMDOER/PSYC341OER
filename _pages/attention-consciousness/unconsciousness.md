@@ -4,8 +4,7 @@ sidebar:
   nav: "attconnav"
 ---
 
-By Ap Dijksterhuis
-Radboud University Nijmegen
+By Ap Dijksterhuis, Radboud University Nijmegen
 
 # Unconsciousness
 
