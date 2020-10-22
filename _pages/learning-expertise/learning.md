@@ -1,8 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: "learningnav"
+nav: "learningnav"
 ---
+
+By Mark E. Bouton, University of Vermont
 
 # Learning
 
@@ -164,3 +166,5 @@ The form of memory we use to hold onto information temporarily, usually for the 
 * Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. Applied Cognitive Psychology, 24, 837–848.
 * Tullis, J. G., & Benjamin, A. S. (2012). Consequences of restudy choices in younger and older learners. Psychonomic Bulletin & Review, 19, 743–749.
 * Tullis, J. G., & Benjamin, A. S. (2011). On the effectiveness of self-paced learning. Journal of Memory and Language, 64, 109–118.
+
+Adapted from Bouton, M. E. (2020). Conditioning and learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ajxhcqdr
