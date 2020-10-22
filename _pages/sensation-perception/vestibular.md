@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Dora Angelaki and J. David Dickman, Baylor College of Medicine
+
 # The Vestibular System
 
 The vestibular system functions to detect head motion and position relative to gravity and is primarily involved in the fine control of visual gaze, posture, orthostasis, spatial orientation, and navigation. Vestibular signals are highly processed in many regions of the brain and are involved in many essential functions. In this module, we provide an overview of how the vestibular system works and how vestibular signals are used to guide behavior.
@@ -224,3 +227,5 @@ Eye movements produced by the vestibular brainstem that are equal in magnitude a
 * Yates, B. J., Miller A. D., & Lucot, J. B. (1998). Physiological basis and pharmacology of motion sickness: An update. Brain Res Bull, 47, 395–406.
 * Yu, X. J., Dickman, J. D., Angelaki, D. E. (2012). Detection thresholds of macaque otolith afferents. J Neurosci., 32, 8306–8316.
 * Zhou, W., Tang, B.F., Newlands, S.D., King, W.M. (2006). Responses of monkey vestibular-only neurons to translation and angular rotation. J Neurophysiol 96, 2915-2930.
+
+Adapted from Angelaki, D. & Dickman, J. D. (2020). The vestibular system. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ey5sb6fg
