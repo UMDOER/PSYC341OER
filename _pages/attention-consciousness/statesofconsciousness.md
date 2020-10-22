@@ -3,8 +3,7 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
-By Robert Biswas-Diener and Jake Teeny
-Portland State University, The Ohio State University
+By Robert Biswas-Diener and Jake Teeny, Portland State University, The Ohio State University
 
 # States of Consciousness
 
