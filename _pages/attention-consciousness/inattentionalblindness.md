@@ -3,8 +3,7 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
-By Daniel Simons
-University of Illinois at Urbana-Champaign
+By Daniel Simons, University of Illinois at Urbana-Champaign
 
 # Inattentional Blindness
 
