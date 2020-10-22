@@ -5,6 +5,8 @@ sidebar:
 ---
 # Creativity
 
+By Dean Keith Simonton, University of California, Davis
+
 An idea or solution is considered creative if it is original, useful, and surprising. However, depending on who actually judges these three criteria, we must distinguish personal “little-c creativity” from consensual “Big-C Creativity.” In any case, psychologists who investigate creativity most often adopt one of three perspectives. First, they can ask how creators think, and thus focus on the cognitive processes behind creativity. Second, they can ask who is creative, and hence investigate the personal characteristics of highly creative people. Third, they can ask about the social context, and, thereby, examine the environments that influence creativity. Although psychologists have made major advances in the study of creativity, many exciting and important questions remain to be answered.
 
 ## Learning Objectives
@@ -148,3 +150,5 @@ A test of divergent thinking that asks participants to find many uses for common
 * Simonton, D. K. (1997). Foreign influence and national achievement: The impact of open milieus on Japanese civilization. Journal of Personality and Social Psychology, 72, 86–94.
 * Simonton, D. K., & Damian, R. I. (2013). Creativity. In D. Reisberg (Ed.), Oxford handbook of cognitive psychology. New York, NY: Oxford University Press.
 * Torrance, E.P. (1974). Torrance tests of creative thinking: Norms-technical manual. Bensenville, IL: Scholastic Testing Service, Inc.
+
+Adapted from Simonton, D. K. (2020). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/nwzd6yuc
