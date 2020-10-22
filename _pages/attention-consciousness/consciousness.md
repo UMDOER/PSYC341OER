@@ -3,8 +3,7 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
-By Ken Paller and Satoru Suzuki
-Northwestern University
+By Ken Paller and Satoru Suzuki, Northwestern University
 
 # Consciousness
 
