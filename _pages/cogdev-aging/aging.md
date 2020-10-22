@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "cogdevnav"
 ---
+
+By Tara Queen and Jacqui Smith, University of Michigan
+
 # Aging
 
 Traditionally, research on aging described only the lives of people over age 65 and the very old. Contemporary theories and research recognizes that biogenetic and psychological processes of aging are complex and lifelong. Functioning in each period of life is influenced by what happened earlier and, in turn, affects subsequent change. We all age in specific social and historical contexts. Together, these multiple influences on aging make it difficult to define when middle-age or old age begins. This module describes central concepts and research about adult development and aging. We consider contemporary questions about cognitive aging and changes in personality, self-related beliefs, social relationships, and subjective well-being. These four aspects of psychosocial aging are related to health and longevity
