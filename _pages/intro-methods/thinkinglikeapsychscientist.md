@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
+
+By Erin I. Smith, California Baptist University
+
 # Thinking Like a Psychological Scientist
 We are bombarded every day with claims about how the world works, claims that have a direct impact on how we think about and solve problems in society and our personal lives. This module explores important considerations for evaluating the trustworthiness of such claims by contrasting between scientific thinking and everyday observations (also known as “anecdotal evidence”).
 
@@ -224,3 +227,5 @@ Belief about the way things should be.
 ## References
 * Kuhn, T. S. (2012). The structure of scientific revolutions: 50th anniversary edition. Chicago, USA: University of Chicago Press.
 * Kuhn, T. S. (2011). Objectivity, value judgment, and theory choice, in T. S. Kuhn (Ed.), The essential tension: Selected studies in scientific tradition and change (pp. 320-339). Chicago: University of Chicago Press. Retrieved from http://ebookcentral.proquest.com
+
+Adapted from I. Smith, E. (2020). Thinking like a psychological scientist. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/nt3ysqcm
