@@ -30,21 +30,22 @@ Similar to a reflex (like jumping when startled), some cues, or significant sens
 
 Although our brains perceive some stimuli without our conscious awareness, do they really affect our subsequent thoughts and behaviors? In a landmark study, Bargh, Chen, and Burrows (1996) had participants solve a word search puzzle where the answers pertained to words about the elderly (e.g., “old,” “grandma”) or something random (e.g., “notebook,” “tomato”). Afterward, the researchers secretly measured how fast the participants walked down the hallway exiting the experiment. And although none of the participants were aware of a theme to the answers, those who had solved a puzzle with elderly words (vs. those with other types of words) walked more slowly down the hallway!
 
-<img src="https://UMDOER.github.io/PSYC341OER/images/states1.jpg">
-
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states1.jpg" >
+</figure>
 This effect is called priming (i.e., readily “activating” certain concepts and associations from one’s memory) has been found in a number of other studies. For example, priming people by having them drink from a warm glass (vs. a cold one) resulted in behaving more “warmly” toward others (Williams & Bargh, 2008). Although all of these influences occur beneath one’s conscious awareness, they still have a significant effect on one’s subsequent thoughts and behaviors. 
 
 In the last two decades, researchers have made advances in studying aspects of psychology that exist beyond conscious awareness. As you can understand, it is difficult to use self-reports and surveys to ask people about motives or beliefs that they, themselves, might not even be aware of! One way of side-stepping this difficulty can be found in the implicit associations test, or IAT (Greenwald, McGhee & Schwartz, 1998). This research method uses computers to assess people’s reaction times to various stimuli and is a very difficult test to fake because it records automatic reactions that occur in milliseconds. For instance, to shed light on deeply held biases, the IAT might present photographs of Caucasian faces and Asian faces while asking research participants to click buttons indicating either “good” or “bad” as quickly as possible. Even if the participant clicks “good” for every face shown, the IAT can still pick up tiny delays in responding. Delays are associated with more mental effort needed to process information. When information is processed quickly—as in the example of white faces being judged as “good”—it can be contrasted with slower processing—as in the example of Asian faces being judged as “good”—and the difference in processing speed is reflective of bias. In this regard, the IAT has been used for investigating stereotypes (Nosek, Banaji & Greenwald, 2002) as well as self-esteem (Greenwald & Farnam, 2000). This method can help uncover non-conscious biases as well as those that we are motivated to suppress.
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/states2.png" style="width:100%">
-    <figcaption> Courtesy of Anthony Greenwald from Project Implicit </figcaption>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states2.png" >
+    <figcaption>Courtesy of Anthony Greenwald from Project Implicit <br/> Above is an actual screenshot from an IAT (Implicit Association Test) that a person might take to test their own mental representations of various cognitive constructs. In this particular case, this is an item testing an individual’s unconscious reaction towards members of various ethnic groups. </figcaption>
 </figure>
-Aboe is an actual screenshot from an IAT (Implicit Association Test) that a person might take to test their own mental representations of various cognitive constructs. In this particular case, this is an item testing an individual’s unconscious reaction towards members of various ethnic groups.
+
 ## High Awareness
 Just because we may be influenced by these “invisible” factors, it doesn’t mean we are helplessly controlled by them. The other side of the awareness continuum is known as “high awareness.” This includes effortful attention and careful decision making. For example, when you listen to a funny story on a date, or consider which class schedule would be preferable, or complete a complex math problem, you are engaging a state of consciousness that allows you to be highly aware of and focused on particular details in your environment.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/states3.jpg" style="width:60%">
-    <figcaption> Indrek Torilo, https://goo.gl/Bc5Iwm, CC BY-NC 2.0, https://goo.gl/FIlc2e </figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states3.jpg" >
+<figcaption> Indrek Torilo, https://goo.gl/Bc5Iwm, CC BY-NC 2.0, https://goo.gl/FIlc2e </figcaption>
 </figure>
 Meditation has been practiced for centuries in religious contexts. In the past 50 years it has become increasingly popular as a secular practice. Scientific studies have linked meditation to lower stress and higher well-being.
 Mindfulness is a state of higher consciousness that includes an awareness of the thoughts passing through one’s head. For example, have you ever snapped at someone in frustration, only to take a moment and reflect on why you responded so aggressively? This more effortful consideration of your thoughts could be described as an expansion of your conscious awareness as you take the time to consider the possible influences on your thoughts. Research has shown that when you engage in this more deliberate consideration, you are less persuaded by irrelevant yet biasing influences, like the presence of a celebrity in an advertisement (Petty & Cacioppo, 1986). Higher awareness is also associated with recognizing when you’re using a stereotype, rather than fairly evaluating another person (Gilbert & Hixon, 1991).
@@ -58,9 +59,9 @@ To help make the relationship between lower and higher consciousness clearer, im
 ## Other States of Consciousness
 # Hypnosis
 If you’ve ever watched a stage hypnotist perform, it may paint a misleading portrait of this state of consciousness. The hypnotized people on stage, for example, appear to be in a state similar to sleep. However, as the hypnotist continues with the show, you would recognize some profound differences between sleep and hypnosis. Namely, when you’re asleep, hearing the word “strawberry” doesn’t make you flap your arms like a chicken. In stage performances, the hypnotized participants appear to be highly suggestible, to the point that they are seemingly under the hypnotist’s control. Such performances are entertaining but have a way of sensationalizing the true nature of hypnotic states.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/states5.jpg" style="width:80%">
-    <figcaption> New Media Expo, https://goo.gl/FWgBqs, CC BY-NC-SA 2.0, https://goo.gl/FIlc2e </figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states5.jpg" >
+<figcaption>New Media Expo, https://goo.gl/FWgBqs, CC BY-NC-SA 2.0, https://goo.gl/FIlc2e </figcaption>
 </figure>
 Hypnosis is an actual, documented phenomenon—one that has been studied and debated for over 200 years (Pekala et al., 2010). Franz Mesmer (1734 – 1815) is often credited as among the first people to “discover” hypnosis, which he used to treat members of elite society who were experiencing psychological distress. It is from Mesmer’s name that we get the English word, “mesmerize” meaning “to entrance or transfix a person’s attention.” Mesmer attributed the effect of hypnosis to “animal magnetism,” a supposed universal force (similar to gravity) that operates through all human bodies. Even at the time, such an account of hypnosis was not scientifically supported, and Mesmer himself was frequently the center of controversy.
 
@@ -75,9 +76,9 @@ Now, similar to hypnotic states, trance states also involve a dissociation of th
 Most researchers today describe both hypnosis and trance states as “subjective” alterations of consciousness, not an actually distinct or evolved form (Kirsch & Lynn, 1995). Just like you feel different when you’re in a state of deep relaxation, so, too, are hypnotic and trance states simply shifts from the standard conscious experience. Researchers contend that even though both hypnotic and trance states appear and feel wildly different than the normal human experience, they can be explained by standard socio-cognitive factors like imagination, expectation, and the interpretation of the situation.
 
 ## Sleep
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/states6.jpg" style="width:80%">
-    <figcaption>jaci XIII, https://goo.gl/pog6Fr, CC BY-NC 2.0, https://goo.gl/FIlc2e</figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states6.jpg" >
+<figcaption>jaci XIII, https://goo.gl/pog6Fr, CC BY-NC 2.0, https://goo.gl/FIlc2e </figcaption>
 </figure>
 You may have experienced the sensation-- as you are falling asleep-- of falling and then found yourself physically jerking forward and grabbing out as if you were really falling. Sleep is a unique state of consciousness; it lacks full awareness but the brain is still active. People generally follow a “biological clock” that impacts when they naturally become drowsy, when they fall asleep, and the time they naturally awaken. The hormone melatonin increases at night and is associated with becoming sleepy. Your natural daily rhythm, or Circadian Rhythm, can be influenced by the amount of daylight to which you are exposed as well as your work and activity schedule. Changing your location, such as flying from Canada to England, can disrupt your natural sleep rhythms, and we call this jet lag. You can overcome jet lag by synchronizing yourself to the local schedule by exposing yourself to daylight and forcing yourself to stay awake even though you are naturally sleepy.
 
@@ -109,9 +110,9 @@ Depressants are substances that, as their name suggests, slow down the body’s 
 Other common depressants include opiates (also called “narcotics”), which are substances synthesized from the poppy flower. Opiates stimulate endorphin production in the brain and because of this they are often used as pain killers by medical professionals. Unfortunately, because opiates such as Oxycontin so reliably produce euphoria they are increasingly used—illegally—as recreational substances. Opiates are highly addictive.
 
 ## Stimulants
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/states8.jpg" style="width:60%">
-    <figcaption> Personeelsnet, https://goo.gl/h0GQ3R, CC BY-SA 2.0, https://goo.gl/iZlxAE </figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/states8.jpg" >
+<figcaption>Personeelsnet, https://goo.gl/h0GQ3R, CC BY-SA 2.0, https://goo.gl/iZlxAE </figcaption>
 </figure>
 Stimulants are substances that “speed up” the body’s physiological and mental processes. Two commonly used stimulants are caffeine—the drug found in coffee and tea—and nicotine, the active drug in cigarettes and other tobacco products. These substances are both legal and relatively inexpensive, leading to their widespread use. Many people are attracted to stimulants because they feel more alert when under the influence of these drugs. As with any drug there are health risks associated with consumption. For example, excessive consumption of these types of stimulants can result in anxiety, headaches, and insomnia. Similarly, smoking cigarettes—the most common means of ingesting nicotine—is associated with higher risks of cancer. For instance, among heavy smokers 90% of lung cancer is directly attributable to smoking (Stewart & Kleihues, 2003).
 
