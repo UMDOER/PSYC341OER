@@ -46,11 +46,13 @@ Figure 1 makes clear that the two distributions are not well aligned at all. The
 Even when we find patterns in data, often there is still uncertainty in various aspects of the data. For example, there may be potential for measurement errors (even your own body temperature can fluctuate by almost 1 °F over the course of the day). Or we may only have a “snapshot” of observations from a more long-term process or only a small subset of individuals from the population of interest. In such cases, how can we determine whether patterns we see in our small set of data is convincing evidence of a systematic phenomenon in the larger process or population?
 
 Example 2: In a study reported in the November 2007 issue of Nature, researchers investigated whether pre-verbal infants take into account an individual’s actions toward others in evaluating that individual as appealing or aversive (Hamlin, Wynn, & Bloom, 2007). In one component of the study, 10-month-old infants were shown a “climber” character (a piece of wood with “googly” eyes glued onto it) that could not make it up a hill in two tries. Then the infants were shown two scenarios for the climber’s next try, one where the climber was pushed to the top of the hill by another character (“helper”), and one where the climber was pushed back down the hill by another character (“hinderer”). The infant was alternately shown these two scenarios several times. Then the infant was presented with two pieces of wood (representing the helper and the hinderer characters) and asked to pick one to play with. The researchers found that of the 16 infants who made a clear choice, 14 chose to play with the helper toy.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/stat3.jpg" style="width:80%">
-    <figcaption>Ben McLeod, https://goo.gl/0EkXpV, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF </figcaption>
+
+
+<figure style="float:right;margin-left:10px;margin-top: 7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat3.jpg" >
+    <figcaption>Correlation does not equal causation: When babies get their first teeth their saliva production increases but this does not mean that increased saliva causes them to get their teeth. [Image: Ben McLeod, https://goo.gl/0EkXpV, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]</figcaption>
 </figure>
-Correlation does not equal causation: When babies get their first teeth their saliva production increases but this does not mean that increased saliva causes them to get their teeth.
+
 One possible explanation for this clear majority result is that the helping behavior of the one toy increases the infants’ likelihood of choosing that toy. But are there other possible explanations? What about the color of the toy? Well, prior to collecting the data, the researchers arranged so that each color and shape (red square and blue circle) would be seen by the same number of infants. Or maybe the infants had right-handed tendencies and so picked whichever toy was closer to their right hand? Well, prior to collecting the data, the researchers arranged it so half the infants saw the helper toy on the right and half on the left. Or, maybe the shapes of these wooden characters (square, triangle, circle) had an effect? Perhaps, but again, the researchers controlled for this by rotating which shape was the helper toy, the hinderer toy, and the climber. When designing experiments, it is important to control for as many variables as might affect the responses as possible.
 
 It is beginning to appear that the researchers accounted for all the other plausible explanations. But there is one more important consideration that cannot be controlled—if we did the study again with these 16 infants, they might not make the same choices. In other words, there is some randomness inherent in their selection process. Maybe each infant had no genuine preference at all, and it was simply “random luck” that led to 14 infants picking the helper toy. Although this random component cannot be controlled, we can apply a probability model to investigate the pattern of results that would occur in the long run if random chance were the only factor.
@@ -94,12 +96,11 @@ Only 2 of the 1,000 simulated random assignments produced a difference in group 
 Notice that the previous statement implies a cause-and-effect relationship between motivation and creativity score; is such a strong conclusion justified? Yes, because of the random assignment used in the study. That should have balanced out any other variables between the two groups, so now that the small p-value convinces us that the higher mean in the intrinsic group wasn’t just a coincidence, the only reasonable explanation left is the difference in the type of motivation. Can we generalize this conclusion to everyone? Not necessarily—we could cautiously generalize this conclusion to individuals with extensive experience in creative writing similar the individuals in this study, but we would still want to know more about how these individuals were selected to participate.
 
 ## Conclusion
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/stat6.jpg" style="width:70%">
-    <figcaption> widdowquinn, https://goo.gl/9l8Dht, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF</figcaption>
-</figure>
-Researchers employ the scientific method that involves a great deal of statistical thinking: generate a hypothesis &rarr; design a study to test that hypothesis &rarr; conduct the study &rarr; analyze the data &rarr; report the results.
 
+<figure style="float:right;margin-left:10px;margin-top: 7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/stat6.jpg" >
+    <figcaption> Researchers employ the scientific method that involves a great deal of statistical thinking: generate a hypothesis &rarr; design a study to test that hypothesis &rarr; conduct the study &rarr; analyze the data &rarr; report the results. [Image: widdowquinn, https://goo.gl/9l8Dht, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]</figcaption>
+</figure>
 Statistical thinking involves the careful design of a study to collect meaningful data to answer a focused research question, detailed analysis of patterns in the data, and drawing conclusions that go beyond the observed data. Random sampling is paramount to generalizing results from our sample to a larger population, and random assignment is key to drawing cause-and-effect conclusions. With both kinds of randomness, probability models help us assess how much random variation we can expect in our results, in order to determine whether our results could happen by chance alone and to estimate a margin of error.
 
 So where does this leave us with regard to the coffee study mentioned at the beginning of this module? We can answer many of the questions:
