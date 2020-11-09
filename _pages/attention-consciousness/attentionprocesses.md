@@ -32,11 +32,10 @@ What happens to information that we try to ignore?
 Can we learn to divide attention between multiple tasks?
 ## Selective Attention
 ## The Cocktail Party
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/cocktailparty.jpg" style="width:50%">
-    <figcaption>Ross, https://goo.gl/TVDfTn, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF</figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;margin-bottom:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/cocktailparty.jpg" >
+    <figcaption> Ross, https://goo.gl/TVDfTn, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF</figcaption>
 </figure>
-
 Beyond just hearing your name from the clamor at a party, other words or concepts, particularly unusual or significant ones to you, can also snag your attention.
 Selective attention is the ability to select certain stimuli in the environment to process, while ignoring distracting information. One way to get an intuitive sense of how attention works is to consider situations in which attention is used. A party provides an excellent example for our purposes. Many people may be milling around, there is a dazzling variety of colors and sounds and smells, the buzz of many conversations is striking. There are so many conversations going on; how is it possible to select just one and follow it? You don’t have to be looking at the person talking; you may be listening with great interest to some gossip while pretending not to hear. However, once you are engaged in conversation with someone, you quickly become aware that you cannot also listen to other conversations at the same time. You also are probably not aware of how tight your shoes feel or of the smell of a nearby flower arrangement. On the other hand, if someone behind you mentions your name, you typically notice it immediately and may start attending to that (much more interesting) conversation. This situation highlights an interesting set of observations. We have an amazing ability to select and track one voice, visual object, etc., even when a million things are competing for our attention, but at the same time, we seem to be limited in how much we can attend to at one time, which in turn suggests that attention is crucial in selecting what is important. How does it all work?
 
