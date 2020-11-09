@@ -48,11 +48,10 @@ The situation in psychology has grown so worrisome that the Nobel Prize-winning 
 
 ## Examples of Non-replications in Psychology
  A large number of scientists have attempted to replicate studies on what might be called “metaphorical priming,” and more often than not these replications have failed. Priming is the process by which a recent reference (often a subtle, subconscious cue) can increase the accessibility of a trait. For example, if your instructor says, “Please put aside your books, take out a clean sheet of paper, and write your name at the top,” you might find your pulse quickening. Over time, you have learned that this cue means you are about to be given a pop quiz. This phrase primes all the features associated with pop quizzes: they are anxiety-provoking, they are tricky, your performance matters.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/rep3.jpg" style="width:60%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep3.jpg" >
     <figcaption> CC0 Public Domain, https://goo.gl/m25gce </figcaption>
 </figure>
-
 In one study, researchers enhanced test performance by priming participants with stereotypes of intelligence. But subsequent studies have not been able to replicate those results.
 
 One example of a priming study that, at least in some cases, does not replicate, is the priming of the idea of intelligence. In theory, it might be possible to prime people to actually become more intelligent (or perform better on tests, at least). For instance, in one study, priming students with the idea of a stereotypical professor versus soccer hooligans led participants in the “professor” condition to earn higher scores on a trivia game (Dijksterhuis & van Knippenberg, 1998). Unfortunately, in several follow-up instances this finding has not replicated (Shanks et al, 2013). This is unfortunate for all of us because it would be a very easy way to raise our test scores and general intelligence. If only it were true.
@@ -76,9 +75,9 @@ A final reason for non-replication relates to the quality of the replication rat
 
 ## In Defense of Replication Attempts
 Failures in replication are not all bad and, in fact, some non-replication should be expected in science. Original studies are conducted when an answer to a question is uncertain. That is to say, scientists are venturing into new territory. In such cases we should expect some answers to be uncovered that will not pan out in the long run. Furthermore, we hope that scientists take on challenging new topics that come with some amount of risk. After all, if scientists were only to publish safe results that were easy to replicate, we might have very boring studies that do not advance our knowledge very quickly. But, with such risks, some non-replication of results is to be expected.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/rep4.jpg" style="width:60%">
-    <figcaption> Kwantlen Polytechnic University Psychology Department, CC BY 2.0, https://goo.gl/BRvSA7 </figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:60%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rep4.jpg" >
+    <figcaption>Kwantlen Polytechnic University Psychology Department, CC BY 2.0, https://goo.gl/BRvSA7</figcaption>
 </figure>
 Researchers use specialized statistical software to store, analyze, and share data. Saving data over time and sharing data with others can be useful in conducting replications.
 A recent example of risk-taking can be seen in the research of social psychologist Daryl Bem. In 2011, Bem published an article claiming he had found in a number of studies that future events could influence the past. His proposition turns the nature of time, which is assumed by virtually everyone except science fiction writers to run in one direction, on its head. Needless to say, attacks on Bem’s article came fast and furious, including attacks on his statistics and methodology (Ritchie, Wiseman & French, 2012). There were attempts at replication and most of them failed, but not all. A year after Bem’s article came out, the prestigious journal where it was published, Journal of Personality and Social Psychology, published another paper in which a scientist failed to replicate Bem’s findings in a number of studies very similar to the originals (Galak, Lebeouf, Nelson & Simmons, 2012).
