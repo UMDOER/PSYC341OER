@@ -96,9 +96,9 @@ Because experimental and quasi-experimental designs can seem pretty similar, let
 Another powerful research design is the longitudinal study. Longitudinal studies track the same people over time. Some longitudinal studies last a few weeks, some a few months, some a year or more. Some studies that have contributed a lot to psychology followed the same people over decades. For example, one study followed more than 20,000 Germans for two decades. From these longitudinal data, psychologist Rich Lucas (2003) was able to determine that people who end up getting married indeed start off a bit happier than their peers who never marry. Longitudinal studies like this provide valuable evidence for testing many theories in psychology, but they can be quite costly to conduct, especially if they follow many people for many years.
 
 ## Surveys
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/rd4.jpg" style="width:60%">
-    <figcaption> </figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:60%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/rd4.jpg" >
+    <figcaption></figcaption>
 </figure>
 Surveys provide researchers with some significant advantages in gathering data. They make it possible to reach large numbers of people while keeping costs to the researchers and the time commitments of participants relatively low.
 A survey is a way of gathering information, using old-fashioned questionnaires or the Internet. Compared to a study conducted in a psychology laboratory, surveys can reach a larger number of participants at a much lower cost. Although surveys are typically used for correlational research, this is not always the case. An experiment can be carried out using surveys as well. For example, King and Napa (1998) presented participants with different types of stimuli on paper: either a survey completed by a happy person or a survey completed by an unhappy person. They wanted to see whether happy people were judged as more likely to get into heaven compared to unhappy people. Can you figure out the independent and dependent variables in this study? Can you guess what the results were? Happy people (vs. unhappy people; the independent variable) were judged as more likely to go to heaven (the dependent variable) compared to unhappy people!
