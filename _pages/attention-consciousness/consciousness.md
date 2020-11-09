@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: "attconnav"
 ---
+By Ken Paller and Satoru Suzuki, Northwestern University
+
 # Consciousness
 
 Consciousness is the ultimate mystery. What is it and why do we have it? These questions are difficult to answer, even though consciousness is so fundamental to our existence. Perhaps the natural world could exist largely as it is without human consciousness; but taking away consciousness would essentially take away our humanity. Psychological science has addressed questions about consciousness in part by distinguishing neurocognitive functions allied with conscious experience from those that transpire without conscious experience. The continuing investigation of these sorts of distinctions is yielding an empirical basis for new hypotheses about the precursors of conscious experience. Richer conceptualizations are thus being built, combining first-person and third-person perspectives to provide new clues to the mystery of consciousness
@@ -146,3 +148,5 @@ Observations made by individuals in a way that can be independently confirmed by
 * Zelazo, P. D., Moscovitch, M., & Thompson, E. (2007). The Cambridge Handbook of Consciousness. Cambridge, UK: Cambridge University Press.
 * Zeman, A. (2002). A user’s guide to consciousness. New Haven, CT: Yale University Press.
 * de Lange, F., van Gaal, S., Lamme, V., & Dehaene, S. (2011). How awareness changes the relative weights of evidence during human decision making. PLOS-Biology, 9, e1001203.
+
+Adapted from Paller, K. & Suzuki, S. (2020). Consciousness. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/5ydq3tgk

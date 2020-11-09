@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "intronav"
 ---
+
+By Edward Diener and Robert Biswas-Diener, University of Utah, University of Virginia, Portland State University
+
 # The Replication Crisis
 
 In science, replication is the process of repeating research to determine the extent to which findings generalize across time and across situations. Recently, the science of psychology has come under criticism because a number of research findings do not replicate. In this module we discuss reasons for non-replication, the impact this phenomenon has on the field, and suggest solutions to the problem.
@@ -144,3 +147,5 @@ The number of participants in a study. Sample size is important because it can i
 * Ritchie, S. J., Wiseman, R., & French, C. C. (2012). Failing the future: Three unsuccessful attempts to replicate Bem’s ‘retroactive facilitation of recall’ effect. PLOS One. DOI: 10.1371/journal.pone.0033423
 * Shanks, D. R., Newell, B., Lee, E. H., Balikrishnan, D., Ekelund, L., Cenac, Z., Kavvadia, F. & Moore, C. (2013). Priming intelligent behavior: Elusive phenomenon. PLOS One. DOI: 10.1371/journal.pone.0056515
 * Williams, L. E., & Bargh, J. A. (2008). Keeping one's distance: The influence of spatial distance cues on affect and evaluation. Psychological Science, 19, 302-308.
+
+Adapted from Diener, E. & Biswas-Diener, R. (2020). The replication crisis in psychology. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/q4cvydeh

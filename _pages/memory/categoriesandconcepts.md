@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "memorynav"
 ---
+
+By Gregory Murphy, New York University
+
 # Categories and Concepts
 
 People form mental concepts of categories of objects, which permit them to respond appropriately to new objects they encounter. Most concepts cannot be strictly defined but are organized around the “best” examples or prototypes, which have the properties most common in the category. Objects fall into many different categories, but there is usually a most salient one, called the basic-level category, which is at an intermediate level of specificity (e.g., chairs, rather than furniture or desk chairs). Concepts are closely related to our knowledge of the world, and people can more easily learn concepts that are consistent with their knowledge. Theories of concepts argue either that people learn a summary description of a whole category or else that they learn exemplars of the category. Recent research suggests that there are different ways to learn and represent concepts and that they are accomplished by different neural systems.
@@ -13,8 +16,12 @@ People form mental concepts of categories of objects, which permit them to respo
 * Learn about theories of the mental representation of concepts.
 * Learn how knowledge may influence concept learning.
 ## Introduction
-A colorful transport truck driving up a hill.
-Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [Image: CC0 Public Domain, https://goo.gl/m25gce]
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ1.jpg" style="width:60%">
+    <figcaption> Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
 Consider the following set of objects: some dust, papers, a computer monitor, two pens, a cup, and an orange. What do these things have in common? Only that they all happen to be on my desk as I write this. This set of things can be considered a category, a set of objects that can be treated as equivalent in some way. But, most of our categories seem much more informative—they share many properties. For example, consider the following categories: trucks, wireless devices, weddings, psychopaths, and trout. Although the objects in a given category are different from one another, they have many commonalities. When you know something is a truck, you know quite a bit about it. The psychology of categories concerns how people learn, remember, and use informative categories such as trucks or psychopaths.
 
 The mental representations we form of categories are called concepts. There is a category of trucks in the world, and I also have a concept of trucks in my head. We assume that people’s concepts correspond more or less closely to the actual category, but it can be useful to distinguish the two, as when someone’s concept is not really correct.
@@ -26,8 +33,11 @@ You know thousands of categories, most of which you have learned without careful
 Simpler organisms, such as animals and human infants, also have concepts (Mareschal, Quinn, & Lea, 2010). Squirrels may have a concept of predators, for example, that is specific to their own lives and experiences. However, animals likely have many fewer concepts and cannot understand complex concepts such as mortgages or musical instruments.
 
 ## Nature of Categories
-A dog that is missing one of it's front legs sits in the backseat of a car.
-Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [Image: State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ2.jpg" style="width:60%">
+    <figcaption> Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [Image: State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+</figure>
+
 Traditionally, it has been assumed that categories are well-defined. This means that you can give a definition that specifies what is in and out of the category. Such a definition has two parts. First, it provides the necessary features for category membership: What must objects have in order to be in it? Second, those features must be jointly sufficient for membership: If an object has those features, then it is in the category. For example, if I defined a dog as a four-legged animal that barks, this would mean that every dog is four-legged, an animal, and barks, and also that anything that has all those properties is a dog.
 
 Unfortunately, it has not been possible to find definitions for many familiar categories. Definitions are neat and clear-cut; the world is messy and often unclear. For example, consider our definition of dogs. In reality, not all dogs have four legs; not all dogs bark. I knew a dog that lost her bark with age (this was an improvement); no one doubted that she was still a dog. It is often possible to find some necessary features (e.g., all dogs have blood and breathe), but these features are generally not sufficient to determine category membership (you also have blood and breathe but are not a dog).
@@ -38,8 +48,11 @@ Even in domains where one might expect to find clear-cut definitions, such as sc
 ## Borderline Items  
 Experiments also showed that the psychological assumptions of well-defined categories were not correct. Hampton (1979) asked subjects to judge whether a number of items were in different categories. He did not find that items were either clear members or clear nonmembers. Instead, he found many items that were just barely considered category members and others that were just barely not members, with much disagreement among subjects. Sinks were barely considered as members of the kitchen utensil category, and sponges were barely excluded. People just included seaweed as a vegetable and just barely excluded tomatoes and gourds. Hampton found that members and nonmembers formed a continuum, with no obvious break in people’s membership judgments. If categories were well defined, such examples should be very rare. Many studies since then have found such borderline members that are not clearly in or clearly out of the category.
 
-Examples of two categories with members ordered by typicality. Category 1, Furniture: chair, table, desk, bookcase, lamp, cushion, rug, stove, picture, vase. Category 2, Fruit: orange, banana, pear, plum, strawberry, pineapple, lemon, honeydew, date, tomato.
-Table 1. Examples of two categories, with members ordered by typicality (from Rosch & Mervis, 1975)
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ3.jpg" style="width:60%">
+    <figcaption> Table 1. Examples of two categories, with members ordered by typicality (from Rosch & Mervis, 1975)</figcaption>
+</figure>
+
 McCloskey and Glucksberg (1978) found further evidence for borderline membership by asking people to judge category membership twice, separated by two weeks. They found that when people made repeated category judgments such as “Is an olive a fruit?” or “Is a sponge a kitchen utensil?” they changed their minds about borderline items—up to 22 percent of the time. So, not only do people disagree with one another about borderline items, they disagree with themselves! As a result, researchers often say that categories are fuzzy, that is, they have unclear boundaries that can shift over time.
 
 ## Typicality
@@ -49,15 +62,22 @@ You can find out which category members are typical merely by asking people. Tab
 
 We can understand the two phenomena of borderline members and typicality as two sides of the same coin. Think of the most typical category member: This is often called the category prototype. Items that are less and less similar to the prototype become less and less typical. At some point, these less typical items become so atypical that you start to doubt whether they are in the category at all. Is a rug really an example of furniture? It’s in the home like chairs and tables, but it’s also different from most furniture in its structure and use. From day to day, you might change your mind as to whether this atypical example is in or out of the category. So, changes in typicality ultimately lead to borderline members.
 
-Influences of typicality on cognition: 1 – Typical items are judged category members more often. 2 – The speed of categorization is faster for typical items. 3 – Typical members are learned before atypical ones. 4 – Learning a category is easier of typical items are provided. 5 – In language comprehension, references to typical members are understood more easily. 6 – In language production, people tend to say typical items before atypical ones (e.g. “apples and lemons” rather than “lemons and apples”).
-Text Box 1
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ4.jpg" style="width:60%">
+    <figcaption> Table 1. Examples of two categories, with members ordered by typicality (from Rosch & Mervis, 1975)</figcaption>
+</figure>
+
 ## Source of Typicality
 Intuitively, it is not surprising that robins are better examples of birds than penguins are, or that a table is a more typical kind of furniture than is a rug. But given that robins and penguins are known to be birds, why should one be more typical than the other? One possible answer is the frequency with which we encounter the object: We see a lot more robins than penguins, so they must be more typical. Frequency does have some effect, but it is actually not the most important variable (Rosch, Simpson, & Miller, 1976). For example, I see both rugs and tables every single day, but one of them is much more typical as furniture than the other.
 
 The best account of what makes something typical comes from Rosch and Mervis’s (1975) family resemblance theory. They proposed that items are likely to be typical if they (a) have the features that are frequent in the category and (b) do not have features frequent in other categories. Let’s compare two extremes, robins and penguins. Robins are small flying birds that sing, live in nests in trees, migrate in winter, hop around on your lawn, and so on. Most of these properties are found in many other birds. In contrast, penguins do not fly, do not sing, do not live in nests or in trees, do not hop around on your lawn. Furthermore, they have properties that are common in other categories, such as swimming expertly and having wings that look and act like fins. These properties are more often found in fish than in birds.
 
-A Japanese Robin
-When you think of “bird,” how closely does the robin resemble your general figure? [Image: CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ5.jpg" style="width:60%">
+    <figcaption> When you think of “bird,” how closely does the robin resemble your general figure? [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+</figure>
+
+
 According to Rosch and Mervis, then, it is not because a robin is a very common bird that makes it typical. Rather, it is because the robin has the shape, size, body parts, and behaviors that are very common among birds—and not common among fish, mammals, bugs, and so forth.
 
 In a classic experiment, Rosch and Mervis (1975) made up two new categories, with arbitrary features. Subjects viewed example after example and had to learn which example was in which category. Rosch and Mervis constructed some items that had features that were common in the category and other items that had features less common in the category. The subjects learned the first type of item before they learned the second type. Furthermore, they then rated the items with common features as more typical. In another experiment, Rosch and Mervis constructed items that differed in how many features were shared with a different category. The more features were shared, the longer it took subjects to learn which category the item was in. These experiments, and many later studies, support both parts of the family resemblance theory.
@@ -67,8 +87,11 @@ Many important categories fall into hierarchies, in which more concrete categori
 
 Brown (1958), a child language researcher, was perhaps the first to note that there seems to be a preference for which category we use to label things. If your office desk chair is in the way, you’ll probably say, “Move that chair,” rather than “Move that desk chair” or “piece of furniture.” Brown thought that the use of a single, consistent name probably helped children to learn the name for things. And, indeed, children’s first labels for categories tend to be exactly those names that adults prefer to use (Anglin, 1977).
 
-This figure shows examples of super-ordinate, basic, and subordinate categories. For example, "mammals" is a super-ordinate category in which "dog" is a basic member. Below that, specific types of dogs such as "spaniels" are subordinate categories. 
-Figure 1. This is a highly simplified illustration of hierarchically organized categories, with the superordinate, basic, and subordinate levels labeled. Keep in mind that there may be even more specific subordinates (e.g., wire-haired terriers) and more general superordinates (e.g., living thing)
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ6.png" style="width:60%">
+    <figcaption> Figure 1. This is a highly simplified illustration of hierarchically organized categories, with the superordinate, basic, and subordinate levels labeled. Keep in mind that there may be even more specific subordinates (e.g., wire-haired terriers) and more general superordinates (e.g., living thing)</figcaption>
+</figure>
+
 This preference is referred to as a preference for the basic level of categorization, and it was first studied in detail by Eleanor Rosch and her students (Rosch, Mervis, Gray, Johnson, & Boyes-Braem, 1976). The basic level represents a kind of Goldilocks effect, in which the category used for something is not too small (northern brown bear) and not too big (animal), but is just right (bear). The simplest way to identify an object’s basic-level category is to discover how it would be labeled in a neutral situation. Rosch et al. (1976) showed subjects pictures and asked them to provide the first name that came to mind. They found that 1,595 names were at the basic level, with 14 more specific names (subordinates) used. Only once did anyone use a more general name (superordinate). Furthermore, in printed text, basic-level labels are much more frequent than most subordinate or superordinate labels (e.g., Wisniewski & Murphy, 1989).
 
 The preference for the basic level is not merely a matter of labeling. Basic-level categories are usually easier to learn. As Brown noted, children use these categories first in language learning, and superordinates are especially difficult for children to fully acquire.[1] People are faster at identifying objects as members of basic-level categories (Rosch et al., 1976).
@@ -81,8 +104,12 @@ One explanation of the basic-level preference is that basic-level categories are
 Theories of Concept Representation
 Now that we know these facts about the psychology of concepts, the question arises of how concepts are mentally represented. There have been two main answers. The first, somewhat confusingly called the prototype theory suggests that people have a summary representation of the category, a mental description that is meant to apply to the category as a whole. (The significance of summary will become apparent when the next theory is described.) This description can be represented as a set of weighted features (Smith & Medin, 1981). The features are weighted by their frequency in the category. For the category of birds, having wings and feathers would have a very high weight; eating worms would have a lower weight; living in Antarctica would have a lower weight still, but not zero, as some birds do live there.
 
-A Komodo Dragon walking across a beach.
-If you were asked, “What kind of animal is this?” according to prototype theory, you would consult your summary representations of different categories and then select the one that is most similar to this image—probably a lizard! [Image: Adhi Rachdian, https://goo.gl/dQyUwf, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ7.jpg" style="width:60%">
+    <figcaption> If you were asked, “What kind of animal is this?” according to prototype theory, you would consult your summary representations of different categories and then select the one that is most similar to this image—probably a lizard! [Image: Adhi Rachdian, https://goo.gl/dQyUwf, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+</figure>
+
+
 The idea behind prototype theory is that when you learn a category, you learn a general description that applies to the category as a whole: Birds have wings and usually fly; some eat worms; some swim underwater to catch fish. People can state these generalizations, and sometimes we learn about categories by reading or hearing such statements (“The kimodo dragon can grow to be 10 feet long”).
 
 When you try to classify an item, you see how well it matches that weighted list of features. For example, if you saw something with wings and feathers fly onto your front lawn and eat a worm, you could (unconsciously) consult your concepts and see which ones contained the features you observed. This example possesses many of the highly weighted bird features, and so it should be easy to identify as a bird.
@@ -103,8 +130,11 @@ Many researchers would now acknowledge that concepts are represented through mul
 Knowledge
 The final topic has to do with how concepts fit with our broader knowledge of the world. We have been talking very generally about people learning the features of concepts. For example, they see a number of birds and then learn that birds generally have wings, or perhaps they remember bird exemplars. From this perspective, it makes no difference what those exemplars or features are—people just learn them. But consider two possible concepts of buildings and their features in Table 2.
 
-Examples of two fiction concepts and their traits. 1 – “Donker”: has thick windows, is red, divers live there, is under water, get there by submarine, has fish as pets. 2 – “Blegdav”: has steel windows, is purple, farmers live there, is in the desert, get there by submarine, has polar bears as pets.
-Table 2. Examples of two fictional concepts
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ8.jpg" style="width:60%">
+    <figcaption> Table 2. Examples of two fictional concepts </figcaption>
+</figure>
+
 Imagine you had to learn these two concepts by seeing exemplars of them, each exemplar having some of the features listed for the concept (as well as some idiosyncratic features). Learning the donker concept would be pretty easy. It seems to be a kind of underwater building, perhaps for deep-sea explorers. Its features seem to go together. In contrast, the blegdav doesn’t really make sense. If it’s in the desert, how can you get there by submarine, and why do they have polar bears as pets? Why would farmers live in the desert or use submarines? What good would steel windows do in such a building? This concept seems peculiar. In fact, if people are asked to learn new concepts that make sense, such as donkers, they learn them quite a bit faster than concepts such as blegdavs that don’t make sense (Murphy & Allopenna, 1994). Furthermore, the features that seem connected to one another (such as being underwater and getting there by submarine) are learned better than features that don’t seem related to the others (such as being red).
 
 Such effects demonstrate that when we learn new concepts, we try to connect them to the knowledge we already have about the world. If you were to learn about a new animal that doesn’t seem to eat or reproduce, you would be very puzzled and think that you must have gotten something wrong. By themselves, the prototype and exemplar theories don’t predict this. They simply say that you learn descriptions or exemplars, and they don’t put any constraints on what those descriptions or exemplars are. However, the knowledge approach to concepts emphasizes that concepts are meant to tell us about real things in the world, and so our knowledge of the world is used in learning and thinking about concepts.
@@ -113,8 +143,11 @@ We can see this effect of knowledge when we learn about new pieces of technology
 
 One important aspect of people’s knowledge about categories is called psychological essentialism (Gelman, 2003; Medin & Ortony, 1989). People tend to believe that some categories—most notably natural kinds such as animals, plants, or minerals—have an underlying property that is found only in that category and that causes its other features. Most categories don’t actually have essences, but this is sometimes a firmly held belief. For example, many people will state that there is something about dogs, perhaps some specific gene or set of genes, that all dogs have and that makes them bark, have fur, and look the way they do. Therefore, decisions about whether something is a dog do not depend only on features that you can easily see but also on the assumed presence of this cause.
 
-15 types of butterflies native to Kalimantan (Borneo).
-Although it may seem natural that different species have an unchangeable “essence,” consider evolution and everything’s development from common ancestors. [Image: Marc Dragiewicz, https://goo.gl/E9v4eR, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ9.jpg" style="width:60%">
+    <figcaption> Although it may seem natural that different species have an unchangeable “essence,” consider evolution and everything’s development from common ancestors. [Image: Marc Dragiewicz, https://goo.gl/E9v4eR, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]</figcaption>
+</figure>
+
 Belief in an essence can be revealed through experiments describing fictional objects. Keil (1989) described to adults and children a fiendish operation in which someone took a raccoon, dyed its hair black with a white stripe down the middle, and implanted a “sac of super-smelly yucky stuff” under its tail. The subjects were shown a picture of a skunk and told that this is now what the animal looks like. What is it? Adults and children over the age of 4 all agreed that the animal is still a raccoon. It may look and even act like a skunk, but a raccoon cannot change its stripes (or whatever!)—it will always be a raccoon.
 
 Importantly, the same effect was not found when Keil described a coffeepot that was operated on to look like and function as a bird feeder. Subjects agreed that it was now a bird feeder. Artifacts don’t have an essence.
@@ -179,3 +212,5 @@ The difference in “goodness” of category members, ranging from the most typi
 * Smith, J. D., & Minda, J. P. (1998). Prototypes in the mist: The early epochs of category learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 1411–1436.
 * Tanaka, J. W., & Taylor, M. E. (1991). Object categories and expertise: Is the basic level in the eye of the beholder? Cognitive Psychology, 15, 121–149.
 * Wisniewski, E. J., & Murphy, G. L. (1989). Superordinate and basic category names in discourse: A textual analysis. Discourse Processes, 12, 245–261.
+
+Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/6vu4cpkt

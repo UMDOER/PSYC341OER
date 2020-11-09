@@ -5,8 +5,9 @@ sidebar:
   nav: "senpernav"
   
 ---
-# Vision
+By Simona Buetti and Alejandro Lleras, University of Illinois at Urbana-Champaign
 
+# Vision
 
 ## Learning Objectives
 
@@ -20,15 +21,16 @@ sidebar:
 
 
 ## What Is Vision?
-<font size="4">
+
 Think about the spectacle of a starry night. You look up at the sky, and thousands of photons from distant stars come crashing into your retina, a light-sensitive structure at the back of your eyeball. These photons are millions of years old and have survived a trip across the universe, only to run into one of your photoreceptors. Tough luck: in one thousandth of a second, this little bit of light energy becomes the fuel to a photochemical reaction known as photoactivation. The light energy becomes neural energy and triggers a cascade of neural activity that, a few hundredths of a second later, will result in your becoming aware of that distant star. You and the universe united by photons. That is the amazing power of vision. Light brings the world to you. Without moving, you know what’s out there. You can recognize friends coming to meet you before you are able to hear them coming, ripe fruits from green ones on trees without having to taste them and before reaching out to grab them. You can also tell how quickly a ball is moving in your direction (Will it hit you? Can you hit it?).
 
 How does all of that happen? First, light enters the eyeball through a tiny hole known as the pupil and, thanks to the refractive properties of your cornea and lens, this light signal gets projected sharply into the retina (see Outside Resources for links to a more detailed description of the eye structure). There, light is transduced into neural energy by about 200 million photoreceptor cells.
-</font>
+
 <figure>
-    <embed src="https://en.wikipedia.org/wiki/Eye#/media/File:Three_Internal_chambers_of_the_Eye.png" width="500" height="500">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/vision1.png" style="width:75%">
     <figcaption> Diagram of the human eye.</figcaption>
 </figure>
+
 This is where the information carried by the light about distant objects and colors starts being encoded by our brain. There are two different types of photoreceptors: rods and cones. The human eye contains more rods than cones. Rods give us sensitivity under dim lighting conditions and allow us to see at night. Cones allow us to see fine details in bright light and give us the sensation of color. Cones are tightly packed around the fovea (the central region of the retina behind your pupil) and more sparsely elsewhere. Rods populate the periphery (the region surrounding the fovea) and are almost absent from the fovea.
 
 But vision is far more complex than just catching photons. The information encoded by the photoreceptors undergoes a rapid and continuous set of ever more complex analysis so that, eventually, you can make sense of what’s out there. At the fovea, visual information is encoded separately from tiny portions of the world (each about half the width of a human hair viewed at arm’s length) so that eventually the brain can reconstruct in great detail fine visual differences from locations at which you are directly looking. This fine level of encoding requires lots of light and it is slow going (neurally speaking). In contrast, in the periphery, there is a different encoding strategy: detail is sacrificed in exchange for sensitivity. Information is summed across larger sections of the world. This aggregation occurs quickly and allows you to detect dim signals under very low levels of light, as well as detect sudden movements in your peripheral vision.
@@ -40,12 +42,21 @@ The fact that the brain is interested in coding contrast in the world reveals so
 
 Contrast is so important that your neurons go out of their way not only to encode differences in light but to exaggerate those differences for you, lest you miss them. Neurons achieve this via a process known as lateral inhibition. When a neuron is firing in response to light, it produces two signals: an output signal to pass on to the next level in vision, and a lateral signal to inhibit all neurons that are next to it. This makes sense on the assumption that nearby neurons are likely responding to the same light coming from nearby locations, so this information is somewhat redundant. The magnitude of the lateral inhibitory signal a neuron produces is proportional to the excitatory input that neuron receives: the more a neuron fires, the stronger the inhibition it produces. Figure 1 illustrates how lateral inhibition amplifies contrast signals at the edges of surfaces.
 
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/vision2.png" style="width:75%">
+    <figcaption> Figure 1. Illustration of Lateral Inhibition at work. The top of the figure shows a black stripe on a white background. The first row of circles illustrates photoreceptors responding in a graded fashion: the more light hits them, the more they fire. The numbers inside the circles represent how much these cells are firing, and the thickness of lines is also meant to illustrate the strength of neural firing. These photoreceptors activate the next layer of neurons in the retina: bipolar cells. These cells produce lateral inhibition signals, depicted by the horizontal lines that end with a small circle. The inhibition signals are proportional (here, 10% for ease) to the excitatory input they receive. Cells receiving 100 units will inhibit their neighbors by 10 units. Cells receiving 20 units will inhibit their neighbors by 2 units. The output of a bipolar cell will be determined by the input it receives minus all the lateral inhibition signals from its neighbors. As a result of the inhibition, notice how on the bright side of the edges, the firing rates are the highest (88) compared to nearby neurons just coding bright light (80). These higher values near the edge occur because these cells receive a comparatively small amount of inhibition from their “dark-side” neighbor (-2). Similarly, on the dark side of the edge, the firing rates are the lowest (8) of all the dark region (16) because these cells receive a comparatively large amount of inhibition from their “bright-side” neighbor (-10). Overall, the image is coded as a black stripe surrounded by brighter light, but now, thanks to lateral inhibition, all the edges in the image have been emphasized (enhanced), as illustrated by the perceived luminance profile at the bottom of the image.
+</figcaption>
+</figure>
 
-Figure 1. Illustration of Lateral Inhibition at work. The top of the figure shows a black stripe on a white background. The first row of circles illustrates photoreceptors responding in a graded fashion: the more light hits them, the more they fire. The numbers inside the circles represent how much these cells are firing, and the thickness of lines is also meant to illustrate the strength of neural firing. These photoreceptors activate the next layer of neurons in the retina: bipolar cells. These cells produce lateral inhibition signals, depicted by the horizontal lines that end with a small circle. The inhibition signals are proportional (here, 10% for ease) to the excitatory input they receive. Cells receiving 100 units will inhibit their neighbors by 10 units. Cells receiving 20 units will inhibit their neighbors by 2 units. The output of a bipolar cell will be determined by the input it receives minus all the lateral inhibition signals from its neighbors. As a result of the inhibition, notice how on the bright side of the edges, the firing rates are the highest (88) compared to nearby neurons just coding bright light (80). These higher values near the edge occur because these cells receive a comparatively small amount of inhibition from their “dark-side” neighbor (-2). Similarly, on the dark side of the edge, the firing rates are the lowest (8) of all the dark region (16) because these cells receive a comparatively large amount of inhibition from their “bright-side” neighbor (-10). Overall, the image is coded as a black stripe surrounded by brighter light, but now, thanks to lateral inhibition, all the edges in the image have been emphasized (enhanced), as illustrated by the perceived luminance profile at the bottom of the image.
+
 
 ## Sensitivity to Different Light Conditions
-A man walks out of a dark tunnel into bright daylight.
-Rods and cones work in tandem to help you adjust when moving between extremes of dark and light. [Image: Pexels, CC0 Public Domain, https://goo.gl/m25gce]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/vision3.jpg" style="width:75%">
+    <figcaption> Rods and cones work in tandem to help you adjust when moving between extremes of dark and light. [Image: Pexels, CC0 Public Domain, https://goo.gl/m25gce]
+</figcaption>
+</figure>
+
 Let’s think for a moment about the range of conditions in which your visual system must operate day in and day out. When you take a walk outdoors on a sunny day, as many as billions of photons enter your eyeballs every second. In contrast, when you wake up in the middle of the night in a dark room, there might be as little as a few hundred photons per second entering your eyes. To deal with these extremes, the visual system relies on the different properties of the two types of photoreceptors. Rods are mostly responsible for processing light when photons are scarce (just a single photon can make a rod fire!), but it takes time to replenish the visual pigment that rods require for photoactivation. So, under bright conditions, rods are quickly bleached (Stuart & Brige, 1996) and cannot keep up with the constant barrage of photons hitting them. That’s when the cones become useful. Cones require more photons to fire and, more critically, their photopigments replenish much faster than rods’ photopigments, allowing them to keep up when photons are abundant.
 
 What happens when you abruptly change lighting conditions? Under bright light, your rods are bleached. When you move into a dark environment, it will take time (up to 30 minutes) before they chemically recover (Hurley, 2002). Once they do, you will begin to see things around you that initially you could not. This phenomenon is called dark adaptation. When you go from dark to bright light (as you exit a tunnel on a highway, for instance), your rods will be bleached in a blaze and you will be blinded by the sudden light for about 1 second. However, your cones are ready to fire! Their firing will take over and you will quickly begin to see at this higher level of light.
@@ -57,8 +68,12 @@ What happens once information leaves your eyes and enters the brain? Neurons pro
 
 As information begins to flow towards other “higher” areas of the system, more complex computations are performed. For example, edges are assigned to the object to which they belong, backgrounds are separated from foregrounds, colors are assigned to surfaces, and the global motion of objects is computed. Many of these computations occur in specialized brain areas. For instance, an area called MT processes global-motion information; the parahippocampal place area identifies locations and scenes; the fusiform face area specializes in identifying objects for which fine discriminations are required, like faces. There is even a brain region specialized in letter and word processing. These visual-recognition areas are located along the ventral pathway of the brain (also known as the What pathway). Other brain regions along the dorsal pathway (or Where-and-How pathway) will compute information about self- and object-motion, allowing you to interact with objects, navigate the environment, and avoid obstacles (Goodale and Milner, 1992).
 
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/vision4.png" style="width:75%">
+    <figcaption> Areas of the brain [Image: Pexels, CC0 Public Domain, https://goo.gl/m25gce]
+</figcaption>
+</figure>
 
-Figure 2: Areas of the brain
 Now that you have a basic understanding of how your visual system works, you can ask yourself the question: why do you have two eyes? Everything that we discussed so far could be computed with information coming from a single eye. So why two? Looking at the animal kingdom gives us a clue. Animals who tend to be prey have eyes located on opposite sides of their skull. This allows them to detect predators whenever one appears anywhere around them. Humans, like most predators, have two eyes pointing in the same direction, encoding almost the exact scene twice. This redundancy gives us a binocular advantage: having two eyes not only provides you with two chances at catching a signal in front of you, but the minute difference in perspective that you get from each eye is used by your brain to reconstruct the sense of three-dimensional space. You can get an estimate of how far distant objects are from you, their size, and their volume. This is no easy feat: the signal in each eye is a two-dimensional projection of the world, like two separate pictures drawn upon your retinae. Yet, your brain effortlessly provides you with a sense of depth by combining those two signals. This 3-D reconstruction process also relies heavily on all the knowledge you acquired through experience about spatial information. For instance, your visual system learns to interpret how the volume, distance, and size of objects change as they move closer or farther from you. (See the Outside Resources section for demonstrations.)
 
 ## The Experience of Color
@@ -134,3 +149,4 @@ Pathway of neural processing in the brain that is responsible for you knowing wh
 * Svaetichin, G. (1956). Spectral response curves from single cones, Actaphysiologica Scandinavia, Suppl. 134, 17–46.
 * Young, T. (1802). Bakerian lecture: On the theory of light and colours. Philosophical Transaction of the Royal Society London, 92, 12–48. 
 
+Adapted from Buetti, S. & Lleras, A. (2020). Vision. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ngkr7ebh

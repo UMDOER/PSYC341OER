@@ -1,8 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: "learningnav"
+nav: "learningnav"
 ---
+
+By Mark E. Bouton, University of Vermont
 
 # Learning
 
@@ -17,9 +19,12 @@ Learning is a complex process that defies easy definition and description. This 
 ## Introduction
 What do you do when studying for an exam? Do you read your class notes and textbook (hopefully not for the very first time)? Do you try to find a quiet place without distraction? Do you use flash cards to test your knowledge? The choices you make reveal your theory of learning, but there is no reason for you to limit yourself to your own intuitions. There is a vast and vibrant science of learning, in which researchers from psychology, education, and neuroscience study basic principles of learning and memory.
 
-A student reads a large textbook with stacks of other textbooks on the table around her.
-When you study for a test, you incorporate your past knowledge into learning this new knowledge. That is, depending on your previous experiences, you will “learn” the material in different ways. [Image: UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7]
-In fact, learning is a much broader domain than you might think. Consider: Is listening to music a form of learning? More often, it seems listening to music is a way of avoiding learning. But we know that your brain’s response to auditory information changes with your experience with that information, a form of learning called auditory perceptual learning (Polley, Steinberg, & Merzenich, 2006). Each time we listen to a song, we hear it differently because of our experience. When we exhibit changes in behavior without having intended to learn something, that is called implicit learning (Seger, 1994), and when we exhibit changes in our behavior that reveal the influence of past experience even though we are not attempting to use that experience, that is called implicit memory (Richardson-Klavehn & Bjork, 1988).
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/learn1.jpg" style="width:50%">
+    <figcaption>UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7</figcaption>
+</figure> 
+
+When you study for a test, you incorporate your past knowledge into learning this new knowledge. That is, depending on your previous experiences, you will “learn” the material in different ways. In fact, learning is a much broader domain than you might think. Consider: Is listening to music a form of learning? More often, it seems listening to music is a way of avoiding learning. But we know that your brain’s response to auditory information changes with your experience with that information, a form of learning called auditory perceptual learning (Polley, Steinberg, & Merzenich, 2006). Each time we listen to a song, we hear it differently because of our experience. When we exhibit changes in behavior without having intended to learn something, that is called implicit learning (Seger, 1994), and when we exhibit changes in our behavior that reveal the influence of past experience even though we are not attempting to use that experience, that is called implicit memory (Richardson-Klavehn & Bjork, 1988).
 
 Other well-studied forms of learning include the types of learning that are general across species. We can’t ask a slug to learn a poem or a lemur to learn to bat left-handed, but we can assess learning in other ways. For example, we can look for a change in our responses to things when we are repeatedly stimulated. If you live in a house with a grandfather clock, you know that what was once an annoying and intrusive sound is now probably barely audible to you. Similarly, poking an earthworm again and again is likely to lead to a reduction in its retraction from your touch. These phenomena are forms of nonassociative learning, in which single repeated exposure leads to a change in behavior (Pinsker, Kupfermann, Castelluci, & Kandel, 1970). When our response lessens with exposure, it is called habituation, and when it increases (like it might with a particularly annoying laugh), it is called sensitization. Animals can also learn about relationships between things, such as when an alley cat learns that the sound of janitors working in a restaurant precedes the dumping of delicious new garbage (an example of stimulus-stimulus learning called classical conditioning), or when a dog learns to roll over to get a treat (a form of stimulus-response learning called operant conditioning). These forms of learning will be covered in the module on Conditioning and Learning (http://noba.to/ajxhcqdr).
 
@@ -30,8 +35,12 @@ People bring numerous individual differences with them into memory experiments, 
 
 In addition, the organization and planning skills that a learner exhibits matter a lot (Garavalia & Gredler, 2002), suggesting that the efficiency with which one organizes self-guided learning is an important component of learning. We will return to this topic soon.
 
-A rotary dial telephone.
-Research attests that we can hold between 5 and 9 individual pieces of information in our working memory at once. This is partly why in the 1950s Bell Labs developed a 7-digit phone number system. [Image: Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/learn2.jpeg" style="width:50%">
+    <figcaption>Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O</figcaption>
+</figure> 
+
+Research attests that we can hold between 5 and 9 individual pieces of information in our working memory at once. This is partly why in the 1950s Bell Labs developed a 7-digit phone number system. 
 One well-studied and important variable is working memory capacity. Working memory describes the form of memory we use to hold onto information temporarily. Working memory is used, for example, to keep track of where we are in the course of a complicated math problem, and what the relevant outcomes of prior steps in that problem are. Higher scores on working memory measures are predictive of better reasoning skills (Kyllonen & Christal, 1990), reading comprehension (Daneman & Carpenter, 1980), and even better control of attention (Kane, Conway, Hambrick, & Engle, 2008).
 
 Anxiety also affects the quality of learning. For example, people with math anxiety have a smaller capacity for remembering math-related information in working memory, such as the results of carrying a digit in arithmetic (Ashcraft & Kirk, 2001). Having students write about their specific anxiety seems to reduce the worry associated with tests and increases performance on math tests (Ramirez & Beilock, 2011).
@@ -43,8 +52,14 @@ What we do when we’re learning is very important. We’ve all had the experien
 
 You might think that the most important thing is to try to learn. Interestingly, this is not true, at least not completely. Trying to learn a list of words, as compared to just evaluating each word for its part of speech (i.e., noun, verb, adjective) does help you recall the words—that is, it helps you remember and write down more of the words later. But it actually impairs your ability to recognize the words—to judge on a later list which words are the ones that you studied (Eagle & Leiter, 1964). So this is a case in which incidental learning—that is, learning without the intention to learn—is better than intentional learning.
 
-A collection of color-coded flashcards.
-Motivation to learn doesn't make much of a difference unless learners use effective strategies for encoding the information they want to retain. Although they're not flashy, methods like spaced practice, interleaving, and frequent testing are among the most effective ways to apply your efforts. [Image: Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/learn3.jpg" style="width:50%">
+    <figcaption>Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7</figcaption>
+</figure> 
+
+
+Motivation to learn doesn't make much of a difference unless learners use effective strategies for encoding the information they want to retain. Although they're not flashy, methods like spaced practice, interleaving, and frequent testing are among the most effective ways to apply your efforts.
+
 Such examples are not particularly rare and are not limited to recognition. Nairne, Pandeirada, and Thompson (2008) showed, for example, that survival processing—thinking about and rating each word in a list for its relevance in a survival scenario—led to much higher recall than intentional learning (and also higher, in fact, than other encoding activities that are also known to lead to high levels of recall). Clearly, merely intending to learn something is not enough. How a learner actively processes the material plays a large role; for example, reading words and evaluating their meaning leads to better learning than reading them and evaluating the way that the words look or sound (Craik & Lockhart, 1972). These results suggest that individual differences in motivation will not have a large effect on learning unless learners also have accurate ideas about how to effectively learn material when they care to do so.
 
 So, do learners know how to effectively encode material? People allowed to freely allocate their time to study a list of words do remember those words better than a group that doesn’t have control over their own study time, though the advantage is relatively small and is limited to the subset of learners who choose to spend more time on the more difficult material (Tullis & Benjamin, 2011). In addition, learners who have an opportunity to review materials that they select for restudy often learn more than another group that is asked to restudy the materials that they didn’t select for restudy (Kornell & Metcalfe, 2006). However, this advantage also appears to be relatively modest (Kimball, Smith, & Muntean, 2012) and wasn’t apparent in a group of older learners (Tullis & Benjamin, 2012). Taken together, all of the evidence seems to support the claim that self-control of learning can be effective, but only when learners have good ideas about what an effective learning strategy is.
@@ -65,8 +80,14 @@ To be able to guide our own learning effectively, we must be able to evaluate th
 Sometimes, it doesn’t make sense to talk about whether a particular encoding activity is good or bad for learning. Rather, we can talk about whether that activity is good for learning as revealed by a particular test. For example, although reading words for meaning leads to better performance on a test of recall or recognition than paying attention to the pronunciation of the word, it leads to worse performance on a test that taps knowledge of that pronunciation, such as whether a previously studied word rhymes with another word (Morris, Bransford, & Franks, 1977). The principle of transfer-appropriate processing states that memory is “better” when the test taps the same type of knowledge as the original encoding activity. When thinking about how to learn material, we should always be thinking about the situations in which we are likely to need access to that material. An emergency responder who needs access to learned procedures under conditions of great stress should learn differently from a hobbyist learning to use a new digital camera.
 
 ## The value of forgetting
-A note is written on a man's hand which says, "remember to remember".
-In order to not forget things, we employ a variety of tricks (like scribbling a quick note on your hand). However, if we were unable to forget information, it would interfere with learning new or contradictory material. [Image: Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj]
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/learn4.jpg" style="width:50%">
+    <figcaption>Image: Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj</figcaption>
+</figure> 
+
+In order to not forget things, we employ a variety of tricks (like scribbling a quick note on your hand). However, if we were unable to forget information, it would interfere with learning new or contradictory material. 
+
 Forgetting is sometimes seen as the enemy of learning, but, in fact, forgetting is a highly desirable part of the learning process. The main bottleneck we face in using our knowledge is being able to access it. We have all had the experience of retrieval failure—that is, not being able to remember a piece of information that we know we have, and that we can access easily once the right set of cues is provided. Because access is difficult, it is important to jettison information that is not needed—that is, to forget it. Without forgetting, our minds would become cluttered with out-of-date or irrelevant information. And, just imagine how complicated life would be if we were unable to forget the names of past acquaintances, teachers, or romantic partners.
 
 But the value of forgetting is even greater than that. There is lots of evidence that some forgetting is a prerequisite for more learning. For example, the previously discussed benefits of distributing practice opportunities may arise in part because of the greater forgetting that takes places between those spaced learning events. It is for this reason that some encoding activities that are difficult and lead to the appearance of slow learning actually lead to superior learning in the long run (Bjork, 2011). When we opt for learning activities that enhance learning quickly, we must be aware that these are not always the same techniques that lead to durable, long-term learning.
@@ -145,3 +166,5 @@ The form of memory we use to hold onto information temporarily, usually for the 
 * Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. Applied Cognitive Psychology, 24, 837–848.
 * Tullis, J. G., & Benjamin, A. S. (2012). Consequences of restudy choices in younger and older learners. Psychonomic Bulletin & Review, 19, 743–749.
 * Tullis, J. G., & Benjamin, A. S. (2011). On the effectiveness of self-paced learning. Journal of Memory and Language, 64, 109–118.
+
+Adapted from Bouton, M. E. (2020). Conditioning and learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ajxhcqdr

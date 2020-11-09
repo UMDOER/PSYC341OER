@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "cogdevnav"
 ---
+
+By Tara Queen and Jacqui Smith, University of Michigan
+
 # Aging
 
 Traditionally, research on aging described only the lives of people over age 65 and the very old. Contemporary theories and research recognizes that biogenetic and psychological processes of aging are complex and lifelong. Functioning in each period of life is influenced by what happened earlier and, in turn, affects subsequent change. We all age in specific social and historical contexts. Together, these multiple influences on aging make it difficult to define when middle-age or old age begins. This module describes central concepts and research about adult development and aging. We consider contemporary questions about cognitive aging and changes in personality, self-related beliefs, social relationships, and subjective well-being. These four aspects of psychosocial aging are related to health and longevity
@@ -179,3 +182,5 @@ Memory system that allows for information to be simultaneously stored and utiliz
 * Uchino, B. N. (2009). What a lifespan approach might tell us about why distinct measures of social support have differential links to physical health. Journal of Social and Personal Relationships, 26(1), 53–62. DOI: 10.1177/0265407509105521
 * Umberson, D., Williams, K., Powers, D. A., Liu, H., & Needham, B. (2006). You make me sick: Marital quality and health over the life course. Journal of Health and Social Behavior, 47, 1–16.
 * Waite, L. J. & Gallagher, M. (2000). The case for marriage: Why married people are happier, healthier, and better off financially. New York: Doubleday.
+
+Adapted from Queen, T. & Smith, J. (2020). Aging. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/gtp7r548

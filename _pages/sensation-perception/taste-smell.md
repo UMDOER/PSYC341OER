@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "senpernav"
 ---
+
+By Linda Bartoshuk and Derek Snyder, University of Florida
+
 # Taste and Smell
 
 Humans are omnivores (able to survive on many different foods). The omnivore’s dilemma is to identify foods that are healthy and avoid poisons. Taste and smell cooperate to solve this dilemma. Stimuli for both taste and smell are chemicals. Smell results from a biological system that essentially permits the brain to store rough sketches of the chemical structures of odor stimuli in the environment. Thus, people in very different parts of the world can learn to like odors (paired with calories) or dislike odors (paired with nausea) that they encounter in their worlds. Taste information is preselected (by the nature of the receptors) to be relevant to nutrition. No learning is required; we are born loving sweet and hating bitter. Taste inhibits a variety of other systems in the brain. Taste damage releases that inhibition, thus intensifying sensations like those evoked by fats in foods. Ear infections and tonsillectomies both can damage taste. Adults who have experienced these conditions experience intensified sensations from fats and enhanced palatability of high-fat foods. This may explain why individuals who have had ear infections or tonsillectomies tend to gain weight.
@@ -11,11 +14,15 @@ Humans are omnivores (able to survive on many different foods). The omnivore’s
 * Explain the salient properties of taste and smell that help solve the omnivore’s dilemma.
 * Distinguish between the way pleasure/displeasure is produced by smells and tastes.
 * Explain how taste damage can have extensive unexpected consequences.
+
 ## The Omnivore's Dilemma
 Humans are omnivores. We can survive on a wide range of foods, unlike species, such as koalas, that have a highly specialized diet (for koalas, eucalyptus leaves). With our amazing dietary range comes a problem: the omnivore’s dilemma (Pollan, 2006; Rozin & Rozin, 1981). To survive, we must identify healthy food and avoid poisons. The senses of taste and smell cooperate to give us this ability. Smell also has other important functions in lower animals (e.g., avoid predators, identify sexual partners), but these functions are less important in humans. This module will focus on the way taste and smell interact in humans to solve the omnivore’s dilemma.
 
-Dental x-rays of an adult.
-By just examining our teeth, it is apparent that we are animals who evolved to eat a wide range of foods. [Image: Justin Mclean, https://goo.gl/ffk7ZV, CC BY-NC 2.0, https://goo.gl/VnKlK8]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/ts1.jpg" style="width:75%">
+    <figcaption> By just examining our teeth, it is apparent that we are animals who evolved to eat a wide range of foods. [Image: Justin Mclean, https://goo.gl/ffk7ZV, CC BY-NC 2.0, https://goo.gl/VnKlK8] </figcaption>
+</figure>
+
 ## Taste and Smell Anatomy
 Taste (gustation) and smell (olfaction) are both chemical senses; that is, the stimuli for these senses are chemicals. The more complex sense is olfaction. Olfactory receptors are complex proteins called G protein-coupled receptors (GPCRs). These structures are proteins that weave back and forth across the membranes of olfactory cells seven times, forming structures outside the cell that sense odorant molecules and structures inside the cell that activate the neural message ultimately conveyed to the brain by olfactory neurons. The structures that sense odorants can be thought of as tiny binding pockets with sites that respond to active parts of molecules (e.g., carbon chains). There are about 350 functional olfactory genes in humans; each gene expresses a particular kind of olfactory receptor. All olfactory receptors of a given kind project to structures called glomeruli (paired clusters of cells found on both sides of the brain). For a single molecule, the pattern of activation across the glomeruli paints a picture of the chemical structure of the molecule. Thus, the olfactory system can identify a vast array of chemicals present in the environment. Most of the odors we encounter are actually mixtures of chemicals (e.g., bacon odor). The olfactory system creates an image for the mixture and stores it in memory just as it does for the odor of a single molecule (Shepherd, 2005).
 
@@ -24,7 +31,12 @@ Taste is simpler than olfaction. Bitter and sweet utilize GPCRs, just as olfacti
 Sweet is even simpler. The primary sweet receptor is composed of two different G protein-coupled receptors; each of these two proteins ends in large structures reminiscent of Venus flytraps. This complex receptor has multiple sites that can bind different structures. The Venus flytrap endings open so that even some very large molecules can fit inside and stimulate the receptor.
 
 ## Head anatomy with olfactory nerve
-Although smell plays a less integral role in our lives than it does for other animals, it is highly important in determining taste. In fact, if you plug your nose while eating chocolate, you will have a difficult time distinguishing it from any other kind of sweet. [Image: Patrick J. Lynch, https://goo.gl/d5CIff, CC BY 2.5, https://goo.gl/0QtWcf]
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/ts2.jpg" style="width:75%">
+    <figcaption> Although smell plays a less integral role in our lives than it does for other animals, it is highly important in determining taste. In fact, if you plug your nose while eating chocolate, you will have a difficult time distinguishing it from any other kind of sweet. [Image: Patrick J. Lynch, https://goo.gl/d5CIff, CC BY 2.5, https://goo.gl/0QtWcf] </figcaption>
+</figure>
+
 Bitter is inclusive (i.e., multiple receptors tuned to very different chemical structures feed into common neurons). Sweet is exclusive. There are many sugars with similar structures, but only three of these are particularly important to humans (sucrose, glucose, and fructose). Thus, our sweet receptor tunes out most sugars, leaving only the most important to stimulate the sweet receptor. However, the ability of the sweet receptor to respond to some non-sugars presents us with one of the great mysteries of taste. Several non-sugar molecules can stimulate the primary sweet receptor (e.g., saccharine, aspartame, cyclamate). These have given rise to the artificial sweetener industry, but their biological significance is unknown. What biological purpose is served by allowing these non-sugar molecules to stimulate the primary sweet receptor?
 
 Some would have us believe that artificial sweeteners are a boon to those who want to lose weight. It seems like a no-brainer. Sugars have calories; saccharin does not. Theoretically, if we replace sugar with saccharin in our diets, we will lose weight. In fact, recent work showed that rats actually gained weight when saccharin was substituted for glucose (Swithers & Davidson, 2008). It turns out that substituting saccharin for sugar can increase appetite so more is eaten later. In addition, eating artificial sweeteners appears to alter metabolism, thus making losing weight even harder. So why did nature give us artificial sweeteners? We don’t know.
@@ -34,8 +46,12 @@ One more mystery about sweet deserves comment. The discovery of the sweet recept
 Salty and sour are the simplest tastes; these stimuli ionize (break into positively and negatively charged particles). The first event in the transduction series is the movement of the positively charged particle through channels in the taste cell membrane (Chaudhari & Roper, 2010).
 
 ## Solving the omnivore’s dilemma: Taste affect is hard-wired
-An infant breastfeeds.
-Just how biologically ingrained is our love for sweets? Newborn infants immediately love sweet tastes, while the taste for salty foods takes longer to develop. [Image: shingleback, https://goo.gl/fbUH3r, CC BY 2.0, https://goo.gl/BRvSA7]
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/ts3.jpg" style="width:75%">
+    <figcaption> Just how biologically ingrained is our love for sweets? Newborn infants immediately love sweet tastes, while the taste for salty foods takes longer to develop. [Image: shingleback, https://goo.gl/fbUH3r, CC BY 2.0, https://goo.gl/BRvSA7] </figcaption>
+</figure>
+
 The pleasure associated with sweet and salty and the displeasure associated with sour and bitter are hard-wired in the brain. Newborns love sweet (taste of mother’s milk) and hate bitter (poisons) immediately. The receptors mediating salty taste are not mature at birth in humans, but when they are mature a few weeks after birth, the baby likes dilute salt (although more concentrated salt will evoke stinging sensations that will be avoided). Sour is generally disliked (protecting against tissue damage from acid?), but to the amazement of many parents, some young children appear to actually like the sour candies available today; this may be related to the breadth of their experience with fruits (Liem & Mennella, 2003). This hard-wired affect is the most salient characteristic of taste and this is why we classify only those taste qualities with hard-wired affect as “basic tastes.”
 
 ## Another contribution to the omnivore’s dilemma: Olfactory affect is learned
@@ -45,8 +61,11 @@ When we chew and swallow food, the odorants emitted by the food are forced up be
 
 If retronasal olfaction is paired with nausea, the food evoking the retronasal olfactory sensation becomes disliked. If retronasal olfaction is paired with situations the brain deems valuable (calories, sweet taste, pleasure from other sources, etc.), the food evoking that sensation becomes liked. These are called conditioned aversions and preferences (Rozin & Vollmecke, 1986).
 
-A hamburger with a bio-hazard symbol drawn on the bun with ketchup.
-There are few associations more powerful than the taste of food and an experience of sickness. In fact, many people will go their whole lives without ever trying a food again that once made them sick. [Image: James Palinsad, https://goo.gl/r2Bph4, CC BY-ND 2.0, https://goo.gl/VnHMcZ]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/ts4.jpg" style="width:75%">
+    <figcaption> There are few associations more powerful than the taste of food and an experience of sickness. In fact, many people will go their whole lives without ever trying a food again that once made them sick. [Image: James Palinsad, https://goo.gl/r2Bph4, CC BY-ND 2.0, https://goo.gl/VnHMcZ] </figcaption>
+</figure>
+
 Those who have experienced a conditioned aversion may have found that the dislike (even disgust) evoked when a flavor is paired with nausea can generalize to the smell of the food alone (orthonasal olfaction). Some years ago, Jeremy Wolfe and Linda Bartoshuk surveyed conditioned aversions among college students and staff that had resulted from consuming foods/beverages associated with nausea (Bartoshuk & Wolfe, 1990). In 29% of the aversions, subjects reported that even the smell of the food/beverage had become aversive. Other properties of food objects can become aversive as well. In one unusual case, an aversion to cheese crackers generalized to vanilla wafers apparently because the containers were similar. Conditioned aversions function to protect us from ingesting a food that our brains associate with illness. Conditioned preferences are harder to form, but they help us learn what is safe to eat.
 
 Is the affect associated with olfaction ever hard-wired? Pheromones are said to be olfactory molecules that evoke specific behaviors. Googling “human pheromone” will take you to websites selling various sprays that are supposed to make one more sexually appealing. However, careful research does not support such claims in humans or any other mammals (Doty, 2010). For example, amniotic fluid was at one time believed to contain a pheromone that attracted rat pups to their mother’s nipples so they could suckle. Early interest in identifying the molecule that acted as that pheromone gave way to understanding that the behavior was learned when a novel odorant, citral (which smells like lemons), was easily substituted for amniotic fluid (Pedersen, Williams, & Blass, 1982).
@@ -60,8 +79,11 @@ Taste on the anterior two thirds of the tongue (the part you can stick out) is m
 
 The structures that house taste buds innervated by the glossopharyngeal nerve are called circumvallate papillae. They are relatively large structures arrayed in an inverted V shape across the back of the tongue. Each of them looks like a small island surrounded by a moat.
 
-A selection of canned peppers and hot sauces on a supermarket shelf.
-Approximately 25% of people are “non-tasters,” 50% are “medium tasters,” and another 25% are “super tasters.” The better the “taster” one is, the less he or she can typically tolerate spicy foods, salt, and the taste of alcohol. [Image: Rosie Rogers, https://goo.gl/j7SepS, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/ts5.jpg" style="width:75%">
+    <figcaption> Approximately 25% of people are “non-tasters,” 50% are “medium tasters,” and another 25% are “super tasters.” The better the “taster” one is, the less he or she can typically tolerate spicy foods, salt, and the taste of alcohol. [Image: Rosie Rogers, https://goo.gl/j7SepS, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF] </figcaption>
+</figure>
+
 Taste nerves project to the brain, where they send inhibitory signals to one another. One of the biological consequences of this inhibition is taste constancy. Damage to one nerve reduces taste input but also reduces inhibition on the other nerves (Bartoshuk et al 2005). That release of inhibition intensifies the central neural signals from the undamaged nerves, thereby maintaining whole mouth function. Interestingly, this release of inhibition can be so powerful that it actually increases whole mouth taste. The small effect of limited taste damage is one of the earliest clinical observations. In 1825, Brillat-Savarin described in his book The Physiology of Taste an interview with an ex-prisoner who had suffered a horrible punishment: amputation of his tongue. “This man, whom I met in Amsterdam, where he made his living by running errands, had had some education, and it was easy to communicate with him by writing. After I had observed that the forepart of his tongue has been cut off clear to the ligament, I asked him if he still found any flavor in what he ate, and if his sense of taste had survived the cruelty to which he had been subjected. He replied that … he still possessed the ability to taste fairly well” (Brillat-Savarin, 1971, pg. 35). This injury damaged the chorda tympani but spared the glossopharyngeal nerve.
 
 We now know that taste nerves not only inhibit one another but also inhibit other oral sensations. Thus, taste damage can intensify oral touch (fats) and oral burn (chilis). In fact, taste damage appears to be linked to pain in general. Consider an animal injured in the wild. If pain reduced eating, its chance of survival would be diminished. However, nature appears to have wired the brain such that taste input inhibits pain. Eating is reinforced and the animal’s chances of survival increase.
@@ -105,3 +127,5 @@ Perceiving scents/smells introduced via the mouth/palate.
 * Rozin, P., & Vollmecke, T.A. (1986). Food likes and dislikes. Annual Review of Nutrition, 6, 433-456.
 * Shepherd, G. M. (2005). Outline of a theory of olfactory processing and its relevance to humans. Chemical Senses, 30(Suppl 1), i3-i5.
 * Swithers, S. E., & Davidson, T. L. (2008). A role for sweet taste: Calorie predictive relations in energy regulation by rats. Behavioral Neuroscience, 122(1), 161-173.
+
+Adapted from Bartoshuk, L. & Snyder, D. (2020). Taste and smell. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/k92myz65
