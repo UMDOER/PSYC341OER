@@ -45,9 +45,9 @@ One additional feature of modern science not included in this list but prevalent
 On the other hand, some claims cannot be tested and falsified. Imagine, for instance, that a magician claims that he can teach people to move objects with their minds. The trick, he explains, is to truly believe in one’s ability for it to work. When his students fail to budge chairs with their minds, the magician scolds, “Obviously, you don’t truly believe.” The magician’s claim does not qualify as falsifiable because there is no way to disprove it. It is unscientific.
 
 Popper was particularly irritated about nonscientific claims because he believed they were a threat to the science of psychology. Specifically, he was dissatisfied with Freud’s explanations for mental illness. Freud believed that when a person suffers a mental illness it is often due to problems stemming from childhood. For instance, imagine a person who grows up to be an obsessive perfectionist. If she were raised by messy, relaxed parents, Freud might argue that her adult perfectionism is a reaction to her early family experiences—an effort to maintain order and routine instead of chaos. Alternatively, imagine the same person being raised by harsh, orderly parents. In this case, Freud might argue that her adult tidiness is simply her internalizing her parents’ way of being. As you can see, according to Freud’s rationale, both opposing scenarios are possible; no matter what the disorder, Freud’s theory could explain its childhood origin—thus failing to meet the principle of falsifiability.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/think3.jpg" style="width:80%">
-    <figcaption> Lucinda Douglas-Menzies, https://goo.gl/uuqxCe </figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:60%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/think3.jpg" >
+    <figcaption>Lucinda Douglas-Menzies, https://goo.gl/uuqxCe</figcaption>
 </figure>
 Karl Popper was an influential thinker regarding scientific theory and reasoning.
 Popper argued against statements that could not be falsified. He claimed that they blocked scientific progress: There was no way to advance, refine, or refute knowledge based on such claims. Popper’s solution was a powerful one: If science showed all the possibilities that were not true, we would be left only with what is true. That is, we need to be able to articulate—beforehand—the kinds of evidence that will disprove our hypothesis and cause us to abandon it.
@@ -134,11 +134,10 @@ It’s because of such methodologies that science is generally trustworthy. Not 
 
 ## Scientific Theories
 The knowledge generated from research is organized according to scientific theories. A scientific theory is a comprehensive framework for making sense of evidence regarding a particular phenomenon. When scientists talk about a theory, they mean something different from how the term is used in everyday conversation. In common usage, a theory is an educated guess—as in, “I have a theory about which team will make the playoffs,” or, “I have a theory about why my sister is always running late for appointments.” Both of these beliefs are liable to be heavily influenced by many untrustworthy factors, such as personal opinions and memory biases. A scientific theory, however, enjoys support from many research studies, collectively providing evidence, including, but not limited to, that which has falsified competing explanations. A key component of good theories is that they describe, explain, and predict in a way that can be empirically tested and potentially falsified.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/think7.png" style="width:80%">
-    <figcaption> Pearson Scott Foresman, https://goo.gl/W3izMR, Public Domain </figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:60%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/think7.png" >
+    <figcaption>Pearson Scott Foresman, https://goo.gl/W3izMR, Public Domain <br/> Early theories placed the Earth at the center of the solar system. We now know that the Earth revolves around the sun.</figcaption>
 </figure>
-Early theories placed the Earth at the center of the solar system. We now know that the Earth revolves around the sun.
 
 Theories are open to revision if new evidence comes to light that compels reexamination of the accumulated, relevant data. In ancient times, for instance, people thought the Sun traveled around the Earth. This seemed to make sense and fit with many observations. In the 16th century, however, astronomers began systematically charting visible objects in the sky, and, over a 50-year period, with repeated testing, critique, and refinement, they provided evidence for a revised theory: The Earth and other cosmic objects revolve around the Sun. In science, we believe what the best and most data tell us. If better data come along, we must be willing to change our views in accordance with the new evidence.
 
@@ -148,10 +147,11 @@ Thomas Kuhn (2012), a historian of science, argued that science, as an activity 
 To illustrate the relationship between facts and values, consider the problem of global warming. A vast accumulation of evidence (facts) substantiates the adverse impact that human activity has on the levels of greenhouse gases in Earth’s atmosphere leading to changing weather patterns. There is also a set of beliefs (values), shared by many people, that influences their choices and behaviors in an attempt to address that impact (e.g., purchasing electric vehicles, recycling, bicycle commuting). Our values—in this case, that Earth as we know it is in danger and should be protected—influence how we engage with facts. People (including scientists) who strongly endorse this value, for example, might be more attentive to research on renewable energy.
 
 The primary point of this illustration is that (contrary to the image of scientists as outside observers to the facts, gathering them neutrally and without bias from the natural world) all science—especially social sciences like psychology—involves values and interpretation. As a result, science functions best when people with diverse values and backgrounds work collectively to understand complex natural phenomena.
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/think8.png" style="width:80%">
-    <figcaption> </figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;margin-bottom:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/think8.png" >
+    <figcaption></figcaption>
 </figure>
+
 Indeed, science can benefit from multiple perspectives. One approach to achieving this is through levels of analysis. Levels of analysis is the idea that a single phenomenon may be explained at different levels simultaneously. Remember the question concerning cramming for a test versus studying over time? It can be answered at a number of different levels of analysis. At a low level, we might use brain scanning technologies to investigate whether biochemical processes differ between the two study strategies. At a higher level—the level of thinking—we might investigate processes of decision making (what to study) and ability to focus, as they relate to cramming versus spaced practice. At even higher levels, we might be interested in real world behaviors, such as how long people study using each of the strategies. Similarly, we might be interested in how the presence of others influences learning across these two strategies. Levels of analysis suggests that one level is not more correct—or truer—than another; their appropriateness depends on the specifics of the question asked. Ultimately, levels of analysis would suggest that we cannot understand the world around us, including human psychology, by reducing the phenomenon to only the biochemistry of genes and dynamics of neural networks. But, neither can we understand humanity without considering the functions of the human nervous system.
 
 ## Science in Context
