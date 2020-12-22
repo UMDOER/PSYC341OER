@@ -4,7 +4,7 @@ sidebar:
   nav: "cogdevnav"
 ---
 
-By Tara Queen and Jacqui Smith, University of Michigan
+Adapted from Queen, T. & Smith, J. (2020). Aging. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/gtp7r548
 
 # Aging
 
@@ -182,5 +182,3 @@ Memory system that allows for information to be simultaneously stored and utiliz
 * Uchino, B. N. (2009). What a lifespan approach might tell us about why distinct measures of social support have differential links to physical health. Journal of Social and Personal Relationships, 26(1), 53–62. DOI: 10.1177/0265407509105521
 * Umberson, D., Williams, K., Powers, D. A., Liu, H., & Needham, B. (2006). You make me sick: Marital quality and health over the life course. Journal of Health and Social Behavior, 47, 1–16.
 * Waite, L. J. & Gallagher, M. (2000). The case for marriage: Why married people are happier, healthier, and better off financially. New York: Doubleday.
-
-Adapted from Queen, T. & Smith, J. (2020). Aging. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/gtp7r548
