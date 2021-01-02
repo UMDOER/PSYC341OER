@@ -67,10 +67,39 @@ Pages that end with **.md** can be edited using Markdown, an easy way of editing
 
 If you want to add or delete a page from the sidebar, follow these steps:
 
-1) Add a page to the **_pages** folder, or delete the selected page by clicking the trashcan icon in the top right corner:
+**1)** Add a page to the **_pages** folder, or delete the selected page by clicking the trashcan icon in the top right corner:
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.23.31 PM.png" style="width:20%">
 </figure>
+
+**2)** In **_data**, go to navigation.yml. 
+
+Each sidebar is organized in the same format:
+
+side_bar_name:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/_pages/url_goes_here.html
+    children:
+      - title: Category 1
+        url: https://umdoer.github.io/PSYC341OER/_pages/child1/page.html
+      - title: Category 2
+        url: https://umdoer.github.io/PSYC341OER/_pages/child2/page.html
+        
+For example, here is the beginning of the sidebar for the Sensation and Perception pages:
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.30.39 PM.png" style="width:20%">
+</figure>
+
+Which, when published, leads to this:
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.31.19 PM.png" style="width:20%">
+</figure>
+
+Therefore, when adding or deleting a page, you must also add or delete the code for that page in the sidebar. 
+
+
 
 
