@@ -1,10 +1,10 @@
 # PSYC341OER
 ## Table of Contents
-* Introduction
-* Contributors 
-* Become a Contributor
-* Navigating the Repository
-* Making Changes
+* [Introduction](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#introduction)
+* [Contributors](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#contributors)
+* [Become a Contributor](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#become_a_contributor)
+* [Navigating the Repository](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#Navigating_the_Repository)
+* [Making Changes](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#making_changes)
 
 # Introduction
 
