@@ -55,4 +55,6 @@ Additionally, there are several lone pages:
 * **_congig.yml** has information on the theme and layout
 * **index.md** is the main page of the website
 
-## File types
+## Editing in Markdown
+
+Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
