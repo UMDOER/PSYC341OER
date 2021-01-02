@@ -77,14 +77,9 @@ If you want to add or delete a page from the sidebar, follow these steps:
 
 Each sidebar is organized in the same format:
 
-side_bar_name:
-  --title: Home
-    -url: [URL goes here]
-    -children:
-      -- title: Category 1
-        -url: [URL goes here]
-      -- title: Category 2
-        -url: [URL goes here]
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.35.55 PM.png" style="width:20%">
+</figure>
         
 For example, here is the beginning of the sidebar for the Sensation and Perception pages:
 
