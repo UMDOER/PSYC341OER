@@ -95,6 +95,5 @@ Which, when published, leads to this:
 
 Therefore, when adding or deleting a page, you must also add or delete the code for that page in the sidebar. 
 
-
-
+**3)** If your page is referenced in the Table of Contents on the **index.md** page, you must add or delete it there. 
 
