@@ -35,6 +35,11 @@ To propose a change without editing directly, you can issue a pull request. This
 
 For more information on how to create a pull request, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
+### Editing in Markdown
+
+Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
+
+
 ## Navigating the Repository
 
 The repository is organized into several folders on the main page:
@@ -55,6 +60,3 @@ Additionally, there are several lone pages:
 * **_congig.yml** has information on the theme and layout
 * **index.md** is the main page of the website
 
-## Editing in Markdown
-
-Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
