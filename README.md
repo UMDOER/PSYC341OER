@@ -10,9 +10,9 @@
 The goal of this project is to provide an open-source, ever-expanding body of information for PSYC341: Introduction to Memory and Cognition. This platform, Github, allows many users to contribute to the main site or make their own variations. Ideally, this site will provide a mix of written and multimedia information to encourage learning through several mediums.    
 
 ## Contributors
-*Bob Slevc
-*Camille Burns
-*Sam Santomartino
+* Bob Slevc
+* Camille Burns
+* Sam Santomartino
 
 ## How to Contribute
 
