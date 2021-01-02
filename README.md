@@ -102,6 +102,7 @@ Therefore, when adding or deleting a page, you must also add or delete the code 
 To add images to your .md page, follow these steps:
 
 **1)** Upload your image to the **images** folder.
+
 **2)** Insert your image using the following format:
 
 <figure>
