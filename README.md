@@ -78,9 +78,9 @@ If you want to add or delete a page from the sidebar, follow these steps:
 Each sidebar is organized in the same format:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.35.55 PM.png" style="width:20%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.35.55 PM.png" style="width:30%">
 </figure>
-        
+
 For example, here is the beginning of the sidebar for the Sensation and Perception pages:
 
 <figure>
@@ -97,3 +97,17 @@ Therefore, when adding or deleting a page, you must also add or delete the code 
 
 **3)** If your page is referenced in the Table of Contents on the **index.md** page, you must add or delete it there. 
 
+### Adding Images
+
+To add images to your .md page, follow these steps:
+
+**1)** Upload your image to the **images** folder.
+**2)** Insert your image using the following format:
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.41.50 PM.png" style="width:20%">
+</figure>
+
+* The **figure style** can be edited to change the alignment, margins, and size of the photo
+* The **img src** is the URL, linking to the uploaded photo in the **images** folder
+* The **fig caption** refers to the text underneath the photo
