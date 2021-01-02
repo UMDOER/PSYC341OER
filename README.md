@@ -18,7 +18,7 @@ The site falls under Creative Commons Zero v1.0 Universa licensure.
 * Sam Santomartino
 
 # Become a Contributor
-### Forking
+## Forking
 
 The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
 
@@ -30,7 +30,7 @@ When editing, you can commit your changes to the master branch, or fork to a new
 
 For more information on how to fork, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
 
-### Pull Requests
+## Pull Requests
 
 To propose a change without editing directly, you can issue a pull request. This request will allow you to add comments and discuss the changes with collaborators before the edits are published. 
 
@@ -59,11 +59,11 @@ Additionally, there are several lone pages:
 
 # Making Changes
 
-### Editing in Markdown
+## Editing in Markdown
 
 Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
 
-### Changing the Sidebar
+## Changing the Sidebar
 
 If you want to add or delete a page from the sidebar, follow these steps:
 
@@ -97,7 +97,7 @@ Therefore, when adding or deleting a page, you must also add or delete the code 
 
 **3)** If your page is referenced in the Table of Contents on the **index.md** page, you must add or delete it there. 
 
-### Adding Images
+## Adding Images
 
 To add images to your .md page, follow these steps:
 
