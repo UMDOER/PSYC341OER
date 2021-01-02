@@ -43,16 +43,16 @@ The repository is organized into several folders on the main page:
     <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">
 </figure>
 
-* _data holds the .nav page, which creates the sidebar of links
-* _pages holds the multiple pages for each subject and is divided by subject
-* _sass holds the _variables page, which dictages fonts and format
-* images holds every image used on the site; it is necessary to upload images here before they can be used
+* **_data** holds the .nav page, which creates the sidebar of links
+* **_pages** holds the multiple pages for each subject and is divided by subject
+* **_sass** holds the _variables page, which dictages fonts and format
+* **images** holds every image used on the site; it is necessary to upload images here before they can be used
 
 Additionally, there are several lone pages:
-* .gitignore and Gemfile have information about the current theme
-* LICENSE has more information about Creative Commons Zero v1.0 Universa
-* README.md is this!
-* _congig.yml has information on the theme and layout
-* index.md is the main page of the website
+* **.gitignore and Gemfile** have information about the current theme
+* **LICENSE** has more information about Creative Commons Zero v1.0 Universa
+* **README.md** is this!
+* **_congig.yml** has information on the theme and layout
+* **index.md** is the main page of the website
 
 ## File types
