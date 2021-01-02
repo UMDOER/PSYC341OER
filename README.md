@@ -21,7 +21,9 @@ The site falls under Creative Commons Zero v1.0 Universa licensure.
 
 The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
 
-When editing, you can commit your changes to the master branch, or fork to a new seperate branch. Forking is essentially making a copy; editing your seperate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab.
+When editing, you can commit your changes to the master branch, or fork to a new seperate branch. Forking is essentially making a copy; editing your seperate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab:
+
+![](/images/Screen Shot 2021-01-02 at 11.54.38 AM.png)
 
 For more information on how to fork, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
 
