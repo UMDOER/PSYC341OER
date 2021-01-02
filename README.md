@@ -70,7 +70,7 @@ If you want to add or delete a page from the sidebar, follow these steps:
 1) Add a page to the **_pages** folder, or delete the selected page by clicking the trashcan icon in the top right corner:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.23.31 PM.png" style="width:20%">
 </figure>
 
 
