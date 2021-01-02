@@ -24,7 +24,7 @@ The current site--called the "repository"--is the center for editing and branchi
 When editing, you can commit your changes to the master branch, or fork to a new seperate branch. Forking is essentially making a copy; editing your seperate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.54.38 AM.png" style="width:80%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.54.38 AM.png" style="width:50%">
 </figure>
 
 For more information on how to fork, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
