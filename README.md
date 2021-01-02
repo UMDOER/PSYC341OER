@@ -17,7 +17,7 @@ The site falls under Creative Commons Zero v1.0 Universa licensure.
 * Camille Burns
 * Sam Santomartino
 
-## Become a Contributor
+# Become a Contributor
 ### Forking
 
 The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
@@ -37,7 +37,7 @@ To propose a change without editing directly, you can issue a pull request. This
 For more information on how to create a pull request, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 
-## Navigating the Repository
+# Navigating the Repository
 
 The repository is organized into several folders on the main page:
 
@@ -57,7 +57,7 @@ Additionally, there are several lone pages:
 * **_congig.yml** has information on the theme and layout
 * **index.md** is the main page of the website
 
-## Making Changes
+# Making Changes
 
 ### Editing in Markdown
 
