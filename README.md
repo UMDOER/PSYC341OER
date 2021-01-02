@@ -2,8 +2,9 @@
 ## Table of Contents
 * Introduction
 * Contributors 
-* How to Contribute
+* Become a Contributor
 * Navigating the Repository
+* Making Changes
 
 ## Introduction
 
@@ -16,7 +17,7 @@ The site falls under Creative Commons Zero v1.0 Universa licensure.
 * Camille Burns
 * Sam Santomartino
 
-## How to Contribute
+## Become a Contributor
 ### Forking
 
 The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
@@ -34,10 +35,6 @@ For more information on how to fork, click [here.](https://docs.github.com/en/fr
 To propose a change without editing directly, you can issue a pull request. This request will allow you to add comments and discuss the changes with collaborators before the edits are published. 
 
 For more information on how to create a pull request, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-
-### Editing in Markdown
-
-Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
 
 
 ## Navigating the Repository
@@ -59,4 +56,21 @@ Additionally, there are several lone pages:
 * **README.md** is this!
 * **_congig.yml** has information on the theme and layout
 * **index.md** is the main page of the website
+
+## Making Changes
+
+### Editing in Markdown
+
+Pages that end with **.md** can be edited using Markdown, an easy way of editing Github pages. Editing in markdown is simple; [this page](https://guides.github.com/features/mastering-markdown/) outlines the basics.
+
+### Changing the Sidebar
+
+If you want to add or delete a page from the sidebar, follow these steps:
+
+1) Add a page to the **_pages** folder, or delete the selected page by clicking the trashcan icon in the top right corner:
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">
+</figure>
+
 
