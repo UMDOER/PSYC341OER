@@ -34,7 +34,7 @@ For more information on how to fork, click [here.](https://docs.github.com/en/fr
 
 ## Pull Requests
 
-To propose a change without editing directly, you can issue a pull request. This request will allow you to add comments and discuss the changes with collaborators before the edits are published. 
+To propose a change without editing directly, you can issue a pull request. This request will allow you to add comments and discuss the changes with collaborators before the edits are published. Anyone can send a pull request, and this request will go to those with write permissions for approval. This way, only approved content will appear on the site.
 
 For more information on how to create a pull request, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
