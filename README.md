@@ -12,7 +12,7 @@ The primary goal of project aims to provide an open-source, ever-expanding body 
 
 This site is hosted via Github, allowing many users to contribute to the main site or to make their own variations. Ideally/eventually, this site will provide a mix of written and multimedia information to encourage learning through several mediums. 
 
-This site material itself falls in the Public Domain - i.e., licenced under a [Creative Commons Zero v1.0 Universa licensure](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that most sections are licened under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
+This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universa licensure](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that most sections are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
 
 # Contributors
 * [Bob Slevc](https://psyc.umd.edu/facultyprofile/slevc/l-robert)
@@ -20,17 +20,23 @@ This site material itself falls in the Public Domain - i.e., licenced under a [
 * Sam Santomartino
 
 # Become a Contributor
-## Forking
+## GitHub
 
 The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
 
-When editing, you can commit your changes to the master branch, or fork to a new seperate branch. Forking is essentially making a copy; editing your seperate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab:
+You do not need a GitHub account to view the published site, however you do need an account to make edits or contributions.
+
+## Forking
+
+When editing, you should “fork” to a new, separate, branch. Forking is essentially making a copy, and a local repository of the project is created. Editing your separate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab:
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.54.38 AM.png" style="width:20%">
 </figure>
 
 For more information on how to fork, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+
+Make any changes in your new, local repository. When you wish to add your changes to the “master branch,” (i.e. the live, published version of the text) you can use a “pull request” to send the edits from your user-owned fork to the original repository, for approval. 
 
 ## Pull Requests
 
