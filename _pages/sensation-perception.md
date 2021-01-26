@@ -45,8 +45,11 @@ A similar principle to the absolute threshold discussed above underlies our abil
 
 Crossing into the world of perception, it is clear that our experience influences how our brain processes things. You have tasted food that you like and food that you don’t like. There are some bands you enjoy and others you can’t stand. However, during the time you first eat something or hear a band, you process those stimuli using bottom-up processing. This is when we build up to perception from the individual pieces. Sometimes, though, stimuli we’ve experienced in our past will influence how we process new ones. This is called top-down processing. The best way to illustrate these two concepts is with our ability to read. Read the following quote out loud:
 
-The words in the triangle read, "I love Paris in the the spring." The repeated word "the" appears on two separate lines within the triangle.
-Figure 1. An example of stimuli processing.
+<figure>
+    <img src="https://nobaproject.com/images/shared/images/000/001/789/original.jpg" style="width:100%">
+    <figcaption> Figure 1. An example of stimuli processing. The words in the triangle read, "I love Paris in the the spring." The repeated word "the" appears on two separate lines within the triangle. </figcaption>
+</figure>
+
 Notice anything odd while you were reading the text in the triangle? Did you notice the second “the”? If not, it’s likely because you were reading this from a top-down approach. Having a second “the” doesn’t make sense. We know this. Our brain knows this and doesn’t expect there to be a second one, so we have a tendency to skip right over it. In other words, your past experience has changed the way you perceive the writing in the triangle! A beginning reader—one who is using a bottom-up approach by carefully attending to each piece—would be less likely to make this error.
 
 Finally, it should be noted that when we experience a sensory stimulus that doesn’t change, we stop paying attention to it. This is why we don’t feel the weight of our clothing, hear the hum of a projector in a lecture hall, or see all the tiny scratches on the lenses of our glasses. When a stimulus is constant and unchanging, we experience sensory adaptation. This occurs because if a stimulus does not change, our receptors quit responding to it. A great example of this occurs when we leave the radio on in our car after we park it at home for the night. When we listen to the radio on the way home from work the volume seems reasonable. However, the next morning when we start the car, we might be startled by how loud the radio is. We don’t remember it being that loud last night. What happened? We adapted to the constant stimulus (the radio volume) over the course of the previous day and increased the volume at various times. 
@@ -61,7 +64,7 @@ Because we have two eyes in different locations, the image focused on each retin
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://nobaproject.com/images/shared/images/000/002/361/original.png" >
-    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, CC BY 3.0 </figcaption>
+    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, CC BY 3.0] </figcaption>
 </figure>
 
 It is in the retina that light is transduced, or converted into electrical signals, by specialized cells called photoreceptors. The retina contains two main kinds of photoreceptors: rods and cones. Rods are primarily responsible for our ability to see in dim light conditions, such as during the night. Cones, on the other hand, provide us with the ability to see color and fine detail when the light is brighter. Rods and cones differ in their distribution across the retina, with the highest concentration of cones found in the fovea (the central region of focus), and rods dominating the periphery (see Figure 2). The difference in distribution can explain why looking directly at a dim star in the sky makes it seem to disappear; there aren’t enough rods to process the dim light!
@@ -73,7 +76,12 @@ Humans have the ability to adapt to changes in light conditions. As mentioned be
 
 ## Color vision
 This image is an illustration of the opponent process theory of vision. The image depicts the Canadian flag. Where the familiar Canadian flag is a red maple leaf on a white background bordered by two white columns this image is different. It shows a green maple leaf on a black background bordered by green columns. If a person stares at the green and black flag and then diverts their eyes to a blank surface such as a wall an "after image" of the Canadian flag will appear to hover there, only it will appear in red and white! Exactly the opposite colors the person was just staring at. 
-Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme.
+
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://nobaproject.com/images/shared/images/000/001/791/original.jpg" >
+    <figcaption> Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme. </figcaption>
+</figure>
+
 Our cones allow us to see details in normal light conditions, as well as color. We have cones that respond preferentially, not exclusively, for red, green and blue (Svaetichin, 1955). This trichromatic theory is not new; it dates back to the early 19th century (Young, 1802; Von Helmholtz, 1867). This theory, however, does not explain the odd effect that occurs when we look at a white wall after staring at a picture for around 30 seconds. Try this: stare at the image of the flag in Figure 3 for 30 seconds and then immediately look at a sheet of white paper or a wall. According to the trichromatic theory of color vision, you should see white when you do that. Is that what you experienced? As you can see, the trichromatic theory doesn’t explain the afterimage you just witnessed. This is where the opponent-process theory comes in (Hering, 1920). This theory states that our cones send information to retinal ganglion cells that respond to pairs of colors (red-green, blue-yellow, black-white). These specialized cells take information from the cones and compute the difference between the two colors—a process that explains why we cannot see reddish-green or bluish-yellow, as well as why we see afterimages. Color deficient vision can result from issues with the cones or retinal ganglion cells involved in color vision.
 
 ## Hearing (Audition)
@@ -82,7 +90,12 @@ Some of the most well-known celebrities and top earners in the world are musicia
 People are capable of getting a large amount of information from the basic qualities of sound waves. The amplitude (or intensity) of a sound wave codes for the loudness of a stimulus; higher amplitude sound waves result in louder sounds. The pitch of a stimulus is coded in the frequency of a sound wave; higher frequency sounds are higher pitched. We can also gauge the quality, or timbre, of a sound by the complexity of the sound wave. This allows us to tell the difference between bright and dull sounds as well as natural and synthesized instruments (Välimäki & Takala, 1996).
 
 This figure depicts a diagram of the human ear. It labels the various pieces of anatomy associated with hearing including-- but not limited to-- the ear drum, cochlea, and auditory nerve. 
-Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized.
+
+<figure>
+    <img src="https://nobaproject.com/images/shared/images/000/001/792/original.png" style="width:100%">
+    <figcaption> Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized. </figcaption>
+</figure>
+
 In order for us to sense sound waves from our environment they must reach our inner ear. Lucky for us, we have evolved tools that allow those waves to be funneled and amplified during this journey. Initially, sound waves are funneled by your pinna (the external part of your ear that you can actually see) into your auditory canal (the hole you stick Q-tips into despite the box advising against it). During their journey, sound waves eventually reach a thin, stretched membrane called the tympanic membrane (eardrum), which vibrates against the three smallest bones in the body—the malleus (hammer), the incus (anvil), and the stapes (stirrup)—collectively called the ossicles. Both the tympanic membrane and the ossicles amplify the sound waves before they enter the fluid-filled cochlea, a snail-shell-like bone structure containing auditory hair cells arranged on the basilar membrane (see Figure 4) according to the frequency they respond to (called tonotopic organization). Depending on age, humans can normally detect sounds between 20 Hz and 20 kHz. It is inside the cochlea that sound waves are converted into an electrical message.
 
 Because we have an ear on each side of our head, we are capable of localizing sound in 3D space pretty well (in the same way that having two eyes produces 3D vision). Have you ever dropped something on the floor without seeing where it went? Did you notice that you were somewhat capable of locating this object based on the sound it made when it hit the ground? We can reliably locate something based on which ear receives the sound first. What about the height of a sound? If both ears receive a sound at the same time, how are we capable of localizing sound vertically? Research in cats (Populin & Yin, 1998) and humans (Middlebrooks & Green, 1991) has pointed to differences in the quality of sound waves depending on vertical positioning.
@@ -98,8 +111,11 @@ Who doesn’t love the softness of an old t-shirt or the smoothness of a clean s
 ## Tactile sensation
 Tactile stimuli—those that are associated with texture—are transduced by special receptors in the skin called mechanoreceptors. Just like photoreceptors in the eye and auditory hair cells in the ear, these allow for the conversion of one kind of energy into a form the brain can understand.
 
-Diagram of the Somatosensoy Map described in the text.
-Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body.
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://nobaproject.com/images/shared/images/000/002/887/original.png" >
+    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. </figcaption>
+</figure>
+
 After tactile stimuli are converted by mechanoreceptors, information is sent through the thalamus to the primary somatosensory cortex for further processing. This region of the cortex is organized in a somatotopic map where different regions are sized based on the sensitivity of specific parts on the opposite side of the body (Penfield & Rasmussen, 1950). Put simply, various areas of the skin, such as lips and fingertips, are more sensitive than others, such as shoulders or ankles. This sensitivity can be represented with the distorted proportions of the human body shown in Figure 5.  
 
 ## Pain
@@ -115,8 +131,12 @@ The two most underappreciated senses can be lumped into the broad category of ch
 Unlike any of the other senses discussed so far, the receptors involved in our perception of both smell and taste bind directly with the stimuli they transduce. Odorants in our environment, very often mixtures of them, bind with olfactory receptors found in the olfactory epithelium. The binding of odorants to receptors is thought to be similar to how a lock and key operates, with different odorants binding to different specialized receptors based on their shape. However, the shape theory of olfaction isn’t universally accepted and alternative theories exist, including one that argues that the vibrations of odorant molecules correspond to their subjective smells (Turin, 1996). Regardless of how odorants bind with receptors, the result is a pattern of neural activity. It is thought that our memories of these patterns of activity underlie our subjective experience of smell (Shepherd, 2005). Interestingly, because olfactory receptors send projections to the brain through the cribriform plate of the skull, head trauma has the potential to cause anosmia, due to the severing of these connections. If you are in a line of work where you constantly experience head trauma (e.g. professional boxer) and you develop anosmia, don’t worry—your sense of smell will probably come back (Sumner, 1964).
 
 ## Gustation (taste)
-A bright red ghost pepper hangs from a pepper bush.
-Ghost Pepper, also known as Bhut Jolokia is one of the hottest peppers in the world, it’s 10 times hotter than a habanero, and 400 times hotter than tabasco sauce. What do you think would happen to your taste receptor cells if you took a bite out of this little guy? [Image: Richard Elzey, https://goo.gl/suJHNg, CC BY 2.0, https://goo.gl/9uSnqN]
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://nobaproject.com/images/shared/images/000/002/363/original.jpg" >
+    <figcaption> Ghost Pepper, also known as Bhut Jolokia is one of the hottest peppers in the world, it’s 10 times hotter than a habanero, and 400 times hotter than tabasco sauce. What do you think would happen to your taste receptor cells if you took a bite out of this little guy? [Image: Richard Elzey, https://goo.gl/suJHNg, CC BY 2.0, https://goo.gl/9uSnqN] </figcaption>
+</figure>
+
 Taste works in a similar fashion to smell, only with receptors found in the taste buds of the tongue, called taste receptor cells. To clarify a common misconception, taste buds are not the bumps on your tongue (papillae), but are located in small divots around these bumps. These receptors also respond to chemicals from the outside environment, except these chemicals, called tastants, are contained in the foods we eat. The binding of these chemicals with taste receptor cells results in our perception of the five basic tastes: sweet, sour, bitter, salty and umami (savory)—although some scientists argue that there are more (Stewart et al., 2010). Researchers used to think these tastes formed the basis for a map-like organization of the tongue; there was even a clever rationale for the concept, about how the back of the tongue sensed bitter so we would know to spit out poisons, and the front of the tongue sensed sweet so we could identify high-energy foods. However, we now know that all areas of the tongue with taste receptor cells are capable of responding to every taste (Chandrashekar, Hoon, Ryba, & Zuker, 2006).
 
 During the process of eating we are not limited to our sense of taste alone. While we are chewing, food odorants are forced back up to areas that contain olfactory receptors. This combination of taste and smell gives us the perception of flavor. If you have doubts about the interaction between these two senses, I encourage you to think back to consider how the flavors of your favorite foods are impacted when you have a cold; everything is pretty bland and boring, right?
@@ -137,6 +157,7 @@ Our impressive sensory abilities allow us to experience the most enjoyable and m
 * A well-documented phenomenon experienced by millennials is the phantom vibration of a cell phone when no actual text message has been received. How can we use signal detection theory to explain this?
 * What physical features would an organism need in order to be really good at localizing sound in 3D space? Are there any organisms that currently excel in localizing sound? What features allow them to do this?
 * What issues would exist with visual recognition of an object if a research participant had his/her corpus callosum severed? What would you need to do in order to observe these deficits? 
+
 ## Vocabulary
 ### Absolute threshold
 The smallest amount of stimulation needed for detection by a sense.
@@ -246,6 +267,7 @@ Pathway of visual processing. The “what” pathway.
 Parts of the inner ear involved in balance.
 ### Weber’s law
 States that just noticeable difference is proportional to the magnitude of the initial stimulus.
+
 ## References
 * Calvert, G. A., Hansen, P. C., Iversen, S. D., & Brammer, M. J. (2001). Detection of audio-visual integration sites in humans by application of electrophysiological criteria to the BOLD effect. Neuroimage, 14(2), 427-438.
 * Chandrashekar, J., Hoon, M. A., Ryba, N. J., & Zuker, C. S. (2006). The receptors and cells for mammalian taste. Nature, 444(7117), 288-294.
