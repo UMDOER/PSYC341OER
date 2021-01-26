@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Sensation and Perception
-by Adam John Privitera
+
+Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy
 
 The topics of sensation and perception are among the oldest and most important in all of psychology. People are equipped with senses such as sight, hearing and taste that help us to take in the world around us. Amazingly, our senses have the ability to convert real-world information into electrical information that can be processed by the brain. The way we interpret this information-- our perceptions-- is what leads to our experiences of the world. In this module, you will learn about the biological processes of sensation and how these can be combined to create perceptions.
 
@@ -27,8 +28,11 @@ The topics of sensation and perception are among the oldest and most important i
 
 This description of a single memory highlights the way a person’s senses are so important to our experience of the world around us.
 
-A view of the Pacific Ocean from high above seen through a group of fir trees.
-Our senses combine to create our perceptions of the world. [Image: Adam John Privitera, CC BY-NC-SA 4.0, https://goo.gl/H2QaA8]
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://nobaproject.com/images/shared/images/000/002/167/original.jpg" >
+    <figcaption> A view of the Pacific Ocean from high above seen through a group of fir trees. Our senses combine to create our perceptions of the world. Image: Adam John Privitera, CC BY-NC-SA 4.0 </figcaption>
+</figure>
+
 Before discussing each of our extraordinary senses individually, it is necessary to cover some basic concepts that apply to all of them. It is probably best to start with one very important distinction that can often be confusing: the difference between sensation and perception. The physical process during which our sensory organs—those involved with hearing and taste, for example—respond to external stimuli is called sensation. Sensation happens when you eat noodles or feel the wind on your face or hear a car horn honking in the distance. During sensation, our sense organs are engaging in transduction, the conversion of one form of energy into another. Physical energy such as light or a sound wave is converted into a form of energy the brain can understand: electrical stimulation. After our brain receives the electrical signals, we make sense of all this stimulation and begin to appreciate the complex world around us. This psychological process—making sense of the stimuli—is called perception. It is during this process that you are able to identify a gas leak in your home or a song that reminds you of a specific afternoon spent with friends.
 
 Regardless of whether we are talking about sight or taste or any of the individual senses, there are a number of basic principles that influence the way our sense organs work. The first of these influences is our ability to detect an external stimulus. Each sense organ—our eyes or tongue, for instance—requires a minimal amount of stimulation in order to detect a stimulus. This absolute threshold explains why you don’t smell the perfume someone is wearing in a classroom unless they are somewhat close to you. Because absolute threshold changes throughout the day and based on what other stimuli you have recently experienced, researchers define absolute threshold as the minimum about of stimulation needed to detect a stimulus 50% of the time.
@@ -55,8 +59,11 @@ Vision is a tricky matter. When we see a pizza, a feather, or a hammer, we are a
 
 Because we have two eyes in different locations, the image focused on each retina is from a slightly different angle (binocular disparity), providing us with our perception of 3D space (binocular vision). You can appreciate this by holding a pen in your hand, extending your arm in front of your face, and looking at the pen while closing each eye in turn. Pay attention to the apparent position of the pen relative to objects in the background. Depending on which eye is open, the pen appears to jump back and forth! This is how video game manufacturers create the perception of 3D without special glasses; two slightly different images are presented on top of one another.
 
-Diagram of the human eye.
-Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, https://goo.gl/ozuG0Q, CC BY 3.0, https://goo.gl/TSIsIq]
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://nobaproject.com/images/shared/images/000/002/361/original.png" >
+    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, CC BY 3.0 </figcaption>
+</figure>
+
 It is in the retina that light is transduced, or converted into electrical signals, by specialized cells called photoreceptors. The retina contains two main kinds of photoreceptors: rods and cones. Rods are primarily responsible for our ability to see in dim light conditions, such as during the night. Cones, on the other hand, provide us with the ability to see color and fine detail when the light is brighter. Rods and cones differ in their distribution across the retina, with the highest concentration of cones found in the fovea (the central region of focus), and rods dominating the periphery (see Figure 2). The difference in distribution can explain why looking directly at a dim star in the sky makes it seem to disappear; there aren’t enough rods to process the dim light!
 
 Next, the electrical signal is sent through a layer of cells in the retina, eventually traveling down the optic nerve. After passing through the thalamus, this signal makes it to the primary visual cortex, where information about light orientation and movement begin to come together (Hubel & Wiesel, 1962). Information is then sent to a variety of different areas of the cortex for more complex processing. Some of these cortical regions are fairly specialized—for example, for processing faces (fusiform face area) and body parts (extrastriate body area). Damage to these areas of the cortex can potentially result in a specific kind of agnosia, whereby a person loses the ability to perceive visual stimuli. A great example of this is illustrated in the writing of famous neurologist Dr. Oliver Sacks; he experienced prosopagnosia, the inability to recognize faces. These specialized regions for visual recognition comprise the ventral pathway (also called the “what” pathway). Other areas involved in processing location and movement make up the dorsal pathway (also called the “where” pathway). Together, these pathways process a large amount of information about visual stimuli (Goodale & Milner, 1992). Phenomena we often refer to as optical illusions provide misleading information to these “higher” areas of visual processing (see Additional Resources for websites containing amazing optical illusions).
@@ -266,4 +273,5 @@ States that just noticeable difference is proportional to the magnitude of the i
 * Weinstein, S. M. (1998). Phantom limb pain and related disorders. Neurologic Clinics, 16(4), 919-935.
 * Young, T. (1802). The Bakerian lecture: On the theory of light and colours. Philosophical transactions of the Royal Society of London, 12-48.
 
-Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/xgk3ajhy
+Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
