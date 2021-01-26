@@ -26,12 +26,12 @@ The topics of sensation and perception are among the oldest and most important i
 ## Introduction
 "Once I was hiking at Cape Lookout State Park in Tillamook, Oregon. After passing through a vibrantly colored, pleasantly scented, temperate rainforest, I arrived at a cliff overlooking the Pacific Ocean. I grabbed the cold metal railing near the edge and looked out at the sea. Below me, I could see a pod of sea lions swimming in the deep blue water. All around me I could smell the salt from the sea and the scent of wet, fallen leaves." 
 
-This description of a single memory highlights the way a person’s senses are so important to our experience of the world around us.
-
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://nobaproject.com/images/shared/images/000/002/167/original.jpg" >
     <figcaption> A view of the Pacific Ocean from high above seen through a group of fir trees. Our senses combine to create our perceptions of the world. Image: Adam John Privitera, CC BY-NC-SA 4.0 </figcaption>
 </figure>
+
+This description of a single memory highlights the way a person’s senses are so important to our experience of the world around us.
 
 Before discussing each of our extraordinary senses individually, it is necessary to cover some basic concepts that apply to all of them. It is probably best to start with one very important distinction that can often be confusing: the difference between sensation and perception. The physical process during which our sensory organs—those involved with hearing and taste, for example—respond to external stimuli is called sensation. Sensation happens when you eat noodles or feel the wind on your face or hear a car horn honking in the distance. During sensation, our sense organs are engaging in transduction, the conversion of one form of energy into another. Physical energy such as light or a sound wave is converted into a form of energy the brain can understand: electrical stimulation. After our brain receives the electrical signals, we make sense of all this stimulation and begin to appreciate the complex world around us. This psychological process—making sense of the stimuli—is called perception. It is during this process that you are able to identify a gas leak in your home or a song that reminds you of a specific afternoon spent with friends.
 
@@ -59,7 +59,7 @@ Vision is a tricky matter. When we see a pizza, a feather, or a hammer, we are a
 
 Because we have two eyes in different locations, the image focused on each retina is from a slightly different angle (binocular disparity), providing us with our perception of 3D space (binocular vision). You can appreciate this by holding a pen in your hand, extending your arm in front of your face, and looking at the pen while closing each eye in turn. Pay attention to the apparent position of the pen relative to objects in the background. Depending on which eye is open, the pen appears to jump back and forth! This is how video game manufacturers create the perception of 3D without special glasses; two slightly different images are presented on top of one another.
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://nobaproject.com/images/shared/images/000/002/361/original.png" >
     <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, CC BY 3.0 </figcaption>
 </figure>
