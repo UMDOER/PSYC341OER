@@ -116,10 +116,11 @@ After tactile stimuli are converted by mechanoreceptors, information is sent thr
 
 ## Pain
 Most people, if asked, would love to get rid of pain (**nociception**), because the sensation is very unpleasant and doesn’t appear to have obvious value. But the perception of pain is our body’s way of sending us a signal that something is wrong and needs our attention. Without pain, how would we know when we are accidentally touching a hot stove, or that we should rest a strained arm after a hard workout?
+
 <!---
 ## Phantom limbs
 Records of people experiencing **phantom limbs** after amputations have been around for centuries (Mitchell, 1871). As the name suggests, people with a phantom limb have the sensations such as itching seemingly coming from their missing limb. A phantom limb can also involve **phantom limb pain**, sometimes described as the muscles of the missing limb uncomfortably clenching. While the mechanisms underlying these phenomena are not fully understood, there is evidence to support that the damaged nerves from the amputation site are still sending information to the brain (Weinstein, 1998) and that the brain is reacting to this information (Ramachandran & Rogers-Ramachandran, 2000). There is an interesting treatment for the alleviation of phantom limb pain that works by tricking the brain, using a special mirror box to create a visual representation of the missing limb. The technique allows the patient to manipulate this representation into a more comfortable position (Ramachandran & Rogers-Ramachandran, 1996).
--->
+--->
 
 ## Smell and Taste: The Chemical Senses
 The two most underappreciated senses can be lumped into the broad category of **chemical senses**. Both **olfaction** (smell) and **gustation** (taste) require the transduction of chemical stimuli into electrical potentials. I say these senses are underappreciated because most people would give up either one of these if they were forced to give up a sense. While this may not shock a lot of readers, take into consideration how much money people spend on the perfume industry annually ($29 billion US Dollars). Many of us pay a lot more for a favorite brand of food because we prefer the taste. Clearly, we humans care about our chemical senses.
@@ -219,7 +220,7 @@ The psychological process of interpreting sensory information.
 <!---### Phantom limb
 The perception that a missing limb still exists.
 ### Phantom limb pain
-Pain in a limb that no longer exists. -->
+Pain in a limb that no longer exists. --->
 ### Pinna
 Outermost portion of the ear.
 ### Primary auditory cortex
