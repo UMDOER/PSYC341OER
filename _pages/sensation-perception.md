@@ -217,10 +217,12 @@ Theory proposing color vision as influenced by cells responsive to pairs of colo
 A collection of three small bones in the middle ear that vibrate against the tympanic membrane.
 ### Perception
 The psychological process of interpreting sensory information.
-<!---### Phantom limb
+<!---
+### Phantom limb
 The perception that a missing limb still exists.
 ### Phantom limb pain
-Pain in a limb that no longer exists. --->
+Pain in a limb that no longer exists. 
+--->
 ### Pinna
 Outermost portion of the ear.
 ### Primary auditory cortex
@@ -281,8 +283,10 @@ States that just noticeable difference is proportional to the magnitude of the i
 * Mitchell, S. W. (1871). Phantom limbs. Lippincott's Magazine of Popular Literature and Science, 8, 563-569.
 * Penfield, W., & Rasmussen, T. (1950). The cerebral cortex of man; a clinical study of localization of function. Oxford: England
 * Populin, L. C., & Yin, T. C. (1998). Behavioral studies of sound localization in the cat. The Journal of Neuroscience, 18(6), 2147-2160.
+<!---
 * Ramachandran, V. S., & Rogers-Ramachandran, D. (2000). Phantom limbs and neural plasticity. Archives of Neurology, 57(3), 317-320.
 * Ramachandran, V. S., & Rogers-Ramachandran, D. (1996). Synaesthesia in phantom limbs induced with mirrors. Proceedings of the Royal Society of London B: Biological Sciences, 263(1369), 377-386.
+--->
 * Renier, L. A., Anurova, I., De Volder, A. G., Carlson, S., VanMeter, J., & Rauschecker, J. P. (2009). Multisensory integration of sounds and vibrotactile stimuli in processing streams for “what” and “where”. The Journal of Neuroscience, 29(35), 10950-10960.
 * Romani, G. L., Williamson, S. J., & Kaufman, L. (1982). Tonotopic organization of the human auditory cortex. Science, 216(4552), 1339-1340.
 * Shepherd, G. M. (2005). Outline of a theory of olfactory processing and its relevance to humans. Chemical Senses, 30(suppl 1), i3-i5.
