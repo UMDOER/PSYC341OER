@@ -6,8 +6,7 @@ sidebar:
 
 # Perception: Pattern recognition
 
-adapted from and [CognitivePsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) and
-and Dumper et al., [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/)
+adapted from various sources (see below)
 
 Psychologists often distinguish between top-down and bottom-up approaches to information-processing. In top-down approaches, knowledge or expectations are used to guide processing. Bottom-up approaches, however, are more like the structuralist approach, piecing together data until a bigger picture is arrived at. One of the strongest advocates of a bottom-up approach was J.J. Gibson (1904-1980), who articulated a theory of direct perception. This stated that the real world provided sufficient contextual information for our visual systems to directly perceive what was there, unmediated by the influence of higher cognitive processes. Gibson developed the notion of affordances, referring to those aspects of objects or environments that allow an individual to perform an action. Gibson's emphasis on the match between individual and environment led him to refer to his approach as ecological. Most psychologists now would argue that both bottom-up and top-down processes are involved in perception.
 
@@ -36,10 +35,6 @@ One source of evidence for feature matching comes from Hubel and Wiesel's resear
 Some authors have distinguished between local features and global features. In a paper titled Forest before trees David Navon suggested that "global" features are processed before "local" ones. He showed participants large letter "H"s or "S"s that were made up of smaller letters, either small Hs or small Ss. People were faster to identify the larger letter than the smaller ones, and the response time was the same regardless of whether the smaller letters (the local features) were Hs or Ss. However, when required to identify the smaller letters people responded more quickly when the large letter was of the same type as the smaller letters.
 
 One difficulty for feature-matching theory comes from the fact that we are normally able to read slanted handwriting that does not seem to conform to the feature description given above. For example, if I write a letter "L" in a slanted fashion, I cannot match this to a stored description that states that L must have a vertical line. Another difficulty arises from trying to generalise the theory to the natural objects that we encounter in our environment.
-
-### Recognition by components
-
-FIND SOMETHING ABT GEONS HERE
 
 ## Top-down theories
 
@@ -85,6 +80,23 @@ Two additional Gestalt principles are the law of continuity (or good continuatio
 
 According to Gestalt theorists, pattern perception, or our ability to discriminate among different figures and shapes, occurs by following the principles described above. You probably feel fairly certain that your perception accurately matches the real world, but this is not always the case. Our perceptions are based on perceptual hypotheses: educated guesses that we make while interpreting sensory information. These hypotheses are informed by a number of factors, including our personalities, experiences, and expectations. We use these hypotheses to generate our perceptual set. For instance, research has demonstrated that those who are given verbal priming produce a biased interpretation of complex ambiguous figures (Goolkasian & Woodbury, 2010).
 
+### Recognition by components
+FIND SOMETHING ABT GEONS HERE - this?
+https://en.wikipedia.org/wiki/Recognition-by-components_theory
+https://en.wikipedia.org/wiki/Geon_(psychology)
+
+The recognition-by-components theory (Biderman, 1987) is a top-down process proposed by Irving Biederman in 1987 to explain object recognition. According to RBC theory, we are able to recognize objects by separating them into geons (the object’s main component parts). Biederman suggested that geons are based on basic 3-dimensional shapes (cylinders, cones, etc.) that can be assembled in various arrangements to form a virtually unlimited number of objects.[2]
+
+The recognition-by-components theory suggests that there are fewer than 36 geons which are combined to create the objects we see in day-to-day life.[3] For example, when looking at a mug we break it down into two components – "cylinder" and "handle". This also works for more complex objects, which in turn are made up of a larger number of geons. Perceived geons are then compared with objects in our stored memory to identify what it is we are looking at. The theory proposes that when we view objects we look for two important components.
+
+Edges – This enables us to maintain the same perception of the object regardless of viewing orientation.
+Concavities – The area where two edges meet. These enable us to observe the separation between two or more geons.
+
+
+
+Geons are the simple 2D or 3D forms such as cylinders, bricks, wedges, cones, circles and rectangles corresponding to the simple parts of an object in Biederman's recognition-by-components theory.[1] The theory proposes that the visual input is matched against structural representations of objects in the brain. These structural representations consist of geons and their relations (e.g., an ice cream cone could be broken down into a sphere located above a cone). Only a modest number of geons (< 40) are assumed. When combined in different relations to each other (e.g., on-top-of, larger-than, end-to-end, end-to-middle) and coarse metric variation such as aspect ratio and 2D orientation, billions of possible 2- and 3-geon objects can be generated. Two classes of shape-based visual identification that are not done through geon representations, are those involved in: a) distinguishing between similar faces, and b) classifications that don’t have definite boundaries, such as that of bushes or a crumpled garment. Typically, such identifications are not viewpoint-invariant.
+
+
 ### The Depths of Perception: Bias, Prejudice, and Cultural Factors
 
 In this chapter, you have learned that perception is a complex process. Built from sensations, but influenced by our own experiences, biases, prejudices, and cultures, perceptions can be very different from person to person. Research suggests that implicit racial prejudice and stereotypes affect perception. For instance, several studies have demonstrated that non-Black participants identify weapons faster and are more likely to identify non-weapons as weapons when the image of the weapon is paired with the image of a Black person (Payne, 2001; Payne, Shimizu, & Jacoby, 2005). Furthermore, White individuals’ decisions to shoot an armed target in a video game is made more quickly when the target is Black (Correll, Park, Judd, & Wittenbrink, 2002; Correll, Urland, & Ito, 2006). This research is important, considering the number of very high-profile cases in the last few decades in which young Blacks were killed by people who claimed to believe that the unarmed individuals were armed and/or represented some threat to their personal safety.
@@ -97,7 +109,8 @@ Gestalt theorists have been incredibly influential in the areas of sensation and
 
 
 ## References
+* Biederman, I. (1987). Recognition-by-components: A theory of human image understanding. Psychological Review. 94 (2): 115–47. doi:10.1037/0033-295X.94.2.115. 
 * Solso, R., and McCarthy, J.E. (1981). Prototype formation of faces: A case of pseudomemory. British Journal of Psychology, 72, 499-503.
 Adapted from...
 
-adapted from and [cognitivepsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+adapted from [Wikipedia](https://en.wikipedia.org/wiki/Geon_(psychology)) and [cognitivepsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
