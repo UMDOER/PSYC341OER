@@ -15,12 +15,11 @@ Psychologists often distinguish between top-down and bottom-up approaches to inf
 ## Bottom-up theories
 
 ### Template Matching:
-One way for people to recognize objects in their environment would be for them to compare their representations of those objects with templates stored in memory. For example, if I can achieve a match between the large red object I see in the street and my stored representation of a London bus, then I recognize a London bus. However, one difficulty for this theory is illustrated in the figure below. 
+One way for people to recognize objects in their environment would be for them to compare their representations of those objects with templates stored in memory. For example, if I can achieve a match between the large red object I see in the street and my stored representation of a London bus, then I recognize a London bus. However, one difficulty for this theory is illustrated in the figure to the right.
 
----INSERT FIG---
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/hearing1.jpg" style="width:75%">
-    <figcaption> Pitch is crucial to our perception and understanding of music and language. [Image: xroper7, https://goo.gl/1E4sJY, CC BY-NC 2.0, https://goo.gl/tgFydH]</figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/TheCat.png" >
+    <figcaption> What do you read above? </figcaption>
 </figure>
 
 Here, we have no problem differentiating the middle letters in each word (H and A), even though they are identical. A second problem is that we continue to recognize most objects regardless of what perspective we see them from (e.g. from the front, side, back, bottom, top, etc.). This would suggest we have a nearly infinite store of templates, which hardly seems credible.
