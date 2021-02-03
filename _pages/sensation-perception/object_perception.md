@@ -4,8 +4,8 @@ sidebar:
   nav: "senpernav"
 ---
 
-adapted from and http://cognitivepsychology.wikidot.com/cognition:topdown 
-and https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/
+adapted from and [CognitivePsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) and
+and Dumper et al., [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/)
 
 # Approaches to Pattern Recognition
 # Top-down and bottom-up theories of perception / pattern recognition
@@ -61,3 +61,5 @@ BLAH
 ## References
 * Solso, R., and McCarthy, J.E. (1981). Prototype formation of faces: A case of pseudomemory. British Journal of Psychology, 72, 499-503.
 Adapted from...
+
+adapted from and [CognitivePsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter, [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
