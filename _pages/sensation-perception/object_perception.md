@@ -42,19 +42,50 @@ One difficulty for feature-matching theory comes from the fact that we are norma
 
 FIND SOMETHING ABT GEONS HERE
 
-## Bottom-up theories
+## Top-down theories
 
-Gestalt stuff from here? 
-https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/
+In the early part of the 20th century, Max Wertheimer published a paper demonstrating that individuals perceived motion in rapidly flickering static images—an insight that came to him as he used a child’s toy tachistoscope. Wertheimer, and his assistants Wolfgang Köhler and Kurt Koffka, who later became his partners, believed that perception involved more than simply combining sensory stimuli. This belief led to a new movement within the field of psychology known as Gestalt psychology. The word gestalt literally means form or pattern, but its use reflects the idea that the whole is different from the sum of its parts. In other words, the brain creates a perception that is more than simply the sum of available sensory inputs, and it does so in predictable ways. Gestalt psychologists translated these predictable ways into principles by which we organize sensory information. As a result, Gestalt psychology has been extremely influential in the area of sensation and perception (Rock & Palmer, 1990).
 
+Gestalt perspectives in psychology represent investigations into ambiguous stimuli to determine where and how these ambiguities are being resolved by the brain. They are also aimed at understanding sensory and perception as processing information as groups or wholes instead of constructed wholes from many small parts. This perspective has been supported by modern cognitive science through fMRI research demonstrating that some parts of the brain, specifically the lateral occipital lobe, and the fusiform gyrus, are involved in the processing of whole objects, as opposed to the primary occipital areas that process individual elements of stimuli (Kubilius, Wagemans & Op de Beeck, 2011).
 
+One Gestalt principle is the figure-ground relationship. According to this principle, we tend to segment our visual world into figure and ground. Figure is the object or person that is the focus of the visual field, while the ground is the background. As the figure below shows, our perception can vary tremendously, depending on what is perceived as figure and what is perceived as ground. Presumably, our ability to interpret sensory information depends on what we label as figure and what we label as ground in any particular case, although this assumption has been called into question (Peterson & Gibson, 1994; Vecera & O’Reilly, 1998).
 
-## Conclusion
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/hearing4.jpg" style="width:75%">
-    <figcaption> An infant with a cochlear implant. [Image: Bjorn Knetsch, https://goo.gl/J2wCvJ, CC BY 2.0, https://goo.gl/BRvSA7] </figcaption>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/FacesVase.jpg" >
+    <figcaption>The concept of figure-ground relationship explains why this image can be perceived either as a vase or as a pair of faces. </figcaption>
 </figure>
 
+Another Gestalt principle for organizing sensory stimuli into meaningful perception is proximity. This principle asserts that things that are close to one another tend to be grouped together, as the figure below illustrates.
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Proximity.jpg" >
+    <figcaption>The Gestalt principle of proximity suggests that you see (a) one block of dots on the left side and (b) three columns on the right side. </figcaption>
+</figure>
+
+How we read something provides another illustration of the proximity concept. For example, we read this sentence like this, notl iket hiso rt hat. We group the letters of a given word together because there are no spaces between the letters, and we perceive words because there are spaces between each word. Here are some more examples: Cany oum akes enseo ft hiss entence? What doth es e wor dsmea n?
+
+We might also use the principle of similarity to group things in our visual fields. According to this principle, things that are alike tend to be grouped together (figure below). For example, when watching a football game, we tend to group individuals based on the colors of their uniforms. When watching an offensive drive, we can get a sense of the two teams simply by grouping along this dimension.
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Similarity.jpg" >
+    <figcaption>When looking at this array of dots, we likely perceive alternating rows of colors. We are grouping these dots according to the principle of similarity. </figcaption>
+</figure>
+
+Two additional Gestalt principles are the law of continuity (or good continuation) and closure. The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines (figure below). The principle of closure states that we organize our perceptions into complete objects rather than as a series of parts (figure below).
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Continuity.jpg" >
+    <figcaption>Good continuation would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. </figcaption>
+</figure>
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Closure.jpg" >
+    <figcaption>Closure suggests that we will perceive a complete circle and rectangle rather than a series of segments. </figcaption>
+</figure>
+
+According to Gestalt theorists, pattern perception, or our ability to discriminate among different figures and shapes, occurs by following the principles described above. You probably feel fairly certain that your perception accurately matches the real world, but this is not always the case. Our perceptions are based on perceptual hypotheses: educated guesses that we make while interpreting sensory information. These hypotheses are informed by a number of factors, including our personalities, experiences, and expectations. We use these hypotheses to generate our perceptual set. For instance, research has demonstrated that those who are given verbal priming produce a biased interpretation of complex ambiguous figures (Goolkasian & Woodbury, 2010).
+ 
+## Conclusion
 BLAH
 
 
@@ -62,4 +93,4 @@ BLAH
 * Solso, R., and McCarthy, J.E. (1981). Prototype formation of faces: A case of pseudomemory. British Journal of Psychology, 72, 499-503.
 Adapted from...
 
-adapted from and [CognitivePsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter, [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+adapted from and [cognitivepsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
