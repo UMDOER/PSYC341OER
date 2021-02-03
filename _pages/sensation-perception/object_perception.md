@@ -44,16 +44,17 @@ FIND SOMETHING ABT GEONS HERE
 
 ## Top-down theories
 
+### The Gestalt principles of perception
+
 In the early part of the 20th century, Max Wertheimer published a paper demonstrating that individuals perceived motion in rapidly flickering static images—an insight that came to him as he used a child’s toy tachistoscope. Wertheimer, and his assistants Wolfgang Köhler and Kurt Koffka, who later became his partners, believed that perception involved more than simply combining sensory stimuli. This belief led to a new movement within the field of psychology known as Gestalt psychology. The word gestalt literally means form or pattern, but its use reflects the idea that the whole is different from the sum of its parts. In other words, the brain creates a perception that is more than simply the sum of available sensory inputs, and it does so in predictable ways. Gestalt psychologists translated these predictable ways into principles by which we organize sensory information. As a result, Gestalt psychology has been extremely influential in the area of sensation and perception (Rock & Palmer, 1990).
 
 Gestalt perspectives in psychology represent investigations into ambiguous stimuli to determine where and how these ambiguities are being resolved by the brain. They are also aimed at understanding sensory and perception as processing information as groups or wholes instead of constructed wholes from many small parts. This perspective has been supported by modern cognitive science through fMRI research demonstrating that some parts of the brain, specifically the lateral occipital lobe, and the fusiform gyrus, are involved in the processing of whole objects, as opposed to the primary occipital areas that process individual elements of stimuli (Kubilius, Wagemans & Op de Beeck, 2011).
-
-One Gestalt principle is the figure-ground relationship. According to this principle, we tend to segment our visual world into figure and ground. Figure is the object or person that is the focus of the visual field, while the ground is the background. As the figure below shows, our perception can vary tremendously, depending on what is perceived as figure and what is perceived as ground. Presumably, our ability to interpret sensory information depends on what we label as figure and what we label as ground in any particular case, although this assumption has been called into question (Peterson & Gibson, 1994; Vecera & O’Reilly, 1998).
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/FacesVase.jpg" >
     <figcaption>The concept of figure-ground relationship explains why this image can be perceived either as a vase or as a pair of faces. </figcaption>
 </figure>
+One Gestalt principle is the figure-ground relationship. According to this principle, we tend to segment our visual world into figure and ground. Figure is the object or person that is the focus of the visual field, while the ground is the background. As the figure to the right shows, our perception can vary tremendously, depending on what is perceived as figure and what is perceived as ground. Presumably, our ability to interpret sensory information depends on what we label as figure and what we label as ground in any particular case, although this assumption has been called into question (Peterson & Gibson, 1994; Vecera & O’Reilly, 1998). 
 
 Another Gestalt principle for organizing sensory stimuli into meaningful perception is proximity. This principle asserts that things that are close to one another tend to be grouped together, as the figure below illustrates.
 
@@ -64,19 +65,19 @@ Another Gestalt principle for organizing sensory stimuli into meaningful percept
 
 How we read something provides another illustration of the proximity concept. For example, we read this sentence like this, notl iket hiso rt hat. We group the letters of a given word together because there are no spaces between the letters, and we perceive words because there are spaces between each word. Here are some more examples: Cany oum akes enseo ft hiss entence? What doth es e wor dsmea n?
 
-We might also use the principle of similarity to group things in our visual fields. According to this principle, things that are alike tend to be grouped together (figure below). For example, when watching a football game, we tend to group individuals based on the colors of their uniforms. When watching an offensive drive, we can get a sense of the two teams simply by grouping along this dimension.
-
-<figure>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/Similarity.jpg" >
     <figcaption>When looking at this array of dots, we likely perceive alternating rows of colors. We are grouping these dots according to the principle of similarity. </figcaption>
 </figure>
 
-Two additional Gestalt principles are the law of continuity (or good continuation) and closure. The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines (figure below). The principle of closure states that we organize our perceptions into complete objects rather than as a series of parts (figure below).
+We might also use the principle of similarity to group things in our visual fields. According to this principle, things that are alike tend to be grouped together (figure at left). For example, when watching a football game, we tend to group individuals based on the colors of their uniforms. When watching an offensive drive, we can get a sense of the two teams simply by grouping along this dimension.
 
-<figure>
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/Continuity.jpg" >
     <figcaption>Good continuation would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. </figcaption>
 </figure>
+
+Two additional Gestalt principles are the law of continuity (or good continuation) and closure. The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines (figure to right). The principle of closure states that we organize our perceptions into complete objects rather than as a series of parts (figure below).
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Closure.jpg" >
@@ -84,9 +85,18 @@ Two additional Gestalt principles are the law of continuity (or good continuatio
 </figure>
 
 According to Gestalt theorists, pattern perception, or our ability to discriminate among different figures and shapes, occurs by following the principles described above. You probably feel fairly certain that your perception accurately matches the real world, but this is not always the case. Our perceptions are based on perceptual hypotheses: educated guesses that we make while interpreting sensory information. These hypotheses are informed by a number of factors, including our personalities, experiences, and expectations. We use these hypotheses to generate our perceptual set. For instance, research has demonstrated that those who are given verbal priming produce a biased interpretation of complex ambiguous figures (Goolkasian & Woodbury, 2010).
- 
+
+### The Depths of Perception: Bias, Prejudice, and Cultural Factors
+
+In this chapter, you have learned that perception is a complex process. Built from sensations, but influenced by our own experiences, biases, prejudices, and cultures, perceptions can be very different from person to person. Research suggests that implicit racial prejudice and stereotypes affect perception. For instance, several studies have demonstrated that non-Black participants identify weapons faster and are more likely to identify non-weapons as weapons when the image of the weapon is paired with the image of a Black person (Payne, 2001; Payne, Shimizu, & Jacoby, 2005). Furthermore, White individuals’ decisions to shoot an armed target in a video game is made more quickly when the target is Black (Correll, Park, Judd, & Wittenbrink, 2002; Correll, Urland, & Ito, 2006). This research is important, considering the number of very high-profile cases in the last few decades in which young Blacks were killed by people who claimed to believe that the unarmed individuals were armed and/or represented some threat to their personal safety.
+
+
+
 ## Conclusion
-BLAH
+
+ADD WHATNOT FROM BOTTOM UP
+
+Gestalt theorists have been incredibly influential in the areas of sensation and perception. Gestalt principles such as figure-ground relationship, grouping by proximity or similarity, the law of good continuation, and closure are all used to help explain how we organize sensory information. Our perceptions are not infallible, and they can be influenced by bias, prejudice, and other factors.
 
 
 ## References
