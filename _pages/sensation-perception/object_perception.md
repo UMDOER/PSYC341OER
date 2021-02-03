@@ -4,11 +4,10 @@ sidebar:
   nav: "senpernav"
 ---
 
+# Perception: Pattern recognition
+
 adapted from and [CognitivePsychology.wikidot.com](http://cognitivepsychology.wikidot.com/cognition:topdown) and
 and Dumper et al., [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/)
-
-# Approaches to Pattern Recognition
-# Top-down and bottom-up theories of perception / pattern recognition
 
 Psychologists often distinguish between top-down and bottom-up approaches to information-processing. In top-down approaches, knowledge or expectations are used to guide processing. Bottom-up approaches, however, are more like the structuralist approach, piecing together data until a bigger picture is arrived at. One of the strongest advocates of a bottom-up approach was J.J. Gibson (1904-1980), who articulated a theory of direct perception. This stated that the real world provided sufficient contextual information for our visual systems to directly perceive what was there, unmediated by the influence of higher cognitive processes. Gibson developed the notion of affordances, referring to those aspects of objects or environments that allow an individual to perform an action. Gibson's emphasis on the match between individual and environment led him to refer to his approach as ecological. Most psychologists now would argue that both bottom-up and top-down processes are involved in perception.
 
@@ -65,21 +64,21 @@ Another Gestalt principle for organizing sensory stimuli into meaningful percept
 
 How we read something provides another illustration of the proximity concept. For example, we read this sentence like this, notl iket hiso rt hat. We group the letters of a given word together because there are no spaces between the letters, and we perceive words because there are spaces between each word. Here are some more examples: Cany oum akes enseo ft hiss entence? What doth es e wor dsmea n?
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/Similarity.jpg" >
     <figcaption>When looking at this array of dots, we likely perceive alternating rows of colors. We are grouping these dots according to the principle of similarity. </figcaption>
 </figure>
 
 We might also use the principle of similarity to group things in our visual fields. According to this principle, things that are alike tend to be grouped together (figure at left). For example, when watching a football game, we tend to group individuals based on the colors of their uniforms. When watching an offensive drive, we can get a sense of the two teams simply by grouping along this dimension.
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/Continuity.jpg" >
     <figcaption>Good continuation would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. </figcaption>
 </figure>
 
 Two additional Gestalt principles are the law of continuity (or good continuation) and closure. The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines (figure to right). The principle of closure states that we organize our perceptions into complete objects rather than as a series of parts (figure below).
 
-<figure>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/Closure.jpg" >
     <figcaption>Closure suggests that we will perceive a complete circle and rectangle rather than a series of segments. </figcaption>
 </figure>
@@ -89,8 +88,6 @@ According to Gestalt theorists, pattern perception, or our ability to discrimina
 ### The Depths of Perception: Bias, Prejudice, and Cultural Factors
 
 In this chapter, you have learned that perception is a complex process. Built from sensations, but influenced by our own experiences, biases, prejudices, and cultures, perceptions can be very different from person to person. Research suggests that implicit racial prejudice and stereotypes affect perception. For instance, several studies have demonstrated that non-Black participants identify weapons faster and are more likely to identify non-weapons as weapons when the image of the weapon is paired with the image of a Black person (Payne, 2001; Payne, Shimizu, & Jacoby, 2005). Furthermore, White individuals’ decisions to shoot an armed target in a video game is made more quickly when the target is Black (Correll, Park, Judd, & Wittenbrink, 2002; Correll, Urland, & Ito, 2006). This research is important, considering the number of very high-profile cases in the last few decades in which young Blacks were killed by people who claimed to believe that the unarmed individuals were armed and/or represented some threat to their personal safety.
-
-
 
 ## Conclusion
 
