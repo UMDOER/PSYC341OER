@@ -2,7 +2,7 @@
 layout: single
 ---
 
-# Perception: Pattern recognition
+# Perception: Pattern and object recognition
 
 adapted from various sources (linked below)
 
