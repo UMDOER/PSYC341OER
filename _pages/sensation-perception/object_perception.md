@@ -77,7 +77,8 @@ Two additional Gestalt principles are the law of continuity (or good continuatio
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/ContinuityAndClosure.jpg" >
-    <figcaption>Left: Good continuation / continuity would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. Right: Closure suggests that we will perceive a complete circle and rectangle rather than a series of segments. </figcaption>
+    <figcaption>Left: Good continuation / continuity would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. 
+        Right: Closure suggests that we will perceive a complete circle and rectangle rather than a series of segments. </figcaption>
 </figure>
 
 According to Gestalt theorists, pattern perception, or our ability to discriminate among different figures and shapes, occurs by following the principles described above. You probably feel fairly certain that your perception accurately matches the real world, but this is not always the case. Our perceptions are based on *perceptual hypotheses*: educated guesses that we make while interpreting sensory information. These hypotheses are informed by a number of factors, including our personalities, experiences, and expectations. 
@@ -93,10 +94,10 @@ The recognition-by-components theory (Biderman, 1987) is a top-down process prop
     <figcaption> Geons making up a mug and a suitcase. [Image credit: UserLdaisy at English Wikipedia, Public domain, via Wikimedia Commons]</figcaption>
 </figure>
 
-The recognition-by-components theory suggests that there are a small set of geons (fewer than 36) which are combined to create the objects we see in day-to-day life. For example, when looking at a mug we break it down into two components – "cylinder" and "handle", and an ice cream cone could be broken down into a sphere located above a cone. This also works for more complex objects, which in turn are made up of a larger number of geons. Perceived geons are then compared with objects in our stored memory to identify what it is we are looking at. The theory proposes that when we view objects we look for two important components.
+The recognition-by-components theory suggests that there are a small set of geons which are combined to create the objects we see in day-to-day life. For example, when looking at a mug we break it down into two components – "cylinder" and "handle", and an ice cream cone could be broken down into a sphere located above a cone. This also works for more complex objects, which in turn are made up of a larger number of geons. Perceived geons are then compared with objects in our stored memory to identify what it is we are looking at. The theory proposes that when we view objects we look for two important components.
 
-**Edges** – This enables us to maintain the same perception of the object regardless of viewing orientation.
-**Concavities** – The area where two edges meet. These enable us to observe the separation between two or more geons.
+- **Edges** – This enables us to maintain the same perception of the object regardless of viewing orientation.
+- **Concavities** – The area where two edges meet. These enable us to observe the separation between two or more geons.
 
 A defining feature of the recognition-by-components theory is that it enables us to recognize objects regardless of viewing angle; this is known as **viewpoint invariance**. This results from the invariant edge properties of geons (Biederman, 2000). The invariant edge properties are:
 
@@ -108,7 +109,7 @@ A defining feature of the recognition-by-components theory is that it enables us
 
 Our knowledge of these properties means that when viewing an object or geon, we can perceive it from almost any angle. For example, when viewing a brick we will be able to see horizontal sets of parallel lines and vertical ones, and when considering where these points meet (co-termination) we are able to perceive the object.
 
-## The dark side of top-down perception: Bias, prejudice, and cultural factors
+### A dark side of top-down perception: Bias, prejudice, and cultural factors
 
 In this chapter, you have learned that perception is a complex process. Built from sensations, but influenced by our own experiences, biases, prejudices, and cultures, perceptions can be very different from person to person. These top-down aspects of perception can have a dark side: Research suggests that implicit racial prejudice and stereotypes affect perception. For instance, several studies have demonstrated that non-Black participants identify weapons faster and are more likely to identify non-weapons as weapons when the image of the weapon is paired with the image of a Black person (e.g., Payne, Shimizu, & Jacoby, 2005). Similarly, White individuals’ decisions to shoot an armed target in a video game is made more quickly when the target is Black (Correll, Park, Judd, & Wittenbrink, 2002). 
 
