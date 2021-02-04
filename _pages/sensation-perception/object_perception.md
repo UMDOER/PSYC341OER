@@ -8,9 +8,9 @@ adapted from various sources (linked below)
 
 The world that we perceive is complex. For example, a visual scene typcially has many overlapping sufaces that vary in shape, color, depth, and change based on the viewer's perspective. Despite this, we perceive our visual world as composed of multiple distinct objects with particular shapes that we infer from incomplete information. The processes of **pattern recognition** and **object recognition** refer to our ability to take sensory input and turn it into a meaningful perceptual interpretation. 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Terrapins_Lagos_Zoo_The_Algarve_Portugal.jpg" >
-    <figcaption> How do you know these terrapins on the log are three separate objects? [Image credit: Glen Bowman (Newcastle, England), <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons]</figcaption>
+    <figcaption> How do you know these terrapins on the log are three separate objects? [Image credit: Glen Bowman, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons]</figcaption>
 </figure>
 
 Psychologists often distinguish between **top-down** and **bottom-up** approaches to information-processing. In top-down approaches, knowledge or expectations are used to guide processing. That is, these accounts suggest perception results from hypotheses about sensory information based on prior knowledge (e.g., Gregory, 1970). Bottom-up (or *data driven*) approaches, however, are more like the structuralist approach, piecing together data to reach the bigger picture. For example, Gibson's (1966) theory of *direct perception* claims that the real world provides sufficient contextual information for our visual systems to directly perceive what is there, unmediated by the influence of higher cognitive processes. Gibson developed the notion of *affordances*, referring to those aspects of objects or environments that allow an individual to perform an action. Gibson's emphasis on the match between individual and environment led him to refer to his approach as ecological. Most psychologists now would argue that both bottom-up and top-down processes are involved in perception.
@@ -20,16 +20,12 @@ Psychologists often distinguish between **top-down** and **bottom-up** approache
 ### Template Matching:
 One way for people to recognize objects in their environment would be for them to compare their representations of those objects with templates stored in memory. For example, if I can achieve a match between the large red object I see in the street and my stored representation of a [London bus](https://commons.wikimedia.org/wiki/File:London_Bus_route_328_hybrid_bus_A.jpg), then I recognize a London bus. However, one difficulty for this theory is illustrated in the figure to the right.
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/TheCat.png" >
     <figcaption> What do you read above? </figcaption>
 </figure>
 
 Here, we have no problem differentiating the middle letters in each word (H and A), even though they are identical (so presumably would activate the same template). A second problem is that we continue to recognize most objects regardless of what perspective we see them from (e.g. from the front, side, back, bottom, top, etc.). This would suggest we have a nearly infinite store of templates, which seems unlikely.
-<!---
-### Prototypes:
-An alternative to template theory is based on prototype matching. Instead of comparing a visual array to a stored template, the array is compared to a stored prototype, the prototype being a kind of average of many other patterns. The perceived array does not need to exactly match the prototype in order for recognition to occur, so long as there is a family resemblance. For example, if I am looking down on a London bus from above its qualities of size and redness enable me to recognize it as a bus, even though the shape does not match my prototype. There is good evidence that people do form prototypes after exposure to a series of related stimuli. For instance, in one study people were shown a series of patterns that were related to a prototype, but not the prototype itself. When later shown a series of distractor patterns plus the prototype, the participants identified the prototype as a pattern they had seen previously (Solso & McCarthy, 1981).
---->
 
 ### Feature Analysis:
 Feature-matching theories propose that we decompose visual patterns into a set of critical features, which we then try to match against features stored in memory. For example, in memory I have stored the information that the letter "Z" comprises two horizontal lines, one oblique line, and two acute angles, whereas the letter "Y" has one vertical line, two oblique lines, and one acute angle. I have similar stored knowledge about other letters of the alphabet. When I am presented with a letter of the alphabet, the process of recognition involves identifying the types of lines and angles and comparing these to stored information about all letters of the alphabet. If presented with a "Z", as long as I can identify the features then I should recognise it as a "Z", because no other letter of the alphabet shares this combination of features. 
