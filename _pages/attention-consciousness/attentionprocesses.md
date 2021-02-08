@@ -1,10 +1,10 @@
 ---
 layout: single
-sidebar:
-  nav: "attconnav"
+<!-- sidebar:
+  nav: "attconnav" -->
 ---
 
-By: Frances Friedrich, University of Utah
+Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uv9x8df5. 
 
 # Attention Processes 
 
@@ -16,11 +16,11 @@ We use the term “attention“ all the time, but what processes or abilities do
 * Understand how divided attention or multitasking is studied, and implications of multitasking in situations such as distracted driving.
 
 ## What is Attention?
-Before we begin exploring attention in its various forms, take a moment to consider how you think about the concept. How would you define attention, or how do you use the term? We certainly use the word very frequently in our everyday language: “ATTENTION! USE ONLY AS DIRECTED!” warns the label on the medicine bottle, meaning be alert to possible danger. “Pay attention!” pleads the weary seventh-grade teacher, not warning about danger (with possible exceptions, depending on the teacher) but urging the students to focus on the task at hand. We may refer to a child who is easily distracted as having an attention disorder, although we also are told that Americans have an attention span of about 8 seconds, down from 12 seconds in 2000, suggesting that we all have trouble sustaining concentration for any amount of time (from www.Statisticbrain.com). How that number was determined is not clear from the Web site, nor is it clear how attention span in the goldfish—9 seconds!—was measured, but the fact that our average span reportedly is less than that of a goldfish is intriguing, to say the least.
+Before we begin exploring attention in its various forms, take a moment to consider how you think about the concept. How would you define attention, or how do you use the term? We certainly use the word very frequently in our everyday language: “ATTENTION! USE ONLY AS DIRECTED!” warns the label on the medicine bottle, meaning be alert to possible danger. “Pay attention!” pleads the weary seventh-grade teacher, not warning about danger (with possible exceptions, depending on the teacher) but urging the students to focus on the task at hand. We may refer to a child who is easily distracted as having an attention disorder, although we also are told that Americans have an attention span of about 8 seconds, down from 12 seconds in 2000, suggesting that we all have trouble sustaining concentration for any amount of time (from www.statisticbrain.com). How that number was determined is not clear from the website, nor is it clear how attention span in the goldfish—9 seconds!—was measured, but the fact that our average span reportedly is less than that of a goldfish is intriguing, to say the least.
 
 William James wrote extensively about attention in the late 1800s. An often quoted passage (James, 1890/1983) beautifully captures how intuitively obvious the concept of attention is, while it remains very difficult to define in measurable, concrete terms:
 
-Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others. (pp. 381–382)
+"Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others." (pp. 381–382)
 
 Notice that this description touches on the conscious nature of attention, as well as the notion that what is in consciousness is often controlled voluntarily but can also be determined by events that capture our attention. Implied in this description is the idea that we seem to have a limited capacity for information processing, and that we can only attend to or be consciously aware of a small amount of information at any given time.
 
@@ -145,5 +145,6 @@ The ability to process information for meaning when the individual is not consci
 * Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
 * Watson, J. M., & Strayer, D. L. (2010). Supertaskers: Profiles in extraordinary multitasking ability. Psychonomic Bulletin & Review, 17, 479–485.
 
-Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/uv9x8df5. 
+Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uv9x8df5. 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
