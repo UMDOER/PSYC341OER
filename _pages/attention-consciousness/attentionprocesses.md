@@ -135,7 +135,7 @@ The ability to process information for meaning when the individual is not consci
 ## Image credits:
 * [1] Left: [beyrouth](https://www.flickr.com/photos/28279678@N08/2839432886), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Right: [found_drama](https://www.flickr.com/photos/28555778@N00/49792720688), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 * [2] [Mike Licht](https://goo.gl/z7rkve), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-* [3] [If texting while driving is bad...](https://www.flickr.com/photos/36531501@N00/3373530024) by [Josiah Mackenzie](https://www.flickr.com/photos/36531501@N00), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* [3] [Josiah Mackenzie](https://www.flickr.com/photos/36531501@N00/3373530024), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ## References
 * Bargh, J., & Morsella, E. (2008). The unconscious mind. Perspectives on Psychological Science, 3(1), 73–79.
