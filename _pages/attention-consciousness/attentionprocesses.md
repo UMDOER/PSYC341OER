@@ -63,9 +63,10 @@ Results like this, and the fact that you tend to hear meaningful information eve
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/att2.png" style="width:100%">
-    <figcaption> Figure 2: Late Selection Models <br/>
-Other selective attention models have been proposed as well. Alate selection or response selection model proposed by Deutsch and Deutsch (1963) suggests that all information in the unattended ear is processed on the basis of meaning, not just the selected or highly pertinent information. However, only the information that is relevant for the task response gets into conscious awareness. This model is consistent with ideas of subliminal perception; in other words, that you don’t have to be aware of or attending a message for it to be fully processed for meaning.</figcaption>
+    <figcaption> Figure 2: Late Selection Models </figcaption>
 </figure>
+  
+Other selective attention models have been proposed as well. A late selection or response selection model proposed by Deutsch and Deutsch (1963) suggests that all information in the unattended ear is processed on the basis of meaning, not just the selected or highly pertinent information. However, only the information that is relevant for the task response gets into conscious awareness. This model is consistent with ideas of subliminal perception; in other words, that you don’t have to be aware of or attending a message for it to be fully processed for meaning.
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/att3.png" style="width:100%">
@@ -88,12 +89,22 @@ Is it possible to overcome the limited capacity that we experience when engaging
 
 ## Divided Attention Tasks
 
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/multitasking.jpg" >
+    <figcaption> Unless a task is fully automated, some researchers suggest that “multi-tasking” doesn’t really exist; you are just rapidly switching your attention back and forth between tasks. [Image: CC0 Public Domain] </figcaption>
+</figure>
+
 In a classic study that examined this type of divided attention task, two participants were trained to take dictation for spoken words while reading unrelated material for comprehension (Spelke, Hirst, & Neisser, 1976). In divided attention tasks such as these, each task is evaluated separately, in order to determine baseline performance when the individual can allocate as many cognitive resources as necessary to one task at a time. Then performance is evaluated when the two tasks are performed simultaneously. A decrease in performance for either task would suggest that even if attention can be divided or switched between the tasks, the cognitive demands are too great to avoid disruption of performance. (We should note here that divided attention tasks are designed, in principle, to see if two tasks can be carried out simultaneously. A related research area looks at task switching and how well we can switch back and forth among different tasks [e.g., Monsell, 2003]. It turns out that switching itself is cognitively demanding and can impair performance.)
 
 The focus of the Spelke et al. (1976) study was whether individuals could learn to perform two relatively complex tasks concurrently, without impairing performance. The participants received plenty of practice—the study lasted 17 weeks and they had a 1-hour session each day, 5 days a week. These participants were able to learn to take dictation for lists of words and read for comprehension without affecting performance in either task, and the authors suggested that perhaps there are not fixed limits on our attentional capacity. However, changing the tasks somewhat, such as reading aloud rather than silently, impaired performance initially, so this multitasking ability may be specific to these well-learned tasks. Indeed, not everyone could learn to perform two complex tasks without performance costs (Hirst, Neisser, & Spelke, 1978), although the fact that some can is impressive.
 
 ## Distracted Driving
 More relevant to our current lifestyles are questions about multitasking while texting or having cell phone conversations. Research designed to investigate, under controlled conditions, multitasking while driving has revealed some surprising results. Certainly there are many possible types of distractions that could impair driving performance, such as applying makeup using the rearview mirror, attempting (usually in vain) to stop the kids in the backseat from fighting, fiddling with the CD player, trying to negotiate a handheld cell phone, a cigarette, and a soda all at once, eating a bowl of cereal while driving (!). But we tend to have a strong sense that we CAN multitask while driving, and cars are being built with more and more technological capabilities that encourage multitasking. How good are we at dividing attention in these cases?
+
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/texting_while_biking.jpg" >
+    <figcaption> If texting while driving is bad... [Image: Josiah Mackenzie, CC BY 2.0][3] </figcaption>
+</figure>
 
 Most people acknowledge the distraction caused by texting while driving and the reason seems obvious: Your eyes are off the road and your hands and at least one hand (often both) are engaged while texting. However, the problem is not simply one of occupied hands or eyes, but rather that the cognitive demands on our limited capacity systems can seriously impair driving performance (Strayer, Watson, & Drews, 2011). The effect of a cell phone conversation on performance (such as not noticing someone’s brake lights or responding more slowly to them) is just as significant when the individual is having a conversation with a hands-free device as with a handheld phone; the same impairments do not occur when listening to the radio or a book on tape (Strayer & Johnston, 2001). Moreover, studies using eye-tracking devices have shown that drivers are less likely to later recognize objects that they did look at when using a cell phone while driving (Strayer & Drews, 2007). These findings demonstrate that cognitive distractions such as cell phone conversations can produce inattentional blindness, or a lack of awareness of what is right before your eyes (see also, Simons & Chabris, 1999). Sadly, although we all like to think that we can multitask while driving, in fact the percentage of people who can truly perform cognitive tasks without impairing their driving performance is estimated to be about 2% (Watson & Strayer, 2010).
 
@@ -123,6 +134,8 @@ The ability to process information for meaning when the individual is not consci
 
 ## Image credits:
 * [1] Left: [beyrouth](https://www.flickr.com/photos/28279678@N08/2839432886), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich). Right: [found_drama](https://www.flickr.com/photos/28555778@N00/49792720688), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+* [2] 
+* [3] [If texting while driving is bad...](https://www.flickr.com/photos/36531501@N00/3373530024) by [Josiah Mackenzie](https://www.flickr.com/photos/36531501@N00), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ## References
 * Bargh, J., & Morsella, E. (2008). The unconscious mind. Perspectives on Psychological Science, 3(1), 73–79.
