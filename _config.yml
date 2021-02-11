@@ -7,7 +7,7 @@ toc: true
 toc_label: "Contents"
 
 defaults:
-  sidebar: false
+  sidebar: true
   nav: "docs"
   
 markdown: kramdown
