@@ -19,7 +19,7 @@ Before we begin exploring attention in its various forms, take a moment to consi
 
 William James wrote extensively about attention in the late 1800s. An often quoted passage (James, 1890/1983) beautifully captures how intuitively obvious the concept of attention is, while it remains very difficult to define in measurable, concrete terms:
 
-"Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others." (pp. 381–382)
+> Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others." (pp. 381–382)
 
 Notice that this description touches on the conscious nature of attention, as well as the notion that what is in consciousness is often controlled voluntarily but can also be determined by events that capture our attention. Implied in this description is the idea that we seem to have a **limited capacity** for information processing, and that we can only attend to or be consciously aware of a small amount of information at any given time.
 
@@ -33,7 +33,7 @@ Can we learn to divide attention between multiple tasks?
 ## The Cocktail Party
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/cocktailparty_then_and_now.jpg" >
-    <figcaption> The "cocktail party problem" used to be more common. [1]</figcaption>
+    <figcaption> The "cocktail party problem" (left) is perhaps a bit less common these days (right). [1]</figcaption>
 </figure>
 Beyond just hearing your name from the clamor at a party, other words or concepts, particularly unusual or significant ones to you, can also snag your attention.
 Selective attention is the ability to select certain stimuli in the environment to process, while ignoring distracting information. One way to get an intuitive sense of how attention works is to consider situations in which attention is used. A party provides an excellent example for our purposes. Many people may be milling around, there is a dazzling variety of colors and sounds and smells, the buzz of many conversations is striking. There are so many conversations going on; how is it possible to select just one and follow it? You don’t have to be looking at the person talking; you may be listening with great interest to some gossip while pretending not to hear. However, once you are engaged in conversation with someone, you quickly become aware that you cannot also listen to other conversations at the same time. You also are probably not aware of how tight your shoes feel or of the smell of a nearby flower arrangement. On the other hand, if someone behind you mentions your name, you typically notice it immediately and may start attending to that (much more interesting) conversation. This situation highlights an interesting set of observations. We have an amazing ability to select and track one voice, visual object, etc., even when a million things are competing for our attention, but at the same time, we seem to be limited in how much we can attend to at one time, which in turn suggests that attention is crucial in selecting what is important. How does it all work?
