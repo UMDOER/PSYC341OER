@@ -3,56 +3,64 @@ layout: single
 sidebar:
   nav: "memorynav"
 ---
-# Memory
+# Memory (encoding, storage, retrieval)
+Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
 
 “Memory” is a single term that reflects a number of different abilities: holding information briefly while working with it (working memory), remembering episodes of one’s life (episodic memory), and our general knowledge of facts of the world (semantic memory), among other types. Remembering episodes involves three processes: encoding information (learning it, by perceiving it and relating it to past knowledge), storing it (maintaining it over time), and then retrieving it (accessing the information when needed). Failures can occur at any stage, leading to forgetting or to having false memories. The key to improving one’s memory is to improve processes of encoding and to use techniques that guarantee effective retrieval. Good encoding techniques include relating new information to what one already knows, forming mental images, and creating associations among information that needs to be remembered. The key to good retrieval is developing effective cues that will lead the rememberer back to the encoded information. Classic mnemonic systems, known since the time of the ancient Greeks and still used by some today, can greatly improve one’s memory abilities.
 
-Share on Facebook
-Share on Twitter
-Share via Email
-Share this URL
-http://noba.to/bdc4uger
-DistinctivenessEncodingEpisodic memoryMnemonic devicesRecodingRetrievalStorage
-Learning Objectives
-Define and note differences between the following forms of memory: working memory, episodic memory, semantic memory, collective memory.
-Describe the three stages in the process of learning and remembering.
-Describe strategies that can be used to enhance the original learning or encoding of information.
-Describe strategies that can improve the process of retrieval.
-Describe why the classic mnemonic device, the method of loci, works so well.
-Introduction
+## Learning Objectives
+* Define and note differences between the following forms of memory: working memory, episodic memory, semantic memory, collective memory.
+* Describe the three stages in the process of learning and remembering.
+* Describe strategies that can be used to enhance the original learning or encoding of information.
+* Describe strategies that can improve the process of retrieval.
+* Describe why the classic mnemonic device, the method of loci, works so well.
+
+## Introduction
 In 2013, Simon Reinhard sat in front of 60 people in a room at Washington University, where he memorized an increasingly long series of digits. On the first round, a computer generated 10 random digits—6 1 9 4 8 5 6 3 7 1—on a screen for 10 seconds. After the series disappeared, Simon typed them into his computer. His recollection was perfect. In the next phase, 20 digits appeared on the screen for 20 seconds. Again, Simon got them all correct. No one in the audience (mostly professors, graduate students, and undergraduate students) could recall the 20 digits perfectly. Then came 30 digits, studied for 30 seconds; once again, Simon didn’t misplace even a single digit. For a final trial, 50 digits appeared on the screen for 50 seconds, and again, Simon got them all right. In fact, Simon would have been happy to keep going. His record in this task—called “forward digit span”—is 240 digits!
 
-A series of numbered file drawers like those that were common in libraries.
-In some ways memory is like file drawers where you store mental information. Memory is also a series of processes: how does that information get filed to begin with and how does it get retrieved when needed? [Image: M Cruz, https://goo.gl/DhOMgp, CC BY-SA 4.0, https://goo.gl/SWjq94]
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Categorization_system.jpeg" alt="A series of numbered file drawers like those that were common in libraries.">
+    <figcaption> In some ways memory is like file drawers where you store mental information. Memory is also a series of processes: how does that information get filed to begin with and how does it get retrieved when needed? [1] </figcaption>
+</figure>
+
 When most of us witness a performance like that of Simon Reinhard, we think one of two things: First, maybe he’s cheating somehow. (No, he is not.) Second, Simon must have abilities more advanced than the rest of humankind. After all, psychologists established many years ago that the normal memory span for adults is about 7 digits, with some of us able to recall a few more and others a few less (Miller, 1956). That is why the first phone numbers were limited to 7 digits—psychologists determined that many errors occurred (costing the phone company money) when the number was increased to even 8 digits. But in normal testing, no one gets 50 digits correct in a row, much less 240. So, does Simon Reinhard simply have a photographic memory? He does not. Instead, Simon has taught himself simple strategies for remembering that have greatly increased his capacity for remembering virtually any type of material—digits, words, faces and names, poetry, historical dates, and so on. Twelve years earlier, before he started training his memory abilities, he had a digit span of 7, just like most of us. Simon has been training his abilities for about 10 years as of this writing, and has risen to be in the top two of “memory athletes.” In 2012, he came in second place in the World Memory Championships (composed of 11 tasks), held in London. He currently ranks second in the world, behind another German competitor, Johannes Mallow. In this module, we reveal what psychologists and others have learned about memory, and we also explain the general principles by which you can improve your own memory for factual material. 
 
-Varieties of Memory
-A man sits hunched over looking at the pieces on a chessboard with an expression of deep concentration on his face.
-To be a good chess player you have to learn to increase working memory so you can plan ahead for several offensive moves while simultaneously anticipating - through use of memory - how the other player could counter each of your planned moves. [Image: karpidis, https://goo.gl/EhzMKM, CC BY-SA 2.0, https://goo.gl/jSSrcO]
-For most of us, remembering digits relies on short-term memory, or working memory—the ability to hold information in our minds for a brief time and work with it (e.g., multiplying 24 x 17 without using paper would rely on working memory). Another type of memory is episodic memory—the ability to remember the episodes of our lives. If you were given the task of recalling everything you did 2 days ago, that would be a test of episodic memory; you would be required to mentally travel through the day in your mind and note the main events. Semantic memory is our storehouse of more-or-less permanent knowledge, such as the meanings of words in a language (e.g., the meaning of “parasol”) and the huge collection of facts about the world (e.g., there are 196 countries in the world, and 206 bones in your body). Collective memory refers to the kind of memory that people in a group share (whether family, community, schoolmates, or citizens of a state or a country). For example, residents of small towns often strongly identify with those towns, remembering the local customs and historical events in a unique way. That is, the community’s collective memory passes stories and recollections between neighbors and to future generations, forming a memory system unto itself. 
+## Varieties of Memory
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/chess_small.jpg" alt="A man sits hunched over looking at the pieces on a chessboard with an expression of deep concentration on his face.">
+    <figcaption> To be a good chess player you have to learn to increase working memory so you can plan ahead for several offensive moves while simultaneously anticipating - through use of memory - how the other player could counter each of your planned moves. [2] </figcaption>
+</figure>
 
-Psychologists continue to debate the classification of types of memory, as well as which types rely on others (Tulving, 2007), but for this module we will focus on episodic memory. Episodic memory is usually what people think of when they hear the word “memory.” For example, when people say that an older relative is “losing her memory” due to Alzheimer’s disease, the type of memory-loss they are referring to is the inability to recall events, or episodic memory. (Semantic memory is actually preserved in early-stage Alzheimer’s disease.) Although remembering specific events that have happened over the course of one’s entire life (e.g., your experiences in sixth grade) can be referred to as autobiographical memory, we will focus primarily on the episodic memories of more recent events. 
+For most of us, remembering digits relies on *short-term memory*, or *working memory*—the ability to hold information in our minds for a brief time and work with it (e.g., multiplying 24 x 17 without using paper would rely on working memory). Another type of memory is **episodic memory**—the ability to remember the episodes of our lives. If you were given the task of recalling everything you did 2 days ago, that would be a test of episodic memory; you would be required to mentally travel through the day in your mind and note the main events. **Semantic memory** is our storehouse of more-or-less permanent knowledge, such as the meanings of words in a language (e.g., the meaning of “parasol”) and the huge collection of facts about the world (e.g., there are 196 countries in the world, and 206 bones in your body). Collective memory refers to the kind of memory that people in a group share (whether family, community, schoolmates, or citizens of a state or a country). For example, residents of small towns often strongly identify with those towns, remembering the local customs and historical events in a unique way. That is, the community’s collective memory passes stories and recollections between neighbors and to future generations, forming a memory system unto itself. 
 
-Three Stages of the Learning/Memory Process
-Psychologists distinguish between three necessary stages in the learning and memory process: encoding, storage, and retrieval (Melton, 1963). Encoding is defined as the initial learning of information; storage refers to maintaining information over time; retrieval is the ability to access information when you need it. If you meet someone for the first time at a party, you need to encode her name (Lyn Goff) while you associate her name with her face. Then you need to maintain the information over time. If you see her a week later, you need to recognize her face and have it serve as a cue to retrieve her name. Any successful act of remembering requires that all three stages be intact. However, two types of errors can also occur. Forgetting is one type: you see the person you met at the party and you cannot recall her name. The other error is misremembering (false recall or false recognition): you see someone who looks like Lyn Goff and call the person by that name (false recognition of the face). Or, you might see the real Lyn Goff, recognize her face, but then call her by the name of another woman you met at the party (misrecall of her name).
+Psychologists continue to debate the classification of types of memory, as well as which types rely on others (Tulving, 2007), but for this module we will focus on episodic memory. Episodic memory is usually what people think of when they hear the word “memory.” For example, when people say that an older relative is “losing her memory” due to Alzheimer’s disease, the type of memory-loss they are referring to is the inability to recall events, or episodic memory. (Semantic memory is actually preserved in early-stage Alzheimer’s disease.) Although remembering specific events that have happened over the course of one’s entire life (e.g., your experiences in sixth grade) can be referred to as **autobiographical memory**, we will focus primarily on the episodic memories of more recent events. 
+
+## Three Stages of the Learning/Memory Process
+Psychologists distinguish between three necessary stages in the learning and memory process: **encoding**, **storage**, and **retrieval** (Melton, 1963). Encoding is defined as the initial learning of information; storage refers to maintaining information over time; retrieval is the ability to access information when you need it. If you meet someone for the first time at a party, you need to encode her name (Lyn Goff) while you associate her name with her face. Then you need to maintain the information over time. If you see her a week later, you need to recognize her face and have it serve as a cue to retrieve her name. Any successful act of remembering requires that all three stages be intact. However, two types of errors can also occur. Forgetting is one type: you see the person you met at the party and you cannot recall her name. The other error is misremembering (false recall or false recognition): you see someone who looks like Lyn Goff and call the person by that name (false recognition of the face). Or, you might see the real Lyn Goff, recognize her face, but then call her by the name of another woman you met at the party (misrecall of her name).
 
 Whenever forgetting or misremembering occurs, we can ask, at which stage in the learning/memory process was there a failure?—though it is often difficult to answer this question with precision. One reason for this inaccuracy is that the three stages are not as discrete as our description implies. Rather, all three stages depend on one another. How we encode information determines how it will be stored and what cues will be effective when we try to retrieve it. And too, the act of retrieval itself also changes the way information is subsequently remembered, usually aiding later recall of the retrieved information. The central point for now is that the three stages—encoding, storage, and retrieval—affect one another, and are inextricably bound together.
 
-Encoding
+## Encoding
 Encoding refers to the initial experience of perceiving and learning information. Psychologists often study recall by having participants study a list of pictures or words. Encoding in these situations is fairly straightforward. However, “real life” encoding is much more challenging. When you walk across campus, for example, you encounter countless sights and sounds—friends passing by, people playing Frisbee, music in the air. The physical and mental environments are much too rich for you to encode all the happenings around you or the internal thoughts you have in response to them. So, an important first principle of encoding is that it is selective: we attend to some events in our environment and we ignore others. A second point about encoding is that it is prolific; we are always encoding the events of our lives—attending to the world, trying to understand it. Normally this presents no problem, as our days are filled with routine occurrences, so we don’t need to pay attention to everything. But if something does happen that seems strange—during your daily walk across campus, you see a giraffe—then we pay close attention and try to understand why we are seeing what we are seeing. 
 
-A life-sized model of a giraffe stands in a busy public plaza.
-A giraffe in the context of a zoo or its natural habitat may register as nothing more than ordinary, but put it in another setting - in the middle of a campus or a busy city - and its level of distinctiveness increases dramatically. Distinctiveness is a key attribute to remembering events. [Image: Colin J Babb, https://goo.gl/Cci2yl, CC BY-SA 2.0, https://goo.gl/jSSrcO]
-Right after your typical walk across campus (one without the appearance of a giraffe), you would be able to remember the events reasonably well if you were asked. You could say whom you bumped into, what song was playing from a radio, and so on. However, suppose someone asked you to recall the same walk a month later. You wouldn’t stand a chance. You would likely be able to recount the basics of a typical walk across campus, but not the precise details of that particular walk. Yet, if you had seen a giraffe during that walk, the event would have been fixed in your mind for a long time, probably for the rest of your life. You would tell your friends about it, and, on later occasions when you saw a giraffe, you might be reminded of the day you saw one on campus. Psychologists have long pinpointed distinctiveness—having an event stand out as quite different from a background of similar events—as a key to remembering events (Hunt, 2003). 
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/giraffe.jpg" alt="A life-sized model of a giraffe stands in a busy public plaza.">
+    <figcaption> A giraffe in the context of a zoo or its natural habitat may register as nothing more than ordinary, but put it in another setting - in the middle of a campus or a busy city - and its level of distinctiveness increases dramatically. Distinctiveness is a key attribute to remembering events.[3] </figcaption>
+</figure>
 
-In addition, when vivid memories are tinged with strong emotional content, they often seem to leave a permanent mark on us. Public tragedies, such as terrorist attacks, often create vivid memories in those who witnessed them. But even those of us not directly involved in such events may have vivid memories of them, including memories of first hearing about them. For example, many people are able to recall their exact physical location when they first learned about the assassination or accidental death of a national figure. The term flashbulb memory was originally coined by Brown and Kulik (1977) to describe this sort of vivid memory of finding out an important piece of news. The name refers to how some memories seem to be captured in the mind like a flash photograph; because of the distinctiveness and emotionality of the news, they seem to become permanently etched in the mind with exceptional clarity compared to other memories. 
+Right after your typical walk across campus (one without the appearance of a giraffe), you would be able to remember the events reasonably well if you were asked. You could say whom you bumped into, what song was playing from a radio, and so on. However, suppose someone asked you to recall the same walk a month later. You wouldn’t stand a chance. You would likely be able to recount the basics of a typical walk across campus, but not the precise details of that particular walk. Yet, if you had seen a giraffe during that walk, the event would have been fixed in your mind for a long time, probably for the rest of your life. You would tell your friends about it, and, on later occasions when you saw a giraffe, you might be reminded of the day you saw one on campus. Psychologists have long pinpointed **distinctiveness**—having an event stand out as quite different from a background of similar events—as a key to remembering events (Hunt, 2003). 
+
+In addition, when vivid memories are tinged with strong emotional content, they often seem to leave a permanent mark on us. Public tragedies, such as terrorist attacks, often create vivid memories in those who witnessed them. But even those of us not directly involved in such events may have vivid memories of them, including memories of first hearing about them. For example, many people are able to recall their exact physical location when they first learned about the assassination or accidental death of a national figure. The term **flashbulb memory** was originally coined by Brown and Kulik (1977) to describe this sort of vivid memory of finding out an important piece of news. The name refers to how some memories seem to be captured in the mind like a flash photograph; because of the distinctiveness and emotionality of the news, they seem to become permanently etched in the mind with exceptional clarity compared to other memories. 
 
 Take a moment and think back on your own life. Is there a particular memory that seems sharper than others? A memory where you can recall unusual details, like the colors of mundane things around you, or the exact positions of surrounding objects? Although people have great confidence in flashbulb memories like these, the truth is, our objective accuracy with them is far from perfect (Talarico & Rubin, 2003). That is, even though people may have great confidence in what they recall, their memories are not as accurate (e.g., what the actual colors were; where objects were truly placed) as they tend to imagine. Nonetheless, all other things being equal, distinctive and emotional events are well-remembered.
 
-Details do not leap perfectly from the world into a person’s mind. We might say that we went to a party and remember it, but what we remember is (at best) what we encoded. As noted above, the process of encoding is selective, and in complex situations, relatively few of many possible details are noticed and encoded. The process of encoding always involves recoding—that is, taking the information from the form it is delivered to us and then converting it in a way that we can make sense of it. For example, you might try to remember the colors of a rainbow by using the acronym ROY G BIV (red, orange, yellow, green, blue, indigo, violet). The process of recoding the colors into a name can help us to remember. However, recoding can also introduce errors—when we accidentally add information during encoding, then remember that new material as if it had been part of the actual experience (as discussed below).
+Details do not leap perfectly from the world into a person’s mind. We might say that we went to a party and remember it, but what we remember is (at best) what we encoded. As noted above, the process of encoding is selective, and in complex situations, relatively few of many possible details are noticed and encoded. The process of encoding always involves **recoding**—that is, taking the information from the form it is delivered to us and then converting it in a way that we can make sense of it. For example, you might try to remember the colors of a rainbow by using the acronym ROY G BIV (red, orange, yellow, green, blue, indigo, violet). The process of recoding the colors into a name can help us to remember. However, recoding can also introduce errors—when we accidentally add information during encoding, then remember that new material as if it had been part of the actual experience (as discussed below).
 
-A drawing shows the varying flow of material through two funnels. One funnel is nearly overflowing as material pours into it, while the other has a more moderate stream of materials coming in that flow straight through without backing up. The caption above the diagram says, "Slow down to flow fast?"
-Although it requires more effort, using images and associations can improve the process of recoding. [Image: psd, https://goo.gl/9xjcDe, CC BY 2.0, https://goo.gl/9uSnqN]
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/slowdowntomovefast.jpg" alt="A drawing shows the varying flow of material through two funnels. One funnel is nearly overflowing as material pours into it, while the other has a more moderate stream of materials coming in that flow straight through without backing up. The caption above the diagram says Slow down to flow fast?">
+    <figcaption> Although it requires more effort, using images and associations can improve the process of recoding. [4] </figcaption>
+</figure>
+
 Psychologists have studied many recoding strategies that can be used during study to improve retention. First, research advises that, as we study, we should think of the meaning of the events (Craik & Lockhart, 1972), and we should try to relate new events to information we already know. This helps us form associations that we can use to retrieve information later. Second, imagining events also makes them more memorable; creating vivid images out of information (even verbal information) can greatly improve later recall (Bower & Reitman, 1972). Creating imagery is part of the technique Simon Reinhard uses to remember huge numbers of digits, but we can all use images to encode information more effectively. The basic concept behind good encoding strategies is to form distinctive memories (ones that stand out), and to form links or associations among memories to help later retrieval (Hunt & McDaniel, 1993). Using study strategies such as the ones described here is challenging, but the effort is well worth the benefits of enhanced learning and retention.
 
 We emphasized earlier that encoding is selective: people cannot encode all information they are exposed to. However, recoding can add information that was not even seen or heard during the initial encoding phase. Several of the recoding processes, like forming associations between memories, can happen without our awareness. This is one reason people can sometimes remember events that did not actually happen—because during the process of recoding, details got added. One common way of inducing false memories in the laboratory employs a word-list technique (Deese, 1959; Roediger & McDermott, 1995). Participants hear lists of 15 words, like door, glass, pane, shade, ledge, sill, house, open, curtain, frame, view, breeze, sash, screen, and shutter. Later, participants are given a test in which they are shown a list of words and asked to pick out the ones they’d heard earlier. This second list contains some words from the first list (e.g., door, pane, frame) and some words not from the list (e.g., arm, phone, bottle). In this example, one of the words on the test is window, which—importantly—does not appear in the first list, but which is related to other words in that list. When subjects were tested, they were reasonably accurate with the studied words (door, etc.), recognizing them 72% of the time. However, when window was on the test, they falsely recognized it as having been on the list 84% of the time (Stadler, Roediger, & McDermott, 1999). The same thing happened with many other lists the authors used. This phenomenon is referred to as the DRM (for Deese-Roediger-McDermott) effect. One explanation for such results is that, while students listened to items in the list, the words triggered the students to think about window, even though window was never presented. In this way, people seem to encode events that are not actually part of their experience.
@@ -62,8 +70,11 @@ Because humans are creative, we are always going beyond the information we are g
 Encoding—the initial registration of information—is essential in the learning and memory process. Unless an event is encoded in some fashion, it will not be successfully remembered later. However, just because an event is encoded (even if it is encoded well), there’s no guarantee that it will be remembered later.
 
 Storage
-A broken audio cassette tape sits on a table with tape spilling out into a messy pile.
-Memory traces, or engrams, are NOT perfectly preserved recordings of past experiences. The traces are combined with current knowledge to reconstruct what we think happened in the past. [Simon Bierdwald, https://goo.gl/JDhdCE, CC BY-NC-SA 2.0, https://goo.gl/jSSrcO]
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/cassette.jpg" alt="A broken audio cassette tape sits on a table with tape spilling out into a messy pile.">
+    <figcaption> Memory traces, or engrams, are NOT perfectly preserved recordings of past experiences. The traces are combined with current knowledge to reconstruct what we think happened in the past. [5] </figcaption>
+</figure>
+
 Every experience we have changes our brains. That may seem like a bold, even strange, claim at first, but it’s true. We encode each of our experiences within the structures of the nervous system, making new impressions in the process—and each of those impressions involves changes in the brain. Psychologists (and neurobiologists) say that experiences leave memory traces, or engrams (the two terms are synonyms). Memories have to be stored somewhere in the brain, so in order to do so, the brain biochemically alters itself and its neural tissue. Just like you might write yourself a note to remind you of something, the brain “writes” a memory trace, changing its own physical composition to do so. The basic idea is that events (occurrences in our environment) create engrams through a process of consolidation: the neural changes that occur after learning to create the memory trace of an experience. Although neurobiologists are concerned with exactly what neural processes change when memories are created, for psychologists, the term memory trace simply refers to the physical change in the nervous system (whatever that may be, exactly) that represents our experience.
 
 Although the concept of engram or memory trace is extremely useful, we shouldn’t take the term too literally. It is important to understand that memory traces are not perfect little packets of information that lie dormant in the brain, waiting to be called forward to give an accurate report of past experience. Memory traces are not like video or audio recordings, capturing experience with great accuracy; as discussed earlier, we often have errors in our memory, which would not exist if memory traces were perfect packets of information. Thus, it is wrong to think that remembering involves simply “reading out” a faithful record of past experience. Rather, when we remember past events, we reconstruct them with the aid of our memory traces—but also with our current belief of what happened. For example, if you were trying to recall for the police who started a fight at a bar, you may not have a memory trace of who pushed whom first. However, let’s say you remember that one of the guys held the door open for you. When thinking back to the start of the fight, this knowledge (of how one guy was friendly to you) may unconsciously influence your memory of what happened in favor of the nice guy. Thus, memory is a construction of what you actually recall and what you believe happened. In a phrase, remembering is reconstructive (we reconstruct our past with the aid of memory traces) not reproductive (a perfect reproduction or recreation of the past).
@@ -141,76 +152,90 @@ Video: Simon Reinhard breaking the world record in speedcards.
 
 Web: Retrieval Practice, a website with research, resources, and tips for both educators and learners around the memory-strengthening skill of retrieval practice.
 http://www.retrievalpractice.org/
-Discussion Questions
-Mnemonists like Simon Reinhard develop mental “journeys,” which enable them to use the method of loci. Develop your own journey, which contains 20 places, in order, that you know well. One example might be: the front walkway to your parents’ apartment; their doorbell; the couch in their living room; etc. Be sure to use a set of places that you know well and that have a natural order to them (e.g., the walkway comes before the doorbell). Now you are more than halfway toward being able to memorize a set of 20 nouns, in order, rather quickly. As an optional second step, have a friend make a list of 20 such nouns and read them to you, slowly (e.g., one every 5 seconds). Use the method to attempt to remember the 20 items.
-Recall a recent argument or misunderstanding you have had about memory (e.g., a debate over whether your girlfriend/boyfriend had agreed to something). In light of what you have just learned about memory, how do you think about it? Is it possible that the disagreement can be understood by one of you making a pragmatic inference?
+
+## Discussion Questions
+* Mnemonists like Simon Reinhard develop mental “journeys,” which enable them to use the method of loci. Develop your own journey, which contains 20 places, in order, that you know well. One example might be: the front walkway to your parents’ apartment; their doorbell; the couch in their living room; etc. Be sure to use a set of places that you know well and that have a natural order to them (e.g., the walkway comes before the doorbell). Now you are more than halfway toward being able to memorize a set of 20 nouns, in order, rather quickly. As an optional second step, have a friend make a list of 20 such nouns and read them to you, slowly (e.g., one every 5 seconds). Use the method to attempt to remember the 20 items.
+* Recall a recent argument or misunderstanding you have had about memory (e.g., a debate over whether your girlfriend/boyfriend had agreed to something). In light of what you have just learned about memory, how do you think about it? Is it possible that the disagreement can be understood by one of you making a pragmatic inference?
 Think about what you’ve learned in this module and about how you study for tests. On the basis of what you have learned, is there something  you want to try that might help your study habits?
-Vocabulary
-Autobiographical memory
+
+## Vocabulary
+### Autobiographical memory
 Memory for the events of one’s life.
-Consolidation
+### Consolidation
 The process occurring after encoding that is believed to stabilize memory traces.
-Cue overload principle
+### Cue overload principle
 The principle stating that the more memories that are associated to a particular retrieval cue, the less effective the cue will be in prompting retrieval of any one memory.
-Distinctiveness
+### Distinctiveness
 The principle that unusual events (in a context of similar events) will be recalled and recognized better than uniform (nondistinctive) events.
-Encoding
+### Encoding
 The initial experience of perceiving and learning events.
-Encoding specificity principle
+### Encoding specificity principle
 The hypothesis that a retrieval cue will be effective to the extent that information encoded from the cue overlaps or matches information in the engram or memory trace.
-Engrams
+### Engrams
 A term indicating the change in the nervous system representing an event; also, memory trace.
-Episodic memory
+### Episodic memory
 Memory for events in a particular time and place.
-Flashbulb memory
+### Flashbulb memory
 Vivid personal memories of receiving the news of some momentous (and usually emotional) event.
-Memory traces
+### Memory traces
 A term indicating the change in the nervous system representing an event.
-Misinformation effect
+### Misinformation effect
 When erroneous information occurring after an event is remembered as having been part of the original event.
-Mnemonic devices
+### Mnemonic devices
 A strategy for remembering large amounts of information, usually involving imaging events occurring on a journey or with some other set of memorized cues.
-Recoding
+### Recoding
 The ubiquitous process during learning of taking information in one form and converting it to another form, usually one more easily remembered.
-Retrieval
+### Retrieval
 The process of accessing stored information.
-Retroactive interference
+### Retroactive interference
 The phenomenon whereby events that occur after some particular event of interest will usually cause forgetting of the original event.
-Semantic memory
+### Semantic memory
 The more or less permanent store of knowledge that people have.
-Storage
+### Storage
 The stage in the learning/memory process that bridges encoding and retrieval; the persistence of memory over time.
-References
-Anderson, M. C., Bjork, R., & Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. Journal of Experimental Psychology-Learning Memory and Cognition, 20, 1063–1087.
-Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge: Cambridge University Press.
-Bower, G. H., & Reitman, J. S. (1972). Mnemonic elaboration in multilist learning. Journal of Verbal Learning and Verbal Behavior, 11, 478–485.
-Brewer, W. F. (1977). Memory for the pragmatic implications of sentences. Memory & Cognition, 5(6), 673–678.
-Brown, R., & Kulik, J. (1977). Flashbulb memories. Cognition, 5, 73–99.
-Chan, J.C.K. & McDermott, K.B. (2006). Remembering pragmatic inferences. Applied Cognitive Psychology, 20, 633-639.
-Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. Journal of Verbal Learning and Verbal Behavior, 11, 671–684.
-Deese, J. (1959). On the prediction of occurrence of particular verbal intrusions in immediate recall. Journal of Experimental Psychology, 58, 17.
-Godden, D. R., & Baddeley, A. D. (1975). Context‐dependent memory in two natural environments: On land and underwater. British Journal of Psychology,66 (3), 325-331
-Hunt, R. (2003). Two contributions of distinctive processing to accurate memory. Journal of Memory and Language, 48, 811–825.
-Hunt, R., & McDaniel, M. A. (1993). The enigma of organization and distinctiveness. Journal of Memory and Language, 32, 421-445.
-Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. Learning & Memory, 12, 361–366.
-McDermott, K. B. (2006). Paradoxical effects of testing: Repeated retrieval attempts enhance the likelihood of later accurate and false recall. Memory & Cognition, 34, 261–267.
-McGeoch, J. A. (1932). Forgetting and the law of disuse. Psychological Review, 39(4), 352.
-Melton, A. W. (1963). Implications of short-term memory for a general theory of memory. Journal of Verbal Learning and Verbal Behavior, 2, 1–21.
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81–97.
-Muter, P. (1984). Recognition and recall of words with a single meaning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 10, 198–202.
-Nairne, J. S. (2002). The myth of the encoding-retrieval match. Memory, 10, 389–395.
-Norman, K. A., & Schacter, D. L. (1997). False recognition in younger and older adults: Exploring the characteristics of illusory memories. Memory & Cognition, 25, 838–848.
-Pyc, M. A., & Rawson, K. A. (2009). Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory? Journal of Memory and Language, 60, 437–447.
-Roediger, H. L. (1980). The effectiveness of four mnemonics in ordering recall. Journal of Experimental Psychology: Human Learning and Memory, 6, 558.
-Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17, 249–255.
-Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology-Learning Memory and Cognition, 21, 803–814.
-Stadler, M. A., Roediger, H. L., & McDermott, K. B. (1999). Norms for word lists that create false memories. Memory & Cognition, 27, 494–500.
-Talarico, J. M., & Rubin, D. C. (2003). Confidence, not consistency, characterizes flashbulb memories. Psychological Science, 14, 455–461.
-Tulving, E. (2007). Are there 256 different kinds of memory? In J.S. Nairne (Ed.), The foundations of remembering: Essays in honor of Henry L. Roediger, III (pp. 39–52). New York: Psychology Press.
-Tulving, E. (1991). Interview. Journal of Cognitive Neuroscience, 3, 89–94
-Tulving, E., & Bower, G. H. (1975). The logic of memory representations. The psychology of learning and motivation, 8, 265-301.
-Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of information in memory for words. Journal of Verbal Learning and Verbal Behavior, 5, 381–391.
-Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80, 352–373.
-Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80, 352–373.
-Watkins, M. J. (1975). Inhibition in recall with extralist “cues.” Journal of Verbal Learning and Verbal Behavior, 14, 294–303.
-Watkins, M. J., & Tulving, E. (1975). Episodic memory: When recognition fails. Journal of Experimental Psychology: General, 104, 5–29.
+
+## References
+* Anderson, M. C., Bjork, R., & Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. Journal of Experimental Psychology-Learning Memory and Cognition, 20, 1063–1087.
+* Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge: Cambridge University Press.
+* Bower, G. H., & Reitman, J. S. (1972). Mnemonic elaboration in multilist learning. Journal of Verbal Learning and Verbal Behavior, 11, 478–485.
+* Brewer, W. F. (1977). Memory for the pragmatic implications of sentences. Memory & Cognition, 5(6), 673–678.
+* Brown, R., & Kulik, J. (1977). Flashbulb memories. Cognition, 5, 73–99.
+* Chan, J.C.K. & McDermott, K.B. (2006). Remembering pragmatic inferences. Applied Cognitive Psychology, 20, 633-639.
+* Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. Journal of Verbal Learning and Verbal Behavior, 11, 671–684.
+* Deese, J. (1959). On the prediction of occurrence of particular verbal intrusions in immediate recall. Journal of Experimental Psychology, 58, 17.
+* Godden, D. R., & Baddeley, A. D. (1975). Context‐dependent memory in two natural environments: On land and underwater. British Journal of Psychology,66 (3), 325-331
+* Hunt, R. (2003). Two contributions of distinctive processing to accurate memory. Journal of Memory and Language, 48, 811–825.
+* Hunt, R., & McDaniel, M. A. (1993). The enigma of organization and distinctiveness. Journal of Memory and Language, 32, 421-445.
+* Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. Learning & Memory, 12, 361–366.
+* McDermott, K. B. (2006). Paradoxical effects of testing: Repeated retrieval attempts enhance the likelihood of later accurate and false recall. Memory & Cognition, 34, 261–267.
+* McGeoch, J. A. (1932). Forgetting and the law of disuse. Psychological Review, 39(4), 352.
+* Melton, A. W. (1963). Implications of short-term memory for a general theory of memory. Journal of Verbal Learning and Verbal Behavior, 2, 1–21.
+* Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81–97.
+* Muter, P. (1984). Recognition and recall of words with a single meaning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 10, 198–202.
+* Nairne, J. S. (2002). The myth of the encoding-retrieval match. Memory, 10, 389–395.
+* Norman, K. A., & Schacter, D. L. (1997). False recognition in younger and older adults: Exploring the characteristics of illusory memories. Memory & Cognition, 25, 838–848.
+* Pyc, M. A., & Rawson, K. A. (2009). Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory? Journal of Memory and Language, 60, 437–447.
+* Roediger, H. L. (1980). The effectiveness of four mnemonics in ordering recall. Journal of Experimental Psychology: Human Learning and Memory, 6, 558.
+* Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17, 249–255.
+* Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology-Learning Memory and Cognition, 21, 803–814.
+* Stadler, M. A., Roediger, H. L., & McDermott, K. B. (1999). Norms for word lists that create false memories. Memory & Cognition, 27, 494–500.
+* Talarico, J. M., & Rubin, D. C. (2003). Confidence, not consistency, characterizes flashbulb memories. Psychological Science, 14, 455–461.
+* Tulving, E. (2007). Are there 256 different kinds of memory? In J.S. Nairne (Ed.), The foundations of remembering: Essays in honor of Henry L. Roediger, III (pp. 39–52). New York: Psychology Press.
+* Tulving, E. (1991). Interview. Journal of Cognitive Neuroscience, 3, 89–94
+* Tulving, E., & Bower, G. H. (1975). The logic of memory representations. The psychology of learning and motivation, 8, 265-301.
+* Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of information in memory for words. Journal of Verbal Learning and Verbal Behavior, 5, 381–391.
+* Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80, 352–373.
+* Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80, 352–373.
+* Watkins, M. J. (1975). Inhibition in recall with extralist “cues.” Journal of Verbal Learning and Verbal Behavior, 14, 294–303.
+* Watkins, M. J., & Tulving, E. (1975). Episodic memory: When recognition fails. Journal of Experimental Psychology: General, 104, 5–29.
+
+Image credits:
+[1] M Cruz, https://goo.gl/DhOMgp, [CC BY-SA 4.0](https://goo.gl/SWjq94)
+[2] karpidis, https://goo.gl/EhzMKM, [CC BY-SA 2.0](https://goo.gl/jSSrcO)
+[3] Colin J Babb, https://goo.gl/Cci2yl, [CC BY-SA 2.0](https://goo.gl/jSSrcO)
+[4] psd, https://goo.gl/9xjcDe, [CC BY 2.0](https://goo.gl/9uSnqN)
+[5] Simon Bierdwald, https://goo.gl/JDhdCE, [CC BY-NC-SA 2.0](https://goo.gl/jSSrcO)
+
+Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
