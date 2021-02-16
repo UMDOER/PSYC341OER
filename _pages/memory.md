@@ -85,7 +85,10 @@ Psychologists refer to the time between learning and testing as the retention in
     <img src="https://UMDOER.github.io/PSYC341OER/images/learning_retention_testing.jpg" alt="Diagram showing learning followed by a retention interval which is then followed by testing.">
 </figure>
 
-Retroactive interference is one of the main causes of forgetting (McGeoch, 1932). In the module Eyewitness Testimony and Memory Biases http://noba.to/uy49tm37 Elizabeth Loftus describes her fascinating work on eyewitness memory, in which she shows how memory for an event can be changed via misinformation supplied during the retention interval. For example, if you witnessed a car crash but subsequently heard people describing it from their own perspective, this new information may interfere with or disrupt your own personal recollection of the crash. In fact, you may even come to remember the event happening exactly as the others described it! This misinformation effect in eyewitness memory represents a type of retroactive interference that can occur during the retention interval (see Loftus [2005] for a review). Of course, if correct information is given during the retention interval, the witness’s memory will usually be improved.
+Retroactive interference is one of the main causes of forgetting (McGeoch, 1932). An implication of this is that memory for an event can be changed via misinformation supplied during the retention interval. For example, if you witnessed a car crash but subsequently heard people describing it from their own perspective, this new information may interfere with or disrupt your own personal recollection of the crash. In fact, you may even come to remember the event happening exactly as the others described it! This misinformation effect in eyewitness memory represents a type of retroactive interference that can occur during the retention interval (see Loftus [2005] for a review). Of course, if correct information is given during the retention interval, the witness’s memory will usually be improved. 
+
+Eureka Foong's *The Misinformation Effect*. This student-made video illustrating this phenomenon of altered memory was one of the winning entries in the 2014 Noba Student Video Award: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMPIWkFtd88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Although interference may arise between the occurrence of an event and the attempt to recall it, the effect itself is always expressed when we retrieve memories, the topic to which we turn next.
 
@@ -150,9 +153,6 @@ How did Simon Reinhard remember those digits? Essentially he has a much more com
 Many books exist on how to improve memory using mnemonic devices, but all involve forming distinctive encoding operations and then having an infallible set of memory cues. We should add that to develop and use these memory systems beyond the basic peg system outlined above takes a great amount of time and concentration. The World Memory Championships are held every year and the records keep improving. However, for most common purposes, just keep in mind that to remember well you need to encode information in a distinctive way and to have good cues for retrieval. You can adapt a system that will meet most any purpose.
 
 Outside Resources
-Book: Brown, P.C., Roediger, H. L. & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Cambridge, MA: Harvard University Press.
-https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013
-Student Video 1: Eureka Foong\\\\\\\'s - The Misinformation Effect. This is a student-made video illustrating this phenomenon of altered memory. It was one of the winning entries in the 2014 Noba Student Video Award.
 
 Student Video 2: Kara McCord\\\\\\\'s - Flashbulb Memories. This is a student-made video illustrating this phenomenon of autobiographical memory. It was one of the winning entries in the 2014 Noba Student Video Award.
 
