@@ -2,130 +2,15 @@
 layout: single
 ---
 # Stages of Memory
-Adapted from ...
+Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor.
 
-“Memory” is a single term that reflects a number of different abilities: holding information briefly while working with it (working memory), remembering episodes of one’s life (episodic memory), and our general knowledge of facts of the world (semantic memory), among other types. Remembering episodes involves three processes: encoding information (learning it, by perceiving it and relating it to past knowledge), storing it (maintaining it over time), and then retrieving it (accessing the information when needed). Failures can occur at any stage, leading to forgetting or to having false memories. The key to improving one’s memory is to improve processes of encoding and to use techniques that guarantee effective retrieval. Good encoding techniques include relating new information to what one already knows, forming mental images, and creating associations among information that needs to be remembered. The key to good retrieval is developing effective cues that will lead the rememberer back to the encoded information. Classic mnemonic systems, known since the time of the ancient Greeks and still used by some today, can greatly improve one’s memory abilities.
+Psychologists conceptualize memory in terms of *types*, in terms of *stages*, and in terms of *processes*. In this section we will cover the three major memory stages: *sensory* memory, *short-term* or *working* memory, and *long-term* memory (Atkinson & Shiffrin, 1968). Then, in the next section, we will consider the nature of long-term memory, with a particular emphasis on the cognitive techniques we can use to improve our memories. Our discussion will focus on the three processes that are central to long-term memory: *encoding*, *storage*, and *retrieval*.
 
 ## Learning Objectives
-* Define and note differences between the following forms of memory: working memory, episodic memory, semantic memory, collective memory.
-* Describe the three stages in the process of learning and remembering.
-* Describe strategies that can be used to enhance the original learning or encoding of information.
-* Describe strategies that can improve the process of retrieval.
-* Describe why the classic mnemonic device, the method of loci, works so well.
 
-## Introduction
-In 2013, Simon Reinhard sat in front of 60 people in a room at Washington University, where he memorized an increasingly long series of digits. On the first round, a computer generated 10 random digits—6 1 9 4 8 5 6 3 7 1—on a screen for 10 seconds. After the series disappeared, Simon typed them into his computer. His recollection was perfect. In the next phase, 20 digits appeared on the screen for 20 seconds. Again, Simon got them all correct. No one in the audience (mostly professors, graduate students, and undergraduate students) could recall the 20 digits perfectly. Then came 30 digits, studied for 30 seconds; once again, Simon didn’t misplace even a single digit. For a final trial, 50 digits appeared on the screen for 50 seconds, and again, Simon got them all right. In fact, Simon would have been happy to keep going. His record in this task—called “forward digit span”—is 240 digits!
+Add some
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Categorization_system.jpeg" alt="A series of numbered file drawers like those that were common in libraries.">
-    <figcaption> In some ways memory is like file drawers where you store mental information. Memory is also a series of processes: how does that information get filed to begin with and how does it get retrieved when needed? [1] </figcaption>
-</figure>
-
-
-
-Chapter 9. Remembering and Judging
-
-9.1 Memories as Types and Stages
-================================
-
-### Learning Objectives
-
-1.  Compare and contrast explicit and implicit memory, identifying the features that define each.
-2.  Explain the function and duration of eidetic and echoic memories.
-3.  Summarize the capacities of short-term memory and explain how working memory is used to process information in it.
-
-As you can see in Table 9.1, "Memory Conceptualized in Terms of Types, Stages, and Processes," psychologists conceptualize memory in terms of *types*, in terms of *stages*, and in terms of *processes*. In this section we will consider the two types of memory, *explicit memory* and *implicit memory*, and then the three major memory stages: *sensory*, *short-term*, and *long-term* (Atkinson & Shiffrin, 1968). Then, in the next section, we will consider the nature of long-term memory, with a particular emphasis on the cognitive techniques we can use to improve our memories. Our discussion will focus on the three processes that are central to long-term memory: *encoding*, *storage*, and *retrieval*.
-
-Table 9.1 Memory Conceptualized in Terms of Types, Stages, and Processes.
-| As types |
-
--   Explicit memory
--   Implicit memory
-
- |
-| As stages |
-
--   Sensory memory
--   Short-term memory
--   Long-term memory
-
- |
-| As processes |
-
--   Encoding
--   Storage
--   Retrieval
-
- |
-
-Explicit Memory
----------------
-
-When we assess memory by asking a person to consciously remember things, we are measuring *explicit memory*. Explicit memory refers to *knowledge or experiences that can be consciously remembered*. As you can see in Figure 9.2, "Types of Memory," there are two types of explicit memory: *episodic* and *semantic*. Episodic memory refers to *the firsthand experiences that we have had* (e.g., recollections of our high school graduation day or of the fantastic dinner we had in New York last year). Semantic memory refers to *our knowledge of facts and concepts about the world* (e.g., that the absolute value of -90 is greater than the absolute value of 9 and that one definition of the word "affect" is "the experience of feeling or emotion").
-
-[![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/d3f9b937b11eb7ad6effb49222788ebb-1024x240.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/d3f9b937b11eb7ad6effb49222788ebb.jpg)
-
-Figure 9.2 Types of Memory.
-
-Explicit memory is assessed using measures in which the individual being tested must consciously attempt to remember the information. A recall memory test is *a measure of explicit memory that involves bringing from memory information that has previously been remembered*. We rely on our recall memory when we take an essay test, because the test requires us to generate previously remembered information. A multiple-choice test is an example of a recognition memory test, *a measure of explicit memory that involves determining whether information has been seen or learned before*.
-
-Your own experiences taking tests will probably lead you to agree with the scientific research finding that recall is more difficult than recognition. Recall, such as required on essay tests, involves two steps: first generating an answer and then determining whether it seems to be the correct one. Recognition, as on multiple-choice test, only involves determining which item from a list seems most correct (Haist, Shimamura, & Squire, 1992). Although they involve different processes, recall and recognition memory measures tend to be correlated. Students who do better on a multiple-choice exam will also, by and large, do better on an essay exam (Bridgeman & Morgan, 1996).
-
-A third way of measuring memory is known as *relearning* (Nelson, 1985). Measures of relearning (or savings) *assess how much more quickly information is processed or learned when it is studied again after it has already been learned but then forgotten*. If you have taken some French courses in the past, for instance, you might have forgotten most of the vocabulary you learned. But if you were to work on your French again, you'd learn the vocabulary much faster the second time around. Relearning can be a more sensitive measure of memory than either recall or recognition because it allows assessing memory in terms of "how much" or "how fast" rather than simply "correct" versus "incorrect" responses. Relearning also allows us to measure memory for procedures like driving a car or playing a piano piece, as well as memory for facts and figures.
-
-Implicit Memory
----------------
-
-While explicit memory consists of the things that we can consciously report that we know, implicit memory refers to knowledge that we cannot consciously access. However, implicit memory is nevertheless exceedingly important to us because it has a direct effect on our behaviour. Implicit memory refers to *the influence of experience on behaviour, even if the individual is not aware of those influences*. As you can see in Figure 9.2, "Types of Memory," there are three general types of implicit memory: procedural memory, classical conditioning effects, and priming.
-
-Procedural memory refers to *our often unexplainable knowledge of how to do things*. When we walk from one place to another, speak to another person in English, dial a cell phone, or play a video game, we are using procedural memory. Procedural memory allows us to perform complex tasks, even though we may not be able to explain to others how we do them. There is no way to tell someone how to ride a bicycle; a person has to learn by doing it. The idea of implicit memory helps explain how infants are able to learn. The ability to crawl, walk, and talk are procedures, and these skills are easily and efficiently developed while we are children despite the fact that as adults we have no conscious memory of having learned them.
-
-A second type of implicit memory is classical conditioning effects, in which *we learn, often without effort or awareness, to associate neutral stimuli (such as a sound or a light) with another stimulus (such as food), which creates a naturally occurring response, such as enjoyment or salivation*. The memory for the association is demonstrated when the conditioned stimulus (the sound) begins to create the same response as the unconditioned stimulus (the food) did before the learning.
-
-The final type of implicit memory is known as priming, or *changes in behaviour as a result of experiences that have happened frequently or recently*. Priming refers both to the activation of knowledge (e.g., we can prime the concept of kindness by presenting people with words related to kindness) and to the influence of that activation on behaviour (people who are primed with the concept of kindness may act more kindly).
-
-One measure of the influence of priming on implicit memory is the *word fragment test*, in which a person is asked to fill in missing letters to make words. You can try this yourself: First, try to complete the following word fragments, but work on each one for only three or four seconds. Do any words pop into mind quickly?
-
-_ i b _ a _ y
-
-_ h _ s _ _ i _ n
-
-_ o _ k
-
-_ h _ i s _
-
-Now read the following sentence carefully:
-
-"He got his materials from the shelves, checked them out, and then left the building."
-
-Then try again to make words out of the word fragments.
-
-I think you might find that it is easier to complete fragments 1 and 3 as "library" and "book," respectively, after you read the sentence than it was before you read it. However, reading the sentence didn't really help you to complete fragments 2 and 4 as "physician" and "chaise." This difference in implicit memory probably occurred because as you read the sentence, the concept of "library" (and perhaps "book") was primed, even though they were never mentioned explicitly. Once a concept is primed it influences our behaviours, for instance, on word fragment tests.
-
-Our everyday behaviours are influenced by priming in a wide variety of situations. Seeing an advertisement for cigarettes may make us start smoking, seeing the flag of our home country may arouse our patriotism, and seeing a student from a rival school may arouse our competitive spirit. And these influences on our behaviours may occur without our being aware of them.
-
-### Research Focus: Priming Outside Awareness Influences Behaviour
-
-One of the most important characteristics of implicit memories is that they are frequently formed and used *automatically*, without much effort or awareness on our part. In one demonstration of the automaticity and influence of priming effects, John Bargh and his colleagues (Bargh, Chen, & Burrows, 1996) conducted a study in which they showed undergraduate students lists of five scrambled words, each of which they were to make into a sentence. Furthermore, for half of the research participants, the words were related to stereotypes of the elderly. These participants saw words such as the following:
-
-in Victoria retired live people
-
-bingo man the forgetful plays
-
-The other half of the research participants also made sentences, but from words that had nothing to do with elderly stereotypes. The purpose of this task was to prime stereotypes of elderly people in memory for some of the participants but not for others.
-
-The experimenters then assessed whether the priming of elderly stereotypes would have any effect on the students' behaviour --- and indeed it did. When the research participant had gathered all of his or her belongings, thinking that the experiment was over, the experimenter thanked him or her for participating and gave directions to the closest elevator. Then, without the participants knowing it, the experimenters recorded the amount of time that the participant spent walking from the doorway of the experimental room toward the elevator. As you can see in Figure 9.3, "Research Results." participants who had made sentences using words related to elderly stereotypes took on the behaviours of the elderly --- they walked significantly more slowly as they left the experimental room.
-
-[![The control group had a walking speed of 8.2 and the elderly group had a walking speed of 7.2.](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/0ffe9c5402654f70dc35284df006dbd9-1024x426.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/0ffe9c5402654f70dc35284df006dbd9.jpg)
-
-Figure 9.3 Research Results. Bargh, Chen, and Burrows found that priming words associated with the elderly made people walk more slowly (1996).
-
-To determine if these priming effects occurred out of the awareness of the participants, Bargh and his colleagues asked still another group of students to complete the priming task and then to indicate whether they thought the words they had used to make the sentences had any relationship to each other, or could possibly have influenced their behaviour in any way. These students had no awareness of the possibility that the words might have been related to the elderly or could have influenced their behaviour.
-
-Stages of Memory: Sensory, Short-Term, and Long-Term Memory
------------------------------------------------------------
-
-Another way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
+One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
 [![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879-1024x371.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879.jpg)
 
@@ -267,22 +152,8 @@ Wang, Y., Liu, D., & Wang, Y. (2003). Discovering the capacity of human memory.�
 
 Image Attributions
 ------------------
+* Figure 9.4: Adapted from Atkinson & Shiffrin (1968).
+* Figure 9.5: Adapted from Sperling (1960).
+* Figure 9.6: Adapted from Peterson & Peterson (1959).
 
-Figure 9.4: Adapted from Atkinson & Shiffrin (1968).
-
-Figure 9.5: Adapted from Sperling (1960).
-
-Figure 9.6: Adapted from Peterson & Peterson (1959).
-
-[ Previous: 9. Remembering and Judging](https://opentextbc.ca/introductiontopsychology/chapter/chapter-8-remembering-and-judging/ "Previous: 9. Remembering and Judging")
-
-[Next: 9.2 How We Remember: Cues to Improving Memory ](https://opentextbc.ca/introductiontopsychology/chapter/8-2-how-we-remember-cues-to-improving-memory/ "Next: 9.2 How We Remember: Cues to Improving Memory")
-
-BACK TO TOP
-
-LICENSE
--------
-
-![Icon for the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://opentextbc.ca/introductiontopsychology/wp-content/themes/pressbooks-book/packages/buckram/assets/images/cc-by-nc-sa.svg)
-
-[Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), except where otherwise noted.
+Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), except where otherwise noted.
