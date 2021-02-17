@@ -7,14 +7,12 @@ Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentex
 Psychologists conceptualize memory in terms of *types*, in terms of *stages*, and in terms of *processes*. In this section we will cover the three major memory stages: *sensory* memory, *short-term* or *working* memory, and *long-term* memory (Atkinson & Shiffrin, 1968). Then, in the next section, we will consider the nature of long-term memory, with a particular emphasis on the cognitive techniques we can use to improve our memories. Our discussion will focus on the three processes that are central to long-term memory: *encoding*, *storage*, and *retrieval*.
 
 ## Learning Objectives
+* Add some
 
-Add some
-
-One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
+One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory* or *working memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
 [![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879-1024x371.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879.jpg)
-
-Figure 9.4 Memory Duration. Memory can characterized in terms of stages --- the length of time that information remains available to us.
+Figure: Memory characterized in terms of stages.
 
 Sensory Memory
 --------------
@@ -24,8 +22,7 @@ Sensory memory refers to *the brief storage of sensory information*. Sensory m
 *Visual sensory memory* is known as iconic memory. Iconic memory was first studied by the psychologist George Sperling (1960). In his research, Sperling showed participants a display of letters in rows, similar to that shown in Figure 9.5, "Measuring Iconic Memory." However, the display lasted only about 50 milliseconds (1/20 of a second). Then, Sperling gave his participants a recall test in which they were asked to name all the letters that they could remember. On average, the participants could remember only about one-quarter of the letters that they had seen.
 
 [![12 random upper case letters in three rows.](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/23359e544fec0dbb7d2c8413ab5e834a.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/23359e544fec0dbb7d2c8413ab5e834a.jpg)
-
-Figure 9.5 Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory.
+Figure: Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory.
 
 Sperling reasoned that the participants had seen all the letters but could remember them only very briefly, making it impossible for them to report them all. To test this idea, in his next experiment, he first showed the same letters, but then after the display had been removed, he signaled to the participants to report the letters from either the first, second, or third row. In this condition, the participants now reported almost all the letters in that row. This finding confirmed Sperling's hunch: participants had access to all of the letters in their iconic memories, and if the task was short enough, they were able to report on the part of the display he asked them to. The "short enough" is the length of iconic memory, which turns out to be about 250 milliseconds (¼ of a second).
 
@@ -54,8 +51,7 @@ To accomplish this difficult task you need to use a variety of skills. You clear
 Short-term memory is limited in both the length and the amount of information it can hold. Peterson and Peterson (1959) found that when people were asked to remember a list of three-letter strings and then were immediately asked to perform a distracting task (counting backward by threes), the material was quickly forgotten (see Figure 9.6, "STM Decay"), such that by 18 seconds it was virtually gone.
 
 [![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/00d3ae65e7804e9b2673885af32b2d93-1024x916.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/00d3ae65e7804e9b2673885af32b2d93.jpg)
-
-Figure 9.6 STM Decay. Researchers found that information that was not rehearsed decayed quickly from memory.
+Figure: STM Decay. Information that is not rehearsed decays quickly from memory.
 
 One way to prevent the decay of information from short-term memory is to use working memory to rehearse it. Maintenance rehearsal is *the process of repeating information mentally or out loud with the goal of keeping it in memory*. We engage in maintenance rehearsal to keep something that we want to remember (e.g., a person's name, email address, or phone number) in mind long enough to write it down, use it, or potentially transfer it to long-term memory.
 
@@ -89,15 +85,14 @@ You probably won't do that well because the number of letters is more than the m
 
 Now try again with this one:
 
-CTVCBCTSNHBO
+CBSNBCABCHBO
 
 Would it help you if I pointed out that the material in this string could be chunked into four sets of three letters each? I think it would, because then rather than remembering 12 letters, you would only have to remember the names of four television stations. In this case, chunking changes the number of items you have to remember from 12 to only four.
 
 Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see Figure 9.7, "Possible and Impossible Chess Positions"). The same occurs for basketball. Basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
 
 [![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/6d584c94bce2365ab842b6088970c50c-1024x502.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/6d584c94bce2365ab842b6088970c50c.jpg)
-
-Figure 9.7 Possible and Impossible Chess Positions. Experience matters: Experienced chess players are able to recall the positions of the game on the right much better than are those who are chess novices. But the experts do no better than the novices in remembering the positions on the left, which cannot occur in a real game.
+Figure: Possible and Impossible Chess Positions. Experience matters: Experienced chess players are able to recall the positions of the game on the right much better than are those who are chess novices. But the experts do no better than the novices in remembering the positions on the left, which cannot occur in a real game.
 
 If information makes it past short term-memory it may enter long-term memory (LTM), *memory storage that can hold information for days, months, and years*. The capacity of long-term memory is large, and there is no known limit to what we can remember (Wang, Liu, & Wang, 2003). Although we may forget at least some information after we learn it, other things will stay with us forever. In the next section we will discuss the principles of long-term memory.
 
@@ -105,9 +100,6 @@ If information makes it past short term-memory it may enter long-term memory (L
 
 -   Memory refers to the ability to store and retrieve information over time.
 -   For some things our memory is very good, but our active cognitive processing of information ensures that memory is never an exact replica of what we have experienced.
--   Explicit memory refers to experiences that can be intentionally and consciously remembered, and it is measured using recall, recognition, and relearning. Explicit memory includes episodic and semantic memories.
--   Measures of relearning (also known as "savings") assess how much more quickly information is learned when it is studied again after it has already been learned but then forgotten.
--   Implicit memory refers to the influence of experience on behaviour, even if the individual is not aware of those influences. The three types of implicit memory are procedural memory, classical conditioning, and priming.
 -   Information processing begins in sensory memory, moves to short-term memory, and eventually moves to long-term memory.
 -   Maintenance rehearsal and chunking are used to keep information in short-term memory.
 -   The capacity of long-term memory is large, and there is no known limit to what we can remember.
@@ -156,4 +148,6 @@ Image Attributions
 * Figure 9.5: Adapted from Sperling (1960).
 * Figure 9.6: Adapted from Peterson & Peterson (1959).
 
-Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), except where otherwise noted.
+Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
