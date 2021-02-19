@@ -1,13 +1,13 @@
 ---
 layout: single
 ---
-# Stages of Memory
+# Memory
+
+Psychologists conceptualize memory in terms of *types*, in terms of *stages*, and in terms of *processes*. In this section we will cover the three major memory stages: *sensory* memory, *short-term* or *working* memory, and *long-term* memory (Atkinson & Shiffrin, 1968). Then, in the next section, we will consider the nature of long-term memory, with a particular emphasis on the cognitive techniques we can use to improve our memories. Our discussion there will focus on the three processes that are central to long-term memory: *encoding*, *storage*, and *retrieval*.
+
+Stages of Memory
+----------------
 Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor.
-
-Psychologists conceptualize memory in terms of *types*, in terms of *stages*, and in terms of *processes*. In this section we will cover the three major memory stages: *sensory* memory, *short-term* or *working* memory, and *long-term* memory (Atkinson & Shiffrin, 1968). Then, in the next section, we will consider the nature of long-term memory, with a particular emphasis on the cognitive techniques we can use to improve our memories. Our discussion will focus on the three processes that are central to long-term memory: *encoding*, *storage*, and *retrieval*.
-
-## Learning Objectives
-* Add some
 
 One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory* or *working memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
