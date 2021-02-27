@@ -1,12 +1,9 @@
 ---
 layout: single
-sidebar:
-  nav: "memorynav"
 ---
 
-By Cara Laney and Elizabeth F. Loftus, Reed College, University of California, Irvine
-
 # Memory Biases
+Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
 
 Eyewitnesses can provide very compelling legal testimony, but rather than recording experiences flawlessly, their memories are susceptible to a variety of errors and biases. They (like the rest of us) can make errors in remembering specific details and can even remember whole events that did not actually happen. In this module, we discuss several of the common types of errors, and what they can tell us about human memory and its interactions with the legal system.
 
@@ -30,8 +27,8 @@ There is now a wealth of evidence, from research conducted over several decades,
 There is also hope, though, that many of the errors may be avoidable if proper precautions are taken during the investigative and judicial processes. Psychological science has taught us what some of those precautions might involve, and we discuss some of that science now.
 
 ## Misinformation
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/memb2.jpg" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb2.jpg" alt="STOP and YIELD signs.">
 </figure>
 
 Misinformation can be introduced into the memory of a witness between the time of seeing an event and reporting it later. Something as straightforward as which sort of traffic sign was in place at an intersection can be confused if subjects are exposed to erroneous information after the initial incident.
@@ -54,8 +51,8 @@ In addition to correctly remembering many details of the crimes they witness, ey
 
 In most jurisdictions in the United States, lineups are typically conducted with pictures, called photo spreads, rather than with actual people standing behind one-way glass (Wells, Memon, & Penrod, 2006). The eyewitness is given a set of small pictures of perhaps six or eight individuals who are dressed similarly and photographed in similar circumstances. One of these individuals is the police suspect, and the remainder are “foils” or “fillers” (people known to be innocent of the particular crime under investigation). If the eyewitness identifies the suspect, then the investigation of that suspect is likely to progress. If a witness identifies a foil or no one, then the police may choose to move their investigation in another direction.
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/memb3.jpg" style="width:75%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb3.jpg">
     <figcaption>Mistakes in identifying perpetrators can be influenced by a number of factors including poor viewing conditions, too little time to view the perpetrator, or too much delay from time of witnessing to identification.</figcaption>
 </figure>
 
@@ -68,8 +65,8 @@ It is hard for the legal system to do much about most of these problems. But the
 ## Kinds of Memory Biases
 Memory is also susceptible to a wide variety of other biases and errors. People can forget events that happened to them and people they once knew. They can mix up details across time and place. They can even remember whole complex events that never happened at all. Importantly, these errors, once made, can be very hard to unmake. A memory is no less “memorable” just because it is wrong.
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/memb4.jpg" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/memb4.jpg">
     <figcaption>For most of our experiences schematas are a benefit and help with information overload. However, they may make it difficult or impossible to recall certain details of a situation later. Do you recall the library as it actually was or the library as approximated by your library schemata? [Dan Kleinman, https://goo.gl/07xyDD, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
 </figure>
 
@@ -92,6 +89,10 @@ Importantly, once these false memories are implanted—whether through complex m
 To conclude, eyewitness testimony is very powerful and convincing to jurors, even though it is not particularly reliable. Identification errors occur, and these errors can lead to people being falsely accused and even convicted. Likewise, eyewitness memory can be corrupted by leading questions, misinterpretations of events, conversations with co-witnesses, and their own expectations for what should have happened. People can even come to remember whole events that never occurred.
 
 The problems with memory in the legal system are real. But what can we do to start to fix them? A number of specific recommendations have already been made, and many of these are in the process of being implemented (e.g., Steblay & Loftus, 2012; Technical Working Group for Eyewitness Evidence, 1999; Wells et al., 1998). Some of these recommendations are aimed at specific legal procedures, including when and how witnesses should be interviewed, and how lineups should be constructed and conducted. Other recommendations call for appropriate education (often in the form of expert witness testimony) to be provided to jury members and others tasked with assessing eyewitness memory. Eyewitness testimony can be of great value to the legal system, but decades of research now argues that this testimony is often given far more weight than its accuracy justifies.
+
+## Additional Resources
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMPIWkFtd88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Eureka Foong's *The Misinformation Effect*. This student-made video illustrating this phenomenon of altered memory was one of the winning entries in the 2014 Noba Student Video Award. 
 
 ## Discussion Questions
 * Imagine that you are a juror in a murder case where an eyewitness testifies. In what ways might your knowledge of memory errors affect your use of this testimony?
@@ -153,4 +154,6 @@ A memory template, created through repeated exposure to a particular class of ob
 * Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. Psychological Science in the Public Interest, 7(2), 45-75.
 * Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22, 603–647.
 
-Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/uy49tm37
+Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
