@@ -1,7 +1,5 @@
 ---
 layout: single
-sidebar:
-  nav: "memorynav"
 ---
 # Memory (encoding, storage, retrieval)
 Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
