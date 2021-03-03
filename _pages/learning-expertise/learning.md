@@ -20,7 +20,7 @@ Learning is a complex process that defies easy definition and description. This 
 What do you do when studying for an exam? Do you read your class notes and textbook (hopefully not for the very first time)? Do you try to find a quiet place without distraction? Do you use flash cards to test your knowledge? The choices you make reveal your theory of learning, but there is no reason for you to limit yourself to your own intuitions. There is a vast and vibrant science of learning, in which researchers from psychology, education, and neuroscience study basic principles of learning and memory.
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/learn1.jpg" >
-<figcaption>When you study for a test, you incorporate your past knowledge into learning this new knowledge. That is, depending on your previous experiences, you will “learn” the material in different ways. UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7 </figcaption>
+<figcaption>When you study for a test, you incorporate your past knowledge into learning this new knowledge. That is, depending on your previous experiences, you will “learn” the material in different ways. [1]</figcaption>
 </figure>
 In fact, learning is a much broader domain than you might think. Consider: Is listening to music a form of learning? More often, it seems listening to music is a way of avoiding learning. But we know that your brain’s response to auditory information changes with your experience with that information, a form of learning called auditory **perceptual learning** (Polley, Steinberg, & Merzenich, 2006). Each time we listen to a song, we hear it differently because of our experience. When we exhibit changes in behavior without having intended to learn something, that is called **implicit learning** (Seger, 1994), and when we exhibit changes in our behavior that reveal the influence of past experience even though we are not attempting to use that experience, that is called **implicit memory** (Richardson-Klavehn & Bjork, 1988).
 
@@ -34,7 +34,7 @@ People bring numerous individual differences with them into memory experiments, 
 In addition, the organization and planning skills that a learner exhibits matter a lot (Garavalia & Gredler, 2002), suggesting that the efficiency with which one organizes self-guided learning is an important component of learning. We will return to this topic soon.
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/learn2.jpeg" >
-<figcaption>Research attests that we can hold between 5 and 9 individual pieces of information in our working memory at once. This is partly why in the 1950s Bell Labs developed a 7-digit phone number system. Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O</figcaption>
+<figcaption>Research attests that we can hold between 5 and 9 individual pieces of information in our working memory at once. This is partly why in the 1950s Bell Labs developed a 7-digit phone number system. [2]</figcaption>
 </figure>
 One well-studied and important variable is **working memory** capacity. Working memory describes the form of memory we use to hold onto information temporarily. Working memory is used, for example, to keep track of where we are in the course of a complicated math problem, and what the relevant outcomes of prior steps in that problem are. Higher scores on working memory measures are predictive of better reasoning skills (Kyllonen & Christal, 1990), reading comprehension (Daneman & Carpenter, 1980), and even better control of attention (Kane, Conway, Hambrick, & Engle, 2008).
 
@@ -43,14 +43,13 @@ Anxiety also affects the quality of learning. For example, people with math anxi
 One good place to end this discussion is to consider the role of expertise. Though there probably is a finite capacity on our ability to store information (Landauer, 1986), in practice, this concept is misleading. In fact, because the usual bottleneck to remembering something is our ability to *access* information, not our space to *store* it, having more knowledge or expertise actually enhances our ability to learn new information. A classic example can be seen in comparing a chess master with a chess novice on their ability to learn and remember the positions of pieces on a chessboard (Chase & Simon, 1973). In that experiment, the master remembered the location of many more pieces than the novice, even after only a very short glance. Maybe chess masters are just smarter than the average chess beginner, and have better memory? No: The advantage the expert exhibited only was apparent when the pieces were arranged in a plausible format for an ongoing chess game; when the pieces were placed randomly, both groups did equivalently poorly. Expertise allowed the master to **chunk** (Simon, 1974) multiple pieces into a smaller number of pieces of information—but only when that information was structured in such a way so as to allow the application of that expertise.
 
 ## Encoding Activities
-What we do when we’re learning is very important. We’ve all had the experience of reading something and suddenly coming to the realization that we don’t remember a single thing, even the sentence that we just read. *How* we go about **encoding**™ information determines a lot about how much we remember.
+What we do when we’re learning is very important. We’ve all had the experience of reading something and suddenly coming to the realization that we don’t remember a single thing, even the sentence that we just read. *How* we go about **encoding** information determines a lot about how much we remember.
 
-You might think that the most important thing is to *try* to learn. Interestingly, this is not true, at least not completely. Trying to learn a list of words, as compared to just evaluating each word for its part of speech (i.e., noun, verb, adjective) does help you *recall* the words—™£that is, it helps you remember and write down more of the words later. But it actually impairs your ability to *recognize* the words—to judge on a later list which words are the ones that you studied (Eagle & Leiter, 1964). So this is a case in which **incidental learning**—that is, learning without the intention to learn—is better than **intentional learning**™£.
+You might think that the most important thing is to *try* to learn. Interestingly, this is not true, at least not completely. Trying to learn a list of words, as compared to just evaluating each word for its part of speech (i.e., noun, verb, adjective) does help you *recall* the words—that is, it helps you remember and write down more of the words later. But it actually impairs your ability to *recognize* the words—to judge on a later list which words are the ones that you studied (Eagle & Leiter, 1964). So this is a case in which **incidental learning**—that is, learning without the intention to learn—is better than **intentional learning**.
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/learn3.jpg" >
-<figcaption>Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7</figcaption>
+<figcaption>Motivation to learn doesn't make much of a difference unless learners use effective strategies for encoding the information they want to retain. Although they're not flashy, methods like spaced practice, interleaving, and frequent testing are among the most effective ways to apply your efforts. [3]</figcaption>
 </figure>
-Motivation to learn doesn't make much of a difference unless learners use effective strategies for encoding the information they want to retain. Although they're not flashy, methods like spaced practice, interleaving, and frequent testing are among the most effective ways to apply your efforts.
 
 Such examples are not particularly rare and are not limited to recognition. Nairne, Pandeirada, and Thompson (2008) showed, for example, that survival processing—thinking about and rating each word in a list for its relevance in a survival scenario—led to much higher recall than intentional learning (and also higher, in fact, than other encoding activities that are also known to lead to high levels of recall). Clearly, merely intending to learn something is not enough. How a learner actively processes the material plays a large role; for example, reading words and evaluating their meaning leads to better learning than reading them and evaluating the way that the words look or sound (Craik & Lockhart, 1972). These results suggest that individual differences in motivation will not have a large effect on learning unless learners also have accurate ideas about how to effectively learn material when they care to do so.
 
@@ -74,7 +73,7 @@ Sometimes, it doesn’t make sense to talk about whether a particular encoding a
 ## The value of forgetting
 <figure style="float:right;margin-left:10px;margin-top:7px;width:60%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/learn4.jpg" >
-<figcaption>In order to not forget things, we employ a variety of tricks (like scribbling a quick note on your hand). However, if we were unable to forget information, it would interfere with learning new or contradictory material. Image: Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj</figcaption>
+<figcaption>In order to not forget things, we employ a variety of tricks (like scribbling a quick note on your hand). However, if we were unable to forget information, it would interfere with learning new or contradictory material. [4]</figcaption>
 </figure>
 
 Forgetting is sometimes seen as the enemy of learning, but, in fact, forgetting is a highly desirable part of the learning process. The main bottleneck we face in using our knowledge is being able to access it. We have all had the experience of retrieval failure—that is, not being able to remember a piece of information that we know we have, and that we can access easily once the right set of cues is provided. Because access is difficult, it is important to jettison information that is not needed—that is, to forget it. Without forgetting, our minds would become cluttered with out-of-date or irrelevant information. And, just imagine how complicated life would be if we were unable to forget the names of past acquaintances, teachers, or romantic partners.
@@ -121,6 +120,12 @@ Occurs when the response to a stimulus increases with exposure
 A principle that states that memory performance is superior when a test taps the same cognitive processes as the original encoding activity.
 ### Working memory
 The form of memory we use to hold onto information temporarily, usually for the purposes of manipulation.
+
+## Image credits
+1. UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7
+2. Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O
+3. Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7
+4. Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj
 
 ## References
 * Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, math anxiety, and performance. Journal of Experimental Psychology: General, 130, 224–237.
