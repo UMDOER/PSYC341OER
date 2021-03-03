@@ -4,7 +4,7 @@ sidebar:
 nav: "learningnav"
 ---
 
-# Learning
+# Factors influencing learning
 Adapted from Benjamin, A. (2021). Factors influencing learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/rnxyg6wp
 
 Learning is a complex process that defies easy definition and description. This module reviews some of the philosophical issues involved with defining learning and describes in some detail the characteristics of learners and of encoding activities that seem to affect how well people can acquire new memories, knowledge, or skills. At the end, we consider a few basic principles that guide whether a particular attempt at learning will be successful or not.
