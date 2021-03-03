@@ -4,9 +4,8 @@ sidebar:
   nav: "memorynav"
 ---
 
-By Nicole Dudukovic and Brice Kuhl, New York University
-
-# Forgetting
+# Forgetting and Amneisa
+Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg
 
 This module explores the causes of everyday forgetting and considers pathological forgetting in the context of amnesia. Forgetting is viewed as an adaptive process that allows us to be efficient in terms of the information we retain.
 
