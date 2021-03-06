@@ -1,7 +1,5 @@
 ---
 layout: single
-sidebar:
-nav: "learningnav"
 ---
 
 # Factors influencing learning
