@@ -46,7 +46,7 @@ We have explored five different causes of forgetting. Together they can account 
 
 ## Amnesia
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/forget5.png" style="width:75%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/forget5.png">
     <figcaption> Patients with damage to the temporal lobes may experience anterograde amnesia and/or retrograde amnesia. [Image: en:Anatomography, https://goo.gl/ALPAu6, CC BY-SA 2.1 JP, https://goo.gl/BDF2Z4] </figcaption>
 </figure>
 
