@@ -45,7 +45,7 @@ Even in domains where one might expect to find clear-cut definitions, such as sc
 ### Borderline Items  
 Experiments also showed that the psychological assumptions of well-defined categories were not correct. Hampton (1979) asked subjects to judge whether a number of items were in different categories. He did not find that items were either clear members or clear nonmembers. Instead, he found many items that were just barely considered category members and others that were just barely not members, with much disagreement among subjects. Sinks were barely considered as members of the kitchen utensil category, and sponges were barely excluded. People just included seaweed as a vegetable and just barely excluded tomatoes and gourds. Hampton found that members and nonmembers formed a continuum, with no obvious break in people’s membership judgments. If categories were well defined, such examples should be very rare. Many studies since then have found such borderline members that are not clearly in or clearly out of the category.
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:30%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ3.jpg">
     <figcaption> Table 1. Examples of two categories, with members ordered by typicality (from Rosch & Mervis, 1975)</figcaption>
 </figure>
@@ -61,7 +61,6 @@ We can understand the two phenomena of borderline members and typicality as two 
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ4.jpg">
-    <figcaption> Table 2. </figcaption>
 </figure>
 
 ## Source of Typicality
@@ -180,11 +179,11 @@ The belief that members of a category have an unseen property that causes them t
 The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
 
 ## Image credits
-1. CC0 Public Domain, https://goo.gl/m25gce
-2. State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7
-3. CC0 Public Domain, https://goo.gl/m25gce
-4. Adhi Rachdian, https://goo.gl/dQyUwf, CC BY 2.0, https://goo.gl/BRvSA7
-5. Marc Dragiewicz, https://goo.gl/E9v4eR, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF
+1. [CC0 Public Domain](https://goo.gl/m25gce)
+2. [State Farm](https://goo.gl/KHtu6N), [CC BY 2.0](https://goo.gl/BRvSA7)
+3. [CC0 Public Domain](https://goo.gl/m25gce)
+4. [Adhi Rachdian](https://goo.gl/dQyUwf), [CC BY 2.0](https://goo.gl/BRvSA7)
+5. [Marc Dragiewicz](https://goo.gl/E9v4eR), [CC BY-NC-SA 2.0](https://goo.gl/Toc0ZF)
 
 ## References
 * Allen, S. W., & Brooks, L. R. (1991). Specializing the operation of an explicit rule.Journal of Experimental Psychology: General, 120, 3–19.
