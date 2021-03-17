@@ -71,7 +71,7 @@ The best account of what makes something typical comes from Rosch and Mervis’s
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ5.jpg">
-    <figcaption> When you think of “bird,” how closely does the robin resemble your general figure? [3]</figcaption>
+    <figcaption> When you think of “bird,” how closely does this Japanese Robin resemble your general figure? [3]</figcaption>
 </figure>
 
 According to Rosch and Mervis, then, it is not because a robin is a very common bird that makes it typical. Rather, it is because the robin has the shape, size, body parts, and behaviors that are very common among birds—and not common among fish, mammals, bugs, and so forth.
