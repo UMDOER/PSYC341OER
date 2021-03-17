@@ -1,12 +1,9 @@
 ---
 layout: single
-sidebar:
-  nav: "memorynav"
 ---
 
-By Gregory Murphy, New York University
-
 # Categories and Concepts
+Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/6vu4cpkt
 
 People form mental concepts of categories of objects, which permit them to respond appropriately to new objects they encounter. Most concepts cannot be strictly defined but are organized around the “best” examples or prototypes, which have the properties most common in the category. Objects fall into many different categories, but there is usually a most salient one, called the basic-level category, which is at an intermediate level of specificity (e.g., chairs, rather than furniture or desk chairs). Concepts are closely related to our knowledge of the world, and people can more easily learn concepts that are consistent with their knowledge. Theories of concepts argue either that people learn a summary description of a whole category or else that they learn exemplars of the category. Recent research suggests that there are different ways to learn and represent concepts and that they are accomplished by different neural systems.
 
@@ -17,16 +14,16 @@ People form mental concepts of categories of objects, which permit them to respo
 * Learn how knowledge may influence concept learning.
 ## Introduction
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/categ1.jpg" style="width:60%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ1.jpg">
     <figcaption> Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
 </figure>
 
-Consider the following set of objects: some dust, papers, a computer monitor, two pens, a cup, and an orange. What do these things have in common? Only that they all happen to be on my desk as I write this. This set of things can be considered a category, a set of objects that can be treated as equivalent in some way. But, most of our categories seem much more informative—they share many properties. For example, consider the following categories: trucks, wireless devices, weddings, psychopaths, and trout. Although the objects in a given category are different from one another, they have many commonalities. When you know something is a truck, you know quite a bit about it. The psychology of categories concerns how people learn, remember, and use informative categories such as trucks or psychopaths.
+Consider the following set of objects: some dust, papers, a computer monitor, two pens, a cup, and an orange. What do these things have in common? Only that they all happen to be on my desk as I write this. This set of things can be considered a **category**, a set of objects that can be treated as equivalent in some way. But, most of our categories seem much more informative—they share many properties. For example, consider the following categories: trucks, wireless devices, weddings, psychopaths, and trout. Although the objects in a given category are different from one another, they have many commonalities. When you know something is a truck, you know quite a bit about it. The psychology of categories concerns how people learn, remember, and use informative categories such as trucks or psychopaths.
 
-The mental representations we form of categories are called concepts. There is a category of trucks in the world, and I also have a concept of trucks in my head. We assume that people’s concepts correspond more or less closely to the actual category, but it can be useful to distinguish the two, as when someone’s concept is not really correct.
+The mental representations we form of categories are called **concepts**. There is a category of trucks in the world, and I also have a concept of trucks in my head. We assume that people’s concepts correspond more or less closely to the actual category, but it can be useful to distinguish the two, as when someone’s concept is not really correct.
 
-Concepts are at the core of intelligent behavior. We expect people to be able to know what to do in new situations and when confronting new objects. If you go into a new classroom and see chairs, a blackboard, a projector, and a screen, you know what these things are and how they will be used. You’ll sit on one of the chairs and expect the instructor to write on the blackboard or project something onto the screen. You do this even if you have never seen any of these particular objects before, because you have concepts of classrooms, chairs, projectors, and so forth, that tell you what they are and what you’re supposed to do with them. Furthermore, if someone tells you a new fact about the projector—for example, that it has a halogen bulb—you are likely to extend this fact to other projectors you encounter. In short, concepts allow you to extend what you have learned about a limited number of objects to a potentially infinite set of entities.
+Concepts are at the core of intelligent behavior. We expect people to be able to know what to do in new situations and when confronting new objects. If you go into a new classroom and see chairs, a blackboard, a projector, and a screen, you know what these things are and how they will be used. You’ll sit on one of the chairs and expect the instructor to write on the blackboard or project something onto the screen. You do this *even if you have never seen any of these particular objects before*, because you have concepts of classrooms, chairs, projectors, and so forth, that tell you what they are and what you’re supposed to do with them. Furthermore, if someone tells you a new fact about the projector—for example, that it has a halogen bulb—you are likely to extend this fact to other projectors you encounter. In short, concepts allow you to extend what you have learned about a limited number of objects to a potentially infinite set of entities.
 
 You know thousands of categories, most of which you have learned without careful study or instruction. Although this accomplishment may seem simple, we know that it isn’t, because it is difficult to program computers to solve such intellectual tasks. If you teach a learning program that a robin, a swallow, and a duck are all birds, it may not recognize a cardinal or peacock as a bird. As we’ll shortly see, the problem is that objects in categories are often surprisingly diverse.
 
@@ -38,7 +35,7 @@ Simpler organisms, such as animals and human infants, also have concepts (Maresc
     <figcaption> Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [Image: State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
 </figure>
 
-Traditionally, it has been assumed that categories are well-defined. This means that you can give a definition that specifies what is in and out of the category. Such a definition has two parts. First, it provides the necessary features for category membership: What must objects have in order to be in it? Second, those features must be jointly sufficient for membership: If an object has those features, then it is in the category. For example, if I defined a dog as a four-legged animal that barks, this would mean that every dog is four-legged, an animal, and barks, and also that anything that has all those properties is a dog.
+Traditionally, it has been assumed that categories are *well-defined*. This means that you can give a definition that specifies what is in and out of the category. Such a definition has two parts. First, it provides the *necessary features* for category membership: What must objects have in order to be in it? Second, those features must be *jointly sufficient* for membership: If an object has those features, then it is in the category. For example, if I defined a dog as a four-legged animal that barks, this would mean that every dog is four-legged, an animal, and barks, and also that anything that has all those properties is a dog.
 
 Unfortunately, it has not been possible to find definitions for many familiar categories. Definitions are neat and clear-cut; the world is messy and often unclear. For example, consider our definition of dogs. In reality, not all dogs have four legs; not all dogs bark. I knew a dog that lost her bark with age (this was an improvement); no one doubted that she was still a dog. It is often possible to find some necessary features (e.g., all dogs have blood and breathe), but these features are generally not sufficient to determine category membership (you also have blood and breathe but are not a dog).
 
@@ -213,4 +210,6 @@ The difference in “goodness” of category members, ranging from the most typi
 * Tanaka, J. W., & Taylor, M. E. (1991). Object categories and expertise: Is the basic level in the eye of the beholder? Cognitive Psychology, 15, 121–149.
 * Wisniewski, E. J., & Murphy, G. L. (1989). Superordinate and basic category names in discourse: A textual analysis. Discourse Processes, 12, 245–261.
 
-Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/6vu4cpkt
+Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/6vu4cpkt
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
