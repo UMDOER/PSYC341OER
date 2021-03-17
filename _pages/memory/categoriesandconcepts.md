@@ -16,7 +16,7 @@ People form mental concepts of categories of objects, which permit them to respo
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ1.jpg">
-    <figcaption> Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> Although you’ve (probably) never seen this particular truck before, you know a lot about it because of the knowledge you’ve accumulated in the past about the features in the category of trucks. [1]</figcaption>
 </figure>
 
 Consider the following set of objects: some dust, papers, a computer monitor, two pens, a cup, and an orange. What do these things have in common? Only that they all happen to be on my desk as I write this. This set of things can be considered a **category**, a set of objects that can be treated as equivalent in some way. But, most of our categories seem much more informative—they share many properties. For example, consider the following categories: trucks, wireless devices, weddings, psychopaths, and trout. Although the objects in a given category are different from one another, they have many commonalities. When you know something is a truck, you know quite a bit about it. The psychology of categories concerns how people learn, remember, and use informative categories such as trucks or psychopaths.
@@ -32,7 +32,7 @@ Simpler organisms, such as animals and human infants, also have concepts (Maresc
 ## Nature of Categories
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ2.jpg">
-    <figcaption> Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [Image: State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <figcaption> Here is a very good dog, but one that does not fit perfectly into a well-defined category where all dogs have four legs. [2]</figcaption>
 </figure>
 
 Traditionally, it has been assumed that categories are *well-defined*. This means that you can give a definition that specifies what is in and out of the category. Such a definition has two parts. First, it provides the *necessary features* for category membership: What must objects have in order to be in it? Second, those features must be *jointly sufficient* for membership: If an object has those features, then it is in the category. For example, if I defined a dog as a four-legged animal that barks, this would mean that every dog is four-legged, an animal, and barks, and also that anything that has all those properties is a dog.
@@ -42,7 +42,7 @@ Unfortunately, it has not been possible to find definitions for many familiar ca
 Even in domains where one might expect to find clear-cut definitions, such as science and law, there are often problems. For example, many people were upset when Pluto was downgraded from its status as a planet to a dwarf planet in 2006. Upset turned to outrage when they discovered that there was no hard-and-fast definition of planethood: “Aren’t these astronomers scientists? Can’t they make a simple definition?” In fact, they couldn’t. After an astronomical organization tried to make a definition for planets, a number of astronomers complained that it might not include accepted planets such as Neptune and refused to use it. If everything looked like our Earth, our moon, and our sun, it would be easy to give definitions of planets, moons, and stars, but the universe has sadly not conformed to this ideal.
 
 ## Fuzzy Categories
-## Borderline Items  
+### Borderline Items  
 Experiments also showed that the psychological assumptions of well-defined categories were not correct. Hampton (1979) asked subjects to judge whether a number of items were in different categories. He did not find that items were either clear members or clear nonmembers. Instead, he found many items that were just barely considered category members and others that were just barely not members, with much disagreement among subjects. Sinks were barely considered as members of the kitchen utensil category, and sponges were barely excluded. People just included seaweed as a vegetable and just barely excluded tomatoes and gourds. Hampton found that members and nonmembers formed a continuum, with no obvious break in people’s membership judgments. If categories were well defined, such examples should be very rare. Many studies since then have found such borderline members that are not clearly in or clearly out of the category.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:30%">
@@ -52,7 +52,7 @@ Experiments also showed that the psychological assumptions of well-defined categ
 
 McCloskey and Glucksberg (1978) found further evidence for borderline membership by asking people to judge category membership twice, separated by two weeks. They found that when people made repeated category judgments such as “Is an olive a fruit?” or “Is a sponge a kitchen utensil?” they changed their minds about borderline items—up to 22 percent of the time. So, not only do people disagree with one another about borderline items, they disagree with themselves! As a result, researchers often say that categories are *fuzzy*, that is, they have unclear boundaries that can shift over time.
 
-## Typicality
+### Typicality
 A related finding that turns out to be most important is that even among items that clearly are in a category, some seem to be “better” members than others (Rosch, 1973). Among birds, for example, robins and sparrows are very **typical**. In contrast, ostriches and penguins are very *atypical* (meaning not typical). If someone says, “There’s a bird in my yard,” the image you have will be of a smallish passerine bird such as a robin, not an eagle or hummingbird or turkey.
 
 You can find out which category members are typical merely by asking people. Table 1 shows a list of category members in order of their rated typicality. Typicality is perhaps the most important variable in predicting how people interact with categories. The following text box is a partial list of what typicality influences.
@@ -60,7 +60,7 @@ You can find out which category members are typical merely by asking people. Tab
 We can understand the two phenomena of borderline members and typicality as two sides of the same coin. Think of the most typical category member: This is often called the category *prototype*. Items that are less and less similar to the prototype become less and less typical. At some point, these less typical items become so atypical that you start to doubt whether they are in the category at all. Is a rug really an example of furniture? It’s in the home like chairs and tables, but it’s also different from most furniture in its structure and use. From day to day, you might change your mind as to whether this atypical example is in or out of the category. So, changes in typicality ultimately lead to borderline members.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/categ4.jpg" style="width:75%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ4.jpg">
     <figcaption> Table 2. </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ The best account of what makes something typical comes from Rosch and Mervis’s
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ5.jpg">
-    <figcaption> When you think of “bird,” how closely does the robin resemble your general figure? [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> When you think of “bird,” how closely does the robin resemble your general figure? [3]</figcaption>
 </figure>
 
 According to Rosch and Mervis, then, it is not because a robin is a very common bird that makes it typical. Rather, it is because the robin has the shape, size, body parts, and behaviors that are very common among birds—and not common among fish, mammals, bugs, and so forth.
@@ -84,7 +84,7 @@ Many important categories fall into *hierarchies*, in which more concrete catego
 Brown (1958), a child language researcher, was perhaps the first to note that there seems to be a preference for which category we use to label things. If your office desk chair is in the way, you’ll probably say, “Move that chair,” rather than “Move that desk chair” or “piece of furniture.” Brown thought that the use of a single, consistent name probably helped children to learn the name for things. And, indeed, children’s first labels for categories tend to be exactly those names that adults prefer to use (Anglin, 1977).
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/categ6.png" style="width:90%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/categ6.png">
     <figcaption> Figure 1. This is a highly simplified illustration of hierarchically organized categories, with the superordinate, basic, and subordinate levels labeled. Keep in mind that there may be even more specific subordinates (e.g., wire-haired terriers) and more general superordinates (e.g., living thing)</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Now that we know these facts about the psychology of concepts, the question aris
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ7.jpg">
-    <figcaption> If you were asked, “What kind of animal is this?” according to prototype theory, you would consult your summary representations of different categories and then select the one that is most similar to this image—probably a lizard! [Image: Adhi Rachdian, https://goo.gl/dQyUwf, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <figcaption> If you were asked, “What kind of animal is this?” according to prototype theory, you would consult your summary representations of different categories and then select the one that is most similar to this image—probably a lizard! [4]</figcaption>
 </figure>
 
 The idea behind prototype theory is that when you learn a category, you learn a general description that applies to the category as a whole: Birds have wings and usually fly; some eat worms; some swim underwater to catch fish. People can state these generalizations, and sometimes we learn about categories by reading or hearing such statements (“The kimodo dragon can grow to be 10 feet long”).
@@ -139,7 +139,7 @@ One important aspect of people’s knowledge about categories is called **psycho
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/categ9.jpg">
-    <figcaption> Although it may seem natural that different species have an unchangeable “essence,” consider evolution and everything’s development from common ancestors. [Image: Marc Dragiewicz, https://goo.gl/E9v4eR, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]</figcaption>
+    <figcaption> Although it may seem natural that different species have an unchangeable “essence,” consider evolution and everything’s development from common ancestors. [5]</figcaption>
 </figure>
 
 Belief in an essence can be revealed through experiments describing fictional objects. Keil (1989) described to adults and children a fiendish operation in which someone took a raccoon, dyed its hair black with a white stripe down the middle, and implanted a “sac of super-smelly yucky stuff” under its tail. The subjects were shown a picture of a skunk and told that this is now what the animal looks like. What is it? Adults and children over the age of 4 all agreed that the animal is still a raccoon. It may look and even act like a skunk, but a raccoon cannot change its stripes (or whatever!)—it will always be a raccoon.
@@ -178,6 +178,13 @@ An example in memory that is labeled as being in a particular category.
 The belief that members of a category have an unseen property that causes them to be in the category and to have the properties associated with it.
 ### Typicality
 The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
+
+## Image credits
+1. CC0 Public Domain, https://goo.gl/m25gce
+2. State Farm, https://goo.gl/KHtu6N, CC BY 2.0, https://goo.gl/BRvSA7
+3. CC0 Public Domain, https://goo.gl/m25gce
+4. Adhi Rachdian, https://goo.gl/dQyUwf, CC BY 2.0, https://goo.gl/BRvSA7
+5. Marc Dragiewicz, https://goo.gl/E9v4eR, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF
 
 ## References
 * Allen, S. W., & Brooks, L. R. (1991). Specializing the operation of an explicit rule.Journal of Experimental Psychology: General, 120, 3–19.
