@@ -20,54 +20,5 @@ If you are a UMD student in PSYC 341: these are both your course readings and pa
 If you are an instructor of a class related to cognitive psychology, these materials are free for you to use / adapt as you like -- please see the [GitHub README](https://github.com/UMDOER/PSYC341OER/blob/master/README.md) for some basic info on how to adapt these materials for your own purposes. If you are neither a student nor a teacher, well, I'm not sure why you're here, but I hope you find this useful! 
 
 ### Notes
-[1] Header image: <a href="https://www.flickr.com/photos/39416639@N02/19281482595">"Thinking Please Wait"</a><span> by <a href="https://www.flickr.com/photos/39416639@N02">TheBullethead</a></span> is licensed under <a href="https://creativecommons.org/publicdomain/mark/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC PDM 1.0</a><a href="https://creativecommons.org/publicdomain/mark/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=26b884b7-e0d6-406b-8e5b-7c11bf521a6f" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-pdm_icon.svg" /></a></p>
-[2] Most of the work included here is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. However, because the materials here come from different sources, please refer to each page for specific licence that applies.<br />
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
-### Contents:
-
-1. Introduction, Methods, and History
-    * [What is Cognitive Psychology?](/_pages/intro-methods/introduction.md)
-    * [Statistical Thinking](/_pages/intro-methods/statisticalthinking.md)
-    * [Replication Crisis](/_pages/intro-methods/replicationcrisis.md)
-    * [Research Designs](/_pages/intro-methods/researchdesigns.md)
-    * [Thinking Like a Psychological Scientist](/_pages/intro-methods/thinkinglikeapsychscientist.md)
-2. [Sensation and Perception](/_pages/sensation-perception.md)
-    * [Vision](/_pages/sensation-perception/vision.md)
-    * [Hearing](/_pages/sensation-perception/hearing.md)
-    * [Touch and Pain](/_pages/sensation-perception/touch-pain.md)
-    * [Taste and Smell](/_pages/sensation-perception/taste-smell.md)
-    * [The Vestibular System](/_pages/sensation-perception/vestibular.md)
-    * [Multi-modal Perception](/_pages/sensation-perception/multimodalperception.md)
-    * [Mental Imagery](/_pages/sensation-perception/mentalimagery.md)
-3. [Attention and Consciousness](/_pages/attention-consciousness.md)
-    * [Attention Processes](/_pages/attention-consciousness/attentionprocesses.md)
-    * [Consciousness](/_pages/attention-consciousness/consciousness.md)
-    * [Unconsciousness](/_pages/attention-consciousness/unconsciousness.md)
-    * [States of Consciousness](/_pages/attention-consciousness/statesofconsciousness.md)
-    * [Inattentional Blindness](/_pages/attention-consciousness/inattentionalblindness.md)
-4. [Memory](/_pages/memory.md)
-    * [Memory Biases](/_pages/memory/memorybiases.md)
-    * [Forgetting](/_pages/memory/forgetting.md)
-    * [Categories and Concepts](/_pages/memory/categoriesandconcepts.md)
-5. [Learning and Expertise](/_pages/learning-expertise.md)
-    * [Priming and Conditioning](/_pages/learning-expertise/priming.md)
-    * [Learning](/_pages/learning-expertise/learning.md)
-    * [How to Study](/_pages/learning-expertise/howtostudy.md)
-6. [Metacognition](/_pages/metacognition.md)
-7. [Language](/_pages/language.md)
-    * [Theories of Language](/_pages/language/theoriesoflang.md)
-    * [Language Acquisition](/_pages/language/langacq.md)
-    * [Production](/_pages/language/production.md)
-    * [Comprehension](/_pages/language/comprehension.md)
-    * [Bilingualism](/_pages/language/bilingualism.md)
-8. [Decision Making](/_pages/decisionmaking.md)
-    * [Motivation and the Reward System](/_pages/decisionmaking/motivation.md)
-9. [Problem Solving and Creativity](/_pages/problemsolving-creativity.md)
-    * [Intelligence](/_pages/problemsolving-creativity/intelligence.md)
-    * [Creativity](/_pages/problemsolving-creativity/creativity.md)
-10. [Cognitive Development and Aging](/_pages/cogdev-aging.md)
-    * [Cognitive Development](/_pages/cogdev-aging/cognitivedevelopment.md)
-    * [Aging](/_pages/cogdev-aging/aging.md)
-11. [Emotion](/_pages/emotion.md)
-
+Note that the materials here are adapted from multiple different sources, so please refer to each page for specific licence that applies. The content on this page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> except the header image: <a href="https://www.flickr.com/photos/39416639@N02/19281482595">"Thinking Please Wait"</a><span> by <a href="https://www.flickr.com/photos/39416639@N02">TheBullethead</a></span> is licensed under <a href="https://creativecommons.org/publicdomain/mark/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC PDM 1.0</a>
+<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
