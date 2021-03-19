@@ -3,8 +3,7 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-### Open Educational Resources for
-## PSYC 341: *Introduction to Memory and Cognition*
+## *Introduction to Memory and Cognition* <br>Open Educational Resources
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/thinking_cc0.jpg" alt="Progress bar: thinking, please wait">
