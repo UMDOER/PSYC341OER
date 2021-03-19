@@ -4,7 +4,7 @@ sidebar:
   nav: "senpernav"
 ---
 
-# Perception: Pattern and object recognition
+# Pattern and object recognition
 <cite>adapted from various sources (linked below)</cite>
 {: .small}
 
