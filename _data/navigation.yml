@@ -49,7 +49,7 @@ senpernav:
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/object_perception.html
   - title: Other resources
     children:
-      - title: From Vox: Reality is constructed by your brain. 
+      - title: Reality is constructed by your brain
         url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
       - title: 60 Minutes segment on Prosopagnosia
         url: https://www.youtube.com/watch?v=dxqsBk7Wn-Y
@@ -87,7 +87,21 @@ memorynav:
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
       - title: Categories and Concepts
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
-        
+  - title: Other resources
+    children:
+      - title: Twisted (interesting documentary video on false memories)
+        url: https://youtu.be/lSWD9aWLuXw
+      - title: Elizabeth Loftus TED talk
+        url: https://www.youtube.com/embed/PB2OegI6wvI
+      - title: What happens when you remove the hippocampus? 
+        url: https://www.youtube.com/embed/KkaXNvzE4pk
+      - title: The Man with the Seven Second Memory
+        url: https://www.youtube.com/embed/k_P7Y0-wgos
+      - title: Learning styles - A complete myth
+        url: https://www.youtube.com/embed/o_SQrRa73U0
+      - title: Listening to music while writing
+        url: https://www.youtube.com/embed/cIPuTMJM_OI
+
 langnav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
