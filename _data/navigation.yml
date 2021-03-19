@@ -2,7 +2,7 @@ docs:
   - title: Contents
     url: https://umdoer.github.io/PSYC341OER/
     children:
-      - title: Introduction, Methods, and History
+      - title: Introduction
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
@@ -53,7 +53,7 @@ senpernav:
         url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
       - title: 60 Minutes segment on Prosopagnosia
         url: https://www.youtube.com/watch?v=dxqsBk7Wn-Y
-      - title: "Segment on Capgras' Delusion"
+      - title: Segment on Capgras Delusion
         url: https://www.youtube.com/watch?v=dqBGzkz1oDU
 
 attconnav:
