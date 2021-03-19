@@ -3,7 +3,11 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-## OER Cognitive Psychology / Introduction to Memory and Cognition
+## Open Educational Resources for PSYC341: Introduction to Memory and Cognition
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/thinking_cc0.jpg" alt="Progress bar: thinking, please wait">
+</figure>
 
 How are we so good at recognizing faces and objects? How do we selectively attend to relevant pieces of information (and why do we sometimes fail to do so)? How do we remember what we learned in class (and why do we sometimes forget)? How do we comprehend sentences, make decisions, and solve problems? These are all questions asked in the field of *cognitive psychology*, which focuses on the internal mental processes involved in representing concepts, remembering, reasoning, language processing, decision making, and problem solving. More specific questions include: Is it safe to talk on a hands-free cell phone while driving? Is eyewitness testimony reliable? How can you better remember information? What are the pitfalls that lead to bad decisions, and how can they be avoided?
 
