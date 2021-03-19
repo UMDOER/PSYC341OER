@@ -4,6 +4,8 @@ sidebar:
   nav: "langnav"
 ---
 # Language
+<cite>Adapted from Kashima, Y. (2021). Language and language use. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology.</cite> http://noba.to/gq62cpam
+{: .small}
 
 Humans have the capacity to use complex language, far more than any other species on Earth. We cooperate with each other to use language for communication; language is often used to communicate about and even construct and maintain our social world. Language use and human sociality are inseparable parts of Homo sapiens as a biological species.
 
@@ -20,8 +22,11 @@ Adam: “You know, Gary bought a ring.”
 Ben: "Oh yeah? For Mary, isn't it?" (Adam nods.)
 If you are watching this scene and hearing their conversation, what can you guess from this? First of all, you’d guess that Gary bought a ring for Mary, whoever Gary and Mary might be. Perhaps you would infer that Gary is getting married to Mary. What else can you guess? Perhaps that Adam and Ben are fairly close colleagues, and both of them know Gary and Mary reasonably well. In other words, you can guess the social relationships surrounding the people who are engaging in the conversation and the people whom they are talking about.
 
-An artwork titled "Graphic Conversation" made up of speech balloons like those often used in cartoons.
-Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [Image: Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8]
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled "Graphic Conversation" made up of speech balloons like those often used in cartoons.">
+    <figcaption> Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [1]</figcaption>
+</figure>
+
 Language is used in our everyday lives. If psychology is a science of behavior, scientific investigation of language use must be one of the most central topics—this is because language use is ubiquitous. Every human group has a language; human infants (except those who have unfortunate disabilities) learn at least one language without being taught explicitly. Even when children who don’t have much language to begin with are brought together, they can begin to develop and use their own language. There is at least one known instance where children who had had little language were brought together and developed their own language spontaneously with minimum input from adults. In Nicaragua in the 1980s, deaf children who were separately raised in various locations were brought together to schools for the first time. Teachers tried to teach them Spanish with little success. However, they began to notice that the children were using their hands and gestures, apparently to communicate with each other. Linguists were brought in to find out what was happening—it turned out the children had developed their own sign language by themselves. That was the birth of a new language, Nicaraguan Sign Language (Kegl, Senghas, & Coppola, 1999). Language is ubiquitous, and we humans are born to use it.
 
 ## How Do We Use Language?
@@ -94,6 +99,9 @@ The hypothesis that the human brain has evolved, so that humans can maintain lar
 Networks of social relationships among individuals through which information can travel.
 ### Syntax
 Rules by which words are strung together to form sentences.
+## Image credits
+1. Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8
+2. coming soon...
 ## References
 * Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, UK: Cambridge University Press.
 * Branigan, H. P., Pickering, M. J., & Cleland, A. A. (2000). Syntactic co-ordination in dialogue. Cognition, 75, B13–25.
