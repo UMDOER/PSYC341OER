@@ -3,9 +3,9 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-## *Introduction to Memory and Cognition* <br>Open Educational Resources
+## Introduction to Memory and Cognition <br>--Open Educational Resources
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/thinking_cc0.jpg" alt="Progress bar: thinking, please wait">
 </figure>
 
