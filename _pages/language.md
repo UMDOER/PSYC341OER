@@ -128,3 +128,7 @@ Rules by which words are strung together to form sentences.
 * Sapir, E. (1921). Language: An introduction to the study of speech. New York, NY: Harcourt Brace.
 * Semin, G., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons: Social cognition and language. Journal of Personality and Social Psychology, 54, 558–568.
 * Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
+
+Adapted from Kashima, Y. (2021). Language and language use. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/gq62cpam
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
