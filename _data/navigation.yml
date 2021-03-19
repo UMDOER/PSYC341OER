@@ -37,38 +37,6 @@ intronav:
       - title: Thinking Like a Psychological Scientist
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
         
-senpernav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Sensation and Perception
-    url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
-    children:
-      - title: Sensation and Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
-      - title: Pattern and object recognition
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/object_perception.html
-  - title: Other resources
-    children:
-      - title: From Vox: Reality is constructed by your brain. 
-        url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
-      - title: 60 Minutes segment on Prosopagnosia
-        url: https://www.youtube.com/watch?v=dxqsBk7Wn-Y
-      - title: Segment on Capgras Delusion
-        url: https://www.youtube.com/watch?v=dqBGzkz1oDU
-
-attconnav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Attention and Consciousness
-    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
-    children:
-      - title: Attention Processes
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
-  - title: Other resources
-    children:
-      - title: Video on Neglect
-        url: https://www.youtube.com/watch?v=ymKvS0XsM4w
-        
 memorynav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
