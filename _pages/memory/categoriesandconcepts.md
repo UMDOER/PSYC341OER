@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Categories and Concepts
-Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/6vu4cpkt {: .small}
+<cite>Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology.</cite> --- http://noba.to/6vu4cpkt
+{: .small}
 
 People form mental concepts of categories of objects, which permit them to respond appropriately to new objects they encounter. Most concepts cannot be strictly defined but are organized around the “best” examples or prototypes, which have the properties most common in the category. Objects fall into many different categories, but there is usually a most salient one, called the basic-level category, which is at an intermediate level of specificity (e.g., chairs, rather than furniture or desk chairs). Concepts are closely related to our knowledge of the world, and people can more easily learn concepts that are consistent with their knowledge. Theories of concepts argue either that people learn a summary description of a whole category or else that they learn exemplars of the category. Recent research suggests that there are different ways to learn and represent concepts and that they are accomplished by different neural systems.
 
