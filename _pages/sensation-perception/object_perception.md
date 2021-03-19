@@ -5,8 +5,8 @@ sidebar:
 ---
 
 # Perception: Pattern and object recognition
-
-adapted from various sources (linked below)
+<cite>adapted from various sources (linked below)</cite>
+{: .small}
 
 The world that we perceive is complex. For example, a visual scene typically has many overlapping sufaces that vary in shape, color, depth, and change based on the viewer's perspective. Despite this, we perceive our visual world as composed of multiple distinct objects with particular shapes that we infer from incomplete information. The processes of **pattern recognition** and **object recognition** refer to our ability to take sensory input and turn it into a meaningful perceptual interpretation. 
 
