@@ -47,52 +47,50 @@ senpernav:
   - title: Sensation and Perception
     url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
     children:
-      - title: Vox article: “Reality” is constructed by your brain. Here’s what that means, and why it matters.
+      - title: Sensation and Perception
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+      - title: Pattern and object recognition
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/object_perception.html
+  - title: Other resources
+    children:
+      - title: From Vox: “Reality” is constructed by your brain. Here’s what that means, and why it matters.
         url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
-        
+      - title: 60 minutes segment on Prosopagnosia
+        url: https://www.youtube.com/watch?v=dxqsBk7Wn-Y
+      - title: Segment on Capgras' Delusion
+        url: https://www.youtube.com/watch?v=dqBGzkz1oDU
+
 attconnav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
   - title: Attention and Consciousness
-    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
+    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
     children:
       - title: Attention Processes
         url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
-      - title: Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/consciousness.html
-      - title: Unconsciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/unconsciousness.html
-      - title: States of Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/statesofconsciousness.html
-      - title: Inattentional Blindness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/inattentionalblindness.html
-  - title: Resources
+  - title: Other resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#attention-and-consciousness
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#attention-and-consciousness
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: Video on Neglect
+        url: https://www.youtube.com/watch?v=ymKvS0XsM4w
         
 memorynav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
   - title: Memory
-    url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
+    url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
     children:
+      - title: Stages of Memory
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
+      - title: Encoding, Storage, and Retrieval
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
       - title: Memory Biases
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
-      - title: Forgetting
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
-      - title: Categories and Concepts
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
   - title: Resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#memory
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#memory
+      - title: Twisted (interesting documentary video on false memories)
+        url: https://youtu.be/lSWD9aWLuXw
+      - title: Elizabeth Loftus' TED talk
+        url: https://www.youtube.com/embed/PB2OegI6wvI
       - title: How to Study
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
