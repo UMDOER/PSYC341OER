@@ -8,12 +8,8 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Attention and Consciousness
         url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
-      - title: Memory
+      - title: Memory and Learning
         url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
-      - title: Learning and Expertise
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise.html
-      - title: Metacognition
-        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
       - title: Language
         url: https://umdoer.github.io/PSYC341OER/_pages/language.html
       - title: Decision Making
@@ -85,49 +81,28 @@ memorynav:
         url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
       - title: Memory Biases
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
-  - title: Resources
+      - title: Forgetting and Amneisa
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
+      - title: Factors influencing learning
+        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
+      - title: Categories and Concepts
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
+  - title: Other resources
     children:
       - title: Twisted (interesting documentary video on false memories)
         url: https://youtu.be/lSWD9aWLuXw
       - title: Elizabeth Loftus' TED talk
         url: https://www.youtube.com/embed/PB2OegI6wvI
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
-        
-learningnav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Learning and Expertise
-    url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise.html
-    children:
-      - title: Priming and Conditioning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/priming.html
-      - title: Learning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#learning-and-expertise
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#learning-and-expertise
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
-        
-metacognav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Metacognition
-    url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#metacognition
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#metacognition
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: What happens when you remove the hippocampus? 
+        url: https://www.youtube.com/embed/KkaXNvzE4pk
+      - title: The Man with the Seven Second Memory
+        url: https://www.youtube.com/embed/k_P7Y0-wgos
+      - title: clip from above documentary, if you're in a hurry.
+        url: https://www.youtube.com/embed/fhrmsK6jtjc
+      - title: Learning styles - A complete myth
+        url: https://www.youtube.com/embed/o_SQrRa73U0
+      - title: Listening to music while writing
+        url: https://www.youtube.com/embed/cIPuTMJM_OI
         
 langnav:
   - title: Home
