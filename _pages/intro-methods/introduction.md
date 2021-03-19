@@ -55,7 +55,7 @@ Cognitive psychology research has produced an extensive body of principles, repr
 * Bundesen, C. (1990) A Theory Of Visual-Attention. Psychological Review 97: 523-547. 
 * Busemeyer, J. R., & Johnson, J. G. (2004). Computational models of decision making. In D. Koehler & N. Harvey (Eds.), Handbook of judgment and decision making (pp. 133–154). Oxford, England: Blackwell. 
 * Chomsky, N. (1959) Review of Verbal Behavior, by B.F. Skinner. Language 35: 26-57. 
-* Chomsky, N. (1965) Aspects of the theory of syntax. Cambridge, MA: MIT Press. | 
+* Chomsky, N. (1965) Aspects of the theory of syntax. Cambridge, MA: MIT Press. 
 * Chun, M. M. and Potter, M. C. (1995) A two-stage model for multiple target detection in rapid serial visual presentation. Journal of Experimental Psychology: Human Perception & Performance 21: 109-127. 
 * Coltheart, M., Rastle, K., Perry, C., Langdon, R., & Ziegler, J. (2001) DRC: A Dual Route Cascaded model of visual word recognition and reading aloud. Psychological Review , 108, 204 - 256. 
 * Costall, A. and Still, A. (eds) (1987) Cognitive Psychology in Question. Brighton: Harvester Press Ltd. 
