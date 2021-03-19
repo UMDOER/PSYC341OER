@@ -7,7 +7,7 @@ sidebar:
 
 How are we so good at recognizing faces and objects? How do we selectively attend to relevant pieces of information (and why do we sometimes fail to do so)? How do we remember what we learned in class (and why do we sometimes forget)? How do we comprehend sentences, make decisions, and solve problems? 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/thinking_cc0.jpg" alt="Progress bar: thinking, please wait">
 </figure>
 
