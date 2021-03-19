@@ -24,14 +24,6 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
       - title: Emotion
         url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 intronav:
   - title: Home
@@ -48,14 +40,6 @@ intronav:
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
       - title: Thinking Like a Psychological Scientist
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#introduction-methods-and-history
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#introduction-methods-and-history
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 senpernav:
   - title: Home
@@ -63,28 +47,8 @@ senpernav:
   - title: Sensation and Perception
     url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
     children:
-      - title: Vision
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vision.html
-      - title: Hearing
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/hearing.html
-      - title: Touch and Pain
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/touch-pain.html
-      - title: Taste and Smell
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/taste-smell.html
-      - title: The Vestibular System
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vestibular.html
-      - title: Multi-model Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/multimodalperception.html
-      - title: Mental Imagery
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/mentalimagery.html
-  - title: Resources
-    children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#sensation-and-perception
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: Vox article: “Reality” is constructed by your brain. Here’s what that means, and why it matters.
+        url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
         
 attconnav:
   - title: Home
