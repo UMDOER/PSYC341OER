@@ -1,6 +1,6 @@
 docs:
   - title: Contents
-    url: https://umdoer.github.io/PSYC341OER/#contents
+    url: https://umdoer.github.io/PSYC341OER/
     children:
       - title: Introduction, Methods, and History
         url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
