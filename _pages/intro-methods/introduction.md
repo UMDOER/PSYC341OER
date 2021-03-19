@@ -1,7 +1,7 @@
 ---
 layout: single
 sidebar:
-  nav: "intronav"
+  nav: "docs"
 ---
 # What is Cognitive Psychology?
 Adapted from Zhong-Lin Lu and Barbara Anne Dosher (2007), Scholarpedia, 2(8):2769. http://dx.doi.org/10.4249/scholarpedia.2769
