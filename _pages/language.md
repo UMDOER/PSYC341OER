@@ -23,7 +23,7 @@ Ben: "Oh yeah? For Mary, isn't it?" (Adam nods.)
 If you are watching this scene and hearing their conversation, what can you guess from this? First of all, you’d guess that Gary bought a ring for Mary, whoever Gary and Mary might be. Perhaps you would infer that Gary is getting married to Mary. What else can you guess? Perhaps that Adam and Ben are fairly close colleagues, and both of them know Gary and Mary reasonably well. In other words, you can guess the social relationships surrounding the people who are engaging in the conversation and the people whom they are talking about.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled "Graphic Conversation" made up of speech balloons like those often used in cartoons.">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled 'Graphic Conversation' made up of speech balloons like those often used in cartoons.">
     <figcaption> Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [1]</figcaption>
 </figure>
 
