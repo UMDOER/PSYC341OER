@@ -81,7 +81,7 @@ memorynav:
         url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
       - title: Memory Biases
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
-      - title: Forgetting and Amneisa
+      - title: Forgetting and Amnesia
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
       - title: Factors influencing learning
         url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
@@ -91,7 +91,7 @@ memorynav:
     children:
       - title: Twisted (interesting documentary video on false memories)
         url: https://youtu.be/lSWD9aWLuXw
-      - title: Elizabeth Loftus' TED talk
+      - title: Elizabeth Loftus TED talk
         url: https://www.youtube.com/embed/PB2OegI6wvI
       - title: What happens when you remove the hippocampus? 
         url: https://www.youtube.com/embed/KkaXNvzE4pk
