@@ -43,7 +43,7 @@ Note that, when Adam presents the information about Gary’s purchase of a ring,
 
 Common ground helps people coordinate their language use. For instance, when a speaker says something to a listener, he or she takes into account their common ground, that is, what the speaker thinks the listener knows. Adam said what he did because he knew Ben would know who Gary was. He’d have said, “A friend of mine is getting married,” to another scolleague who wouldn’t know Gary. This is called **audience design** (Fussell & Krauss, 1992); speakers design their utterances for their audiences by taking into account the audiences’ knowledge. If their audiences are seen to be knowledgeable about an object (such as Ben about Gary), they tend to use a brief label of the object (i.e., Gary); for a less knowledgeable audience, they use more descriptive words (e.g., “a friend of mine”) to help the audience understand their utterances (Box 1).
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/lang3.jpg" alt="Coordinating language use by audience design.">
 </figure>
 
@@ -66,7 +66,7 @@ Gossip may sound trivial and seem to belittle our noble ability for language—s
 
 Dunbar’s hypothesis is controversial. Nonetheless, whether or not he is right, our everyday language use often *ends up* maintaining the existing structure of intergroup relationships. Language use can have implications for how we construe our social world. For one thing, there are subtle cues that people use to convey the extent to which someone’s action is just a special case in a particular context or a pattern that occurs across many contexts and more like a character trait of the person. According to Semin and Fiedler (1988), someone’s action can be described by an action verb that describes a concrete action (e.g., he runs), a state verb that describes the actor’s psychological state (e.g., he likes running), an adjective that describes the actor’s personality (e.g., he is athletic), or a noun that describes the actor’s role (e.g., he is an athlete). Depending on whether a verb or an adjective (or noun) is used, speakers can convey the permanency and stability of an actor’s tendency to act in a certain way—verbs convey particularity, whereas adjectives convey permanency. Intriguingly, people tend to describe positive actions of their ingroup members using adjectives (e.g., he is generous) rather than verbs (e.g., he gave a blind man some change), and negative actions of outgroup members using adjectives (e.g., he is cruel) rather than verbs (e.g., he kicked a dog). Maass, Salvi, Arcuri, and Semin (1989) called this a **linguistic intergroup bias**, which can produce and reproduce the representation of intergroup relationships by painting a picture favoring the ingroup. That is, ingroup members are typically good, and if they do anything bad, that’s more an exception in special circumstances; in contrast, outgroup members are typically bad, and if they do anything good, that’s more an exception.
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/lang5.jpg" alt="Emotion and Talk.">
 </figure>
 
@@ -75,12 +75,18 @@ In addition, when people exchange their gossip, it can spread through broader **
 ## Psychological Consequences of Language Use
 What are the psychological consequences of language use? When people use language to describe an experience, their thoughts and feelings are profoundly shaped by the linguistic representation that they have produced rather than the original experience per se (Holtgraves & Kashima, 2008). For example, Halberstadt (2003) showed a picture of a person displaying an ambiguous emotion and examined how people evaluated the displayed emotion. When people verbally explained why the target person was expressing a particular emotion, they tended to remember the person as feeling that emotion more intensely than when they simply labeled the emotion.
 
-Two close friends have a conversation over coffee.
-By verbalizing our own emotional experiences - such as in a conversation with a close friend - we can improve our psychological well-being. [Image: Drew Herron, https://goo.gl/lKMAv1, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/lang6.jpg" alt="Two close friends have a conversation over coffee.">
+    <figcaption>By verbalizing our own emotional experiences - such as in a conversation with a close friend - we can improve our psychological well-being. [4]</figcaption>
+</figure>
+
 Thus, constructing a linguistic representation of another person’s emotion apparently biased the speaker’s memory of that person’s emotion. Furthermore, linguistically labeling one’s own emotional experience appears to alter the speaker’s neural processes. When people linguistically labeled negative images, the amygdala—a brain structure that is critically involved in the processing of negative emotions such as fear—was activated less than when they were not given a chance to label them (Lieberman et al., 2007). Potentially because of these effects of verbalizing emotional experiences, linguistic reconstructions of negative life events can have some therapeutic effects on those who suffer from the traumatic experiences (Pennebaker & Seagal, 1999). Lyubomirsky, Sousa, and Dickerhoof (2006) found that writing and talking about negative past life events improved people’s psychological well-being, but just thinking about them worsened it. There are many other examples of effects of language use on memory and decision making (Holtgraves & Kashima, 2008).
 
-
 Furthermore, if a certain type of language use (linguistic practice) (Holtgraves & Kashima, 2008) is repeated by a large number of people in a community, it can potentially have a significant effect on their thoughts and action. This notion is often called Sapir-Whorf hypothesis (Sapir, 1921; Whorf, 1956; Box 3). For instance, if you are given a description of a man, Steven, as having greater than average experience of the world (e.g., well-traveled, varied job experience), a strong family orientation, and well-developed social skills, how do you describe Steven? Do you think you can remember Steven’s personality five days later? It will probably be difficult. But if you know Chinese and are reading about Steven in Chinese, as Hoffman, Lau, and Johnson (1986) showed, the chances are that you can remember him well. This is because English does not have a word to describe this kind of personality, whereas Chinese does (shì gù). This way, the language you use can influence your cognition. In its strong form, it has been argued that language determines thought, but this is probably wrong. Language does not completely determine our thoughts—our thoughts are far too flexible for that—but habitual uses of language can influence our habit of thought and action. For instance, some linguistic practice seems to be associated even with cultural values and social institution. Pronoun drop is the case in point. Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English. In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence. So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English. However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences. It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values (e.g., employees having greater loyalty toward their employers) than those who use non–pronoun drop languages such as English (Kashima & Kashima, 1998). It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals. Such a linguistic practice may act as a constant reminder of the cultural value, which, in turn, may encourage people to perform the linguistic practice.
+
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/lang7.jpg" alt="Sapir-Whorf Hypothesis.">
+</figure>
 
 ## Conclusion
 Language and language use constitute a central ingredient of human psychology. Language is an essential tool that enables us to live the kind of life we do. Can you imagine a world in which machines are built, farms are cultivated, and goods and services are transported to our household without language? Is it possible for us to make laws and regulations, negotiate contracts, and enforce agreements and settle disputes without talking? Much of contemporary human civilization wouldn’t have been possible without the human ability to develop and use language. Like the Tower of Babel, language can divide humanity, and yet, the core of humanity includes the innate ability for language use. Whether we can use it wisely is a task before us in this globalized world.
@@ -119,7 +125,8 @@ Rules by which words are strung together to form sentences.
 1. Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8
 2. Converse College, https://goo.gl/UhbMQH, CC BY-NC 2.0, https://goo.gl/VnKlK8
 3. aqua.mech, https://goo.gl/Q7Ap4b, CC BY 2.0, https://goo.gl/T4qgSp
-4. 
+4. Drew Herron, https://goo.gl/lKMAv1, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF
+5. 
 
 ## References
 * Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, UK: Cambridge University Press.
