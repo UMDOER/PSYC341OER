@@ -17,7 +17,7 @@ Human language is arguably the most complex behavior on the planet. Language inv
 
 ## Introduction
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:45%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled 'Graphic Conversation' made up of speech balloons like those often used in cartoons.">
     <figcaption> Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [1]</figcaption>
 </figure>
@@ -264,4 +264,4 @@ Adapted from:
 * Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/). In Introduction to Psychology - 1st Canadian Edition [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Wikipedia entry on [Speech Perception](https://en.wikipedia.org/wiki/Speech_perception) retrieved 3/25/21, [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Slevc, L.R. (2021). Speech perception and language use. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Slevc, L.R. (2021). Speech perception and language use. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
