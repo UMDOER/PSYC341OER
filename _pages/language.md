@@ -4,12 +4,16 @@ sidebar:
   nav: "langnav"
 ---
 # Language
-<cite>Adapted from Kashima, Y. (2021). Language and language use. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology.</cite> http://noba.to/gq62cpam
+<cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
-Humans have the capacity to use complex language, far more than any other species on Earth. We cooperate with each other to use language for communication; language is often used to communicate about and even construct and maintain our social world. Language use and human sociality are inseparable parts of Homo sapiens as a biological species.
+**Language** is a communication system that involves using words and systematic rules to organize those words to transmit information from one individual to another. While language is a form of communication, not all communication is language. Many species communicate with one another through their postures, movements, odors, or vocalizations. This communication is crucial for species that need to interact and develop social relationships with their conspecifics. However, many people have asserted that it is language that makes humans unique among all of the animal species (Corballis & Suddendorf, 2007; Tomasello & Rakoczy, 2003). This section will focus on what distinguishes language as a special form of communication, how the use of language develops, and how language affects the way we think.
 
 ## Learning Objectives
+*   Define language and demonstrate familiarity with the components of language
+*   Understand how the use of language develops
+*   Explain the relationship between language and thinking
+
 * Define basic terms used to describe language use.
 * Describe the process by which people can share new information by using language.
 * Characterize the typical content of conversation and its social implications.
@@ -29,10 +33,96 @@ If you are watching this scene and hearing their conversation, what can you gues
     <figcaption> Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [1]</figcaption>
 </figure>
 
-Language is used in our everyday lives. If psychology is a science of behavior, scientific investigation of language use must be one of the most central topics—this is because language *use* is ubiquitous. Every human group has a language; human infants (except those who have unfortunate disabilities) learn at least one language without being taught explicitly. Even when children who don’t have much language to begin with are brought together, they can begin to develop and use their own language. There is at least one known instance where children who had had little language were brought together and developed their own language spontaneously with minimum input from adults. In Nicaragua in the 1980s, deaf children who were separately raised in various locations were brought together to schools for the first time. Teachers tried to teach them Spanish with little success. However, they began to notice that the children were using their hands and gestures, apparently to communicate with each other. Linguists were brought in to find out what was happening—it turned out the children had developed their own sign language by themselves. That was the birth of a new language, Nicaraguan Sign Language (Kegl, Senghas, & Coppola, 1999). Language is ubiquitous, and we humans are born to use it.
+Language is used in our everyday lives. If psychology is a science of behavior, scientific investigation of language use must be one of the most central topics—this is because language *use* is ubiquitous. Every human group has a language; human infants (except those who have unfortunate disabilities) learn at least one language without being taught explicitly. Even when children who don’t have much language to begin with are brought together, they can begin to develop and use their own language. There are a few cases where children who had had little language were brought together and developed their own language spontaneously with minimum input from adults. In Nicaragua in the 1980s, deaf children who were separately raised in various locations were brought together to schools for the first time. Teachers tried to teach them Spanish with little success. However, they began to notice that the children were using their hands and gestures, apparently to communicate with each other. Linguists were brought in to find out what was happening—it turned out the children had developed their own sign language by themselves. That was the birth of a new language, Nicaraguan Sign Language (Kegl, Senghas, & Coppola, 1999). Language is ubiquitous, and we humans may be born to use it.
+
+## Components of Language
+Language, be it spoken, signed, or written, has specific components: a lexicon and grammar. **Lexicon** refers to the words of a given language. Thus, lexicon is a language’s vocabulary. Words are formed by combining the various phonemes that make up the language. A **phoneme** (e.g., the sounds “ah” vs. “eh”) is a basic sound unit of a given language, and different languages have different sets of phonemes. Phonemes are combined to form **morphemes**, which are the smallest units of language that convey some type of meaning (e.g., “I” is both a phoneme and a morpheme). **Semantics** refers to the process by which we derive meaning from morphemes and words. **Syntax** refers to the way words are organized into sentences (Chomsky, 1965; Fernández & Cairns, 2011). We use semantics and syntax to construct language. Semantics and syntax are part of a language’s **grammar**, which refers to the set of "rules" that are used to convey meaning (Fernández & Cairns, 2011). For instance, English grammar dictates that most verbs receive an “-ed” at the end to indicate past tense.
+
+We apply the rules of grammar to organize the lexicon in novel and creative ways, which allow us to communicate information about both concrete and abstract concepts. We can talk about our immediate and observable surroundings as well as the surface of unseen planets. We can share our innermost thoughts, our plans for the future, and debate the value of a college education. We can provide detailed instructions for cooking a meal, fixing a car, or building a fire. The flexibility that language provides to relay vastly different types of information is a property that makes language so distinct as a mode of communication among humans.
+
+## Speech perception
+**Speech perception** is the process by which the sounds of language are heard, interpreted, and understood. The study of speech perception is closely linked to the fields of phonology and phonetics in linguistics and cognitive psychology and perception in psychology. Research in speech perception seeks to understand how human listeners recognize speech sounds and use this information to understand spoken language. Speech perception research has applications in building computer systems that can recognize speech, in improving speech recognition for hearing- and language-impaired listeners, and in foreign-language teaching.
+
+The process of perceiving speech begins at the level of the sound signal and the process of audition. After processing the initial auditory signal, speech sounds are further processed to extract acoustic cues and phonetic information. This speech information can then be used for higher-level language processes, such as word recognition.
+
+### Acoustic cues
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/spectograms.png" alt="Spectrograms of syllables dee (top), dah (middle), and doo (bottom)">
+    <figcaption>Spectrograms of syllables "dee" (top), "dah" (middle), and "doo" (bottom) showing how the onset formant transitions that define perceptually the consonant [d] differ depending on the identity of the following vowel. (Formants are highlighted by red dotted lines; transitions are the bending beginnings of the formant trajectories.)</figcaption>
+</figure>
+
+ADD TO FIG CITE:
+* By I,, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2225868
+
+
+Acoustic cues are sensory cues contained in the speech sound signal which are used in speech perception to differentiate speech sounds belonging to different phonetic categories. For example, one of the most studied cues in speech is voice onset time or VOT. VOT is a primary cue signaling the difference between voiced and voiceless plosives, such as "b" and "p". Other cues differentiate sounds that are produced at different places of articulation or manners of articulation. The speech system must also combine these cues to determine the category of a specific speech sound. This is often thought of in terms of abstract representations of phonemes. These representations can then be combined for use in word recognition and other language processes.
+
+It is not easy to identify what acoustic cues listeners are sensitive to when perceiving a particular speech sound:
+
+<blockquote>At first glance, the solution to the problem of how we perceive speech seems deceptively simple. If one could identify stretches of the acoustic waveform that correspond to units of perception, then the path from sound to meaning would be clear. However, this correspondence or mapping has proven extremely difficult to find, even after some forty-five years of research on the problem. (Nygaard & Pisoni, 1995) </blockquote>
+
+Nygaard, L.C., Pisoni, D.B. (1995). "Speech Perception: New Directions in Research and Theory". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
+
+If a specific aspect of the acoustic waveform indicated one linguistic unit, a series of tests using speech synthesizers would be sufficient to determine such a cue or cues. However, there are two significant obstacles:
+
+One acoustic aspect of the speech signal may cue different linguistically relevant dimensions. For example, the duration of a vowel in English can indicate whether or not the vowel is stressed, or whether it is in a syllable closed by a voiced or a voiceless consonant, and in some cases (like American English /ɛ/ and /æ/) it can distinguish the identity of vowels.[2] Some experts even argue that duration can help in distinguishing of what is traditionally called short and long vowels in English.[3]
+One linguistic unit can be cued by several acoustic properties. For example, in a classic experiment, Alvin Liberman (1957) showed that the onset formant transitions of /d/ differ depending on the following vowel (see Figure 1) but they are all interpreted as the phoneme /d/ by listeners.[4]
+
+### Linearity and the segmentation problem 
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Spectrogram_of_I_owe_you.png" alt=A spectrogram of the phrase 'I owe you.'>
+    <figcaption>Figure 2: A spectrogram of the phrase *I owe you*. There are no clearly distinguishable boundaries between speech sounds.</figcaption>
+</figure>
+
+FIG CITE:
+By Jonas.kluk - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2118459
+
+Although listeners perceive speech as a stream of discrete units (phonemes, syllables, and words), this linearity is difficult to see in the physical speech signal (see Figure at right for an example). Speech sounds do not strictly follow one another, rather, they overlap (Fowler, 1995). That is, a speech sound is influenced by the ones that precede and the ones that follow. This influence can even be exerted at a distance of two or more segments (and across syllable- and word-boundaries). 
+
+Fowler, C.A. (1995). "Speech production". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
+
+Because the speech signal is not linear, there is a problem of segmentation. It is difficult to delimit a stretch of speech signal as belonging to a single perceptual unit. As an example, the acoustic properties of the phoneme /d/ will depend on the production of the following vowel (because of coarticulation).
+
+### Lack of invariance
+The research and application of speech perception must deal with several problems which result from what has been termed the lack of invariance. Reliable constant relations between a phoneme of a language and its acoustic manifestation in speech are difficult to find. There are several reasons for this:
+
+#### Context-induced variation
+Phonetic environment affects the acoustic properties of speech sounds. For example, /u/ in English is fronted when surrounded by coronal consonants.[6] Or, the voice onset time marking the boundary between voiced and voiceless plosives are different for labial, alveolar and velar plosives and they shift under stress or depending on the position within a syllable.[7]
+
+#### Variation due to differing speech conditions
+One important factor that causes variation is differing speech rate. Many phonemic contrasts are constituted by temporal characteristics (short vs. long vowels or consonants, affricates vs. fricatives, plosives vs. glides, voiced vs. voiceless plosives, etc.) and they are certainly affected by changes in speaking tempo.[1] Another major source of variation is articulatory carefulness vs. sloppiness which is typical for connected speech (articulatory "undershoot" is obviously reflected in the acoustic properties of the sounds produced).
+
+#### Variation due to different speaker identity
+The resulting acoustic structure of concrete speech productions depends on the physical and psychological properties of individual speakers. Men, women, and children generally produce voices having different pitch. Because speakers have vocal tracts of different sizes (due to sex and age especially) the resonant frequencies (formants), which are important for recognition of speech sounds, will vary in their absolute values across individuals[8] (see Figure 3 for an illustration of this). Research shows that infants at the age of 7.5 months cannot recognize information presented by speakers of different genders; however by the age of 10.5 months, they can detect the similarities.[9] Dialect and foreign accent can also cause variation, as can the social characteristics of the speaker and listener.[10]
+
+### Categorical perception
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/Categorization-and-discrimination-curves.png" alt="A graph of example identification and discrimination functions.">
+    <figcaption>Example identification (red) and discrimination (blue) functions</figcaption>
+</figure>
+
+By Jonas.kluk (Jonas.kluk) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1971718
+
+Categorical perception is involved in processes of perceptual differentiation. People perceive speech sounds categorically, that is to say, they are more likely to notice the differences between categories (phonemes) than within categories. The perceptual space between categories is therefore warped, the centers of categories (or "prototypes") working like a sieve[14] or like magnets[15] for incoming speech sounds.
+
+In an artificial continuum between a voiceless and a voiced bilabial plosive, each new step differs from the preceding one in the amount of VOT. The first sound is a pre-voiced [b], i.e. it has a negative VOT. Then, increasing the VOT, it reaches zero, i.e. the plosive is a plain unaspirated voiceless [p]. Gradually, adding the same amount of VOT at a time, the plosive is eventually a strongly aspirated voiceless bilabial [pʰ]. (Such a continuum was used in an experiment by Lisker and Abramson in 1970.[16] The sounds they used are available online.) In this continuum of, for example, seven sounds, native English listeners will identify the first three sounds as /b/ and the last three sounds as /p/ with a clear boundary between the two categories.[16] A two-alternative identification (or categorization) test will yield a discontinuous categorization function (see red curve in Figure 4).
+
+In tests of the ability to discriminate between two sounds with varying VOT values but having a constant VOT distance from each other (20 ms for instance), listeners are likely to perform at chance level if both sounds fall within the same category and at nearly 100% level if each sound falls in a different category (see the blue discrimination curve in Figure 4).
+
+The conclusion to make from both the identification and the discrimination test is that listeners will have different sensitivity to the same relative increase in VOT depending on whether or not the boundary between categories was crossed. Similar perceptual adjustment is attested for other acoustic cues as well.
+
+### Top-down influences
+In a classic experiment, Richard M. Warren (1970) replaced one phoneme of a word with a cough-like sound. Perceptually, his subjects restored the missing speech sound without any difficulty and could not accurately identify which phoneme had been disturbed,[17] a phenomenon known as the phonemic restoration effect. Therefore, the process of speech perception is not necessarily uni-directional.
+
+Another basic experiment compared recognition of naturally spoken words within a phrase versus the same words in isolation, finding that perception accuracy usually drops in the latter condition. To probe the influence of semantic knowledge on perception, Garnes and Bond (1976) similarly used carrier sentences where target words only differed in a single phoneme (bay/day/gay, for example) whose quality changed along a continuum. When put into different sentences that each naturally led to one interpretation, listeners tended to judge ambiguous words according to the meaning of the whole sentence[18] .[19] That is, higher-level language processes connected with morphology, syntax, or semantics may interact with basic speech perception processes to aid in recognition of speech sounds.
+
+It may be the case that it is not necessary and maybe even not possible for a listener to recognize phonemes before recognizing higher units, like words for example. After obtaining at least a fundamental piece of information about phonemic structure of the perceived entity from the acoustic signal, listeners can compensate for missing or noise-masked phonemes using their knowledge of the spoken language. Compensatory mechanisms might even operate at the sentence level such as in learned songs, phrases and verses, an effect backed-up by neural coding patterns consistent with the missed continuous speech fragments,[20] despite the lack of all relevant bottom-up sensory input.
 
 ## How Do We Use Language?
-If language is so ubiquitous, how do we actually use it? To be sure, some of us use it to write diaries and poetry, but the primary form of language use is interpersonal. That’s how we learn language, and that’s how we use it. Just like Adam and Ben, we exchange words and utterances to communicate with each other. Let’s consider the simplest case of two people, Adam and Ben, talking with each other. According to Clark (1996), in order for them to carry out a conversation, they must keep track of **common ground**. Common ground is a set of knowledge that the speaker and listener share and they think, assume, or otherwise take for granted that they share. So, when Adam says, “Gary bought a ring,” he takes for granted that Ben knows the meaning of the words he is using, whom Gary is, and what buying a ring means. When Ben says, “For Mary, isn’t it?” he takes for granted that Adam knows the meaning of these words, who Mary is, and what buying a ring for someone means. All these are part of their common ground.
+Language use is ubiquitous, but how do we actually use it? To be sure, some of us use it to write diaries and poetry, but the primary form of language use is interpersonal. That’s how we learn language, and that’s how we use it. Just like Adam and Ben, we exchange words and utterances to communicate with each other. Let’s consider the simplest case of two people, Adam and Ben, talking with each other. According to Clark (1996), in order for them to carry out a conversation, they must keep track of **common ground**. Common ground is a set of knowledge that the speaker and listener share and they think, assume, or otherwise take for granted that they share. So, when Adam says, “Gary bought a ring,” he takes for granted that Ben knows the meaning of the words he is using, whom Gary is, and what buying a ring means. When Ben says, “For Mary, isn’t it?” he takes for granted that Adam knows the meaning of these words, who Mary is, and what buying a ring for someone means. All these are part of their common ground.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/lang2.jpg" alt="A pair of female students stand on the steps in front of a building engaged in conversation.">
@@ -72,29 +162,19 @@ Dunbar’s hypothesis is controversial. Nonetheless, whether or not he is right,
 
 In addition, when people exchange their gossip, it can spread through broader **social networks**. If gossip is transmitted from one person to another, the second person can transmit it to a third person, who then in turn transmits it to a fourth, and so on through a chain of communication. This often happens for emotive stories (Box 2). If gossip is repeatedly transmitted and spread, it can reach a large number of people. When stories travel through communication chains, they tend to become conventionalized (Bartlett, 1932). A Native American tale of the “War of the Ghosts” recounts a warrior’s encounter with ghosts traveling in canoes and his involvement with their ghostly battle. He is shot by an arrow but doesn’t die, returning home to tell the tale. After his narration, however, he becomes still, a black thing comes out of his mouth, and he eventually dies. When it was told to a student in England in the 1920s and retold from memory to another person, who, in turn, retold it to another and so on in a communication chain, the mythic tale became a story of a young warrior going to a battlefield, in which canoes became boats, and the black thing that came out of his mouth became simply his spirit (Bartlett, 1932). In other words, information transmitted multiple times was transformed to something that was easily understood by many, that is, information was assimilated into the common ground shared by most people in the linguistic community. More recently, Kashima (2000) conducted a similar experiment using a story that contained a sequence of events that described a young couple’s interaction that included both stereotypical and counter-stereotypical actions (e.g., a man watching sports on TV on Sunday vs. a man vacuuming the house). After the retelling of this story, much of the counter-stereotypical information was dropped, and stereotypical information was more likely to be retained. Because stereotypes are part of the common ground shared by the community, this finding too suggests that conversational retellings are likely to reproduce conventional content.
 
-## Psychological Consequences of Language Use
-What are the psychological consequences of language use? When people use language to describe an experience, their thoughts and feelings are profoundly shaped by the linguistic representation that they have produced rather than the original experience per se (Holtgraves & Kashima, 2008). For example, Halberstadt (2003) showed a picture of a person displaying an ambiguous emotion and examined how people evaluated the displayed emotion. When people verbally explained why the target person was expressing a particular emotion, they tended to remember the person as feeling that emotion more intensely than when they simply labeled the emotion.
+## Language and Thought
+What are the psychological consequences of language use? When people use language to describe an experience, their thoughts and feelings can be shaped by the linguistic representation that they have produced rather than the original experience per se (Holtgraves & Kashima, 2008). When we speak a language, we use words as representations of ideas, people, places, and events. The given language that children learn is, of course, connected to their culture and surroundings. But can words themselves shape the way we think about things? Psychologists have long investigated whether language can shape thoughts and actions; a notion called the *Sapir-Whorf hypothesis* or **linguistic relativity** (Sapir, 1921; Whorf, 1956; Box 3). Early verisons of this hypothesis were quite strong, suggesting, for example, that a person whose community language did not have past-tense verbs would be challenged to think about the past (Whorf, 1956). This strong *linguistic determinism* view has largely been unsupported, however more recent research has debated (sometimes vigerously) more subtle views. 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang6.jpg" alt="Two close friends have a conversation over coffee.">
-    <figcaption>By verbalizing our own emotional experiences - such as in a conversation with a close friend - we can improve our psychological well-being. [4]</figcaption>
-</figure>
-
-Thus, constructing a linguistic representation of another person’s emotion apparently biased the speaker’s memory of that person’s emotion. Furthermore, linguistically labeling one’s own emotional experience appears to alter the speaker’s neural processes. When people linguistically labeled negative images, the amygdala—a brain structure that is critically involved in the processing of negative emotions such as fear—was activated less than when they were not given a chance to label them (Lieberman et al., 2007). Potentially because of these effects of verbalizing emotional experiences, linguistic reconstructions of negative life events can have some therapeutic effects on those who suffer from the traumatic experiences (Pennebaker & Seagal, 1999). Lyubomirsky, Sousa, and Dickerhoof (2006) found that writing and talking about negative past life events improved people’s psychological well-being, but just thinking about them worsened it. There are many other examples of effects of language use on memory and decision making (Holtgraves & Kashima, 2008).
-
-Furthermore, if a certain type of language use (linguistic practice) (Holtgraves & Kashima, 2008) is repeated by a large number of people in a community, it can potentially have a significant effect on their thoughts and action. This notion is often called Sapir-Whorf hypothesis (Sapir, 1921; Whorf, 1956; Box 3). For instance, if you are given a description of a man, Steven, as having greater than average experience of the world (e.g., well-traveled, varied job experience), a strong family orientation, and well-developed social skills, how do you describe Steven? Do you think you can remember Steven’s personality five days later? It will probably be difficult. But if you know Chinese and are reading about Steven in Chinese, as Hoffman, Lau, and Johnson (1986) showed, the chances are that you can remember him well. This is because English does not have a word to describe this kind of personality, whereas Chinese does (shì gù). This way, the language you use can influence your cognition. In its strong form, it has been argued that language determines thought, but this is probably wrong. Language does not completely determine our thoughts—our thoughts are far too flexible for that—but habitual uses of language can influence our habit of thought and action. For instance, some linguistic practice seems to be associated even with cultural values and social institution. Pronoun drop is the case in point. Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English. In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence. So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English. However, in other languages such as Japanese, pronouns can be, and in fact often are, dropped from sentences. It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values (e.g., employees having greater loyalty toward their employers) than those who use non–pronoun drop languages such as English (Kashima & Kashima, 1998). It was argued that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals. Such a linguistic practice may act as a constant reminder of the cultural value, which, in turn, may encourage people to perform the linguistic practice.
-
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang7.jpg" alt="Sapir-Whorf Hypothesis.">
-</figure>
+For instance, some linguistic practices, such as *pronoun drop*, seem to be associated even with cultural values and social institution. Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English. In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence. So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English. However, in other languages such as Spanish or Japanese, pronouns can be (and in fact often are) dropped from sentences. It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values (e.g., employees having greater loyalty toward their employers) than those who use non–pronoun drop languages such as English (Kashima & Kashima, 1998). It could be that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals. Such a linguistic practice may act as a constant reminder of the cultural value, which, in turn, may encourage people to perform the linguistic practice.
 
 ## Conclusion
-Language and language use constitute a central ingredient of human psychology. Language is an essential tool that enables us to live the kind of life we do. Can you imagine a world in which machines are built, farms are cultivated, and goods and services are transported to our household without language? Is it possible for us to make laws and regulations, negotiate contracts, and enforce agreements and settle disputes without talking? Much of contemporary human civilization wouldn’t have been possible without the human ability to develop and use language. Like the Tower of Babel, language can divide humanity, and yet, the core of humanity includes the innate ability for language use. Whether we can use it wisely is a task before us in this globalized world.
+Language and language use constitute a central ingredient of human psychology. Language is an essential tool that enables us to live the kind of life we do. Can you imagine a world in which machines are built, farms are cultivated, and goods and services are transported to our household without language? Is it possible for us to make laws and regulations, negotiate contracts, and enforce agreements and settle disputes without talking? Much of contemporary human civilization wouldn’t have been possible without the human ability to develop and use language. Like the Tower of Babel, language can divide humanity, and yet, the core of humanity includes the ability for language use. 
 
 ## Discussion Questions
 * In what sense is language use innate and learned?
 * Is language a tool for thought or a tool for communication?
 * What sorts of unintended consequences can language use bring to your psychological processes?
+
 ## Vocabulary
 ### Audience design
 Constructing utterances to suit the audience’s knowledge.
@@ -110,8 +190,8 @@ A tendency for people to characterize positive things about their ingroup using 
 Group to which a person does not belong.
 ### Priming
 A stimulus presented to a person reminds him or her about other ideas associated with the stimulus.
-### Sapir-Whorf hypothesis
-The hypothesis that the language that people use determines their thoughts.
+### Linguistic relativity
+The hypothesis that the language that people use influences the way they think.
 ### Situation model
 A mental representation of an event, object, or situation constructed at the time of comprehending a linguistic description.
 ### Social brain hypothesis
@@ -125,8 +205,6 @@ Rules by which words are strung together to form sentences.
 1. Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8
 2. Converse College, https://goo.gl/UhbMQH, CC BY-NC 2.0, https://goo.gl/VnKlK8
 3. aqua.mech, https://goo.gl/Q7Ap4b, CC BY 2.0, https://goo.gl/T4qgSp
-4. Drew Herron, https://goo.gl/lKMAv1, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF
-5. 
 
 ## References
 * Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, UK: Cambridge University Press.
@@ -155,6 +233,9 @@ Rules by which words are strung together to form sentences.
 * Semin, G., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons: Social cognition and language. Journal of Personality and Social Psychology, 54, 558–568.
 * Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
 
-Adapted from Kashima, Y. (2021). Language and language use. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/gq62cpam
+Adapted from: 
+* Kashima, Y. (2021). Language and language use. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/gq62cpam, [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* Rose M. Spielman, R.M., Jenkins, W.J., & Lovett, M.D. (2020). 7.2 Language. In OpenStax:Psychology 2e. https://openstax.org/books/psychology-2e/pages/7-2-language [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* Wikipedia entry on [Speech Perception](https://en.wikipedia.org/wiki/Speech_perception) retrieved 3/25/21, [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
