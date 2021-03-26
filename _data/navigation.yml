@@ -108,24 +108,16 @@ langnav:
   - title: Language
     url: https://umdoer.github.io/PSYC341OER/_pages/language.html
     children:
-      - title: Theories of Language
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/theoriesoflang.html
-      - title: Language Acquisition
+      - title: Speech perception and language use
+        url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+      - title: Biology and development of language
         url: https://umdoer.github.io/PSYC341OER/_pages/language/langacq.html
-      - title: Production
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/production.html
-      - title: Comprehension
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/comprehension.html
-      - title: Bilingualism
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/bilingualism.html
   - title: Resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#language
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#language
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: McGurk effect
+        url: https://www.youtube.com/embed/G-lN8vWm3m0
+      - title: Ismo (comedian) on linguistic ambiguity
+        url: https://www.youtube.com/embed/RAGcDi0DRtU
 
 decnav:
   - title: Home
@@ -137,12 +129,7 @@ decnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
   - title: Resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#decision-making
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#decision-making
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: TBA
         
 probnav:
   - title: Home
