@@ -235,10 +235,8 @@ Combinatorial "rules" of a language
 * Fussell, S. R., & Krauss, R. M. (1992). Coordination of knowledge in communication: Effects of speakers’ assumptions about what others know. Journal of Personality and Social Psychology, 62, 378–391.
 * Garnes, S., Bond, Z.S. (1976). The relationship between acoustic information and semantic expectation. Phonologica, 285–293.
 * Giles, H., Coupland, N., & Coupland, J. (1991) Accommodation theory: Communication, context, and consequence. In H. Giles, J. Coupland, & N. Coupland (Eds.), Contexts of accommodation: Developments in applied sociolinguistics (pp. 1–68). Cambridge, UK: Cambridge University Press.
-* Halberstadt, J. (2003). The paradox of emotion attribution: Explanation biases perceptual memory for emotional expressions. Current Directions in Psychological Science, 12, 197–201.
 * Hay, Jennifer; Drager, Katie (2010). Stuffed toys and speech perception. Linguistics. 48 (4): 865–892. 
 * Hillenbrand, J., Getty, L.A., Clark, M.J., Wheeler, K. (1995). Acoustic characteristics of American English vowels. Journal of the Acoustical Society of America. 97 (5 Pt 1): 3099–3111. 
-* Hoffman, C., Lau, I., & Johnson, D. R. (1986). The linguistic relativity of person cognition: An English-Chinese comparison. Journal of Personality and Social Psychology, 51, 1097–1105.
 * Holtgraves, T. M., & Kashima, Y. (2008). Language, meaning, and social cognition. Personality and Social Psychology Review, 12, 73–94.
 * Houston, Derek M.; Juscyk, Peter W. (October 2000). The role of talker-specific information in word segmentation by infants. Journal of Experimental Psychology: Human Perception and Performance. 26 (5): 1570–1582.
 * Iverson, P., Kuhl, P.K. (1995). Mapping the perceptual magnet effect for speech using signal detection theory and multidimensional scaling. Journal of the Acoustical Society of America. 97 (1): 553–562.
@@ -248,16 +246,15 @@ Combinatorial "rules" of a language
 * Kegl, J., Senghas, A., & Coppola, M. (1999). Creation through contact: Sign language emergence and sign language change in Nicaragua. In M. DeGraff (Ed.), Language creation and language change Creolization, diachrony, and development (pp. 179–237). Cambridge, MA: The MIT Press.
 * Klatt, D.H. (1976). Linguistic uses of segmental duration in English: Acoustic and perceptual evidence. Journal of the Acoustical Society of America. 59 (5): 1208–1221.
 * Liberman, A.M. (1957). Some results of research on speech perception. Journal of the Acoustical Society of America. 29 (1): 117–123
-* Lieberman, M., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. W. (2007). Putting feelings into words. Psychological Science, 18, 421–428.
 * Lisker, L., Abramson, A.S. (1970). The voicing dimension: Some experiments in comparative phonetics. Proc. 6th International Congress of Phonetic Sciences. Prague: Academia. pp. 563–567.
-* Lyubomirsky, S., Sousa, L., & Dickerhoof, R. (2006). The costs and benefits of writing, talking, and thinking about life’s triumphs and defeats. Journal of Personality and Social Psychology, 90, 692–708.
 * Maass, A., Salvi, D., Arcuri, L., & Semin, G. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57, 981–993.
 * Nygaard, L.C., Pisoni, D.B. (1995). "Speech Perception: New Directions in Research and Theory". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
-* Pennebaker, J. W., & Seagal, J. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243–1254.
 * Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and Brain Sciences, 27, 169–226.
+* Reicher, G. M. (1969). Perceptual recognition as a function of meaningfulness of stimulus material. J. Exp. Psychol. 81, 275–280.
 * Sapir, E. (1921). Language: An introduction to the study of speech. New York, NY: Harcourt Brace.
 * Semin, G., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons: Social cognition and language. Journal of Personality and Social Psychology, 54, 558–568.
 * Warren, R.M. (1970). Restoration of missing speech sounds. Science. 167 (3917): 392–393.
+* Wheeler, D. D. (1970). Processes in word recognition. Cogn. Psychol. 1, 59–85.
 * Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
 {: .small}
 
