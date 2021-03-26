@@ -7,6 +7,8 @@ sidebar:
 <cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
+NOTE: this is currently being edited/revsed (as of 3/26/21) -- please check back later.
+
 **Language** is a communication system that involves using words and systematic rules to organize those words to transmit information from one individual to another. While language is a form of communication, not all communication is language. Many species communicate with one another through their postures, movements, odors, or vocalizations. This communication is crucial for species that need to interact and develop social relationships with their conspecifics. However, many people have asserted that it is language that makes humans unique among all of the animal species (Corballis & Suddendorf, 2007; Tomasello & Rakoczy, 2003). This section will focus on what distinguishes language as a special form of communication, how the use of language develops, and how language affects the way we think.
 
 ## Learning Objectives
@@ -47,55 +49,43 @@ The process of perceiving speech begins at the level of the sound signal and the
 
 ### Acoustic cues
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/spectograms.png" alt="Spectrograms of syllables dee (top), dah (middle), and doo (bottom)">
-    <figcaption>Spectrograms of syllables "dee" (top), "dah" (middle), and "doo" (bottom) showing how the onset formant transitions that define perceptually the consonant [d] differ depending on the identity of the following vowel. (Formants are highlighted by red dotted lines; transitions are the bending beginnings of the formant trajectories.)</figcaption>
-</figure>
-
-ADD TO FIG CITE:
-* By I,, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2225868
-
-
 Acoustic cues are sensory cues contained in the speech sound signal which are used in speech perception to differentiate speech sounds belonging to different phonetic categories. For example, one of the most studied cues in speech is voice onset time or VOT. VOT is a primary cue signaling the difference between voiced and voiceless plosives, such as "b" and "p". Other cues differentiate sounds that are produced at different places of articulation or manners of articulation. The speech system must also combine these cues to determine the category of a specific speech sound. This is often thought of in terms of abstract representations of phonemes. These representations can then be combined for use in word recognition and other language processes.
 
-It is not easy to identify what acoustic cues listeners are sensitive to when perceiving a particular speech sound:
+<figure>
+    <img src="https://UMDOER.github.io/PSYC341OER/images/spectograms.png" alt="Spectrograms of syllables dee (top), dah (middle), and doo (bottom)">
+    <figcaption>Spectrograms of syllables "dee" (top), "dah" (middle), and "doo" (bottom) showing how the onset formant transitions that define perceptually the consonant [d] differ depending on the identity of the following vowel. (Formants are highlighted by red dotted lines; transitions are the bending beginnings of the formant trajectories.) [2]</figcaption>
+</figure>
 
-<blockquote>At first glance, the solution to the problem of how we perceive speech seems deceptively simple. If one could identify stretches of the acoustic waveform that correspond to units of perception, then the path from sound to meaning would be clear. However, this correspondence or mapping has proven extremely difficult to find, even after some forty-five years of research on the problem. (Nygaard & Pisoni, 1995) </blockquote>
+It is not easy to identify what acoustic cues listeners are sensitive to when perceiving a particular speech sound. As Nygaard and Pisoni (1995) put it:
 
-Nygaard, L.C., Pisoni, D.B. (1995). "Speech Perception: New Directions in Research and Theory". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
+<blockquote>At first glance, the solution to the problem of how we perceive speech seems deceptively simple. If one could identify stretches of the acoustic waveform that correspond to units of perception, then the path from sound to meaning would be clear. However, this correspondence or mapping has proven extremely difficult to find, even after some forty-five years of research on the problem.</blockquote>
 
 If a specific aspect of the acoustic waveform indicated one linguistic unit, a series of tests using speech synthesizers would be sufficient to determine such a cue or cues. However, there are two significant obstacles:
 
-One acoustic aspect of the speech signal may cue different linguistically relevant dimensions. For example, the duration of a vowel in English can indicate whether or not the vowel is stressed, or whether it is in a syllable closed by a voiced or a voiceless consonant, and in some cases (like American English /ɛ/ and /æ/) it can distinguish the identity of vowels.[2] Some experts even argue that duration can help in distinguishing of what is traditionally called short and long vowels in English.[3]
-One linguistic unit can be cued by several acoustic properties. For example, in a classic experiment, Alvin Liberman (1957) showed that the onset formant transitions of /d/ differ depending on the following vowel (see Figure 1) but they are all interpreted as the phoneme /d/ by listeners.[4]
+1. A particular acoustic aspect of the speech signal may cue different linguistically relevant dimensions. For example, the duration of a vowel in English can indicate whether or not the vowel is stressed, or whether it is in a syllable closed by (~ending with) a voiced or a voiceless consonant, and in some cases (like American English /ɛ/ and /æ/) it can distinguish the identity of vowels (Klatt, 1976). 
+2. A particular linguistic unit can be cued by several acoustic properties. For example, the figure above shows how the onset formant transitions of /d/ differ depending on the following vowel but they are all interpreted as the phoneme /d/ by listeners (Liberman, 1957).
 
 ### Linearity and the segmentation problem 
+Although listeners perceive speech as a stream of discrete units (phonemes, syllables, and words), this linearity is difficult to see in the physical speech signal (see Figure below for an example). Speech sounds do not strictly follow one another, rather, they overlap (Fowler, 1995). That is, a speech sound is influenced by the ones that precede and the ones that follow. This influence can even be exerted at a distance of two or more segments (and across syllable- and word-boundaries). 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Spectrogram_of_I_owe_you.png" alt=A spectrogram of the phrase 'I owe you.'>
-    <figcaption>Figure 2: A spectrogram of the phrase *I owe you*. There are no clearly distinguishable boundaries between speech sounds.</figcaption>
+    <figcaption>Figure 2: A spectrogram of the phrase *I owe you*. There are no clearly distinguishable boundaries between speech sounds. [3]</figcaption>
 </figure>
 
-FIG CITE:
-By Jonas.kluk - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2118459
-
-Although listeners perceive speech as a stream of discrete units (phonemes, syllables, and words), this linearity is difficult to see in the physical speech signal (see Figure at right for an example). Speech sounds do not strictly follow one another, rather, they overlap (Fowler, 1995). That is, a speech sound is influenced by the ones that precede and the ones that follow. This influence can even be exerted at a distance of two or more segments (and across syllable- and word-boundaries). 
-
-Fowler, C.A. (1995). "Speech production". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
-
-Because the speech signal is not linear, there is a problem of segmentation. It is difficult to delimit a stretch of speech signal as belonging to a single perceptual unit. As an example, the acoustic properties of the phoneme /d/ will depend on the production of the following vowel (because of coarticulation).
+Because the speech signal is not linear, this leads to the **segmentation problem**. It is difficult to delimit a stretch of speech signal as belonging to a single perceptual unit. Instead, the acoustic properties of phonemes blend together and depend on the context (because of coarticulation, discussed above).
 
 ### Lack of invariance
-The research and application of speech perception must deal with several problems which result from what has been termed the lack of invariance. Reliable constant relations between a phoneme of a language and its acoustic manifestation in speech are difficult to find. There are several reasons for this:
+Coarticulation is an example of a larger set of difficulties you face when perceving speech, which are often termed the **lack of invariance** problem. In general, this refers to the problem that reliable constant relations between a phoneme and its acoustic manifestation are difficult to find. There are several reasons for this:
 
 #### Context-induced variation
 Phonetic environment affects the acoustic properties of speech sounds. For example, /u/ in English is fronted when surrounded by coronal consonants.[6] Or, the voice onset time marking the boundary between voiced and voiceless plosives are different for labial, alveolar and velar plosives and they shift under stress or depending on the position within a syllable.[7]
 
 #### Variation due to differing speech conditions
-One important factor that causes variation is differing speech rate. Many phonemic contrasts are constituted by temporal characteristics (short vs. long vowels or consonants, affricates vs. fricatives, plosives vs. glides, voiced vs. voiceless plosives, etc.) and they are certainly affected by changes in speaking tempo.[1] Another major source of variation is articulatory carefulness vs. sloppiness which is typical for connected speech (articulatory "undershoot" is obviously reflected in the acoustic properties of the sounds produced).
+One important factor that causes variation is differing *speech rate*. Many phonemic contrasts are constituted by temporal characteristics (short vs. long vowels or consonants, affricates vs. fricatives, plosives vs. glides, voiced vs. voiceless plosives, etc.) and they are certainly affected by changes in speaking tempo.[1] Another major source of variation is *articulatory carefulness vs. sloppiness* which is typical for connected speech (articulatory "undershoot" is obviously reflected in the acoustic properties of the sounds produced).
 
 #### Variation due to different speaker identity
-The resulting acoustic structure of concrete speech productions depends on the physical and psychological properties of individual speakers. Men, women, and children generally produce voices having different pitch. Because speakers have vocal tracts of different sizes (due to sex and age especially) the resonant frequencies (formants), which are important for recognition of speech sounds, will vary in their absolute values across individuals[8] (see Figure 3 for an illustration of this). Research shows that infants at the age of 7.5 months cannot recognize information presented by speakers of different genders; however by the age of 10.5 months, they can detect the similarities.[9] Dialect and foreign accent can also cause variation, as can the social characteristics of the speaker and listener.[10]
+The resulting acoustic structure of concrete speech productions depends on the physical and psychological properties of *individual speakers*. For example, men, women, and children generally produce voices having different pitch. Because speakers have vocal tracts of different sizes (due to sex and age especially) the resonant frequencies (formants), which are important for recognition of speech sounds, will vary in their absolute values across individuals (Hillenbrand et al., 1995). Research shows that infants at the age of 7.5 months cannot recognize information presented by speakers of different genders; however by the age of 10.5 months, they can detect the similarities (Houston et al., 2000). *Dialect* and *foreign accent* can also cause variation, as can the *social characteristics* of the speaker and listener (Hay & Drager, 2010).
 
 ### Categorical perception
 
@@ -162,7 +152,7 @@ Dunbar’s hypothesis is controversial. Nonetheless, whether or not he is right,
 
 In addition, when people exchange their gossip, it can spread through broader **social networks**. If gossip is transmitted from one person to another, the second person can transmit it to a third person, who then in turn transmits it to a fourth, and so on through a chain of communication. This often happens for emotive stories (Box 2). If gossip is repeatedly transmitted and spread, it can reach a large number of people. When stories travel through communication chains, they tend to become conventionalized (Bartlett, 1932). A Native American tale of the “War of the Ghosts” recounts a warrior’s encounter with ghosts traveling in canoes and his involvement with their ghostly battle. He is shot by an arrow but doesn’t die, returning home to tell the tale. After his narration, however, he becomes still, a black thing comes out of his mouth, and he eventually dies. When it was told to a student in England in the 1920s and retold from memory to another person, who, in turn, retold it to another and so on in a communication chain, the mythic tale became a story of a young warrior going to a battlefield, in which canoes became boats, and the black thing that came out of his mouth became simply his spirit (Bartlett, 1932). In other words, information transmitted multiple times was transformed to something that was easily understood by many, that is, information was assimilated into the common ground shared by most people in the linguistic community. More recently, Kashima (2000) conducted a similar experiment using a story that contained a sequence of events that described a young couple’s interaction that included both stereotypical and counter-stereotypical actions (e.g., a man watching sports on TV on Sunday vs. a man vacuuming the house). After the retelling of this story, much of the counter-stereotypical information was dropped, and stereotypical information was more likely to be retained. Because stereotypes are part of the common ground shared by the community, this finding too suggests that conversational retellings are likely to reproduce conventional content.
 
-## Language and Thought
+##Language and Thought
 What are the psychological consequences of language use? When people use language to describe an experience, their thoughts and feelings can be shaped by the linguistic representation that they have produced rather than the original experience per se (Holtgraves & Kashima, 2008). When we speak a language, we use words as representations of ideas, people, places, and events. The given language that children learn is, of course, connected to their culture and surroundings. But can words themselves shape the way we think about things? Psychologists have long investigated whether language can shape thoughts and actions; a notion called the *Sapir-Whorf hypothesis* or **linguistic relativity** (Sapir, 1921; Whorf, 1956; Box 3). Early verisons of this hypothesis were quite strong, suggesting, for example, that a person whose community language did not have past-tense verbs would be challenged to think about the past (Whorf, 1956). This strong *linguistic determinism* view has largely been unsupported, however more recent research has debated (sometimes vigerously) more subtle views. 
 
 For instance, some linguistic practices, such as *pronoun drop*, seem to be associated even with cultural values and social institution. Pronouns such as “I” and “you” are used to represent the speaker and listener of a speech in English. In an English sentence, these pronouns cannot be dropped if they are used as the subject of a sentence. So, for instance, “I went to the movie last night” is fine, but “Went to the movie last night” is not in standard English. However, in other languages such as Spanish or Japanese, pronouns can be (and in fact often are) dropped from sentences. It turned out that people living in those countries where pronoun drop languages are spoken tend to have more collectivistic values (e.g., employees having greater loyalty toward their employers) than those who use non–pronoun drop languages such as English (Kashima & Kashima, 1998). It could be that the explicit reference to “you” and “I” may remind speakers the distinction between the self and other, and the differentiation between individuals. Such a linguistic practice may act as a constant reminder of the cultural value, which, in turn, may encourage people to perform the linguistic practice.
@@ -203,6 +193,9 @@ Rules by which words are strung together to form sentences.
 
 ## Image credits
 1. Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8
+2. By I,, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2225868
+3. By Jonas.kluk - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2118459
+
 2. Converse College, https://goo.gl/UhbMQH, CC BY-NC 2.0, https://goo.gl/VnKlK8
 3. aqua.mech, https://goo.gl/Q7Ap4b, CC BY 2.0, https://goo.gl/T4qgSp
 
@@ -227,6 +220,7 @@ Rules by which words are strung together to form sentences.
 * Lieberman, M., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. W. (2007). Putting feelings into words. Psychological Science, 18, 421–428.
 * Lyubomirsky, S., Sousa, L., & Dickerhoof, R. (2006). The costs and benefits of writing, talking, and thinking about life’s triumphs and defeats. Journal of Personality and Social Psychology, 90, 692–708.
 * Maass, A., Salvi, D., Arcuri, L., & Semin, G. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57, 981–993.
+* Nygaard, L.C., Pisoni, D.B. (1995). "Speech Perception: New Directions in Research and Theory". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
 * Pennebaker, J. W., & Seagal, J. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243–1254.
 * Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and Brain Sciences, 27, 169–226.
 * Sapir, E. (1921). Language: An introduction to the study of speech. New York, NY: Harcourt Brace.
