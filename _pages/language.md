@@ -3,11 +3,9 @@ layout: single
 sidebar:
   nav: "langnav"
 ---
-# Language, part 1
+# Speech perception and language use
 <cite>Adapted from multiple sources (see below)</cite>
 {: .small}
-
-NOTE: currently being edited/revised -- please check back later.
 
 Human language is arguably the most complex behavior on the planet. Language involves both the ability to comprehend spoken and written words and to create communication in real time when we speak or write. Most languages are oral, generated through speaking. Speaking involves a variety of complex cognitive, social, and biological processes including operation of the vocal cords, and the coordination of breath with movements of the throat and mouth, and tongue. Other languages are sign languages, in which the communication is expressed by movements of the hands. The most common sign language is American Sign Language (ASL), currently spoken by more than 500,000 people in the United States alone.
 
@@ -269,4 +267,4 @@ Adapted from:
 * Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/). In Introduction to Psychology - 1st Canadian Edition [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Wikipedia entry on [Speech Perception](https://en.wikipedia.org/wiki/Speech_perception) retrieved 3/25/21, [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Slevc, L.R. (2021). Speech perception and language use. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
