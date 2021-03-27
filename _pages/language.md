@@ -113,7 +113,7 @@ It may be the case that it is not necessary and maybe even not possible for a li
 ## How Do We Use Language?
 Language use is ubiquitous, but how do we actually use it? To be sure, some of us use it to write diaries and poetry, but the primary form of language use is interpersonal. That’s how we learn language, and that’s how we use it. Imagine two men of 30-something age, Adam and Ben, walking down the corridor. Judging from their clothing, they are young businessmen, taking a break from work. They then have this exchange.
 
-<blockquote>Adam: “You know, Gary bought a ring.”
+<blockquote>Adam: “You know, Gary bought a ring.” <br>
 Ben: "Oh yeah? For Mary, isn't it?" (Adam nods.)
 </blockquote>
 
