@@ -7,7 +7,7 @@ docs:
       - title: Sensation and Perception
         url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Attention and Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
       - title: Memory and Learning
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
       - title: Language
@@ -52,9 +52,9 @@ senpernav:
       - title: Reality is constructed by your brain
         url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
       - title: 60 Minutes segment on Prosopagnosia
-        url: https://www.youtube.com/watch?v=dxqsBk7Wn-Y
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/prosopag_vid.html
       - title: Segment on Capgras Delusion
-        url: https://www.youtube.com/watch?v=dqBGzkz1oDU
+        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/capgras_vid.html
 
 attconnav:
   - title: Home
@@ -67,7 +67,7 @@ attconnav:
   - title: Other resources
     children:
       - title: Video on Neglect
-        url: https://www.youtube.com/watch?v=ymKvS0XsM4w
+        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/neglectvid.html
 
 memorynav:
   - title: Home
@@ -89,18 +89,18 @@ memorynav:
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
   - title: Other resources
     children:
-      - title: Twisted (interesting documentary video on false memories)
-        url: https://youtu.be/lSWD9aWLuXw
+      - title: Twisted (doc on false memories)
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_twisted.html
       - title: Elizabeth Loftus TED talk
-        url: https://www.youtube.com/embed/PB2OegI6wvI
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_loftus.html
       - title: What happens when you remove the hippocampus? 
-        url: https://www.youtube.com/embed/KkaXNvzE4pk
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_hm.html
       - title: The Man with the Seven Second Memory
-        url: https://www.youtube.com/embed/k_P7Y0-wgos
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_wearing.html
       - title: Learning styles - A complete myth
-        url: https://www.youtube.com/embed/o_SQrRa73U0
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_styles.html
       - title: Listening to music while writing
-        url: https://www.youtube.com/embed/cIPuTMJM_OI
+        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_music.html
 
 langnav:
   - title: Home
