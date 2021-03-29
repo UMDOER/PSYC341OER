@@ -1,7 +1,7 @@
 ---
 layout: single
-<!-- sidebar:
-  nav: "attconnav" -->
+sidebar:
+  nav: "attconnav"
 ---
 
 # Attention Processes 
