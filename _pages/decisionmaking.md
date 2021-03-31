@@ -3,8 +3,10 @@ layout: single
 sidebar:
   nav: "decnav"
 ---
-
 # Decision Making
+<cite>Adapted from Bazerman, M. H. (2021). Judgment and decision making. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/9xjyvc3a
+</cite>
+{: .small}
 
 Humans are not perfect decision makers. Not only are we not perfect, but we depart from perfection or rationality in systematic and predictable ways. The understanding of these systematic and predictable departures is core to the field of judgment and decision making. By understanding these limitations, we can also identify strategies for making better and more effective decisions.
 
@@ -125,7 +127,6 @@ Similarly, Johnson and Goldstein’s (2003) cross-European organ donation study 
 ## Concluding Thoughts
 Our days are filled with decisions ranging from the small (what should I wear today?) to the important (should we get married?). Many have real world consequences on our health, finances and relationships. Simon, Kahneman, and Tversky created a field that highlights the surprising and predictable deficiencies of the human mind when making decisions. As we understand more about our own biases and thinking shortcomings we can begin to take them into account or to avoid them. Only now have we reached the frontier of using this knowledge to help people make better decisions.
 
-
 ## Vocabulary
 ### Anchoring
 The bias to be affected by an initial anchor, even if the anchor is arbitrary, and to insufficiently adjust our judgments away from that anchor.
@@ -151,6 +152,7 @@ The bias to have greater confidence in your judgment than is warranted based on 
 Our intuitive decision-making system, which is typically fast, automatic, effortless, implicit, and emotional.
 ### System 2
 Our more deliberative decision-making system, which is slower, conscious, effortful, explicit, and logical.
+
 ## References
 * Alpert, M., & Raiffa, H. (1969). A progress report on the training of probability assessors. Unpublished Report.
 * Banaji, M. R., & Bhaskar, R. (2000). Implicit stereotypes and memory: The bounded rationality of social beliefs. In D. L. Schacter & E. Scarry (Eds.), Memory, brain, and belief (pp. 139–175). Cambridge, MA: Harvard University Press.
@@ -172,3 +174,8 @@ Our more deliberative decision-making system, which is slower, conscious, effort
 * Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, New Series, 211(4481), 453–458.
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, New Series, 185(4157), 1124–1131.
 * Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232.
+{: .small}
+
+Adapted from Bazerman, M. H. (2021). Judgment and decision making. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/9xjyvc3a
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
