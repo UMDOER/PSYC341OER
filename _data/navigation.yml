@@ -110,8 +110,8 @@ langnav:
     children:
       - title: Speech perception and language use
         url: https://umdoer.github.io/PSYC341OER/_pages/language.html
-      - title: Biology and development of language
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/langacq.html
+      - title: Language and brain
+        url: https://umdoer.github.io/PSYC341OER/_pages/language/langbrain.html
   - title: Resources
     children:
       - title: McGurk effect
