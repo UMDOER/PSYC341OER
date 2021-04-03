@@ -7,11 +7,6 @@ sidebar:
 <cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
-**in progress - probably best to check back later**
-
-## Learning Objectives
-* learn things
-
 ## Introduction
 
 For the 90% of people who are right-handed, language processing relies predominately on the left cerebral cortex, although for some left-handers this pattern is reversed. These differences can easily be seen in the results of neuroimaging studies that show that listening to and producing language creates greater activity in the left hemisphere than in the right. Left frontal regions, including Broca’s area, are involved in language production and syntactic processing. This area was first localized in the 1860s by the French physician Paul Broca, who studied patients with lesions to various parts of the brain. Temporal regions including Wernicke’s area, an area of the brain next to the auditory cortex, is implicated in language comprehension.
@@ -24,7 +19,7 @@ Evidence for the importance of Broca’s and Wernicke’s areas in language is s
 Video credit: [National Aphasia Association](https://www.aphasia.org/aphasia-definitions/)
 {: .small}
 
-Aphasia is an inability to comprehend or formulate language because of damage to specific brain regions. The major causes are a cerebral vascular accident (stroke) or head trauma. Aphasia can also be the result of brain tumors, brain infections, or neurodegenerative diseases, but the latter are far less prevalent (American Speech-Language-Hearing Association). 
+**Aphasia** is an inability to comprehend or formulate language because of damage to specific brain regions. The major causes are a cerebral vascular accident (stroke) or head trauma. Aphasia can also be the result of brain tumors, brain infections, or neurodegenerative diseases, but the latter are far less prevalent (American Speech-Language-Hearing Association). 
 
 To be diagnosed with aphasia, a person's speech or language must be significantly impaired in one (or more) of four aspects of communication following acquired brain injury. Alternately, in the case of progressive aphasia, it must have significantly declined over a short period of time. The four aspects of communication are auditory comprehension, verbal expression, reading and writing, and functional communication.
 
@@ -35,7 +30,7 @@ Aphasia is not caused by damage to the brain that results in motor or sensory de
 Aphasia affects about 2 million people in the US and nearly 180,000 people acquire the disorder every year in the US alone (National Aphasia Association). Any person of any age can develop aphasia, given that it is often caused by a traumatic injury. However, people who are middle aged and older are the most likely to acquire aphasia, as the other etiologies are more likely at older ages; for example, strokes, which account for most documented cases of aphasia: about a quarter of people who survive a stroke develop aphasia (Berthier, 2005).
 
 ### Subtypes of Aphasia
-Aphasia is best thought of as a collection of different disorders, rather than a single problem. Each individual with aphasia will present with their own particular combination of language strengths and weaknesses. Consequently, it is a challenge to document the various difficulties that can occur in different people, let alone decide how they might best be treated. Most classifications of the aphasias tend to divide the various symptoms into broad classes. A common approach is to distinguish between the *fluent aphasias* (where speech remains fluent, but content may be lacking, and the person may have difficulties understanding others), and the *nonfluent aphasias* (where speech is very halting and effortful, and may consist of just one or two words at a time).
+Aphasia is best thought of as a collection of different disorders, rather than a single problem. Each individual with aphasia will present with their own particular combination of language strengths and weaknesses. Consequently, it is a challenge to document the various difficulties that can occur in different people, let alone decide how they might best be treated. Most classifications of the aphasias tend to divide the various symptoms into broad classes. A common approach is to distinguish between the **fluent aphasias** (where speech remains fluent, but content may be lacking, and the person may have difficulties understanding others), and the **nonfluent aphasias** (where speech is very halting and effortful, and may consist of just one or two words at a time).
 
 However, no such broad-based grouping has proven fully adequate. There is wide variation among people even within the same broad grouping, and aphasias can be highly selective. For instance, people with naming deficits (anomic aphasia) might show an inability only for naming words from certain categories. 
 
@@ -54,7 +49,7 @@ Localizationist approaches aim to classify the aphasias according to their major
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BrocasAreaSmall.png/800px-BrocasAreaSmall.png" alt="Schematic of the location of Broca's and Wernicke's areas.">
-    <figcaption> Schematic of the location of Broca's and Wernicke's areas. Figure from [NIH publication 97-4257](https://www.nidcd.nih.gov/health/aphasia).</figcaption>
+    <figcaption> Schematic of the location of Broca's and Wernicke's areas[1].</figcaption>
 </figure>
 
 Broca's, or expressive aphasia is typically associated with damage to the anterior portion of the left hemisphere, including Broca's area. Individuals with Broca's aphasia often have right-sided weakness or paralysis of the arm and leg, because the left frontal lobe is also important for body movement, particularly on the right side.
@@ -67,21 +62,25 @@ In addition, while much has been learned from how language deficits can result f
 
 ## Neuroimaging of Language
 
-### where? (fMRI)
+### Where? (fMRI)
 
-The localization of language functions can also be investigated with functional magnetic resonance imaging or functional MRI (fMRI). fMRI measures brain activity by detecting changes associated with blood flow (Huettel et al., 2009). This technique relies on the fact that cerebral blood flow and neuronal activation are coupled. When an area of the brain is in use, blood flow to that region also increases (Logothetis et al., 2001). 
+The localization of language functions can also be investigated with **functional magnetic resonance imaging** or **functional MRI (fMRI)**. fMRI measures brain activity by detecting changes associated with blood flow (Huettel et al., 2009). This technique relies on the fact that cerebral blood flow and neuronal activation are coupled. When an area of the brain is in use, blood flow to that region also increases (Logothetis et al., 2001). 
 
-Many fMRI studies of language rely on the *subtraction paradigm*, which assumes that specific cognitive processes can be added selectively in different conditions. Any difference in blood flow between these two conditions can then be assumed to reflect the differing cognitive process. For example, if one wanted to study word processing, one might subtract the measured response from a control condition such as *nonword* processing from the critical condition of word processing; the difference could then be assumed to reflect activity related to processing of words over and above any processing related to visual stimulation, letter recognition, etc. Note, however, that the subtraction paradigm assumes that a cognitive process can be selectively added to a set of active cognitive processes without affecting them. So, following from the previous example, it assumes that, say, letter processing is not affected by word processing (which could be problematic given various top-down influences on language processing). 
+Many fMRI studies of language rely on the **subtraction paradigm**, which assumes that specific cognitive processes can be added selectively in different conditions. Any difference in blood flow between these two conditions can then be assumed to reflect the differing cognitive process. For example, if one wanted to study word processing, one might subtract the measured response from a control condition such as *nonword* processing from the critical condition of word processing; the difference could then be assumed to reflect activity related to processing of words over and above any processing related to visual stimulation, letter recognition, etc. Note, however, that the subtraction paradigm assumes that a cognitive process can be selectively added to a set of active cognitive processes without affecting them. So, following from the previous example, it assumes that, say, letter processing is not affected by word processing (which could be problematic given various top-down influences on language processing). 
 
-### when? (EEG and ERPs)
+### When? (EEG and ERPs)
 
-Given how quickly language unfolds over time, considerable neuroscientific work on language processing has relied on electroencephalography (EEG), which allows researchers to measure electrical brain activity in real time while participants perform language tasks. This allows for further evidence for models of language that describe the timeline of cognitive processing from sensory perception to meaning interpretation and response production. Much of this work has relied on an approach known as **event related potentials (ERP)**. An event-related potential is the measured brain response that is the direct result of a specific sensory, cognitive, or motor event (Luck, 2005). More formally, it is any stereotyped electrophysiological response to a stimulus. The study of the brain in this way provides a noninvasive means of evaluating brain functioning.
+Given how quickly language unfolds over time, considerable neuroscientific work on language processing has relied on *electroencephalography (EEG)*, which allows researchers to measure electrical brain activity in real time while participants perform language tasks. This allows for further evidence for models of language that describe the timeline of cognitive processing from sensory perception to meaning interpretation and response production. Much of this work has relied on an approach known as **event related potentials (ERP)**. An event-related potential is the measured brain response that is the direct result of a specific sensory, cognitive, or motor event (Luck, 2005). More formally, it is any stereotyped electrophysiological response to a stimulus. The study of the brain in this way provides a noninvasive means of evaluating brain functioning.
 
 Typically within ERP analysis, the electrical activity of the brain in response to a stimulus is evaluated on a millisecond or smaller scale which allows for sub-conscious mechanisms such as the processing of language to be tracked in order to identify specific components (electrical inflections that are thought to be related to specific cognitive activities) that represent different stages of language processing. ERP components are usually labeled as acronyms with a letter indicating a positive or negative deflection and a number representing the time elapsed (ms) from the presentation of a stimulus differences between conditions tend to occur. One commonly studied ERP components related to language processing is the N400 (a negative-going deflection that peaks around 400 ms after stimulus onset), which has been found to appear when words are presented that are incongruent with what is expected to be presented in the context of a sentence (Kutas & Hillyard, 1980). Another often-studied component is the P600 (a positive-going deflection peaking around 600 ms after stimulus onset), which has been suggested to reflect violations of syntactic expectations (Osterhout & Holcomb, 1992).
   
 ## Conclusion
 
 Although our understanding of the neural organization of language is still incomplete, it has been significantly informed by evidence from acquired language deficits (especially Aphasia) and from neuroimaging work. These findings implicate largely (but not exclusively) left lateralized functions and also suggest multiple distinct underlying processes (e.g., for semantic and syntactic processing). 
+
+## Figures
+1. Figure from [NIH publication 97-4257](https://www.nidcd.nih.gov/health/aphasia).
+{: .small}
 
 ## References
 * American Speech-Language-Hearing Association (ASHA):- Aphasia. asha.org.
