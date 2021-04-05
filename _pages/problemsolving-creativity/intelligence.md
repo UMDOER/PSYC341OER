@@ -3,8 +3,8 @@ layout: single
 sidebar:
   nav: "probnav"
 ---
-
-By Robert Biswas-Diener, Portland State University
+<cite>Adapted from Biswas-Diener, R. (2021). Intelligence. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series. http://noba.to/ncb2h79v </cite>
+{: .small}
 
 # Intelligence
 
@@ -19,9 +19,9 @@ Intelligence is among the oldest and longest studied topics in all of psychology
 ## Introduction
 Every year hundreds of grade school students converge on Washington, D.C., for the annual Scripps National Spelling Bee. The “bee” is an elite event in which children as young as 8 square off to spell words like “cymotrichous” and “appoggiatura.” Most people who watch the bee think of these kids as being “smart” and you likely agree with this description.
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/intel1.jpg" style="width:75%">
-    <figcaption> A participant in the Scripps National Spelling Bee. [Image: Scripps National Spelling Bee, https://goo.gl/94Hgbm, CC BY-NC 2.0, https://goo.gl/VnKlK8]</figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/intel1.jpg">
+    <figcaption> A participant in the Scripps National Spelling Bee. [1]</figcaption>
 </figure>
 
 What makes a person intelligent? Is it heredity (two of the 2014 contestants in the bee have siblings who have previously won)(National Spelling Bee, 2014a)? Is it interest (the most frequently listed favorite subject among spelling bee competitors is math)(NSB, 2014b)? In this module we will cover these and other fascinating aspects of intelligence. By the end of the module you should be able to define intelligence and discuss some common strategies for measuring intelligence. In addition, we will tackle the politically thorny issue of whether there are differences in intelligence between groups such as men and women.
@@ -35,9 +35,9 @@ The question of what constitutes human intelligence is one of the oldest inquiri
 
 A contemporary of Spearman’s named Francis Galton—himself a cousin of Charles Darwin-- was among those who pioneered psychological measurement (Hunt, 2009). For three pence Galton would measure various physical characteristics such as grip strength but also some psychological attributes such as the ability to judge distance or discriminate between colors. This is an example of one of the earliest systematic measures of individual ability. Galton was particularly interested in intelligence, which he thought was heritable in much the same way that height and eye color are. He conceived of several rudimentary methods for assessing whether his hypothesis was true. For example, he carefully tracked the family tree of the top-scoring Cambridge students over the previous 40 years. Although he found specific families disproportionately produced top scholars, intellectual achievement could still be the product of economic status, family culture or other non-genetic factors. Galton was also, possibly, the first to popularize the idea that the heritability of psychological traits could be studied by looking at identical and fraternal twins. Although his methods were crude by modern standards, Galton established intelligence as a variable that could be measured (Hunt, 2009).
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/intel2.jpg" style="width:75%">
-    <figcaption> Intelligence research pioneer Alfred Binet</figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/intel2.jpg">
+    <figcaption> Intelligence research pioneer Alfred Binet [2]</figcaption>
 </figure>
 
 The person best known for formally pioneering the measurement of intellectual ability is Alfred Binet. Like Galton, Binet was fascinated by individual differences in intelligence. For instance, he blindfolded chess players and saw that some of them had the ability to continue playing using only their memory to keep the many positions of the pieces in mind (Binet, 1894). Binet was particularly interested in the development of intelligence, a fascination that led him to observe children carefully in the classroom setting.
@@ -45,7 +45,7 @@ The person best known for formally pioneering the measurement of intellectual ab
 Along with his colleague Theodore Simon, Binet created a test of children’s intellectual capacity. They created individual test items that should be answerable by children of given ages. For instance, a child who is three should be able to point to her mouth and eyes, a child who is nine should be able to name the months of the year in order, and a twelve year old ought to be able to name sixty words in three minutes. Their assessment became the first “IQ test.”
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/intel3.jpg" style="width:75%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/intel3.jpg">
     <figcaption>Table 1: Examples of the types of items you might see on an intelligence test.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Along with his colleague Theodore Simon, Binet created a test of children’s in
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/intel4.gif" style="width:75%">
-    <figcaption>Figure 1: Bell Curve - Normal Distribution IQ</figcaption>
+    <figcaption>Figure: Bell Curve - Normal Distribution IQ</figcaption>
 </figure>
 
 Looking at another modern intelligence test—the Wechsler Adult Intelligence Scale (WAIS)—can provide clues to a definition of intelligence itself. Motivated by several criticisms of the Stanford-Binet test, psychologist David Wechsler sought to create a superior measure of intelligence. He was critical of the way that the Stanford-Binet relied so heavily on verbal ability and was also suspicious of using a single score to capture all of intelligence. To address these issues Wechsler created a test that tapped a wide range of intellectual abilities. This understanding of intelligence—that it is made up of a pool of specific abilities—is a notable departure from Spearman’s concept of general intelligence. The WAIS assesses people's ability to remember, compute, understand language, reason well, and process information quickly (Wechsler, 1955).
@@ -83,9 +83,9 @@ The research on mindset is interesting but there can also be a temptation to int
 
 Carol Dweck’s research on the mindset of children also brings one of the most interesting and controversial issues surrounding intelligence research to the fore: group differences. From the very beginning of the study of intelligence researchers have wondered about differences between groups of people such as men and women. With regards to potential differences between the sexes some people have noticed that women are under-represented in certain fields. In 1976, for example, women comprised just 1% of all faculty members in engineering (Ceci, Williams & Barnett, 2009).
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/intel6.jpg" style="width:75%">
-    <figcaption>Women account for a disproportionately small percentage of those employed in math-intensive career fields such as engineering. [Photo: Argonne National Laboratory, https://goo.gl/ix96YP, CC BY-NC-SA 2.0, https://goo.gl/Toc0ZF]</figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/intel6.jpg">
+    <figcaption>Women account for a disproportionately small percentage of those employed in math-intensive career fields such as engineering. [3]</figcaption>
 </figure>
 
 Even today women make up between 3% and 15% of all faculty in math-intensive fields at the 50 top universities. This phenomenon could be explained in many ways: it might be the result of inequalities in the educational system, it might be due to differences in socialization wherein young girls are encouraged to develop other interests, it might be the result of that women are—on average—responsible for a larger portion of childcare obligations and therefore make different types of professional decisions, or it might be due to innate differences between these groups, to name just a few possibilities. The possibility of innate differences is the most controversial because many people see it as either the product of or the foundation for sexism. In today’s political landscape it is easy to see that asking certain questions such as “are men smarter than women?” would be inflammatory. In a comprehensive review of research on intellectual abilities and sex Ceci and colleagues (2009) argue against the hypothesis that biological and genetic differences account for much of the sex differences in intellectual ability. Instead, they believe that a complex web of influences ranging from societal expectations to test taking strategies to individual interests account for many of the sex differences found in math and similar intellectual abilities.
@@ -101,10 +101,11 @@ Although you might not be able to spell “esquamulose” or “staphylococci”
 
 ## Discussion Questions
 * Do you think that people get smarter as they get older? In what ways might people gain or lose intellectual abilities as they age?
-When you meet someone who strikes you as being smart what types of cues or information do you typically attend to in order to arrive at this judgment?
+* When you meet someone who strikes you as being smart what types of cues or information do you typically attend to in order to arrive at this judgment?
 * How do you think socio-economic status affects an individual taking an intellectual abilities test?
 * Should psychologists be asking about group differences in intellectual ability? What do you think?
 * Which of Howard Gardner’s 8 types of intelligence do you think describes the way you learn best?
+
 ## Vocabulary
 ### G
 Short for “general factor” and is often used to be synonymous with intelligence itself.
@@ -118,6 +119,12 @@ Assessments are given to a representative sample of a population to determine th
 Assessments that are given in the exact same manner to all people . With regards to intelligence tests standardized scores are individual scores that are computed to be referenced against normative scores for a population (see “norm”).
 ### Stereotype threat
 The phenomenon in which people are concerned that they will conform to a stereotype or that their performance does conform to that stereotype, especially in instances in which the stereotype is brought to their conscious awareness.
+
+## Image credits
+1. Scripps National Spelling Bee, https://goo.gl/94Hgbm, [CC BY-NC 2.0](https://goo.gl/VnKlK8)
+2. Public Domain, http://resource.nlm.nih.gov/101413160
+3. Argonne National Laboratory, https://goo.gl/ix96YP, [CC BY-NC-SA 2.0](https://goo.gl/Toc0ZF)
+
 ## References
 * Bar-On, R. (2006). The Bar-On model of emotional-social intelligence (ESI). Psicometha, 18(Suppl.), 13–25.
 * Binet, A. (1894). Psychologie des grands calculateurs et joueurs d'échecs. Paris: Librairie Hachette.
@@ -136,7 +143,7 @@ The phenomenon in which people are concerned that they will conform to a stereot
 * Hunt, M. (2009). The story of psychology. New York: Random House, LLC.
 * Hunt, M. (2009). The story of psychology. New York: Random House, LLC.
 * Kohler, W. (1924). The mentality of apes. Oxford: Harcourt, Brace.
-Lopes, P. N., Grewal, D., Kadis, J., Gall, M., & Salovey, P. (2006). Evidence that emotional intelligence is related to job performance and affect and attitudes at work. Psicothema, 18(Suppl.), 132–138.
+* Lopes, P. N., Grewal, D., Kadis, J., Gall, M., & Salovey, P. (2006). Evidence that emotional intelligence is related to job performance and affect and attitudes at work. Psicothema, 18(Suppl.), 132–138.
 * Martens, A., Johns, M., Greenberg, J., & Schimel, J. (2006). Combating stereotype threat: The effect of self-affirmation on women’s intellectual performance. Journal of Experimental Social Psychology, 42(2), 236-243.
 * Martens, A., Johns, M., Greenberg, J., & Schimel, J. (2006). Combating stereotype threat: The effect of self-affirmation on women’s intellectual performance. Journal of Experimental Social Psychology, 42(2), 236-243.
 * Mayer, J. D., & Salovey, P. (1997). What is emotional intelligence? In P. Salovey & D. J. Sluyter (Eds.), Emotional development and emotional intelligence: Educational implications (pp. 3–34). New York: Basic.
@@ -150,5 +157,8 @@ Lopes, P. N., Grewal, D., Kadis, J., Gall, M., & Salovey, P. (2006). Evidence th
 * Terman, L. M. (1916). The measurement of intelligence: An explanation of and a complete guide for the use of the Stanford revision and extension of the Binet-Simon Intelligence Scale. Boston: Houghton Mifflin.
 * Terman, L. M. (1916). The measurement of intelligence: An explanation of and a complete guide for the use of the Stanford revision and extension of the Binet-Simon Intelligence Scale. Boston: Houghton Mifflin.
 * Wechsler, D. (1955). Manual for the Wechsler Adult Intelligence Scale. Oxford: Psychological Corporation.
+{: .small}
 
-Adapted from Biswas-Diener, R. (2020). Intelligence. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/ncb2h79v
+<cite>Adapted from Biswas-Diener, R. (2021). Intelligence. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series. http://noba.to/ncb2h79v </cite>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
