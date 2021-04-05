@@ -4,8 +4,8 @@ sidebar:
   nav: "probnav"
 ---
 # Creativity
-
-By Dean Keith Simonton, University of California, Davis
+<cite>Adapted from Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc </cite>
+{: .small}
 
 An idea or solution is considered creative if it is original, useful, and surprising. However, depending on who actually judges these three criteria, we must distinguish personal “little-c creativity” from consensual “Big-C Creativity.” In any case, psychologists who investigate creativity most often adopt one of three perspectives. First, they can ask how creators think, and thus focus on the cognitive processes behind creativity. Second, they can ask who is creative, and hence investigate the personal characteristics of highly creative people. Third, they can ask about the social context, and, thereby, examine the environments that influence creativity. Although psychologists have made major advances in the study of creativity, many exciting and important questions remain to be answered.
 
@@ -18,17 +18,16 @@ An idea or solution is considered creative if it is original, useful, and surpri
 ## Introduction 
 What do the following have in common: the drug penicillin, the Eiffel Tower, the film Lord of the Rings, the General Theory of Relativity, the hymn Amazing Grace, the iPhone, the novel Don Quixote, the painting The Mona Lisa, a recipe for chocolate fudge, the soft drink Coca-Cola, the video game Wii Sports, the West Coast offense in football, and the zipper? You guessed right! All of the named items were products of the creative mind. Not one of them existed until somebody came up with the idea. Creativity is not something that you just pick like apples from a tree. Because creative ideas are so special, creators who come up with the best ideas are often highly rewarded with fame, fortune, or both. Nobel Prizes, Oscars, Pulitzers, and other honors bring fame, and big sales and box office bring fortune. Yet what is creativity in the first place?
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat1.png" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat1.png">
     <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
 </figure>
-
 
 ## Creativity: What Is It?
 Creativity happens when someone comes up with a creative idea. An example would be a creative solution to a difficult problem. But what makes an idea or solution creative? Although psychologists have offered several definitions (Plucker, Beghetto, & Dow, 2004; Runco & Jaeger, 2012), probably the best definition is the one recently adapted from the three criteria that the U.S. Patent Office uses to decide whether an invention can receive patent protection (Simonton, 2012).
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat2.jpg" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat2.jpg">
     <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
 </figure>
 
@@ -49,8 +48,8 @@ Cognitive scientists have long been interested in the thinking processes that le
 
 The first is the Remote Associates Test, or RAT, that was introduced by Mednick (1962). Mednick believed that the creative process requires the ability to associate ideas that are considered very far apart conceptually. The RAT consists of items that require the respondent to identify a word that can be associated to three rather distinct stimulus words. For example, what word can be associated with the words “widow, bite, monkey”? The answer is spider (black widow spider, spider bite, spider monkey). This particular question is relatively easy, others are much more difficult, but it gives you the basic idea.
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat3.jpg" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat3.jpg">
     <figcaption> What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
 </figure>
 
@@ -62,14 +61,14 @@ Unfortunately, many different cognitive processes have been linked to creativity
 Can anybody be creative? Or is creativity subject to individual differences, such as intelligence? Might creativity even be normally distributed just like scores on IQ tests? The answer is complex. Unlike general intelligence, which represents a more or less cohesive cognitive ability, creativity is just as much a personal attribute as an intellectual capacity. This feature is evident in the fact that some “creativity tests” are actually measures of personality, interests, and values (Simonton, 2003b). An example is the Creative Personality Scale of the Gough Adjective Check List (Gough, 1979; see also Carson, Peterson, & Higgins, 2005). In this measure, a person is asked to check off whatever adjectives are viewed as especially self-descriptive. The relevant adjectives are shown in Table 1. How would you describe yourself? Would you use more adjectives in the left column or the right column?
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat4.jpg" style="width:75%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat4.jpg">
     <figcaption> Table 1. The Creative Personality Scale of the Gough (1979) Adjective Check List. Note. The Adjective Check List actually contains 300 adjectives arranged in alphabetical order from “absent-minded” to “zany,” but the above adjectives are the only ones scored.</figcaption>
 </figure>
 
 Another reason to speak of the “creative personality” is that creativity correlates with scores on standard personality measures (Feist, 1998). Most notably, the creative person is more likely to score on the openness-to-experience factor of the Big Five Factor Model (Carson, Peterson, & Higgins, 2005; Harris, 2004; McCrae, 1987). This factor concerns whether a person has a strong intellectual curiosity, preference for variety, and an active imagination and is aesthetically sensitive, attentive to inner feelings, as well as receptive to new ideas and values. It would seem obvious that persons high on this factor would behave differently than those scoring low. For instance, we would expect such persons to be less conventional, to have a wider range of leisure activities, and to be more versatile. Yet, it is equally important to note that people high in openness also think differently. Besides scoring higher in divergent thinking (Carson, Peterson, & Higgins, 2005), openness is also associated with the diminished capacity to filter out extraneous information, a tendency often called cognitive disinhibition or reduced latent inhibition (Peterson & Carson, 2000). This “defocused attention” enables the creative person to make observations that others would overlook—such as what happens in serendipitous discovery. A classic example was when Alexander Flemming noticed that a bacteria culture was being killed by a certain mold, a discovery that directly led to penicillin.
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat5.jpg" style="width:75%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat5.jpg">
     <figcaption> Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
 </figure>
 
@@ -85,7 +84,7 @@ To illustrate the former possibility, creativity is often enhanced when persons 
 The above effect is most likely transient. It is doubtful that those participants exposed to such incongruous experiences would exhibit any long-term change in their creativity. But what would happen if the exposure was much longer, years rather than minutes? Then the benefit might endure a lifetime. An example is the long-term benefits that accrue to persons who have acquired multicultural experiences, such as living in a foreign country for a significant amount of time (Leung, Maddux, Galinsky, & Chiu, 2008). Daily life abroad exposes a person to different ways of doing everyday activities. Moreover, because the visitor quickly learns that “when in Rome do as the Romans do,” the exposure becomes direct rather than vicarious (Maddux, Adam, & Galinsky, 2010). To be sure, not everybody’s creativity benefits from multicultural environments. The person also has to score high on openness to experience (Leung & Chiu, 2008). Otherwise, they will close themselves off from the potential stimulation, and then just gripe about the “peculiar customs of the natives” rather than actively practice those customs—such as making a totally different breakfast!
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat6.jpg" style="width:75%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/creat6.jpg">
     <figcaption> Multicultural experiences are advantageous for creative thinking. [Image: Ryan Maple, https://goo.gl/Cu5qrn, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
 </figure>
 
@@ -99,6 +98,7 @@ Creativity certainly must be considered a crucial human behavior. Indeed, like l
 * Computers can do some amazing things—such as beat humans at chess and Jeopardy! But, do you think that they can ever display genuine creativity? Will a computer one day make a scientific discovery or write a poem that earns it a Nobel Prize? If not, why not? If so, who should get the award money, the computer or the computer’s programmer?
 * All of the personal characteristics of very creative people are also highly inheritable. For instance, intelligence, openness to experience, and cognitive disinhibition all have a partial genetic basis. Does that mean that creators are born and not made?
 * Highly creative people believe that they possess certain personality traits. If you make yourself have the same traits, will that make you more creative? For example, will you become more creative if you become more egotistical, individualistic, informal, reflective, self-confident, sexy, and unconventional? Or, how about widening your interests and becoming more open to experience? Which comes first, the personality or the capacity?
+
 ## Vocabulary
 ### Big-C Creativity
 Creative ideas that have an impact well beyond the everyday life of home or work. At the highest level, this kind of creativity is that of the creative genius.
@@ -120,6 +120,7 @@ When an idea or solution has a low probability of occurrence.
 Associations between words or concepts that are semantically distant and thus relatively unusual or original.
 ### Unusual uses
 A test of divergent thinking that asks participants to find many uses for commonplace objects, such as a brick or paperclip.
+
 ## References
 * Carson, S., Peterson, J. B., & Higgins, D. M. (2005). Reliability, validity, and factor structure of the Creative Achievement Questionnaire. Creativity Research Journal, 17, 37–50.
 * Carson, S. H. (2011). Creativity and psychopathology: A shared vulnerability model. Canadian Journal of Psychiatry, 56, 144-153.
@@ -151,4 +152,6 @@ A test of divergent thinking that asks participants to find many uses for common
 * Simonton, D. K., & Damian, R. I. (2013). Creativity. In D. Reisberg (Ed.), Oxford handbook of cognitive psychology. New York, NY: Oxford University Press.
 * Torrance, E.P. (1974). Torrance tests of creative thinking: Norms-technical manual. Bensenville, IL: Scholastic Testing Service, Inc.
 
-Adapted from Simonton, D. K. (2020). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. Retrieved from http://noba.to/nwzd6yuc
+Adapted from Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
