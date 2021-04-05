@@ -18,17 +18,16 @@ An idea or solution is considered creative if it is original, useful, and surpri
 ## Introduction 
 What do the following have in common: the drug penicillin, the Eiffel Tower, the film Lord of the Rings, the General Theory of Relativity, the hymn Amazing Grace, the iPhone, the novel Don Quixote, the painting The Mona Lisa, a recipe for chocolate fudge, the soft drink Coca-Cola, the video game Wii Sports, the West Coast offense in football, and the zipper? You guessed right! All of the named items were products of the creative mind. Not one of them existed until somebody came up with the idea. Creativity is not something that you just pick like apples from a tree. Because creative ideas are so special, creators who come up with the best ideas are often highly rewarded with fame, fortune, or both. Nobel Prizes, Oscars, Pulitzers, and other honors bring fame, and big sales and box office bring fortune. Yet what is creativity in the first place?
 
+## Creativity: What Is It?
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/creat1.png">
-    <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [1]</figcaption>
 </figure>
-
-## Creativity: What Is It?
 Creativity happens when someone comes up with a creative idea. An example would be a creative solution to a difficult problem. But what makes an idea or solution creative? Although psychologists have offered several definitions (Plucker, Beghetto, & Dow, 2004; Runco & Jaeger, 2012), probably the best definition is the one recently adapted from the three criteria that the U.S. Patent Office uses to decide whether an invention can receive patent protection (Simonton, 2012).
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/creat2.jpg">
-    <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [1]</figcaption>
 </figure>
 
 The first criterion is originality. The idea must have a low probability. Indeed, it often should be unique. Albert Einstein’s special theory of relativity certainly satisfied this criterion. No other scientist came up with the idea.
@@ -48,9 +47,9 @@ Cognitive scientists have long been interested in the thinking processes that le
 
 The first is the Remote Associates Test, or RAT, that was introduced by Mednick (1962). Mednick believed that the creative process requires the ability to associate ideas that are considered very far apart conceptually. The RAT consists of items that require the respondent to identify a word that can be associated to three rather distinct stimulus words. For example, what word can be associated with the words “widow, bite, monkey”? The answer is spider (black widow spider, spider bite, spider monkey). This particular question is relatively easy, others are much more difficult, but it gives you the basic idea.
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/creat3.jpg">
-    <figcaption> What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [1]</figcaption>
 </figure>
 
 The second measure is the Unusual Uses Task (Guilford, 1967; Torrance, 1974). Here, the participant is asked to generate alternative uses for a common object, such as a brick. The responses can be scored on four dimensions: (a) fluency, the total number of appropriate uses generated; (b) originality, the statistical rarity of the uses given; (c) flexibility, the number of distinct conceptual categories implied by the various uses; and (d) elaboration, the amount of detail given for the generated uses. For example, using a brick as a paperweight represents a different conceptual category that using its volume to conserve water in a toilet tank. The capacity to produce unusual uses is but one example of the general cognitive ability to engage in divergent thinking (Guilford, 1967). Unlike convergent thinking, which converges on the single best answer or solution, divergent thinking comes up with multiple possibilities that might vary greatly in usefulness.
@@ -69,7 +68,7 @@ Another reason to speak of the “creative personality” is that creativity cor
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/creat5.jpg">
-    <figcaption> Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [Image: CC0 Public Domain, https://goo.gl/m25gce]</figcaption>
+    <figcaption> Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [1]</figcaption>
 </figure>
 
 Now you may wonder, isn’t cognitive disinhibition a bad way of thinking? Isn’t it a good thing to be able to ignore irrelevant stimuli? The answer is yes. In fact, reduced latent inhibition is also connected with mental illness (Carson, 2011; Eysenck, 1995). Thus arises a link between creativity and psychopathology (Simonton, 2010). Even so, creative individuals are seldom outright mentally ill. Instead, creators possess other personal traits and capacities that convert a potential cognitive disability into an exceptional ability (Carson, 2011). Among the most important of these characteristics is high general intelligence (Carson, Peterson, & Higgins, 2005; Kéri, 2011). The creator then has the capacity not just to generate original and surprising ideas but also to test and develop them for usefulness. Mental illness arises when the person always skips the last step—the reality check.
@@ -85,7 +84,7 @@ The above effect is most likely transient. It is doubtful that those participant
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/creat6.jpg">
-    <figcaption> Multicultural experiences are advantageous for creative thinking. [Image: Ryan Maple, https://goo.gl/Cu5qrn, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <figcaption> Multicultural experiences are advantageous for creative thinking. [2]</figcaption>
 </figure>
 
 Finally, both little-c and Big-C creativity—but especially the latter—are more likely to appear in specific sociocultural systems (Simonton, 2003a). Some political, social, cultural, and economic environments are supportive of exceptional creativity, whereas others tend to suppress if not destroy creativity. For this reason, the history of any civilization or nation tends to have “Dark Ages” as well as “Golden Ages.” Early medieval Europe illustrates the former, while Renaissance Italy exemplifies the latter. It would take us too far beyond introductory psychology to discuss all of the relevant factors. Yet, one factor fits nicely with what was discussed in the previous paragraph. Highly creative societies are far more likely to be multicultural, with abundant influences from other civilizations. For instance, Japanese civilization tended to undergo a revival of creativity after the infusion of new ideas from other civilizations, including Korean, Chinese, Indian, and European (Simonton, 1997). This influx involved not just Japanese living abroad but also non-Japanese immigrating to Japan.
@@ -121,6 +120,11 @@ Associations between words or concepts that are semantically distant and thus re
 ### Unusual uses
 A test of divergent thinking that asks participants to find many uses for commonplace objects, such as a brick or paperclip.
 
+## Image credits
+1. [CC0 Public Domain](https://goo.gl/m25gce)
+2. Ryan Maple, https://goo.gl/Cu5qrn, [CC BY 2.0](https://goo.gl/BRvSA7)
+{: .small}
+
 ## References
 * Carson, S., Peterson, J. B., & Higgins, D. M. (2005). Reliability, validity, and factor structure of the Creative Achievement Questionnaire. Creativity Research Journal, 17, 37–50.
 * Carson, S. H. (2011). Creativity and psychopathology: A shared vulnerability model. Canadian Journal of Psychiatry, 56, 144-153.
@@ -151,6 +155,7 @@ A test of divergent thinking that asks participants to find many uses for common
 * Simonton, D. K. (1997). Foreign influence and national achievement: The impact of open milieus on Japanese civilization. Journal of Personality and Social Psychology, 72, 86–94.
 * Simonton, D. K., & Damian, R. I. (2013). Creativity. In D. Reisberg (Ed.), Oxford handbook of cognitive psychology. New York, NY: Oxford University Press.
 * Torrance, E.P. (1974). Torrance tests of creative thinking: Norms-technical manual. Bensenville, IL: Scholastic Testing Service, Inc.
+{: .small}
 
 Adapted from Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc
 
