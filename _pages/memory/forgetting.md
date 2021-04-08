@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Forgetting and Amneisa
-Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg
+<cite>Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg </cite>
+{: .small}
 
 This module explores the causes of everyday forgetting and considers pathological forgetting in the context of amnesia. Forgetting is viewed as an adaptive process that allows us to be efficient in terms of the information we retain.
 
@@ -13,6 +14,7 @@ This module explores the causes of everyday forgetting and considers pathologica
 * Identify five reasons we forget and give examples of each.
 * Describe how forgetting can be viewed as an adaptive process.
 * Explain the difference between anterograde and retrograde amnesia.
+
 ## Introduction
 Chances are that you have experienced memory lapses and been frustrated by them. You may have had trouble remembering the definition of a key term on an exam or found yourself unable to recall the name of an actor from one of your favorite TV shows. Maybe you forgot to call your aunt on her birthday or you routinely forget where you put your cell phone. Oftentimes, the bit of information we are searching for comes back to us, but sometimes it does not. Clearly, forgetting seems to be a natural part of life. Why do we forget? And is forgetting always a bad thing?
 
@@ -70,6 +72,7 @@ Just as the case study of the mnemonist Shereshevsky illustrates what a life wit
 * Can we ever prove that something is forgotten? Why or why not?
 * Which of the five reasons for forgetting do you think explains the majority of incidences of forgetting? Why?
 * How is real-life amnesia different than amnesia that is portrayed on TV and in film?
+
 ## Vocabulary
 ### Anterograde amnesia
 Inability to form new memories for facts and events after the onset of amnesia.
@@ -93,6 +96,7 @@ Process by which information is accessed from memory and utilized.
 Inability to retrieve memories for facts and events acquired before the onset of amnesia.
 ### Temporally graded retrograde amnesia
 Inability to retrieve memories from just prior to the onset of amnesia with intact memory for more remote events.
+
 ## References
 * Anderson, J. R., & Milson, R. (1989). Human memory: An adaptive perspective. *Psychological Review*, 96, 703–719.
 * Anderson, M. C., & Green, C. (2001). Suppressing unwanted memories by executive control. Nature, 410, 366–369.
@@ -117,6 +121,7 @@ Inability to retrieve memories from just prior to the onset of amnesia with inta
 * Squire, L. R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: A neurobiological perspective. Current Opinions in Neurobiology, 5, 169–177.
 * Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of information in memory for words. Journal of Verbal Learning and Verbal Behavior, 5, 381–391.
 * Wixted, J. T. (2004). The psychology and neuroscience of forgetting. *Annual Reviews of Psychology*, 55, 235–269.
+{: .small}
 
 Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg
 
