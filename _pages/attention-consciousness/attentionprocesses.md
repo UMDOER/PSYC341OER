@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Attention Processes 
-Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uv9x8df5. 
+<cite>Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uv9x8df5. </cite>
+{: .small}
 
 We use the term “attention“ all the time, but what processes or abilities does that concept really refer to? This module will focus on how attention allows us to select certain parts of our environment and ignore other parts, and what happens to the ignored information. A key concept is the idea that we are limited in how much we can do at any one time. So we will also consider what happens when someone tries to do several things at once, such as driving while using electronic devices.
 
@@ -162,6 +163,7 @@ The ability to process information for meaning when the individual is not consci
 * Strayer, D. L., Watson, J. M., & Drews, F. A. (2011) Cognitive distraction while multitasking in the automobile. In Brian Ross (Ed.), The Psychology of Learning and Motivation (Vol. 54, pp. 29–58). Burlington, VT: Academic Press.
 * Treisman, A. (1960). Contextual cues in selective listening. Quarterly Journal of Experimental Psychology, 12, 242–248.
 * Watson, J. M., & Strayer, D. L. (2010). Supertaskers: Profiles in extraordinary multitasking ability. Psychonomic Bulletin & Review, 17, 479–485.
+{: .small}
 
 Adapted from Friedrich, F. (2020). Attention. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uv9x8df5. 
 
