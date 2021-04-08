@@ -7,7 +7,7 @@ sidebar:
 
 ### Try the river crossing problem!
 
-<iframe width="560" height="400" src="https://www.transum.org/software/River_Crossing/Level3.asp" title="river crossing game" frameborder="0"></iframe>
+<iframe width="1006" height="1000" src="https://www.transum.org/software/River_Crossing/Level3.asp" title="river crossing game" frameborder="0"></iframe>
 
 https://www.transum.org/software/River_Crossing/Level3.asp
 
