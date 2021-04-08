@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Memory Biases
-Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
+<cite>Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37 </cite>
+{: .small}
 
 Eyewitnesses can provide very compelling legal testimony, but rather than recording experiences flawlessly, their memories are susceptible to a variety of errors and biases. They (like the rest of us) can make errors in remembering specific details and can even remember whole events that did not actually happen. In this module, we discuss several of the common types of errors, and what they can tell us about human memory and its interactions with the legal system.
 
@@ -13,6 +14,7 @@ Eyewitnesses can provide very compelling legal testimony, but rather than record
 * Describe the kinds of mistakes that eyewitnesses commonly make and some of the ways that this can impede justice.
 * Explain some of the errors that are common in human memory.
 * Describe some of the important research that has demonstrated human memory errors and their consequences.
+
 ## What Is Eyewitness Testimony?
 Eyewitness testimony is what happens when a person witnesses a crime (or accident, or other legally important event) and later gets up on the stand and recalls for the court all the details of the witnessed event. It involves a more complicated process than might initially be presumed. It includes what happens during the actual crime to facilitate or hamper witnessing, as well as everything that happens from the time the event is over to the later courtroom appearance. The eyewitness may be interviewed by the police and numerous lawyers, describe the perpetrator to several different people, and make an identification of the perpetrator, among other things.
 
@@ -100,6 +102,7 @@ Eureka Foong's *The Misinformation Effect*. This student-made video illustrating
 * Imagine that you are a juror in a murder case where an eyewitness testifies. In what ways might your knowledge of memory errors affect your use of this testimony?
 * How true to life do you think television shows such as CSI or Law & Order are in their portrayals of eyewitnesses?
 * Many jurisdictions in the United States use “show-ups,” where an eyewitness is brought to a suspect (who may be standing on the street or in handcuffs in the back of a police car) and asked, “Is this the perpetrator?” Is this a good or bad idea, from a psychological perspective? Why?
+
 ## Vocabulary
 ### False memories
 Memory for an event that never actually occurred, implanted by experimental manipulation or other means.
@@ -113,6 +116,7 @@ A research subject who plays the part of a witness in a study.
 A selection of normally small photographs of faces given to a witness for the purpose of identifying a perpetrator.
 ### Schema (plural: schemata)
 A memory template, created through repeated exposure to a particular class of objects or events.
+
 ## References
 * Alba, J. W., & Hasher, L. (1983). Is memory schematic? Psychological Bulletin, 93, 203–231.
 * Allan, K., & Gabbert, F. (2008). I still think it was a banana: Memorable ‘lies’ and forgettable ‘truths’. Acta Psychologica, 127(2), 299-308.
@@ -155,6 +159,7 @@ A memory template, created through repeated exposure to a particular class of ob
 * Wells, G. L., & Olson, E. A. (2003). Eyewitness testimony. Annual Review of Psychology, 54, 277–295.
 * Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. Psychological Science in the Public Interest, 7(2), 45-75.
 * Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22, 603–647.
+{: .small}
 
 Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
 
