@@ -5,7 +5,8 @@ sidebar:
 ---
 
 # Factors influencing learning
-Adapted from Benjamin, A. (2021). Factors influencing learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/rnxyg6wp
+<cite>Adapted from Benjamin, A. (2021). Factors influencing learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/rnxyg6wp </cite>
+{: .small}
 
 Learning is a complex process that defies easy definition and description. This module reviews some of the philosophical issues involved with defining learning and describes in some detail the characteristics of learners and of encoding activities that seem to affect how well people can acquire new memories, knowledge, or skills. At the end, we consider a few basic principles that guide whether a particular attempt at learning will be successful or not.
 
@@ -121,12 +122,6 @@ A principle that states that memory performance is superior when a test taps the
 ### Working memory
 The form of memory we use to hold onto information temporarily, usually for the purposes of manipulation.
 
-## Image credits
-1. UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7
-2. Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O
-3. Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7
-4. Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj
-
 ## References
 * Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, math anxiety, and performance. Journal of Experimental Psychology: General, 130, 224–237.
 * Baddeley, A. D., & Longman, D. J. A. (1978). The influence of length and frequency of training session on the rate of learning to type. Ergonomics, 21, 627–635.
@@ -162,6 +157,14 @@ The form of memory we use to hold onto information temporarily, usually for the 
 * Taylor, K., & Rohrer, D. (2010). The effects of interleaved practice. Applied Cognitive Psychology, 24, 837–848.
 * Tullis, J. G., & Benjamin, A. S. (2012). Consequences of restudy choices in younger and older learners. Psychonomic Bulletin & Review, 19, 743–749.
 * Tullis, J. G., & Benjamin, A. S. (2011). On the effectiveness of self-paced learning. Journal of Memory and Language, 64, 109–118.
+{: .small}
+
+## Image credits
+1. UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7
+2. Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O
+3. Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7
+4. Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj
+{: .small}
 
 Adapted from Benjamin, A. (2021). Factors influencing learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/rnxyg6wp
 
