@@ -12,14 +12,12 @@ docs:
         url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
       - title: Language
         url: https://umdoer.github.io/PSYC341OER/_pages/language.html
-      - title: Decision Making
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Problem Solving and Creativity
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+      - title: Decision Making
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Cognitive Development and Aging
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
-      - title: Emotion
-        url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
         
 intronav:
   - title: Home
@@ -123,18 +121,6 @@ langnav:
       - title: Animal Communication
         url: https://umdoer.github.io/PSYC341OER/_pages/language/animalcomm.html
 
-decnav:
-  - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
-  - title: Decision Making
-    url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
-    children:
-      - title: Motivation and the Reward System
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
-  - title: Other Resources
-    children:
-      - title: TBA
-        
 probnav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
@@ -151,6 +137,18 @@ probnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/probsolve.html
       - title: Divergent thinking
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity_ex.html
+        
+decnav:
+  - title: Home
+    url: https://umdoer.github.io/PSYC341OER/
+  - title: Decision Making
+    url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+    children:
+      - title: Motivation and the Reward System
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
+  - title: Other Resources
+    children:
+      - title: TBA
         
 cogdevnav:
   - title: Home
