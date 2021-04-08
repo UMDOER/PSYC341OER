@@ -112,7 +112,7 @@ langnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/language.html
       - title: Language and brain
         url: https://umdoer.github.io/PSYC341OER/_pages/language/langbrain.html
-  - title: Resources
+  - title: Other Resources
     children:
       - title: McGurk effect
         url: https://umdoer.github.io/PSYC341OER/_pages/language/mcgurk.html
@@ -131,7 +131,7 @@ decnav:
     children:
       - title: Motivation and the Reward System
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
-  - title: Resources
+  - title: Other Resources
     children:
       - title: TBA
         
@@ -145,14 +145,12 @@ probnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
       - title: Creativity
         url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
-  - title: Resources
+  - title: Other resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#problem-solving-and-creativity
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#problem-solving-and-creativity
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: River crossing problem
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/probsolve.html
+      - title: Divergent thinking
+        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity_ex.html
         
 cogdevnav:
   - title: Home
@@ -164,14 +162,9 @@ cogdevnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
       - title: Aging
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
-  - title: Resources
+  - title: Other Resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#cognitive-development-and-aging
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#cognitive-development-and-aging
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: TBA
         
 emotionnav:
   - title: Home
@@ -179,10 +172,6 @@ emotionnav:
   - title: Emotion
     url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
   - title: Resources
+  - title: Other Resources
     children:
-      - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#emotion
-      - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#emotion
-      - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+      - title: TBA
