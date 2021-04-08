@@ -216,6 +216,7 @@ The difference in “goodness” of category members, ranging from the most typi
 * Smith, J. D., & Minda, J. P. (1998). Prototypes in the mist: The early epochs of category learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 1411–1436.
 * Tanaka, J. W., & Taylor, M. E. (1991). Object categories and expertise: Is the basic level in the eye of the beholder? Cognitive Psychology, 15, 121–149.
 * Wisniewski, E. J., & Murphy, G. L. (1989). Superordinate and basic category names in discourse: A textual analysis. Discourse Processes, 12, 245–261.
+{: .small}
 
 Adapted from Murphy, G. (2020). Categories and concepts. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/6vu4cpkt
 
