@@ -9,7 +9,8 @@ Psychologists conceptualize memory in terms of *types*, in terms of *stages*, 
 
 Stages of Memory
 ----------------
-Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor.
+<cite>Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. </cite>
+{: .small}
 
 One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory* or *working memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
@@ -113,42 +114,29 @@ If information makes it past short term-memory it may enter *long-term memory (
 
 References
 ----------
-
-Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. Spence (Ed.), *The psychology of learning and motivation* (Vol. 2). Oxford, England: Academic Press.
-
-Baddeley, A. D., Vallar, G., & Shallice, T. (1990). The development of the concept of working memory: Implications and contributions of neuropsychology. In G. Vallar & T. Shallice (Eds.), *Neuropsychological impairments of short-term memory* (pp. 54--73). New York, NY: Cambridge University Press.
-
-Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. *Journal of Personality & Social Psychology, 71*, 230--244.
-
-Bridgeman, B., & Morgan, R. (1996). Success in college for students with discrepancies between performance on multiple-choice and essay tests. *Journal of Educational Psychology, 88*(2), 333--340.
-
-Cowan, N., Lichty, W., & Grove, T. R. (1990). Properties of memory for unattended spoken syllables. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 16*(2), 258--268.
-
-Didierjean, A., & Marmèche, E. (2005). Anticipatory representation of visual basketball scenes by novice and expert players. *Visual Cognition, 12*(2), 265--283.
-
-Haist, F., Shimamura, A. P., & Squire, L. R. (1992). On the relationship between recall and recognition memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 18*(4), 691--702.
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81--97.
-
-Nelson, T. O. (1985). Ebbinghaus's contribution to the measurement of retention: Savings during relearning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 11*(3), 472--478.
-
-Peterson, L., & Peterson, M. J. (1959). Short-term retention of individual verbal items. *Journal of Experimental Psychology, 58*(3), 193--198.
-
-Simon, H. A., & Chase, W. G. (1973). Skill in chess. *American Scientist, 61*(4), 394--403.
-
-Solomon, M. (1995). *Mozart: A life*. New York, NY: Harper Perennial.
-
-Sperling, G. (1960). The information available in brief visual presentation. *Psychological Monographs, 74*(11), 1--29.
-
-Unsworth, N., & Engle, R. W. (2007). On the division of short-term and working memory: An examination of simple and complex span and their relation to higher order abilities. *Psychological Bulletin, 133*(6), 1038--1066.
-
-Wang, Y., Liu, D., & Wang, Y. (2003). Discovering the capacity of human memory. *Brain & Mind, 4*(2), 189--198.
+* Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. Spence (Ed.), *The psychology of learning and motivation* (Vol. 2). Oxford, England: Academic Press.
+* Baddeley, A. D., Vallar, G., & Shallice, T. (1990). The development of the concept of working memory: Implications and contributions of neuropsychology. In G. Vallar & T. Shallice (Eds.), *Neuropsychological impairments of short-term memory* (pp. 54--73). New York, NY: Cambridge University Press.
+* Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. *Journal of Personality & Social Psychology, 71*, 230--244.
+( Bridgeman, B., & Morgan, R. (1996). Success in college for students with discrepancies between performance on multiple-choice and essay tests. *Journal of Educational Psychology, 88*(2), 333--340.
+* Cowan, N., Lichty, W., & Grove, T. R. (1990). Properties of memory for unattended spoken syllables. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 16*(2), 258--268.
+* Didierjean, A., & Marmèche, E. (2005). Anticipatory representation of visual basketball scenes by novice and expert players. *Visual Cognition, 12*(2), 265--283.
+* Haist, F., Shimamura, A. P., & Squire, L. R. (1992). On the relationship between recall and recognition memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 18*(4), 691--702.
+* Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81--97.
+* Nelson, T. O. (1985). Ebbinghaus's contribution to the measurement of retention: Savings during relearning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 11*(3), 472--478.
+* Peterson, L., & Peterson, M. J. (1959). Short-term retention of individual verbal items. *Journal of Experimental Psychology, 58*(3), 193--198.
+* Simon, H. A., & Chase, W. G. (1973). Skill in chess. *American Scientist, 61*(4), 394--403.
+* Solomon, M. (1995). *Mozart: A life*. New York, NY: Harper Perennial.
+* Sperling, G. (1960). The information available in brief visual presentation. *Psychological Monographs, 74*(11), 1--29.
+* Unsworth, N., & Engle, R. W. (2007). On the division of short-term and working memory: An examination of simple and complex span and their relation to higher order abilities. *Psychological Bulletin, 133*(6), 1038--1066.
+* Wang, Y., Liu, D., & Wang, Y. (2003). Discovering the capacity of human memory. *Brain & Mind, 4*(2), 189--198.
+{: .small}
 
 Image Attributions
 ------------------
 * Figure 9.4: Adapted from Atkinson & Shiffrin (1968).
 * Figure 9.5: Adapted from Sperling (1960).
 * Figure 9.6: Adapted from Peterson & Peterson (1959).
+{: .small}
 
 Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. 
 
