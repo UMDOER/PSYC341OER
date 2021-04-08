@@ -4,7 +4,8 @@ sidebar:
   nav: "memorynav"
 ---
 # Memory (encoding, storage, retrieval)
-Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
+<cite>Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger</cite>
+{: .small}
 
 “Memory” is a single term that reflects a number of different abilities: holding information briefly while working with it (working memory), remembering episodes of one’s life (episodic memory), and our general knowledge of facts of the world (semantic memory), among other types. Remembering episodes involves three processes: encoding information (learning it, by perceiving it and relating it to past knowledge), storing it (maintaining it over time), and then retrieving it (accessing the information when needed). Failures can occur at any stage, leading to forgetting or to having false memories. The key to improving one’s memory is to improve processes of encoding and to use techniques that guarantee effective retrieval. Good encoding techniques include relating new information to what one already knows, forming mental images, and creating associations among information that needs to be remembered. The key to good retrieval is developing effective cues that will lead the rememberer back to the encoded information. Classic mnemonic systems, known since the time of the ancient Greeks and still used by some today, can greatly improve one’s memory abilities.
 
@@ -224,6 +225,7 @@ The stage in the learning/memory process that bridges encoding and retrieval; th
 * Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. Psychological Review, 80, 352–373.
 * Watkins, M. J. (1975). Inhibition in recall with extralist “cues.” Journal of Verbal Learning and Verbal Behavior, 14, 294–303.
 * Watkins, M. J., & Tulving, E. (1975). Episodic memory: When recognition fails. Journal of Experimental Psychology: General, 104, 5–29.
+{: .small}
 
 ## Image credits:
 1. M Cruz, https://goo.gl/DhOMgp, [CC BY-SA 4.0](https://goo.gl/SWjq94)
@@ -233,6 +235,7 @@ The stage in the learning/memory process that bridges encoding and retrieval; th
 5. Simon Bierdwald, https://goo.gl/JDhdCE, [CC BY-NC-SA 2.0](https://goo.gl/jSSrcO)
 6. Ores2k, https://goo.gl/1du8Qe, CC BY-NC-SA 2.0, https://goo.gl/jSSrcO
 7. Kelidimari, https://goo.gl/kiA1kP, CC BY-SA 3.0, https://goo.gl/SCkRfm
+{: .small}
 
 Adapted from McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
 
