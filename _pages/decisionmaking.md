@@ -129,7 +129,7 @@ The key to reducing the effects of bias and improving our decisions is to transi
 Fortunately, it is possible to identify conditions where we rely on intuition at our peril and substitute more deliberative thought. One fascinating example of this substitution comes from journalist Michael Lewis’ (2003) account of how Billy Beane, the general manager of the Oakland Athletics, improved the outcomes of the failing baseball team after recognizing that the intuition of baseball executives was limited and systematically biased and that their intuitions had been incorporated into important decisions in ways that created enormous mistakes. Lewis (2003) documents that baseball professionals tend to overgeneralize from their personal experiences, be overly influenced by players’ very recent performances, and overweigh what they see with their own eyes, despite the fact that players’ multiyear records provide far better data. By substituting valid predictors of future performance (System 2 thinking), the Athletics were able to outperform expectations given their very limited payroll.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/decision3.jpg" alt="A glass jar labeled "retirement" is filled with cash.">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/decision4.jpg" alt="A glass jar labeled "retirement" is filled with cash.">
     <figcaption> Nudges can be used to help people make better decisions about saving for retirement. [3]</figcaption>
 </figure>
 
