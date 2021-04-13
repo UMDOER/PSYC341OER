@@ -148,11 +148,14 @@ decnav:
   - title: Decision Making
     url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
     children:
-      - title: Motivation and the Reward System
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
+      - title: Judgement and Decision Making
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+      - title: Applied Decision Making (TBA)
+        url: 
   - title: Other Resources
     children:
-      - title: TBA
+      - title: The Monty Hall Problem
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/montyhall.html
         
 cogdevnav:
   - title: Home
