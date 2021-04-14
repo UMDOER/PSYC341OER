@@ -56,8 +56,8 @@ Listed below are 10 uncertain quantities. Do not look up any information on thes
 #### Problem 2 (adapted from Joyce & Biddle, 1981):
 We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?
 
-- a. Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud.
-- b. No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.
+- Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud.
+- No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.
 
 What is your estimate of the number of Big Four clients per 1,000 that have significant executive-level management fraud? (Fill in the blank below with the appropriate number.)
 
@@ -68,6 +68,7 @@ Imagine that the United States is preparing for the outbreak of an unusual avian
 
 1. Program A: If Program A is adopted, 200 people will be saved.
 2. Program B: If Program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.
+
 Which of the two programs would you favor?
 
 ## Overconfidence
@@ -107,17 +108,20 @@ The problem that I asked you to respond to was framed in terms of saving lives, 
 
 These are just three of the many biases that affect even the smartest among us. Other research shows that we are biased in favor of information that is easy for our minds to retrieve, are insensitive to the importance of base rates and sample sizes when we are making inferences, assume that random events will always look random, search for information that confirms our expectations even when disconfirming information would be more informative, claim a priori knowledge that didn’t exist due to the hindsight bias, and are subject to a host of other effects that continue to be developed in the literature (Bazerman & Moore, 2013).
 
+<!--
 ## Contemporary Developments
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/decision3.jpg" alt="A smiling woman sits on a bench holding several shopping bags.">
     <figcaption> The concept of bounded willpower may explain why many of us are better shoppers than savers. [1]</figcaption>
 </figure>
-
 Bounded rationality served as the integrating concept of the field of behavioral decision research for 40 years. Then, in 2000, Thaler (2000) suggested that decision making is bounded in two ways not precisely captured by the concept of bounded rationality. First, he argued that our **willpower is bounded** and that, as a consequence, we give greater weight to present concerns than to future concerns. Our immediate motivations are often inconsistent with our long-term interests in a variety of ways, such as the common failure to save adequately for retirement or the difficulty many people have staying on a diet. Second, Thaler suggested that our **self-interest is bounded** such that we care about the outcomes of others. Sometimes we positively value the outcomes of others—giving them more of a commodity than is necessary out of a desire to be fair, for example. And, in unfortunate contexts, we sometimes are willing to forgo our own benefits out of a desire to harm others.
-
+-->
+<!--
 My colleagues and I have recently added two other important bounds to the list. Chugh, Banaji, and Bazerman (2005) and Banaji and Bhaskar (2000) introduced the concept of **bounded ethicality**, which refers to the notion that our ethics are limited in ways we are not even aware of ourselves. Second, Chugh and Bazerman (2007) developed the concept of **bounded awareness** to refer to the broad array of focusing failures that affect our judgment, specifically the many ways in which we fail to notice obvious and important information that is available to us.
-
+-->
+<!--
 A final development is the application of judgment and decision-making research to the areas of behavioral economics, behavioral finance, and behavioral marketing, among others. In each case, these fields have been transformed by applying and extending research from the judgment and decision-making literature.
+-->
 
 ## Fixing Our Decisions
 Ample evidence documents that even smart people are routinely impaired by biases. Early research demonstrated, unfortunately, that awareness of these problems does little to reduce bias (Fischhoff, 1982). The good news is that more recent research documents interventions that do help us overcome our faulty thinking (Bazerman & Moore, 2013).
@@ -128,7 +132,7 @@ Clearly, a complete System 2 process is not required for every decision we make.
 
 The key to reducing the effects of bias and improving our decisions is to transition from trusting our intuitive System 1 thinking toward engaging more in deliberative System 2 thought. Unfortunately, the busier and more rushed people are, the more they have on their minds, and the more likely they are to rely on System 1 thinking (Chugh, 2004). The frantic pace of professional life suggests that executives often rely on System 1 thinking (Chugh, 2004).
 
-Fortunately, it is possible to identify conditions where we rely on intuition at our peril and substitute more deliberative thought. One fascinating example of this substitution comes from journalist Michael Lewis’ (2003) account of how Billy Beane, the general manager of the Oakland Athletics, improved the outcomes of the failing baseball team after recognizing that the intuition of baseball executives was limited and systematically biased and that their intuitions had been incorporated into important decisions in ways that created enormous mistakes. Lewis (2003) documents that baseball professionals tend to overgeneralize from their personal experiences, be overly influenced by players’ very recent performances, and overweigh what they see with their own eyes, despite the fact that players’ multiyear records provide far better data. By substituting valid predictors of future performance (System 2 thinking), the Athletics were able to outperform expectations given their very limited payroll.
+Fortunately, it is possible to identify conditions where we rely on intuition at our peril and substitute more deliberative thought. One fascinating example of this substitution comes from journalist [Michael Lewis’ (2003) account](https://en.wikipedia.org/wiki/Moneyball) of how Billy Beane, the general manager of the Oakland Athletics, improved the outcomes of the failing baseball team after recognizing that the intuition of baseball executives was limited and systematically biased and that their intuitions had been incorporated into important decisions in ways that created enormous mistakes. Lewis (2003) documents that baseball professionals tend to overgeneralize from their personal experiences, be overly influenced by players’ very recent performances, and overweigh what they see with their own eyes, despite the fact that players’ multiyear records provide far better data. By substituting valid predictors of future performance (System 2 thinking), the Athletics were able to outperform expectations given their very limited payroll.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/decision4.jpg" alt="A glass jar labeled retirement is filled with cash.">
@@ -152,16 +156,16 @@ Our days are filled with decisions ranging from the small (what should I wear to
 The bias to be affected by an initial anchor, even if the anchor is arbitrary, and to insufficiently adjust our judgments away from that anchor.
 ### Biases
 The systematic and predictable mistakes that influence the judgment of even very talented human beings.
-### Bounded awareness
-The systematic ways in which we fail to notice obvious and important information that is available to us.
+<!-- ### Bounded awareness
+The systematic ways in which we fail to notice obvious and important information that is available to us. 
 ### Bounded ethicality
-The systematic ways in which our ethics are limited in ways we are not even aware of ourselves.
+The systematic ways in which our ethics are limited in ways we are not even aware of ourselves. -->
 ### Bounded rationality
 Model of human behavior that suggests that humans try to make rational decisions but are bounded due to cognitive limitations.
-### Bounded self-interest
+<!-- ### Bounded self-interest
 The systematic and predictable ways in which we care about the outcomes of others.
 ### Bounded willpower
-The tendency to place greater weight on present concerns rather than future concerns.
+The tendency to place greater weight on present concerns rather than future concerns. -->
 ### Framing
 The bias to be systematically affected by the way in which information is presented, while holding the objective information constant.
 ### Heuristics
