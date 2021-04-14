@@ -200,6 +200,12 @@ Our more deliberative decision-making system, which is slower, conscious, effort
 * Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232.
 {: .small}
 
+## Image Credits:
+1. [CC0 Public Domain](https://goo.gl/m25gce)
+2. Barn Images, https://goo.gl/IYzbDV, [CC BY 2.0](https://goo.gl/BRvSA7)
+3. Tax Credits, https://goo.gl/YLuyth, [CC BY 2.0](https://goo.gl/BRvSA7)
+{: .small}
+
 Adapted from Bazerman, M. H. (2021). Judgment and decision making. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/9xjyvc3a
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
