@@ -7,4 +7,4 @@ sidebar:
 
 ### Try the Wason Selection Task
 
-<iframe width="560" height="400" src="https://www.philosophyexperiments.com/wason/" title="Wason selection task" frameborder="0"></iframe>
+<iframe width=100% height="600" src="https://www.philosophyexperiments.com/wason/" title="Wason selection task" frameborder="0"></iframe>
