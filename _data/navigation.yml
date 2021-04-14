@@ -154,7 +154,9 @@ decnav:
         url: 
   - title: Other Resources
     children:
-      - title: The Monty Hall Problem
+      - title: Wason Selection Task
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/wason.html
+      - title: Monty Hall Problem
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/montyhall.html
         
 cogdevnav:
