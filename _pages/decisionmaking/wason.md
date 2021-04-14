@@ -3,8 +3,8 @@ layout: single
 sidebar:
   nav: "decnav"
 ---
-# Problem Solving
+# Reasoning
 
 ### Try the Wason Selection Task
 
-<iframe width=100% height="600" src="https://www.philosophyexperiments.com/wason/" title="Wason selection task" frameborder="0"></iframe>
+<iframe width=800 height="600" src="https://www.philosophyexperiments.com/wason/" title="Wason selection task" frameborder="0"></iframe>
