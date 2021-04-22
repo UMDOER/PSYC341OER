@@ -158,6 +158,8 @@ decnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/wason.html
       - title: Monty Hall Problem
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/montyhall.html
+      - title: Norman Doors
+        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/doors.html
         
 cogdevnav:
   - title: Home
