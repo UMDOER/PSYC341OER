@@ -171,7 +171,10 @@ cogdevnav:
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
   - title: Other Resources
     children:
-      - title: TBA
+      - title: the Marshmallow Test
+      - url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/marshmallow.html
+      - title: Head-Turn Procedure
+      - url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/headturn.html
         
 emotionnav:
   - title: Home
