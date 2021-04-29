@@ -17,7 +17,7 @@ docs:
       - title: Decision Making
         url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Cognitive Development and Aging
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/cognitivedevelopment.html
         
 intronav:
   - title: Home
@@ -165,12 +165,10 @@ cogdevnav:
   - title: Home
     url: https://umdoer.github.io/PSYC341OER/
   - title: Cognitive Development and Aging
-    url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
+    url: https://umdoer.github.io/PSYC341OER/_pages/cognitivedevelopment.html
     children:
       - title: Cognitive Development
         url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
-      - title: Aging
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
   - title: Other Resources
     children:
       - title: TBA
