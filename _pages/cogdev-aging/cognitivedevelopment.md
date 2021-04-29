@@ -20,12 +20,12 @@ This module examines what cognitive development is, major theories about how it 
 ## Introduction
 By the time you reach adulthood you have learned a few things about how the world works. You know, for instance, that you can’t walk through walls or leap into the tops of trees. You know that although you cannot see your car keys they’ve got to be around here someplace. What’s more, you know that if you want to communicate complex ideas like ordering a triple-shot soy vanilla latte with chocolate sprinkles it’s better to use words with meanings attached to them rather than simply gesturing and grunting. People accumulate all this useful knowledge through the process of cognitive development, which involves a multitude of factors, both inherent and learned.
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/cogdev1.jpg" alt="A young schoolgirl in uniform sits at her desk working intently on a laptop.">
-<figcaption>Cognitive development in childhood is about change. From birth to adolescence a young person's mind changes dramatically in many important ways. [1]</figcaption>
-</figure>
-
 Cognitive development refers to the development of thinking across the lifespan. Defining thinking can be problematic, because no clear boundaries separate thinking from other mental activities. Thinking obviously involves the higher mental processes: problem solving, reasoning, creating, conceptualizing, categorizing, remembering, planning, and so on. However, thinking also involves other mental processes that seem more basic and at which even toddlers are skilled—such as perceiving objects and events in the environment, acting skillfully on objects to obtain goals, and understanding and producing language. Yet other areas of human development that involve thinking are not usually associated with cognitive development, because thinking isn’t a prominent feature of them—such as personality and temperament.
+
+<figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
+    <img src="https://UMDOER.github.io/PSYC341OER/images/cat_or_bee.jpg" alt="Cat in a bee costume.">
+<figcaption>Is this a cat or a bee? Kids' answers change over development. [1]</figcaption>
+</figure>
 
 As the name suggests, cognitive development is about change. Children’s thinking changes in dramatic and surprising ways. Consider DeVries’s (1969) study of whether young children understand the difference between appearance and reality. To find out, she brought an unusually even-tempered cat named Maynard to a psychology laboratory and allowed the 3- to 6-year-old participants in the study to pet and play with him. DeVries then put a mask of a fierce dog on Maynard’s head, and asked the children what Maynard was. Despite all of the children having identified Maynard previously as a cat, now most 3-year-olds said that he was a dog and claimed that he had a dog’s bones and a dog’s stomach. In contrast, the 6-year-olds weren’t fooled; they had no doubt that Maynard remained a cat. Understanding how children’s thinking changes so dramatically in just a few years is one of the fascinating challenges in studying cognitive development.
 
@@ -194,10 +194,10 @@ Theory founded in large part by Lev Vygotsky that emphasizes how other people an
 {: .small}
 
 ## Image Credits
-1. [One Laptop per Child](https://goo.gl/L1eAsO), [CC BY 2.0](https://goo.gl/9uSnqN)
-2. Cairn 111, https://goo.gl/6RpBVt, [CC BY-NC-SA 2.0](https://goo.gl/HEXbAA)
-3. Siegler, R. (2020). Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h
-4. Ben Husmann, https://goo.gl/awOXSw, [CC BY 2.0](https://goo.gl/9uSnqN)
+2. [Petful](https://www.flickr.com/photos/petsadviser-pix/8126573448), [CC BY 2.0](https://goo.gl/9uSnqN)
+3. Cairn 111, https://goo.gl/6RpBVt, [CC BY-NC-SA 2.0](https://goo.gl/HEXbAA)
+4. Siegler, R. (2020). Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h
+5. Ben Husmann, https://goo.gl/awOXSw, [CC BY 2.0](https://goo.gl/9uSnqN)
 {: .small}
 
 Adapted from:
