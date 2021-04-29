@@ -118,6 +118,7 @@ Research into cognitive development has shown us that minds don’t just form ac
 * Do children’s natures differ, or do differences among children only reflect differences in their experiences?
 * Do you see development as more continuous or more discontinuous?
 * Can you think of ways other than those described in the module in which research on cognitive development could be used to improve education?
+* Memory declines during adulthood. Is this statement correct? What does research show?
 
 ## Vocabulary
 ### Concrete operations stage
