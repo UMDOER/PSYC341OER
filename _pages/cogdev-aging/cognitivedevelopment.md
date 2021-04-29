@@ -4,11 +4,10 @@ sidebar:
   nav: "cogdevnav"
 ---
 # Cognitive Development
-<cite>Adapted from Siegler, R. (2020). Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h 
-</cite>
+<cite>Adapted from Queen, T. & Smith, J. (2021). Aging (http://noba.to/gtp7r548) and Siegler, R. (2020). Cognitive development in childhood (http://noba.to/8uv4fn9h). Both in R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. </cite>
 {: .small}
 
-This module examines what cognitive development is, major theories about how it occurs, the roles of nature and nurture, whether it is continuous or discontinuous, and how research in the area is being used to improve education.
+This module examines what cognitive development is, major theories about how it occurs, the roles of nature and nurture, whether it is continuous or discontinuous, how research in the area is being used to improve education, and how cognitive development extends across the lifespan (i.e., cognitive aging). 
 
 ## Learning Objectives
 * Be able to identify and describe the main areas of cognitive development.
@@ -16,6 +15,7 @@ This module examines what cognitive development is, major theories about how it 
 * Understand how nature and nurture work together to produce cognitive development.
 * Understand why cognitive development is sometimes viewed as discontinuous and sometimes as continuous.
 * Know some ways in which research on cognitive development is being used to improve education.
+* Understand how development extends across the lifetime and how cognition changes in older adults.
 
 ## Introduction
 By the time you reach adulthood you have learned a few things about how the world works. You know, for instance, that you can’t walk through walls or leap into the tops of trees. You know that although you cannot see your car keys they’ve got to be around here someplace. What’s more, you know that if you want to communicate complex ideas like ordering a triple-shot soy vanilla latte with chocolate sprinkles it’s better to use words with meanings attached to them rather than simply gesturing and grunting. People accumulate all this useful knowledge through the process of cognitive development, which involves a multitude of factors, both inherent and learned.
@@ -101,6 +101,15 @@ Playing this numerical board game for roughly 1 hour, distributed over a 2-week 
 
 Understanding of cognitive development is advancing on many different fronts. One exciting area is linking changes in brain activity to changes in children’s thinking (Nelson et al., 2006). Although many people believe that brain maturation is something that occurs before birth, the brain actually continues to change in large ways for many years thereafter. For example, a part of the brain called the prefrontal cortex, which is located at the front of the brain and is particularly involved with planning and flexible problem solving, continues to develop throughout adolescence (Blakemore & Choudhury, 2006). Such new research domains, as well as enduring issues such as nature and nurture, continuity and discontinuity, and how to apply cognitive development research to education, insure that cognitive development will continue to be an exciting area of research in the coming years.
 
+## Cognitive Aging
+Researchers have identified areas of both losses and gains in cognition in older age. Cognitive ability and intelligence are often measured using standardized tests and validated measures. The **psychometric approach** has identified two categories of intelligence that show different rates of change across the life span (Schaie & Willis, 1996). **Fluid intelligence** refers to information processing abilities, such as logical reasoning, remembering lists, spatial ability, and reaction time. **Crystallized intelligence** encompasses abilities that draw upon experience and knowledge. Measures of crystallized intelligence include vocabulary tests, solving number problems, and understanding texts.
+
+With age, systematic declines are observed on cognitive tasks requiring self-initiated, effortful processing, without the aid of supportive memory cues (Park, 2000). Older adults tend to perform poorer than young adults on memory tasks that involve *recall* of information, where individuals must retrieve information they learned previously without the help of a list of possible choices. For example, older adults may have more difficulty recalling facts such as names or contextual details about where or when something happened (Craik, 2000). What might explain these deficits as we age? As we age, *working memory*, or our ability to simultaneously store and use information, becomes less efficient (Craik & Bialystok, 2006). The ability to process information quickly also decreases with age. This slowing of **processing speed** may explain age differences on many different cognitive tasks (Salthouse, 2004). Some researchers have argued that **inhibitory functioning**, or the ability to focus on certain information while suppressing attention to less pertinent information, declines with age and may explain age differences in performance on cognitive tasks (Hasher & Zacks, 1988). Finally, it is well established that our hearing and vision decline as we age. Longitudinal research has proposed that deficits in sensory functioning explain age differences in a variety of cognitive abilities (Baltes & Lindenberger, 1997).
+
+Fewer age differences are observed when memory cues are available, such as for *recognition* memory tasks, or when individuals can draw upon acquired knowledge or experience. For example, older adults often perform as well if not better than young adults on tests of word knowledge or vocabulary. With age often comes expertise, and research has pointed to areas where aging experts perform as well or better than younger individuals. For example, older typists were found to compensate for age-related declines in speed by looking farther ahead at printed text (Salthouse, 1984). Compared to younger players, older chess experts are able to focus on a smaller set of possible moves, leading to greater cognitive efficiency (Charness, 1981). Accrued knowledge of everyday tasks, such as grocery prices, can help older adults to make better decisions than young adults (Tentori, Osheron, Hasher, & May, 2001).
+
+How do changes or maintenance of cognitive ability affect older adults’ everyday lives? Researchers have studied cognition in the context of several different everyday activities. One example is driving. Although older adults often have more years of driving experience, cognitive declines related to reaction time or attentional processes may pose limitations under certain circumstances (Park & Gutchess, 2000). Research on interpersonal problem solving suggested that older adults use more effective strategies than younger adults to navigate through social and emotional problems (Blanchard-Fields, 2007). In the context of work, researchers rarely find that older individuals perform poorer on the job (Park & Gutchess, 2000). Similar to everyday problem solving, older workers may develop more efficient strategies and rely on expertise to compensate for cognitive decline.
+
 ## Conclusion
 Research into cognitive development has shown us that minds don’t just form according to a uniform blueprint or innate intellect, but through a combination of influencing factors. For instance, if we want our kids to have a strong grasp of language we could concentrate on phonemic awareness early on. If we want them to be good at math and science we could engage them in numerical games and activities early on. Perhaps most importantly, we no longer think of brains as empty vessels waiting to be filled up with knowledge but as adaptable organs that develop all the way through early adulthood.
 
@@ -117,12 +126,18 @@ Piagetian stage between ages 7 and 12 when children can think logically about co
 Problems pioneered by Piaget in which physical transformation of an object or set of objects changes a perceptually salient dimension but not the quantity that is being asked about.
 ### Continuous development
 Ways in which development occurs in a gradual incremental manner, rather than through sudden jumps.
+### Crystallized intelligence
+Type of intellectual ability that relies on the application of knowledge, experience, and learned information.
 ### Depth perception
 The ability to actively perceive the distance from oneself of objects in the environment.
+### Fluid intelligence
+Type of intelligence that relies on the ability to use information processing resources to reason logically and solve novel problems.
 ### Formal operations stage
 Piagetian stage starting at age 12 years and continuing for the rest of life, in which adolescents may gain the reasoning powers of educated adults.
 ### Information processing theories
 Theories that focus on describing the cognitive processes that underlie thinking at any one age and cognitive growth over time.
+### Inhibitory functioning
+Ability to focus on a subset of information while suppressing attention to less relevant information.
 ### Nature
 The genes that children bring with them to life and that influence all aspects of their development.
 ### Nurture
@@ -135,6 +150,10 @@ Awareness of the component sounds within words.
 Theory that development occurs through a sequence of discontinuous stages: the sensorimotor, preoperational, concrete operational, and formal operational stages.
 ### Preoperational reasoning stage
 Period within Piagetian theory from age 2 to 7 years, in which children can represent objects through drawing and language but cannot solve logical reasoning problems, such as the conservation problems.
+### Processing speed
+The time it takes individuals to perform cognitive operations (e.g., process information, react to a signal, switch attention from one task to another, find a specific target object in a complex picture).
+### Psychometric approach
+Approach to studying intelligence that examines performance on tests of intellectual functioning.
 ### Qualitative changes
 Large, fundamental change, as when a caterpillar changes into a butterfly; stage theories such as Piaget’s posit that each stage reflects qualitative change relative to previous stages.
 ### Quantitative changes
@@ -147,11 +166,17 @@ Theory founded in large part by Lev Vygotsky that emphasizes how other people an
 ## References
 * Baillargeon, R. (1987). Object permanence in 3 1/2- and 4 1/2-month-old infants. Developmental Psychology, 23, 655–664.
 * Baker, L., Dreher, M. J., & Guthrie, J. T., (Eds.). (2000). Engaging young readers: Promoting achievement and motivation. New York: Guilford.
+* Baltes, P. B. & Lindenberger, U. (1997). Emergence of powerful connection between sensory and cognitive functions across the adult life span: A new window to the study of cognitive aging? Psychology and Aging, 12, 12–21.
 * Bartrip, J., Morton, J., & De Schonen, S. (2001). Responses to mother's face in 3-week to 5-month old infants. British Journal of Developmental Psychology, 19, 219–232
 * Blakemore, S.-J., & Choudhury, S. (2006). Development of the adolescent brain: Implications for executive function and social cognition. Journal of Child Psychiatry and Psychology, 47, 296–312.
+* Blanchard-Fields, F. (2007). Everyday problem solving and emotion: An adult development perspective. Current Directions in Psychological Science, 16, 26–31.
 * Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. Developmental Psychology, 41, 189–201.
+* Charness, N. (1981). Search in chess: Age and skill differences.Journal of Experimental Psychology: Human Perception and Performance, 7, 467.
+* Craik, F. I. M. (2000). Age-related changes in human memory. In D. C. Park & N. Schwarz (Eds.), Cognitive Aging: A Primer (pp. 75–92). New York: Psychology Press.
+* Craik, F. I., & Bialystok, E. (2006). Cognition through the lifespan: mechanisms of change. Trends in Cognitive Sciences, 10, 131–138.
 * DeVries, R. (1969). Constancy of genetic identity in the years three to six. Monographs of the Society for Research in Child Development, 34, 127.
 * Diamond, A. (1985). Development of the ability to use recall to guide action, as indicated by infants' performance on AB. Child Development, 56, 868–883.
+* Hasher, L. & Zacks, R. T. (1988). Working memory, comprehension, and aging: A review and a new view. In G.H. Bower (Ed.), The Psychology of Learning and Motivation, (Vol. 22, pp. 193–225). San Diego, CA: Academic Press.
 * Held, R. (1993). What can rates of development tell us about underlying mechanisms? In C. E. Granrud (Ed.), Visual perception and cognition in infancy (pp. 75–90). Hillsdale, NJ: Erlbaum.
 * Inhelder, B., & Piaget, J. (1958). The growth of logical thinking from childhood to adolescence. New York: Basic Books.
 * Langlois, J. H., Ritter, J. M., Casey, R. J., & Sawin, D. B. (1995). Infant attractiveness predicts maternal behaviors and attitudes. Developmental Psychology, 31, 464–472.
@@ -159,12 +184,17 @@ Theory founded in large part by Lev Vygotsky that emphasizes how other people an
 * Nation, K. (2008). Learning to read words. The Quarterly Journal of Experimental Psychology, 61, 1121 1133.
 * National Reading Panel (2000). Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction. Washington, DC: National Institute of Child Health and Human Development.
 * Nelson, C. A., Thomas, K. M., & de Haan, M. (2006). Neural bases of cognitive development. In W. Damon & R. M. Lerner (Series Eds.) & D. Kuhn & R. S. Siegler (Vol. Eds.), Handbook of child psychology: Volume 2: Cognition, perception, and language (6th ed., pp. 3–57). Hoboken, NJ: Wiley.
+* Park, D. C. (2000). The basic mechanisms accounting for age-related decline in cognitive function. In D.C. Park & N. Schwarz (Eds.), Cognitive Aging: A Primer (pp. 3–21). New York: Psychology Press.
+* Park, D. C. & Gutchess, A. H. (2000). Cognitive aging and everyday life. In D.C. Park & N. Schwarz (Eds.), Cognitive Aging: A Primer (pp. 217–232). New York: Psychology Press.
 * Piaget, J. (1954). The construction of reality in the child. New York: BasicBooks.
 * Piaget, J. (1952). The child’s concept of number. New York: W. W. Norton.
 * Price-Williams, D. R., Gordon, W., & Ramirez, M. (1969). Skill and conservation: A study of pottery making children. Developmental Psychology, 1, 769.
 * Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children’s numerical knowledge through playing number board games. Child Development, 79, 375–394.
+* Salthouse, T. A. (2004). What and when of cognitive aging. Current Directions in Psychological Science, 13, 140–144.
 * Scarr, S., & McCartney, K. (1983). How people make their own environments: A theory of genotype-environment effects. Child Development, 54, 424–435.
+* Schaie, K. W. & Willis, S. L. (1996). Psychometric intelligence and aging. In F. Blanchard-Fields & T.M. Hess (Eds.), Perspectives on Cognitive Change in Adulthood and Aging (pp. 293–322). New York: McGraw Hill.
 * Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games—but not circular ones—improves low-income preschoolers’ numerical understanding. Journal of Educational Psychology, 101, 545–560.
+* Tentori, K., Osherson, D., Hasher, L., & May, C. (2001). Wisdom and aging: Irrational preferences in college students but not older adults. Cognition, 81, B87–B96.
 * van den Boom, D. C., & Hoeksma, J. B. (1994). The effect of infant irritability on mother-infant interaction: A growth curve analysis. Developmental Psychology, 30, 581–590.
 {: .small}
 
@@ -175,4 +205,6 @@ Theory founded in large part by Lev Vygotsky that emphasizes how other people an
 4. Ben Husmann, https://goo.gl/awOXSw, [CC BY 2.0](https://goo.gl/9uSnqN)
 {: .small}
 
-Adapted from Siegler, R. (2020). Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h
+Adapted from:
+* Queen, T. & Smith, J. (2021). Aging. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/gtp7r548
+* Siegler, R. (2020).Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h
