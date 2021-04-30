@@ -172,10 +172,10 @@ cogdevnav:
   - title: Other Resources
     children:
       - title: Scale Errors
-      - url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/scaleerror.html
-      - title: Piaget Stages
-      - url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/piaget_stages.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/scaleerror.html
+      - title: Piaget’s Stages
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/piaget_stages.html
       - title: the Marshmallow Test
-      - url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/marshmallow.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/marshmallow.html
       - title: Head-Turn Procedure
-      - url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/headturn.html
+        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/headturn.html
